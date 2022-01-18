@@ -7,7 +7,7 @@ OccO is co-developed by Sam Smith and Oliver He, at the University of Michigan M
 
 OccO was initially developed as part of the Role Ontology (RoleO) as seen here in BioPortal: https://bioportal.bioontology.org/ontologies/ROLEO. 
 
-# References:
+## References:
 
 Standard Occupational Classification (SOC) System: https://www.bls.gov/soc/ 
 
