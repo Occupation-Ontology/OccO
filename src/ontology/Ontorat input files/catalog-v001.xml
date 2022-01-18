@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1521578747328" name="http://purl.obolibrary.org/obo/broadsoc.owl" uri="SOC_broadGroups_out.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1521578747328" name="http://purl.obolibrary.org/obo/minorGroups.owl" uri="SOC_minorGroups_out.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1521578747328" name="http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="SOC_detailedGroups_out.owl"/>
+    </group>
+</catalog>

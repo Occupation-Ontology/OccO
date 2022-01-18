@@ -1,0 +1,50 @@
+# This is the template for setting up the Ontorat input conditions. 
+# Any text after # is just for notes and won't be used by Ontorat.
+
+[Online URL of the target OWL file (RDF/XML format)]
+# Note: Local file won't be used by Ontorat for security reason.   
+https://raw.githubusercontent.com/ICO-ontology/ICO/master/src/ontology/ico_merged.owl
+
+[Online URL of the data file (Only Excel file (.xls, .xlsx) or tab-delimited text file (.txt)]
+# Note: Local file won't be used by Ontorat for security reason. 
+http://ontorat.hegroup.org/examples/eg1_data_file.xlsx
+
+Actual data starts from row: 2
+
+
+[New axioms will be used to]
+# Note: two options: 1. "generate new classes", 
+# or 2. "edit existing classes with term IDs defined in column A(or another letter)"
+edit existing classes with term IDs defined in column A  
+  
+[Annotations]
+# Note: Use comma to separate annotations
+'label' "{$columnD}",
+'definition editor' "OH, SS, EO",
+'SOD ID' "{$columnC}"
+
+[Equivalent classes]
+# Note: Use comma to separate classes 
+
+
+[Superclasses]
+# Note: Use comma to separate classes 
+<http://purl.obolibrary.org/obo/{$columnB}>
+
+[Terms used to define anntoations, equivalent classes and superclasses]
+# Note: One line per term
+AnnotationProperty:
+'SOD ID': <http://purl.obolibrary.org/obo/RoleO_0000026>
+Class:
+ObjectProperty:
+DataProperty:
+
+[Term URIs start with]
+# Note: provide a prefix ontology URIs
+http://purl.obolibrary.org/obo/
+
+[Auto-generated term ID]
+# Note: Prefix like "VO_", number of digits like "7", and start from like "1".
+Prefix: RoleO_
+Number of digits: 7
+Start from:  1
