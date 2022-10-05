@@ -28,7 +28,7 @@ OccO was initially developed as part of the Role Ontology (RoleO) as seen here i
 ## OccO Publications:
 
 
-Sam Smith, Yongqun He, Damion Dooley, Eric Merrell and John Beverley. Toward an Occupation Ontology, OccO. International Conference on Biomedical Ontology (ICBO 2022), October 5, 2022, Ann Arbor, MI, USA. PDF: [https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf]([https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf). Flash talk: [https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf](https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf). 
+Sam Smith, Yongqun He, Damion Dooley, Eric Merrell and John Beverley. Toward an Occupation Ontology, OccO. International Conference on Biomedical Ontology (ICBO 2022), October 5, 2022, Ann Arbor, MI, USA. PDF: [https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf](https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf). Flash talk: [https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf](https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf). 
 
 
 ## References:
