@@ -14,9 +14,23 @@ The data used is from [O\*Net data](https://www.onetonline.org/) by the U.S. Dep
 
 **Occupational Attributes as Object Properties** The O\*net system associates a number of occupational attributes such as skills, abilities, knowledge, to each occupation.  To illustrate the incorporation of such attributes into OccO, the skill and ability attributes are treated as object properties "has skill" and "has ability."  These properties are represented in an example occupation, "pharmacist," to illustrate how they are structured in OWL.  Extending these properties to every occupation is a topic for later study, ideally harmonizing with the treatment of skills in other taxonomies, in particular with the extensive treatment of skills in the European Union European Skils, Competences, Qualifications and Occupations (ESCO) classification system.
 
-OccO is co-developed by Sam Smith and Oliver He, at the University of Michigan Medical School, Ann Arbor, MI, USA, with the assistance of Damion Dooley of Simon Fraser University, Vancouver, BC, Canada. 
+OccO was initiated by Sam Smith and Oliver He, at the University of Michigan Medical School, Ann Arbor, MI, USA. Then its development includes more members, including Damion Dooley of Simon Fraser University, Vancouver, BC, Canada, and John Beverley and Eric Merrell from University at Buffalo. 
 
 OccO was initially developed as part of the Role Ontology (RoleO) as seen here in BioPortal: https://bioportal.bioontology.org/ontologies/ROLEO. 
+
+## Developers:
+- Sam Smith
+- Oliver He
+- Damion Dooley
+- John Beverley
+- Eric Merrell 
+
+## OccO Publications:
+
+
+Sam Smith, Yongqun He, Damion Dooley, Eric Merrell and John Beverley. Toward an Occupation Ontology, OccO. International Conference on Biomedical Ontology (ICBO 2022), October 5, 2022, Ann Arbor, MI, USA. PDF: (https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf)[https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf]. Flash talk: (https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf)[https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf]. 
+
+
 
 ## References:
 
