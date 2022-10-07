@@ -59,6 +59,7 @@ Plans to include the O*Net-SOC Skills, Abilities and Knowledge properties to eac
 
 Reconciliation and Integration with ISOC and Wikidata occupations:
 Comparison and reconciliation with other occupation schemas, in particuar the international ISCO system and the semantic web (primarily Wikidata and also DBPedia).</obo:IAO_0000116>
+        <rdfs:label>Occupation Ontology (OccO)</rdfs:label>
     </owl:Ontology>
     
 
@@ -132,6 +133,26 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119">
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition source</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_0000001 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000001">
+        <obo:IAO_0000115>An annotation property that provides the information of the skills associated with an occupation</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smtih, Oliver He</obo:IAO_0000117>
+        <rdfs:label xml:lang="en">occupation skills</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_0000002 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000002">
+        <obo:IAO_0000115>An annotation property that provides the information of the abilities associated with an occupation</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smtih, Oliver He</obo:IAO_0000117>
+        <rdfs:label xml:lang="en">occupation abilities</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -9653,6 +9674,8 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
         <obo:IAO_0000118>Pharmacists</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
+        <obo:OccO_0000001>active listening; reading comprehension</obo:OccO_0000001>
+        <obo:OccO_0000002>oral comprehension; near vision</obo:OccO_0000002>
         <rdfs:comment>This occupation in SOC is a Detailed Occupation</rdfs:comment>
         <rdfs:label>pharmacist</rdfs:label>
     </owl:Class>
@@ -9949,7 +9972,7 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
         <obo:IAO_0000118>Registered Nurses</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>registered nurse (broad)</rdfs:label>
+        <rdfs:label>registered nurse</rdfs:label>
     </owl:Class>
     
 
@@ -9962,9 +9985,10 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
         <obo:IAO_0000115>Assess patient health problems and needs, develop and implement nursing care plans, and maintain medical records. Administer nursing care to ill, injured, convalescent, or disabled patients. May advise patients on health maintenance and disease prevention or provide case management. Licensing or registration required.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
         <obo:IAO_0000118>Registered Nurses</obo:IAO_0000118>
+        <obo:IAO_0000118>registered nurse</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <rdfs:comment>This occupation in SOC is a Detailed Occupation</rdfs:comment>
-        <rdfs:label>registered nurse</rdfs:label>
+        <rdfs:label>general-purpose registered nurse</rdfs:label>
     </owl:Class>
     
 

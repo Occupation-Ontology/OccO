@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="2022-05-07%20OWL%20For%20OccO%20from%20Temp/Aw_SOC_Out_Major.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="2022-05-07%20OWL%20For%20OccO%20from%20Temp/Bw_SOC%20Minor%20Group%20Out%20V021.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="2022-05-07%20OWL%20For%20OccO%20from%20Temp/Cw_SOC%20Broad%20Group%20Out%20V021.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="2022-05-07%20OWL%20For%20OccO%20from%20Temp/Dw_SOC%20Detailed%20Occupations%20V021.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="duplicate:http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="occo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="duplicate:http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="occoABCDss1.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="2022-05-07%20OWL%20For%20OccO%20from%20Temp/Archive/Cw_SOC%20Broad%20Group%20Out%20V021broad.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="2022-05-07%20OWL%20For%20OccO%20from%20Temp/Archive/occoABCDv022.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="shadowed:http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="2022-05-07%20OWL%20For%20OccO%20from%20Temp/occoABCD.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1654256097594" name="shadowed:http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="2022-05-07%20OWL%20For%20OccO%20from%20Temp/occoABCDss1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1665152671810" name="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="occo.owl"/>
     </group>
 </catalog>
