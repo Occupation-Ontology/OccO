@@ -13,7 +13,14 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl"/>
-        <obo:IAO_0000115>The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO standardizes and represents all the occupations defined in the Standard Occupational Classification (SOC) developed by the following US Federal agencies:
+        <obo:IAO_0000115 xml:lang="smithgit/life-ontologies.
+
+occo was initially developed as part of the role ontology (roleo) as seen here in bioportal: https://bioportal.bioontology.org/ontologies/roleo.
+
+references:
+* standard occupational classification (soc) system: https://www.bls.gov/soc/
+* o*net resource center: https://www.onetcenter.org.
+* github repository: github.com/occupation-ontology/occo">The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO standardizes and represents all the occupations defined in the Standard Occupational Classification (SOC) developed by the following US Federal agencies:
 
 * Department of Labor
 * Bureau of Labor Statistics
@@ -21,14 +28,7 @@
 
 OccO reflects the data content of the O*Net-SOC 2019 taxonomy, and it is developed by following OBO Foundry principles.
 
-OccO is co-developed by Sam Smith and Oliver He, at the University of Michigan Medical School, Ann Arbor, MI, USA.  For background on the development of this ontology, see https://observablehq.com/collection/@smithgit/life-ontologies.
-
-OccO was initially developed as part of the Role Ontology (RoleO) as seen here in BioPortal: https://bioportal.bioontology.org/ontologies/ROLEO.
-
-References:
-* Standard Occupational Classification (SOC) System: https://www.bls.gov/soc/
-* O*Net Resource Center: https://www.onetcenter.org.
-* Github Repository: github.com/Occupation-Ontology/OccO</obo:IAO_0000115>
+OccO is co-developed by Sam Smith and Oliver He, at the University of Michigan Medical School, Ann Arbor, MI, USA.  For background on the development of this ontology, see https://observablehq.com/collection/</obo:IAO_0000115>
         <obo:IAO_0000116>The following changes were made to the SOC terms:
 
 Occupations in OWL are classes, and class names are singular, whereas the SOC uses the plural form, to reflect the individuals involved.  So plural terms were changed to singular and made lower-case, and the &quot;and&quot; conjunction was changed to &quot;or.&quot;  In SOC quite a number of group labels are the same as child labels, so these parent terms were changed to make unique by adding a suffix to indicate the hierarchy level.  This mainly affected Broad Occupation terms, of which 2** were duplacated in Detailed Occupation, so the broad occupation term has the suffix (broad).  Minor Occupations had 13 duplicates with the suffix (minor), and only one occupation, hunting *** appeared three times as Minor, Broad and Detailed.  A comment was added to indicate the hierarchy level, such as &quot;This occupation in SOC is a Major Group.&quot;  This permits extracting all terms at a given hierarch level by using the SPARQL query:
@@ -349,18 +349,18 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CIDO_0000001 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_0000003 -->
 
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/CIDO_0000001">
-        <rdfs:label xml:lang="en">has skill</rdfs:label>
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000003">
+        <rdfs:label xml:lang="en">has ability</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CIDO_0000002 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_0000004 -->
 
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/CIDO_0000002">
-        <rdfs:label xml:lang="en">has ability</rdfs:label>
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000004">
+        <rdfs:label xml:lang="en">has skill</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -9647,26 +9647,26 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29105000"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000001"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000006"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000001"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000007"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000002"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#near_vision"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000002"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#oral_comprehension"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000004"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000006"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000004"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000007"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <obo:IAO_0000111>29-1051.00</obo:IAO_0000111>
