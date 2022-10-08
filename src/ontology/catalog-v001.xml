@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1665260095961" name="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="occo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1665260931213" name="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="occo-edit.owl"/>
     </group>
 </catalog>
