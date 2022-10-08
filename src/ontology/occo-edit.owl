@@ -11,16 +11,9 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl"/>
-        <obo:IAO_0000115 xml:lang="smithgit/life-ontologies.
-
-occo was initially developed as part of the role ontology (roleo) as seen here in bioportal: https://bioportal.bioontology.org/ontologies/roleo.
-
-references:
-* standard occupational classification (soc) system: https://www.bls.gov/soc/
-* o*net resource center: https://www.onetcenter.org.
-* github repository: github.com/occupation-ontology/occo">The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO standardizes and represents all the occupations defined in the Standard Occupational Classification (SOC) developed by the following US Federal agencies:
+        <obo:IAO_0000115 xml:lang="smithgit/life-ontologies.  occo was initially developed as part of the role ontology (roleo) as seen here in bioportal: https://bioportal.bioontology.org/ontologies/roleo.  references: * standard occupational classification (soc) system: https://www.bls.gov/soc/ * o*net resource center: https://www.onetcenter.org. * github repository: github.com/occupation-ontology/occo">The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO standardizes and represents all the occupations defined in the Standard Occupational Classification (SOC) developed by the following US Federal agencies:
 
 * Department of Labor
 * Bureau of Labor Statistics
@@ -349,17 +342,17 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000003 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_0000009 -->
 
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000003">
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000009">
         <rdfs:label xml:lang="en">has ability</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000004 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_0000010 -->
 
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000004">
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000010">
         <rdfs:label xml:lang="en">has skill</rdfs:label>
     </owl:ObjectProperty>
     
@@ -376,56 +369,56 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CIDO_0000003 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_00000001 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CIDO_0000003">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000001">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000008"/>
+        <rdfs:label xml:lang="en">occupation holder</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_0000003 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000003">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000017"/>
         <rdfs:label xml:lang="en">skill</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CIDO_0000004 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_0000004 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CIDO_0000004">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000004">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000017"/>
         <rdfs:label xml:lang="en">ability</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CIDO_0000006 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_0000006 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CIDO_0000006">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000003"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000006">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
         <rdfs:label xml:lang="en">reading comprehension</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CIDO_0000007 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_0000007 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CIDO_0000007">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000003"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000007">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
         <rdfs:label xml:lang="en">active listening</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/CIDO_0000008 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_0000008 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CIDO_0000008">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000008">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
         <rdfs:label xml:lang="en">human</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/OccO_00000001 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000001">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000008"/>
-        <rdfs:label xml:lang="en">occupation holder</rdfs:label>
     </owl:Class>
     
 
@@ -9647,26 +9640,26 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29105000"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#near_vision"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000009"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/occo.owl#near_vision"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#oral_comprehension"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000009"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/occo.owl#oral_comprehension"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000004"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000006"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000010"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OccO_0000006"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000004"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000007"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000010"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OccO_0000007"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <obo:IAO_0000111>29-1051.00</obo:IAO_0000111>
@@ -23817,28 +23810,28 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     
 
 
-    <!-- http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#critical_thinking -->
+    <!-- http://purl.obolibrary.org/obo/occo.owl#critical_thinking -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#critical_thinking">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000003"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/occo.owl#critical_thinking">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
         <rdfs:label>critical thinking</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#near_vision -->
+    <!-- http://purl.obolibrary.org/obo/occo.owl#near_vision -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#near_vision">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000004"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/occo.owl#near_vision">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000004"/>
         <rdfs:label>near vision</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#oral_comprehension -->
+    <!-- http://purl.obolibrary.org/obo/occo.owl#oral_comprehension -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48#oral_comprehension">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CIDO_0000004"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/occo.owl#oral_comprehension">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000004"/>
         <rdfs:label>oral comprehension</rdfs:label>
     </owl:Class>
 </rdf:RDF>
