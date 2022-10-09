@@ -1,0 +1,557 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/skill_types_ontorat.owl#"
+     xml:base="http://purl.obolibrary.org/obo/skill_types_ontorat.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/skill_types_ontorat.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000117"/>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119"/>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000114"/>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000116"/>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000112"/>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OccO_00000008"/>
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#Literal -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#float -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#float"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#integer -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#integer"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#nonNegativeInteger -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#nonNegativeInteger"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#string -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#string"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000003 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000003"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000020 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000020">
+        <rdfs:label>active learning</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
+        <obo:OccO_00000008>2.A.2.b</obo:OccO_00000008>
+        <obo:IAO_0000115>Understanding the implications of new information for both current and future problem-solving and decision-making.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000021 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000021">
+        <rdfs:label>active listening</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.A.1.b</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.</obo:IAO_0000115>
+        <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000022 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000022">
+        <rdfs:label>complex problem solving</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000115>Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
+        <obo:OccO_00000008>2.B.2.i</obo:OccO_00000008>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000023 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000023">
+        <rdfs:label>coordination</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000115>Adjusting actions in relation to others&#39; actions.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:OccO_00000008>2.B.1.b</obo:OccO_00000008>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000024 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000024">
+        <rdfs:label>critical thinking</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
+        <obo:IAO_0000115>Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.</obo:IAO_0000115>
+        <obo:OccO_00000008>2.A.2.a</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000025 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000025">
+        <rdfs:label>equipment maintenance</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:OccO_00000008>2.B.3.j</obo:OccO_00000008>
+        <obo:IAO_0000115>Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000026 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000026">
+        <rdfs:label>equipment selection</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000115>Determining the kind of tools and equipment needed to do a job.</obo:IAO_0000115>
+        <obo:OccO_00000008>2.B.3.c</obo:OccO_00000008>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000027 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000027">
+        <rdfs:label>installation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:OccO_00000008>2.B.3.d</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>Installing equipment, machines, wiring, or programs to meet specifications.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000028 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000028">
+        <rdfs:label>instructing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000115>Teaching others how to do something.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
+        <obo:OccO_00000008>2.B.1.e</obo:OccO_00000008>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000029 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000029">
+        <rdfs:label>judgment and decision making</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000115>Considering the relative costs and benefits of potential actions to choose the most appropriate one.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:OccO_00000008>2.B.4.e</obo:OccO_00000008>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000030 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000030">
+        <rdfs:label>learning strategies</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000115>Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.</obo:IAO_0000115>
+        <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
+        <obo:OccO_00000008>2.A.2.c</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000031 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000031">
+        <rdfs:label>management of financial resources</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000115>Determining how money will be spent to get the work done, and accounting for these expenditures.</obo:IAO_0000115>
+        <obo:OccO_00000008>2.B.5.b</obo:OccO_00000008>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000032 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000032">
+        <rdfs:label>management of material resources</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.</obo:IAO_0000115>
+        <obo:OccO_00000008>2.B.5.c</obo:OccO_00000008>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000033 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000033">
+        <rdfs:label>management of personnel resources</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000115>Motivating, developing, and directing people as they work, identifying the best people for the job.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:OccO_00000008>2.B.5.d</obo:OccO_00000008>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000034 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000034">
+        <rdfs:label>mathematics</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.A.1.e</obo:OccO_00000008>
+        <obo:IAO_0000115>Using mathematics to solve problems.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000035 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000035">
+        <rdfs:label>monitoring</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
+        <obo:OccO_00000008>2.A.2.d</obo:OccO_00000008>
+        <obo:IAO_0000115>Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000036 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000036">
+        <rdfs:label>negotiation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.B.1.d</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>Bringing others together and trying to reconcile differences.</obo:IAO_0000115>
+        <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000037 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000037">
+        <rdfs:label>operation and control</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.B.3.h</obo:OccO_00000008>
+        <obo:IAO_0000115>Controlling operations of equipment or systems.</obo:IAO_0000115>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000038 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000038">
+        <rdfs:label>operation monitoring</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000115>Watching gauges, dials, or other indicators to make sure a machine is working properly.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:OccO_00000008>2.B.3.g</obo:OccO_00000008>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000039 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000039">
+        <rdfs:label>operations analysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000115>Analyzing needs and product requirements to create a design.</obo:IAO_0000115>
+        <obo:OccO_00000008>2.B.3.a</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000040 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000040">
+        <rdfs:label>persuasion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000115>Persuading others to change their minds or behavior.</obo:IAO_0000115>
+        <obo:OccO_00000008>2.B.1.c</obo:OccO_00000008>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000041 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000041">
+        <rdfs:label>programming</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.B.3.e</obo:OccO_00000008>
+        <obo:IAO_0000115>Writing computer programs for various purposes.</obo:IAO_0000115>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000042 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000042">
+        <rdfs:label>quality control analysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:OccO_00000008>2.B.3.m</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>Conducting tests and inspections of products, services, or processes to evaluate quality or performance.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000043 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000043">
+        <rdfs:label>reading comprehension</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
+        <obo:OccO_00000008>2.A.1.a</obo:OccO_00000008>
+        <obo:IAO_0000115>Understanding written sentences and paragraphs in work related documents.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000044 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000044">
+        <rdfs:label>repairing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.B.3.l</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>Repairing machines or systems using the needed tools.</obo:IAO_0000115>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000045 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000045">
+        <rdfs:label>science</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.A.1.f</obo:OccO_00000008>
+        <obo:IAO_0000115>Using scientific rules and methods to solve problems.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000046 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000046">
+        <rdfs:label>service orientation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000115>Actively looking for ways to help people.</obo:IAO_0000115>
+        <obo:OccO_00000008>2.B.1.f</obo:OccO_00000008>
+        <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000047 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000047">
+        <rdfs:label>social perceptiveness</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.B.1.a</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000115>Being aware of others&#39; reactions and understanding why they react as they do.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000048 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000048">
+        <rdfs:label>speaking</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
+        <obo:OccO_00000008>2.A.1.d</obo:OccO_00000008>
+        <obo:IAO_0000115>Talking to others to convey information effectively.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000049 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000049">
+        <rdfs:label>systems analysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:OccO_00000008>2.B.4.g</obo:OccO_00000008>
+        <obo:IAO_0000115>Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000050 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000050">
+        <rdfs:label>systems evaluation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.B.4.h</obo:OccO_00000008>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000051 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000051">
+        <rdfs:label>technology design</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>Generating or adapting equipment and technology to serve user needs.</obo:IAO_0000115>
+        <obo:OccO_00000008>2.B.3.b</obo:OccO_00000008>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000052 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000052">
+        <rdfs:label>time management</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.B.5.a</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000115>Managing one&#39;s own time and the time of others.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000053 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000053">
+        <rdfs:label>troubleshooting</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:OccO_00000008>2.B.3.k</obo:OccO_00000008>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>Determining causes of operating errors and deciding what to do about it.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000054 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000054">
+        <rdfs:label>writing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
+        <obo:IAO_0000115>Communicating effectively in writing as appropriate for the needs of the audience.</obo:IAO_0000115>
+        <obo:OccO_00000008>2.A.1.c</obo:OccO_00000008>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 1.3.5.1016) http://owlapi.sourceforge.net -->
+

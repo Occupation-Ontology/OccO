@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/skill_types_ontorat.owl" uri="Ontorat%20proc/Skill_types_ontorat.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ability_type_ontorat.owl" uri="Ontorat%20proc/Ability_types_ontorat.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="Ontorat%20proc/Ability_types_ontorat.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/iao/2019-08-26/ontology-metadata.owl" uri="http://purl.obolibrary.org/obo/iao/ontology-metadata.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/occo/imports/NCBITaxon_imports.owl" uri="imports/NCBITaxon_imports.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1665283939769" name="http://purl.obolibrary.org/obo/occo/imports/NCBITaxon_imports.owl" uri="imports/NCBITaxon_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1665283939769" name="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="occo-edit.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1665287692962" name="http://purl.obolibrary.org/obo/ability_type_ontorat.owl" uri="Ontorat%20proc/Ability_types_ontorat.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1665287692962" name="http://purl.obolibrary.org/obo/occo/imports/NCBITaxon_imports.owl" uri="imports/NCBITaxon_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1665287692962" name="http://purl.obolibrary.org/obo/skill_types_ontorat.owl" uri="Ontorat%20proc/Skill_types_ontorat.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1665287692962" name="http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="occo-edit.owl"/>
     </group>
 </catalog>
