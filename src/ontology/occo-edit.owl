@@ -10,9 +10,12 @@
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/"
-     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/iao/2019-08-26/ontology-metadata.owl"/>
         <obo:IAO_0000115 xml:lang="smithgit/life-ontologies.  occo was initially developed as part of the role ontology (roleo) as seen here in bioportal: https://bioportal.bioontology.org/ontologies/roleo.  references: * standard occupational classification (soc) system: https://www.bls.gov/soc/ * o*net resource center: https://www.onetcenter.org. * github repository: github.com/occupation-ontology/occo">The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO standardizes and represents all the occupations defined in the Standard Occupational Classification (SOC) developed by the following US Federal agencies:
 
 * Department of Labor
@@ -130,9 +133,27 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000001 -->
+    <!-- http://purl.obolibrary.org/obo/IAO_0000412 -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000001">
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
+        <rdfs:label xml:lang="en">imported from</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000002 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OccO_00000002">
+        <obo:IAO_0000115>An annotation property that provides the information of the abilities associated with an occupation</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smtih, Oliver He</obo:IAO_0000117>
+        <rdfs:label xml:lang="en">occupation abilities</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000005 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OccO_00000005">
         <obo:IAO_0000115>An annotation property that provides the information of the skills associated with an occupation</obo:IAO_0000115>
         <obo:IAO_0000117>Sam Smtih, Oliver He</obo:IAO_0000117>
         <rdfs:label xml:lang="en">occupation skills</rdfs:label>
@@ -140,12 +161,12 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000002 -->
+    <!-- http://purl.obolibrary.org/obo/ncbitaxon#has_rank -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000002">
-        <obo:IAO_0000115>An annotation property that provides the information of the abilities associated with an occupation</obo:IAO_0000115>
-        <obo:IAO_0000117>Sam Smtih, Oliver He</obo:IAO_0000117>
-        <rdfs:label xml:lang="en">occupation abilities</rdfs:label>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ncbitaxon#has_rank">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A metadata relation between a class and its taxonomic rank (eg species, family)</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ncbi_taxonomy</oboInOwl:hasOBONamespace>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has_rank</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -342,17 +363,17 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000009 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_00000009 -->
 
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000009">
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_00000009">
         <rdfs:label xml:lang="en">has ability</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000010 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_00000010 -->
 
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_0000010">
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OccO_00000010">
         <rdfs:label xml:lang="en">has skill</rdfs:label>
     </owl:ObjectProperty>
     
@@ -369,56 +390,103 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_9606 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_9606">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ncbitaxon.owl"/>
+        <ncbitaxon:has_rank rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_species"/>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GC_ID:1</oboInOwl:hasDbXref>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Homo sapiens</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ncbi_taxonomy</oboInOwl:hasOBONamespace>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">human</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/OccO_00000001 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000001">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000008"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
+        <obo:IAO_0000115>A human who has a role in society that is realized in an occupation process or an activity as a livelihood (i.e., “means of support or subsistence”). To fulfill such an occupation, the occupation holder is required to have necessary capabilities including skill(s) and abilities. A human who has a role in society that is realized in an occupation process or an activity as a livelihood (i.e., “means of support or subsistence”). To fulfill such an occupation, the occupation holder is required to have necessary capabilities including skill(s) and abilities.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Damion Dooley, Eric Merrell, John Beverley, and Yongqun He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://en.wikipedia.org/wiki/Work_(human_activity)</obo:IAO_0000119>
+        <obo:IAO_0000119>https://www.merriam-webster.com/dictionary/occupation</obo:IAO_0000119>
         <rdfs:label xml:lang="en">occupation holder</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000003 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_00000003 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000003">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000017"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000003">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000011"/>
+        <obo:IAO_0000115>A learned capability to perform an action with determined results with good execution often within a given amount of time, energy, or both.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://en.wikipedia.org/wiki/Skill</obo:IAO_0000119>
         <rdfs:label xml:lang="en">skill</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000004 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_00000004 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000004">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000017"/>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000004">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000011"/>
+        <obo:IAO_0000115>A capability that an agent has to power the performance of various actions.</obo:IAO_0000115>
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000119>https://en.wikipedia.org/wiki/Ability</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ability</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000006 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_00000006 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000006">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
-        <rdfs:label xml:lang="en">reading comprehension</rdfs:label>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000006">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <rdfs:label xml:lang="en">reading comprehension (origin)</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000007 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_00000007 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000007">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
-        <rdfs:label xml:lang="en">active listening</rdfs:label>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000007">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <rdfs:label xml:lang="en">active listening (origin)</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_0000008 -->
+    <!-- http://purl.obolibrary.org/obo/OccO_00000011 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_0000008">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
-        <rdfs:label xml:lang="en">human</rdfs:label>
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000011">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
+        <obo:IAO_0000115>A disposition that can be evaluated on the basis of how well they are realized. They differ from functions in that their realizations are not the rationale – not the primary reason – for the existence of their bearers.</obo:IAO_0000115>
+        <obo:IAO_0000117>Eric Merrell, David Limbaugh, Peter Koch &amp; Barry Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://philpapers.org/rec/MERC-14</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000012 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000012">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <obo:IAO_0000115>A role that has the bearer of a human being and is realized in an occupation process.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">occupation role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000013 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000013">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+        <obo:IAO_0000118>occupation process</obo:IAO_0000118>
+        <rdfs:label xml:lang="en">occupation activity</rdfs:label>
     </owl:Class>
     
 
@@ -9640,26 +9708,26 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29105000"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000009"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_00000009"/>
                 <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/occo.owl#near_vision"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000009"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_00000009"/>
                 <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/occo.owl#oral_comprehension"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000010"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OccO_0000006"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_00000010"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OccO_00000006"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_0000010"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OccO_0000007"/>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_00000010"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OccO_00000007"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <obo:IAO_0000111>29-1051.00</obo:IAO_0000111>
@@ -9667,8 +9735,8 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
         <obo:IAO_0000118>Pharmacists</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OccO_0000001>active listening; reading comprehension</obo:OccO_0000001>
-        <obo:OccO_0000002>oral comprehension; near vision</obo:OccO_0000002>
+        <obo:OccO_00000002>oral comprehension; near vision</obo:OccO_00000002>
+        <obo:OccO_00000005>active listening; reading comprehension</obo:OccO_00000005>
         <rdfs:comment>This occupation in SOC is a Detailed Occupation</rdfs:comment>
         <rdfs:label>pharmacist</rdfs:label>
     </owl:Class>
@@ -23813,8 +23881,8 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     <!-- http://purl.obolibrary.org/obo/occo.owl#critical_thinking -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/occo.owl#critical_thinking">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000003"/>
-        <rdfs:label>critical thinking</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000003"/>
+        <rdfs:label>critical thinking (origin)</rdfs:label>
     </owl:Class>
     
 
@@ -23822,8 +23890,8 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     <!-- http://purl.obolibrary.org/obo/occo.owl#near_vision -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/occo.owl#near_vision">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000004"/>
-        <rdfs:label>near vision</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000004"/>
+        <rdfs:label>near vision (origin)</rdfs:label>
     </owl:Class>
     
 
@@ -23831,8 +23899,8 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
     <!-- http://purl.obolibrary.org/obo/occo.owl#oral_comprehension -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/occo.owl#oral_comprehension">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_0000004"/>
-        <rdfs:label>oral comprehension</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000004"/>
+        <rdfs:label>oral comprehension (origin)</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
