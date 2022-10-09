@@ -55,6 +55,11 @@ Plans to include the O*Net-SOC Skills, Abilities and Knowledge properties to eac
 
 Reconciliation and Integration with ISOC and Wikidata occupations:
 Comparison and reconciliation with other occupation schemas, in particuar the international ISCO system and the semantic web (primarily Wikidata and also DBPedia).</obo:IAO_0000116>
+        <dc:creator>Damion Dooley</dc:creator>
+        <dc:creator>Eric Merrell</dc:creator>
+        <dc:creator>John Beverley</dc:creator>
+        <dc:creator>Oliver He</dc:creator>
+        <dc:creator>Sam Smith</dc:creator>
         <rdfs:label>Occupation Ontology (OccO)</rdfs:label>
     </owl:Ontology>
     
@@ -157,6 +162,18 @@ Comparison and reconciliation with other occupation schemas, in particuar the in
         <obo:IAO_0000115>An annotation property that provides the information of the skills associated with an occupation</obo:IAO_0000115>
         <obo:IAO_0000117>Sam Smtih, Oliver He</obo:IAO_0000117>
         <rdfs:label xml:lang="en">occupation skills</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000008 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OccO_00000008">
+        <obo:IAO_0000117>Sam Smith, Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000118>US Standard Occupational Classification (SOC) ID</obo:IAO_0000118>
+        <obo:IAO_0000119>https://www.bls.gov/oes/current/oes_stru.htm</obo:IAO_0000119>
+        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">US SOC ID</rdfs:label>
     </owl:AnnotationProperty>
     
 
