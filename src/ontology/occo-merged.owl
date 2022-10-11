@@ -14,7 +14,6 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo.owl">
-        <protege:defaultLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</protege:defaultLanguage>
         <obo:IAO_0000115 xml:lang="smithgit/life-ontologies.  occo was initially developed as part of the role ontology (roleo) as seen here in bioportal: https://bioportal.bioontology.org/ontologies/roleo.  references: * standard occupational classification (soc) system: https://www.bls.gov/soc/ * o*net resource center: https://www.onetcenter.org. * github repository: github.com/occupation-ontology/occo">The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO standardizes and represents all the occupations defined in the Standard Occupational Classification (SOC) developed by the following US Federal agencies:
 
 * Department of Labor
@@ -24,9 +23,6 @@
 OccO reflects the data content of the O*Net-SOC 2019 taxonomy, and it is developed by following OBO Foundry principles.
 
 OccO is co-developed by Sam Smith and Oliver He, at the University of Michigan Medical School, Ann Arbor, MI, USA.  For background on the development of this ontology, see https://observablehq.com/collection/</obo:IAO_0000115>
-        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: BFO does not claim to provide complete coverage of entities of all types. It seeks only to provide coverage of those entities studied by empirical science together with those entities which affect or are involved in human activities such as data processing and planning - coverage that is sufficiently broad to provide assistance to those engaged in building domain ontologies for purposes of data annotation.</obo:IAO_0000116>
-        <obo:IAO_0000116>BFO 2 Reference: BFO&apos;s treatment of continuants and occurrents - as also its treatment of regions, rests on a dichotomy between space and time, and on the view that there are two perspectives on reality - earlier called the &apos;SNAP&apos; and &apos;SPAN&apos; perspectives, both of which are essential to the non-reductionist representation of reality as we understand it from the best available science.</obo:IAO_0000116>
-        <obo:IAO_0000116>BFO 2 Reference: For both terms and relational expressions in BFO, we distinguish between primitive and defined. &apos;Entity&apos; is an example of a  primitive term. Primitive terms in a highest-level ontology such as BFO are terms that are so basic to our understanding of reality that there is no way of defining them in a non-circular fashion. For these, therefore, we can provide only elucidations, supplemented by examples and by axioms.</obo:IAO_0000116>
         <obo:IAO_0000116>The following changes were made to the SOC terms:
 
 Occupations in OWL are classes, and class names are singular, whereas the SOC uses the plural form, to reflect the individuals involved.  So plural terms were changed to singular and made lower-case, and the &quot;and&quot; conjunction was changed to &quot;or.&quot;  In SOC quite a number of group labels are the same as child labels, so these parent terms were changed to make unique by adding a suffix to indicate the hierarchy level.  This mainly affected Broad Occupation terms, of which 2** were duplacated in Detailed Occupation, so the broad occupation term has the suffix (broad).  Minor Occupations had 13 duplicates with the suffix (minor), and only one occupation, hunting *** appeared three times as Minor, Broad and Detailed.  A comment was added to indicate the hierarchy level, such as &quot;This occupation in SOC is a Major Group.&quot;  This permits extracting all terms at a given hierarch level by using the SPARQL query:
@@ -57,92 +53,14 @@ Plans to include the O*Net-SOC Skills, Abilities and Knowledge properties to eac
 
 Reconciliation and Integration with ISOC and Wikidata occupations:
 Comparison and reconciliation with other occupation schemas, in particuar the international ISCO system and the semantic web (primarily Wikidata and also DBPedia).</obo:IAO_0000116>
-        <dc:contributor xml:lang="en">Adam Goldstein</dc:contributor>
-        <dc:contributor>Alan Ruttenberg</dc:contributor>
-        <dc:contributor xml:lang="en">Alan Ruttenberg</dc:contributor>
-        <dc:contributor>Albert Goldfain</dc:contributor>
-        <dc:contributor xml:lang="en">Albert Goldfain</dc:contributor>
-        <dc:contributor>Barry Smith</dc:contributor>
-        <dc:contributor xml:lang="en">Barry Smith</dc:contributor>
-        <dc:contributor>Bill Duncan</dc:contributor>
-        <dc:contributor>Bjoern Peters</dc:contributor>
-        <dc:contributor xml:lang="en">Bjoern Peters</dc:contributor>
-        <dc:contributor xml:lang="en">Carlo Torniai</dc:contributor>
-        <dc:contributor>Chris Mungall</dc:contributor>
-        <dc:contributor xml:lang="en">Chris Mungall</dc:contributor>
-        <dc:contributor xml:lang="en">Chris Stoeckert</dc:contributor>
-        <dc:contributor xml:lang="en">Christian A. Boelling</dc:contributor>
-        <dc:contributor xml:lang="en">Darren Natale</dc:contributor>
-        <dc:contributor>David Osumi-Sutherland</dc:contributor>
-        <dc:contributor xml:lang="en">David Osumi-Sutherland</dc:contributor>
-        <dc:contributor>Fabian Neuhaus</dc:contributor>
-        <dc:contributor xml:lang="en">Gwen Frishkoff</dc:contributor>
-        <dc:contributor>Holger Stenzhorn</dc:contributor>
-        <dc:contributor xml:lang="en">Holger Stenzhorn</dc:contributor>
-        <dc:contributor>James A. Overton</dc:contributor>
-        <dc:contributor xml:lang="en">James A. Overton</dc:contributor>
-        <dc:contributor xml:lang="en">James Malone</dc:contributor>
-        <dc:contributor>Janna Hastings</dc:contributor>
-        <dc:contributor xml:lang="en">Jennifer Fostel</dc:contributor>
-        <dc:contributor>Jie Zheng</dc:contributor>
-        <dc:contributor xml:lang="en">Jie Zheng</dc:contributor>
-        <dc:contributor>Jonathan Bona</dc:contributor>
-        <dc:contributor xml:lang="en">Jonathan Rees</dc:contributor>
-        <dc:contributor xml:lang="en">Larisa Soldatova</dc:contributor>
-        <dc:contributor>Larry Hunter</dc:contributor>
-        <dc:contributor xml:lang="en">Lawrence Hunter</dc:contributor>
-        <dc:contributor>Leonard Jacuzzo</dc:contributor>
-        <dc:contributor>Ludger Jansen</dc:contributor>
-        <dc:contributor>Mark Ressler</dc:contributor>
-        <dc:contributor>Mathias Brochhausen</dc:contributor>
-        <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
-        <dc:contributor xml:lang="en">Matt Brush</dc:contributor>
-        <dc:contributor>Mauricio Almeida</dc:contributor>
-        <dc:contributor>Melanie Courtot</dc:contributor>
-        <dc:contributor xml:lang="en">Melanie Courtot</dc:contributor>
-        <dc:contributor xml:lang="en">Michel Dumontier</dc:contributor>
-        <dc:contributor xml:lang="en">Paolo Ciccarese</dc:contributor>
-        <dc:contributor xml:lang="en">Pat Hayes</dc:contributor>
-        <dc:contributor xml:lang="en">Philippe Rocca-Serra</dc:contributor>
-        <dc:contributor>Pierre Grenon</dc:contributor>
-        <dc:contributor>Randall Dipert</dc:contributor>
-        <dc:contributor xml:lang="en">Randy Dipert</dc:contributor>
-        <dc:contributor>Ron Rudnicki</dc:contributor>
-        <dc:contributor xml:lang="en">Ron Rudnicki</dc:contributor>
-        <dc:contributor xml:lang="en">Satya Sahoo</dc:contributor>
-        <dc:contributor>Selja Seppälä</dc:contributor>
-        <dc:contributor xml:lang="en">Sivaram Arabandi</dc:contributor>
-        <dc:contributor>Stefan Schulz</dc:contributor>
-        <dc:contributor>Thomas Bittner</dc:contributor>
-        <dc:contributor>Werner Ceusters</dc:contributor>
-        <dc:contributor xml:lang="en">Werner Ceusters</dc:contributor>
-        <dc:contributor xml:lang="en">William Duncan</dc:contributor>
-        <dc:contributor xml:lang="en">William Hogan</dc:contributor>
-        <dc:contributor>Yongqun &quot;Oliver&quot; He</dc:contributor>
-        <dc:contributor xml:lang="en">Yongqun (Oliver) He</dc:contributor>
         <dc:creator>Damion Dooley</dc:creator>
         <dc:creator>Eric Merrell</dc:creator>
         <dc:creator>John Beverley</dc:creator>
         <dc:creator>Oliver He</dc:creator>
         <dc:creator>Sam Smith</dc:creator>
-        <dc:date>10/8/2022</dc:date>
-        <terms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
-        <rdfs:comment xml:lang="en">Please see the project site https://github.com/BFO-ontology/BFO, the bfo2 owl discussion group http://groups.google.com/group/bfo-owl-devel, the bfo2 discussion group http://groups.google.com/group/bfo-devel, the tracking google doc http://goo.gl/IlrEE, and the current version of the bfo2 reference http://purl.obolibrary.org/obo/bfo/dev/bfo2-reference.docx. This ontology is generated from a specification at https://github.com/BFO-ontology/BFO/tree/master/src/ontology/owl-group/specification/ and with the code that generates the OWL version in https://github.com/BFO-ontology/BFO/tree/master/src/tools/. A very early version of BFO version 2 in CLIF is at http://purl.obolibrary.org/obo/bfo/dev/bfo.clif.</rdfs:comment>
-        <rdfs:comment xml:lang="en">The BSD license on the BFO project site refers to code used to build BFO.</rdfs:comment>
-        <rdfs:comment>This BFO 2.0 version represents a major update to BFO and is not strictly backwards compatible with BFO 1.1. The previous OWL version of BFO, version 1.1.1 will remain available at http://ifomis.org/bfo/1.1 and will no longer be updated. The BFO 2.0 OWL is a classes-only specification. The incorporation of core relations has been held over for a later version.</rdfs:comment>
-        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo/dev/bfo.clif"/>
-        <rdfs:isDefinedBy rdf:resource="https://github.com/BFO-ontology/BFO/tree/master/src/ontology/owl-group/specification/"/>
+        <dc:date>10/11/2022</dc:date>
         <rdfs:label>Occupation Ontology (OccO)</rdfs:label>
-        <rdfs:seeAlso rdf:resource="http://groups.google.com/group/bfo-devel"/>
-        <rdfs:seeAlso rdf:resource="http://groups.google.com/group/bfo-discuss"/>
-        <rdfs:seeAlso rdf:resource="http://groups.google.com/group/bfo-owl-devel"/>
-        <rdfs:seeAlso rdf:resource="http://purl.obolibrary.org/obo/bfo/dev/owl"/>
-        <rdfs:seeAlso rdf:resource="https://github.com/BFO-ontology/BFO/tree/master/src/tools/"/>
-        <owl:versionInfo>1.0.47</owl:versionInfo>
-        <foaf:homepage rdf:resource="http://basic-formal-ontology.org/"/>
-        <foaf:homepage rdf:resource="http://ifomis.org/bfo"/>
-        <foaf:homepage rdf:resource="https://github.com/BFO-ontology/BFO"/>
-        <foaf:mbox rdf:resource="mailto:bfo-owl-devel@googlegroups.com"/>
+        <owl:versionInfo>1.0.49</owl:versionInfo>
     </owl:Ontology>
     
 
@@ -7534,24 +7452,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17201000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17201000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2010</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Aerospace Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>aerospace engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17201100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17201100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17201000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2011.00</obo:IAO_0000111>
         <obo:IAO_0000115>Perform engineering duties in designing, constructing, and testing aircraft, missiles, and spacecraft. May conduct basic and applied research to evaluate adaptability of materials and equipment to aircraft design and manufacture. May recommend improvements in testing equipment and techniques.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -7563,24 +7467,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17202000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17202000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2020</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Agricultural Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>agricultural engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17202100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17202100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17202000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2021.00</obo:IAO_0000111>
         <obo:IAO_0000115>Apply knowledge of engineering technology and biological science to agricultural problems concerned with power and machinery, electrification, structures, soil and water conservation, and processing of agricultural products.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -7592,24 +7482,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17203000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17203000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2030</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Bioengineers and Biomedical Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>bioengineer or biomedical engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17203100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17203100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17203000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2031.00</obo:IAO_0000111>
         <obo:IAO_0000115>Apply knowledge of engineering, biology, chemistry, computer science, and biomechanical principles to the design, development, and evaluation of biological, agricultural, and health systems and products, such as artificial organs, prostheses, instrumentation, medical information systems, and health management and care delivery systems.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -7621,24 +7497,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17204000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17204000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2040</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Chemical Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>chemical engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17204100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17204100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17204000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2041.00</obo:IAO_0000111>
         <obo:IAO_0000115>Design chemical plant equipment and devise processes for manufacturing chemicals and products, such as gasoline, synthetic rubber, plastics, detergents, cement, paper, and pulp, by applying principles and technology of chemistry, physics, and engineering.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -7659,7 +7521,7 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000118>Civil Engineers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>civil engineer (broad)</rdfs:label>
+        <rdfs:label>civil engineer</rdfs:label>
     </owl:Class>
     
 
@@ -7672,9 +7534,10 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000115>Perform engineering duties in planning, designing, and overseeing construction and maintenance of building structures and facilities, such as roads, railroads, airports, bridges, harbors, channels, dams, irrigation projects, pipelines, power plants, and water and sewage systems.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
         <obo:IAO_0000118>Civil Engineers</obo:IAO_0000118>
+        <obo:IAO_0000118>civil engineer</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <rdfs:comment>This occupation in SOC is a Detailed Occupation</rdfs:comment>
-        <rdfs:label>civil engineer</rdfs:label>
+        <rdfs:label>general practice civil engineer</rdfs:label>
     </owl:Class>
     
 
@@ -7709,24 +7572,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17206000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17206000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2060</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Computer Hardware Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>computer hardware engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17206100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17206100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17206000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2061.00</obo:IAO_0000111>
         <obo:IAO_0000115>Research, design, develop, or test computer or computer-related equipment for commercial, industrial, military, or scientific use. May supervise the manufacturing and installation of computer or computer-related equipment and components.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -7797,24 +7646,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17208000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17208000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2080</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Environmental Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>environmental engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17208100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17208100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17208000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2081.00</obo:IAO_0000111>
         <obo:IAO_0000115>Research, design, plan, or perform engineering duties in the prevention, control, and remediation of environmental hazards using various engineering disciplines. Work may include waste treatment, site remediation, or pollution control technology.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -7930,24 +7765,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17212000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17212000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2120</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Marine Engineers and Naval Architects</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>marine engineer or naval architect (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17212100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17212100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17212000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2121.00</obo:IAO_0000111>
         <obo:IAO_0000115>Design, develop, and evaluate the operation of marine vessels, ship machinery, and related equipment, such as power supply and propulsion systems.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -7959,24 +7780,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17213000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17213000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2130</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Materials Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>materials engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17213100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17213100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17213000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2131.00</obo:IAO_0000111>
         <obo:IAO_0000115>Evaluate materials and develop machinery and processes to manufacture materials for use in products that must meet specialized design and performance specifications. Develop new uses for known materials. Includes those engineers working with composite materials or specializing in one type of material, such as graphite, metal and metal alloys, ceramics and glass, plastics and polymers, and naturally occurring materials. Includes metallurgists and metallurgical engineers, ceramic engineers, and welding engineers.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -7997,7 +7804,7 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000118>Mechanical Engineers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>mechanical engineer (broad)</rdfs:label>
+        <rdfs:label>mechanical engineer</rdfs:label>
     </owl:Class>
     
 
@@ -8010,9 +7817,10 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000115>Perform engineering duties in planning and designing tools, engines, machines, and other mechanically functioning equipment. Oversee installation, operation, maintenance, and repair of equipment such as centralized heat, gas, water, and steam systems.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
         <obo:IAO_0000118>Mechanical Engineers</obo:IAO_0000118>
+        <obo:IAO_0000118>mechanical engineer</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <rdfs:comment>This occupation in SOC is a Detailed Occupation</rdfs:comment>
-        <rdfs:label>mechanical engineer</rdfs:label>
+        <rdfs:label>general-purpose mechanical engineer</rdfs:label>
     </owl:Class>
     
 
@@ -8047,24 +7855,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17215000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17215000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2150</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Mining and Geological Engineers, Including Mining Safety Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>mining or geological engineer, including mining safety engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17215100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17215100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17215000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2151.00</obo:IAO_0000111>
         <obo:IAO_0000115>Conduct subsurface surveys to identify the characteristics of potential land or mining development sites. May specify the ground support systems, processes, and equipment for safe, economical, and environmentally sound extraction or underground construction activities. May inspect areas for unsafe geological conditions, equipment, and working conditions. May design, implement, and coordinate mine safety programs.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -8076,24 +7870,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17216000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17216000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2160</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Nuclear Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>nuclear engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17216100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17216100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17216000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2161.00</obo:IAO_0000111>
         <obo:IAO_0000115>Conduct research on nuclear engineering projects or apply principles and theory of nuclear science to problems concerned with release, control, and use of nuclear energy and nuclear waste disposal.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -8105,24 +7885,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_17217000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17217000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
-        <obo:IAO_0000111>17-2170</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Petroleum Engineers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>petroleum engineer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_17217100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_17217100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17217000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_17200000"/>
         <obo:IAO_0000111>17-2171.00</obo:IAO_0000111>
         <obo:IAO_0000115>Devise methods to improve oil and gas extraction and production and determine the need for new or modified tool designs. Oversee drilling and offer technical advice.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -12703,24 +12469,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_27301000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_27301000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_27300000"/>
-        <obo:IAO_0000111>27-3010</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Broadcast Announcers and Radio Disc Jockeys</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>broadcast announcer or radio disc jockey (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_27301100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_27301100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_27301000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_27300000"/>
         <obo:IAO_0000111>27-3011.00</obo:IAO_0000111>
         <obo:IAO_0000115>Speak or read from scripted materials, such as news reports or commercial messages, on radio, television, or other communications media. May play and queue music, announce artist or title of performance, identify station, or interview guests.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -12761,24 +12513,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_27303000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_27303000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_27300000"/>
-        <obo:IAO_0000111>27-3030</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Public Relations Specialists</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>public relations specialist (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_27303100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_27303100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_27303000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_27300000"/>
         <obo:IAO_0000111>27-3031.00</obo:IAO_0000111>
         <obo:IAO_0000115>Promote or create an intended public image for individuals, groups, or organizations. May write or select material for release to various communications media. May specialize in using social media.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -13011,24 +12749,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_27402000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_27402000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_27400000"/>
-        <obo:IAO_0000111>27-4020</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Photographers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>photographer (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_27402100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_27402100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_27402000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_27400000"/>
         <obo:IAO_0000111>27-4021.00</obo:IAO_0000111>
         <obo:IAO_0000115>Photograph people, landscapes, merchandise, or other subjects. May use lighting equipment to enhance a subject&apos;s appearance. May use editing software to produce finished images and prints. Includes commercial and industrial photographers, scientific photographers, and photojournalists.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -13141,24 +12865,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_29101000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29101000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
-        <obo:IAO_0000111>29-1010</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Chiropractors</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>chiropractor (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_29101100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29101100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29101000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
         <obo:IAO_0000111>29-1011.00</obo:IAO_0000111>
         <obo:IAO_0000115>Assess, treat, and care for patients by manipulation of spine and musculoskeletal system. May provide spinal adjustment or address sacral or pelvic misalignment.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -13259,24 +12969,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_29103000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29103000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
-        <obo:IAO_0000111>29-1030</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Dietitians and Nutritionists</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>dietitian or nutritionist (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_29103100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29103100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29103000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
         <obo:IAO_0000111>29-1031.00</obo:IAO_0000111>
         <obo:IAO_0000115>Plan and conduct food service or nutritional programs to assist in the promotion of health and control of disease. May supervise activities of a department providing quantity food services, counsel individuals, or conduct nutritional research.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -13288,24 +12984,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_29104000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29104000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
-        <obo:IAO_0000111>29-1040</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Optometrists</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>optometrist (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_29104100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29104100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29104000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
         <obo:IAO_0000111>29-1041.00</obo:IAO_0000111>
         <obo:IAO_0000115>Diagnose, manage, and treat conditions and diseases of the human eye and visual system. Examine eyes and visual system, diagnose problems or impairments, prescribe corrective lenses, and provide treatment. May prescribe therapeutic drugs to treat specific eye conditions.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -13317,24 +12999,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_29105000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29105000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
-        <obo:IAO_0000111>29-1050</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Pharmacists</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>pharmacist (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_29105100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29105100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29105000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OccO_00000009"/>
@@ -13381,7 +13049,7 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000118>Physician Assistants</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>physician assistant (broad)</rdfs:label>
+        <rdfs:label>physician assistant</rdfs:label>
     </owl:Class>
     
 
@@ -13394,9 +13062,10 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000115>Provide healthcare services typically performed by a physician, under the supervision of a physician. Conduct complete physicals, provide treatment, and counsel patients. May, in some cases, prescribe medication. Must graduate from an accredited educational program for physician assistants.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
         <obo:IAO_0000118>Physician Assistants</obo:IAO_0000118>
+        <obo:IAO_0000118>physician assistant</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <rdfs:comment>This occupation in SOC is a Detailed Occupation</rdfs:comment>
-        <rdfs:label>physician assistant</rdfs:label>
+        <rdfs:label>general practice physician assistant</rdfs:label>
     </owl:Class>
     
 
@@ -13416,24 +13085,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_29108000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29108000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
-        <obo:IAO_0000111>29-1080</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Podiatrists</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>podiatrist (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_29108100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29108100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29108000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
         <obo:IAO_0000111>29-1081.00</obo:IAO_0000111>
         <obo:IAO_0000115>Diagnose and treat diseases and deformities of the human foot.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -13624,24 +13279,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_29113000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29113000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
-        <obo:IAO_0000111>29-1130</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Veterinarians</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>veterinarian (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_29113100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29113100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29113000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
         <obo:IAO_0000111>29-1131.00</obo:IAO_0000111>
         <obo:IAO_0000115>Diagnose, treat, or research diseases and injuries of animals. Includes veterinarians who conduct research and development, inspect livestock, or care for pets and companion animals.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -13676,9 +13317,10 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
         <obo:IAO_0000118>Registered Nurses</obo:IAO_0000118>
         <obo:IAO_0000118>registered nurse</obo:IAO_0000118>
+        <obo:IAO_0000119>https://gpnen.org.uk/early-career/what-is-a-general-practice-nurse-gpn/</obo:IAO_0000119>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <rdfs:comment>This occupation in SOC is a Detailed Occupation</rdfs:comment>
-        <rdfs:label>general-purpose registered nurse</rdfs:label>
+        <rdfs:label>general practice registered nurse</rdfs:label>
     </owl:Class>
     
 
@@ -13688,7 +13330,7 @@ No imports</obo:IAO_0000115>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29114101">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29114000"/>
         <obo:IAO_0000111>29-1141.01</obo:IAO_0000111>
-        <obo:IAO_0000115>Provide advanced nursing care for patients with acute conditions such as heart attacks, respiratory distress syndrome, or shock. May care for pre- and post-operative patients or perform advanced, invasive diagnostic or therapeutic procedures.</obo:IAO_0000115>
+        <obo:IAO_0000115>A registered nurse that povides advanced nursing care for patients with acute conditions such as heart attacks, respiratory distress syndrome, or shock. May care for pre- and post-operative patients or perform advanced, invasive diagnostic or therapeutic procedures.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
         <obo:IAO_0000118>Acute Care Nurses</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
@@ -13743,24 +13385,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_29115000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29115000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
-        <obo:IAO_0000111>29-1150</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Nurse Anesthetists</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>nurse anesthetist (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_29115100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29115100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29115000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
         <obo:IAO_0000111>29-1151.00</obo:IAO_0000111>
         <obo:IAO_0000115>Administer anesthesia, monitor patient&apos;s vital signs, and oversee patient recovery from anesthesia. May assist anesthesiologists, surgeons, other physicians, or dentists. Must be registered nurses who have specialized graduate education.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -13801,24 +13429,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_29117000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29117000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
-        <obo:IAO_0000111>29-1170</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Nurse Practitioners</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>nurse practitioner (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_29117100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29117100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29117000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
         <obo:IAO_0000111>29-1171.00</obo:IAO_0000111>
         <obo:IAO_0000115>Diagnose and treat acute, episodic, or chronic illness, independently or as part of a healthcare team. May focus on health promotion and disease prevention. May order, perform, or interpret diagnostic tests such as lab work and x rays. May prescribe medication. Must be registered nurses who have specialized graduate education.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -13830,24 +13444,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_29118000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29118000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
-        <obo:IAO_0000111>29-1180</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Audiologists</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>audiologist (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_29118100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_29118100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29118000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_29100000"/>
         <obo:IAO_0000111>29-1181.00</obo:IAO_0000111>
         <obo:IAO_0000115>Assess and treat persons with hearing and related disorders. May fit hearing aids and provide auditory training. May perform research related to hearing problems.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -16779,24 +16379,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_37202000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_37202000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_37200000"/>
-        <obo:IAO_0000111>37-2020</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Pest Control Workers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>pest control worker (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_37202100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_37202100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_37202000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_37200000"/>
         <obo:IAO_0000111>37-2021.00</obo:IAO_0000111>
         <obo:IAO_0000115>Apply or release chemical solutions or toxic gases and set traps to kill or remove pests and vermin that infest buildings and surrounding areas.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
@@ -16808,24 +16394,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_37300000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_37300000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_37000000"/>
-        <obo:IAO_0000111>37-3000</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Grounds Maintenance Workers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Minor Group</rdfs:comment>
-        <rdfs:label>grounds maintenance worker (minor)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_37301000 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_37301000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_37300000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_37000000"/>
         <obo:IAO_0000111>37-3010</obo:IAO_0000111>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
         <obo:IAO_0000118>Grounds Maintenance Workers</obo:IAO_0000118>
@@ -20264,38 +19836,10 @@ No imports</obo:IAO_0000115>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OccO_45300000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_45300000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_45000000"/>
-        <obo:IAO_0000111>45-3000</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Fishing and Hunting Workers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Minor Group</rdfs:comment>
-        <rdfs:label>fishing or hunting worker (minor)</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/OccO_45303000 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_45303000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_45300000"/>
-        <obo:IAO_0000111>45-3030</obo:IAO_0000111>
-        <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
-        <obo:IAO_0000118>Fishing and Hunting Workers</obo:IAO_0000118>
-        <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <rdfs:comment>This occupation in SOC is a Broad Occupation</rdfs:comment>
-        <rdfs:label>fishing or hunting worker (broad)</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OccO_45303100 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_45303100">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_45303000"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_45000000"/>
         <obo:IAO_0000111>45-3031.00</obo:IAO_0000111>
         <obo:IAO_0000115>Hunt, trap, catch, or gather wild animals or aquatic animals and plants. May use nets, traps, or other equipment. May haul catch onto ship or other vessel.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS, EO</obo:IAO_0000117>
