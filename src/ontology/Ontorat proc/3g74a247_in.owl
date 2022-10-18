@@ -1,0 +1,5740 @@
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: obo: <http://purl.obolibrary.org/obo/>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+Ontology: <http://purl.obolibrary.org/obo/ontorat_0000001.owl>
+
+Datatype: rdf:PlainLiteral
+Datatype: xsd:string
+Datatype: xsd:nonNegativeInteger
+Datatype: xsd:float
+Datatype: rdfs:Literal
+Datatype: xsd:integer
+
+DataProperty: <http://purl.obolibrary.org/obo/OccO_00000006>
+AnnotationProperty: <http://www.w3.org/2000/01/rdf-schema#label>
+AnnotationProperty: <http://www.w3.org/2000/01/rdf-schema#comment>
+AnnotationProperty: <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000111>
+AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000112>
+AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000114>
+AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000115>
+AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000116>
+AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000117>
+AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000118>
+AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000119>
+AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000602>
+		Annotations:
+		rdfs:label "has associated axiom(fol)"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000601>
+		Annotations:
+		rdfs:label "has associated axiom(nl)"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000603>
+		Annotations:
+		rdfs:label "is allocated id range"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000600>
+		Annotations:
+		rdfs:label "elucidation"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym>
+		Annotations:
+		rdfs:label "has_related_synonym"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym>
+		Annotations:
+		rdfs:label "has_narrow_synonym"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#inSubset>
+		Annotations:
+		rdfs:label "in_subset"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty>
+		Annotations:
+		rdfs:label "synonym_type_property"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000118>
+		Annotations:
+		rdfs:label "alternative term"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000118>
+		Annotations:
+		rdfs:label "alternative term"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000117>
+		Annotations:
+		rdfs:label "term editor"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000117>
+		Annotations:
+		rdfs:label "term editor"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/OccO_00000002>
+		Annotations:
+		rdfs:label "occupation abilities"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000119>
+		Annotations:
+		rdfs:label "definition source"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000119>
+		Annotations:
+		rdfs:label "definition source"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000114>
+		Annotations:
+		rdfs:label "has curation status"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0100001>
+		Annotations:
+		rdfs:label "term replaced by"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000598>
+		Annotations:
+		rdfs:label "has ID policy for"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000234>
+		Annotations:
+		rdfs:label "ontology term requester"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000113>
+		Annotations:
+		rdfs:label "in branch"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000597>
+		Annotations:
+		rdfs:label "has ID range allocated to"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000116>
+		Annotations:
+		rdfs:label "editor note"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000116>
+		Annotations:
+		rdfs:label "editor note"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000115>
+		Annotations:
+		rdfs:label "definition"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000115>
+		Annotations:
+		rdfs:label "definition"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000599>
+		Annotations:
+		rdfs:label "has ID prefix"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#hasDbXref>
+		Annotations:
+		rdfs:label "database_cross_reference"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000231>
+		Annotations:
+		rdfs:label "has obsolescence reason"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/BFO_0000180>
+		Annotations:
+		rdfs:label "BFO CLIF specification label"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000112>
+		Annotations:
+		rdfs:label "example of usage"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000112>
+		Annotations:
+		rdfs:label "example of usage"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000233>
+		Annotations:
+		rdfs:label "term tracker item"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000596>
+		Annotations:
+		rdfs:label "has ID digit count"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000111>
+		Annotations:
+		rdfs:label "editor preferred term"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000111>
+		Annotations:
+		rdfs:label "editor preferred term"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000232>
+		Annotations:
+		rdfs:label "curator note"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/ncbitaxon#has_rank>
+		Annotations:
+		rdfs:label "has_rank"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0006012>
+		Annotations:
+		rdfs:label "scheduled for obsoletion on or after"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0006011>
+		Annotations:
+		rdfs:label "may be identical to"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#hasScope>
+		Annotations:
+		rdfs:label "has_scope"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace>
+		Annotations:
+		rdfs:label "has_obo_namespace"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym>
+		Annotations:
+		rdfs:label "has_exact_synonym"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#shorthand>
+		Annotations:
+		rdfs:label "shorthand"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/OccO_00000008>
+		Annotations:
+		rdfs:label "US SOC ID"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/OccO_00000005>
+		Annotations:
+		rdfs:label "occupation skills"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000426>
+		Annotations:
+		rdfs:label "first order logic expression"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000425>
+		Annotations:
+		rdfs:label "expand assertion to"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000427>
+		Annotations:
+		rdfs:label "antisymmetric property"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000424>
+		Annotations:
+		rdfs:label "expand expression to"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000589>
+		Annotations:
+		rdfs:label "OBO foundry unique label"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/BFO_0000179>
+		Annotations:
+		rdfs:label "BFO OWL specification label"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#SubsetProperty>
+		Annotations:
+		rdfs:label "subset_property"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#hasAlternativeId>
+		Annotations:
+		rdfs:label "has_alternative_id"
+	AnnotationProperty: <http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion>
+		Annotations:
+		rdfs:label "has_obo_format_version"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000411>
+		Annotations:
+		rdfs:label "is denotator type"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0000412>
+		Annotations:
+		rdfs:label "imported from"
+	AnnotationProperty: <http://purl.obolibrary.org/obo/IAO_0010000>
+		Annotations:
+		rdfs:label "has axiom label"
+	AnnotationProperty: <http://www.w3.org/2000/01/rdf-schema#label>
+		Annotations:
+		rdfs:label "label"
+	
+Class: <http://purl.obolibrary.org/obo/OccO_13201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29129100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29114101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25205901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_23102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11301200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29114102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45209100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25104100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19401200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53104100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53603200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39309100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29107101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29121100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33901100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19309100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25106100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13202300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_23102200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11904100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25103100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25401100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25106200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25112100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29909100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25105100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27401100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29118100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49209700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53603100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49302100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302701>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17214102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49302200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49302300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53605101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49209100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39601100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39501100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35302301>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49309100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43302100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51809901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11305103>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11904101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19102901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15209901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25104200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19402100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19102904>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51801303>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11305104>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15204101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15129907>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53601100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27401200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43401100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11919911>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53305100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53305200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13119904>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15205101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51302100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51701100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302800>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49906100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27403100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53502100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29121200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25202300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25119400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25203200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43501100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47204100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47205100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17204100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51901100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51809100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19403100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25105200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11101103>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39901100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27203200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17205100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13103100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53706100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19204101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19303300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15205102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19303903>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29114104>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11912101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51912400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49909100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49909200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53201200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25112200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21109400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11311100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13114100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11919902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13104100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15122100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11302100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17206100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15124100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15123100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51916100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51916200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15125100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15121100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15129908>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15123200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39601200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19103100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47401100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47206100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11902100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47504100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49901200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53701100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35201200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35201300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35201400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35201500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13104106>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33301200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43402100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13105100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39309200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43502100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27309200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43403100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27101200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53702100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13204100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43404100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13207100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39401200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25111100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29114103>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33909100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51902100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25401200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43405100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33305104>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13104108>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51903100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51903200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51403100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29201101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29201102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43902100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15205100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15124301>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15124200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15124300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41901100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31909100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29129200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51908100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29121300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47501100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43903100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33302100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29203200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29205100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29103100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15129906>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35901100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27209100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35902100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43503200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15129903>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41909100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53703100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51403200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47208100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47502300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25106300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27304100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11903200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11903300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11903100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25108100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21101200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49209200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17301200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49209300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49209400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49209500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17207100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49905100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47211100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51202300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49209600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17207200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47402100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43406100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39401100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11916100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29204200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29121400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31909902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47401101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17219903>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25103200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25112300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11907200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13104101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19301101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17208100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19204102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19404200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25105300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19204100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19104100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13104103>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47502200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43601100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112800>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39903100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47503200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51402100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51609100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51904100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51609200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11301300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45402100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25119200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29121500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25902100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49304100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13107400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11901300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45209200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45209300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27102200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35302300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47403100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51205100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43407100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27403200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13205100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13206100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13209901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13205400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27101300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17211102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39101400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35101200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39101300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53104200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_37101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_37101200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53104300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41101200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53104400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39102200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33101200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33109100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11917901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47204200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47204300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27102300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51309100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51309200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51309300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19401300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19101200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35304100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11905100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25112400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19409200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19407100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45401100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19103200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25104300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51402200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51407100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13209904>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43501101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17214101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13113100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11203300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39402100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11917100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51905100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51702100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39301200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43304100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41201200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11907100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33903100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53707100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51809200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51907106>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11102100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29121600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29909200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19102903>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17102201>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19309200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15129902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25106400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19404300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19204200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11305102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49909901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919504>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47212100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13104104>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45204100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27102400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51902200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51403300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39501200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47404100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17211100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21109100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15121101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29902100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25107100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21102200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29209200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51419100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49902100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53303200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47301200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47301300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47508100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49909800>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47301400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47301500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919800>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47301600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47405100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29201201>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19309300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25112500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29201104>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53704100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49903100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31112100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35903100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43408100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17211201>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43416100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11312100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13107100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51801304>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11305106>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19404400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19204300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19204103>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17211200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49904100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11305100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53705100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19303200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15121200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15129905>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15129909>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51906100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25903100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47213100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47213200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13103200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43904100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41302100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13205300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33302106>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27102500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27309100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43411100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11303103>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_37201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51907100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_23102300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_23101200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25201200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13107500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53706200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17101200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_37301100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51403400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51601100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25111200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_23101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51419200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43601200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11103100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25402200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43412100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25108200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25403100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29206100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33909200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53303300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27401500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47504400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43413100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13207200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39309300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49909400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53401100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11908100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45402300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_45402200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13108100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13108102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13108101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11919908>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112201>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53706300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51404100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29203500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_37201200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43905100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49907100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49904300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39509100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13111100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39509200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49909500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17211203>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17212100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13116100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21101300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31901100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17213100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19203200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25102200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51302200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49901100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17301300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17214100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17219905>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27201203>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27201205>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29201200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11911100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51908200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31909200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29203600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31909300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49906200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29207200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19104200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43601300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31909400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13112100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21102300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21101400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27102600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51405100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43504100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19102200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17219906>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29909901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51403500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49904400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17215100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51902300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49304200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51406100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51703100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41901200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51407200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19102902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39403100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39302100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49305100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53502200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49305200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51408100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25401300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27204100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49906300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27204200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39901101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17219909>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302601>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11912100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29129901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15124400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29209901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29121700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19303902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43414100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27302300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17216100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29203300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19405102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51801100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19405100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29115100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29116100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29117100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31113100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25107200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29121800>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19501100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19501200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31201200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43906100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43907100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13119906>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47207300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51908300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29205700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29209905>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29124100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29208100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29104100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29102200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43415100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31113200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29102300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29124200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29129902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29209100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49305300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51911100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53706400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47214100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51912300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47214200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_23201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29204300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19103103>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53602100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33304100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53606100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29209908>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51406200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51703200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47207100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43305100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29124300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15129904>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31112200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13205200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_37202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_37301200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17217100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51809300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29105100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31909500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29205200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25112600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31909700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27402100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51915100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17219907>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302908>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122904>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29107100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19201200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25105400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47207200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47215100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47216100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51419300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47215200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29108100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27304305>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33305100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33302102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25106500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19309400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43505100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43505200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43505300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11913100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919505>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51405200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51801200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51801300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19401201>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51511100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51602100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122905>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51511300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51511200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33902100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21109200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43306100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27201200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43506100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13108200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43908100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11914100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29102400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31113300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29205300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25106600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11203200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43503100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53707200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13102300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11306100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19409901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11305101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17207201>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29203400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49304300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53401300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47406100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53402200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53403100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19103102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41902100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41902200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43417100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25119300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39903200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49309200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53706204>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53104201>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49904500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53708100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29114100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11919901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13104107>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21101500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47217100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19209901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19409903>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43418100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39904100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33909902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49909600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17219908>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17302401>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47505100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51402300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47504300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47218100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47501200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47507100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53501100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41903100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41309100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41401200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41401100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51704100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33909400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19303400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13116101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25203100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43601400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49209800>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33903200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13119907>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11301301>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47409100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25302100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51914100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51901200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47407100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47501300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27102700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51605100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51603100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <1>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39509300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47221100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53503100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43507100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51604100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51604200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53305300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49909700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39509400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51302300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11915100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21109300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19406100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25111300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19304100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25106700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15125200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15125300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19101300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47101103>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17219911>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47223100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41401107>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47215204>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27401400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11917902>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25205600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25205500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25205700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25205100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25205800>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27101400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29112700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31909901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122906>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51802100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43911100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15204100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53706500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919503>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47222100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51204100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_21101100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53404100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11307104>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29909300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29205500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19302200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17102200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13119905>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43201100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51605200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27201204>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53712100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47208200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13208100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13208200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53305400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25904400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25904200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25904300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51209200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27304200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15124101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49202200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49905200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41904100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43202100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43307100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47205300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51606100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51606200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51606300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51606400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47204400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51206100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51919700>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49309300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_23209300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51411100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51419400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39701100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53604100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11313100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13115100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33305200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17205101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53605100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19309901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_33909300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53605107>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11307100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_41304100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39701200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11303101>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_37301300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_25304100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27202300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51609300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19305100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29122903>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_39303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17211202>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29113100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_31909600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_29205600>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15125501>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_35303100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49906400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51803100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11912102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17205102>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_47409903>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15129901>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15125500>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_15125400>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43511100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51412100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51412200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_53707300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_13102200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11919910>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_17219910>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_11919909>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_49908100>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <3>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_51704200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_43902200>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <2>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_27304300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <4>
+
+
+Class: <http://purl.obolibrary.org/obo/OccO_19102300>
+	
+    SubClassOf:
+        <http://purl.obolibrary.org/obo/OccO_00000006> value <5>
+
