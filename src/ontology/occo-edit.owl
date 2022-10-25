@@ -20,53 +20,15 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/top_skills_ontorat.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/iao/2019-08-26/ontology-metadata.owl"/>
-        <obo:IAO_0000115 xml:lang="smithgit/life-ontologies.  occo was initially developed as part of the role ontology (roleo) as seen here in bioportal: https://bioportal.bioontology.org/ontologies/roleo.  references: * standard occupational classification (soc) system: https://www.bls.gov/soc/ * o*net resource center: https://www.onetcenter.org. * github repository: github.com/occupation-ontology/occo">The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO standardizes and represents all the occupations defined in the Standard Occupational Classification (SOC) developed by the following US Federal agencies:
-
-* Department of Labor
-* Bureau of Labor Statistics
-* The O*NET Program, the United States&apos; primary source of occupational information.
-
-OccO reflects the data content of the O*Net-SOC 2019 taxonomy, and it is developed by following OBO Foundry principles.
-
-OccO is co-developed by Sam Smith and Oliver He, at the University of Michigan Medical School, Ann Arbor, MI, USA.  For background on the development of this ontology, see https://observablehq.com/collection/</obo:IAO_0000115>
-        <obo:IAO_0000116>The following changes were made to the SOC terms:
-
-Occupations in OWL are classes, and class names are singular, whereas the SOC uses the plural form, to reflect the individuals involved.  So plural terms were changed to singular and made lower-case, and the &quot;and&quot; conjunction was changed to &quot;or.&quot;  In SOC quite a number of group labels are the same as child labels, so these parent terms were changed to make unique by adding a suffix to indicate the hierarchy level.  This mainly affected Broad Occupation terms, of which 2** were duplacated in Detailed Occupation, so the broad occupation term has the suffix (broad).  Minor Occupations had 13 duplicates with the suffix (minor), and only one occupation, hunting *** appeared three times as Minor, Broad and Detailed.  A comment was added to indicate the hierarchy level, such as &quot;This occupation in SOC is a Major Group.&quot;  This permits extracting all terms at a given hierarch level by using the SPARQL query:
- *****
-
-
-The format of SOC occupation ID&apos;s is MM-NNNN.dd, wheret the MM indicates Major Group.  The dd suffix was added for the 149 O*Net additions of new occupations.  
-
-The O*Net - SOC taxonomy https://www.onetcenter.org/taxonomy.html has the following hierarchy:
-Major Groups (23)
-  Minor Groups (98)
-    Broad Occupations (459)
-      Detailed Occupations (867)
-        O*Net Additions (149)
-
-The OccO annotations include the following Information Artifact Ontology (IAO) properties:
-  IAO_0000111  &apos;preferred term&apos; which is the SOC ID unchanged in the format described above.  Note that the OccO ID requires 8 digits to accommodate the two-digit O*Net suffix. 
-  IAO_0000118 &apos;alternative term&apos; is the occupation label as in SOC with capitalization and plural terms.
-
-Revision History
-
-Version 1 - March 2022
-Conversion of the O*Net-SOC taxonomy into an OWL ontological structure, follwing the OBO Foundry principles.
-
-Possible enhancements in future releases:
-Incorporation of Skills, Abilities and Areas of Knowledge:
-Plans to include the O*Net-SOC Skills, Abilities and Knowledge properties to each occupation.  The O*Net-SOC scheme for describing occupations is unique among such classifications by having these additional informative properties, each with a metric for its importance to the occupation, and the level of each that is required for the occupation.  
-
-Reconciliation and Integration with ISOC and Wikidata occupations:
-Comparison and reconciliation with other occupation schemas, in particuar the international ISCO system and the semantic web (primarily Wikidata and also DBPedia).</obo:IAO_0000116>
         <dc:creator>Damion Dooley</dc:creator>
         <dc:creator>Eric Merrell</dc:creator>
         <dc:creator>John Beverley</dc:creator>
         <dc:creator>Oliver He</dc:creator>
         <dc:creator>Sam Smith</dc:creator>
-        <dc:date>10/18/2022</dc:date>
+        <dc:date>10/25/2022</dc:date>
+        <dc:description>This Occupaton Ontology (OccO) is an ontology in the domain of human occupaitons. Current OccO version is developed based on the US Bureau of Labor Statistics Standard Occupation Classification (SOC) and the related O*Net System. The OccO development follows the principles of the Open Biological and Biomedical (OBO) Foundry.</dc:description>
         <rdfs:label>Occupation Ontology (OccO)</rdfs:label>
-        <owl:versionInfo>1.0.50</owl:versionInfo>
+        <owl:versionInfo>1.0.55</owl:versionInfo>
     </owl:Ontology>
     
 
