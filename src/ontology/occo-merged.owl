@@ -22,7 +22,7 @@
         <dc:date>10/25/2022</dc:date>
         <dc:description>This Occupaton Ontology (OccO) is an ontology in the domain of human occupaitons. Current OccO version is developed based on the US Bureau of Labor Statistics Standard Occupation Classification (SOC) and the related O*Net System. The OccO development follows the principles of the Open Biological and Biomedical (OBO) Foundry.</dc:description>
         <rdfs:label>Occupation Ontology (OccO)</rdfs:label>
-        <owl:versionInfo>1.0.57</owl:versionInfo>
+        <owl:versionInfo>1.0.58</owl:versionInfo>
     </owl:Ontology>
     
 
