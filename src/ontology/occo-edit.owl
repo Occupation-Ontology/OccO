@@ -17,6 +17,7 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ability_type_ontorat.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/jobzone_ontorat.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/skill_types_ontorat.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/top_abilities_annotations_ontorat.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/top_skills_ontorat.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/iao/2019-08-26/ontology-metadata.owl"/>

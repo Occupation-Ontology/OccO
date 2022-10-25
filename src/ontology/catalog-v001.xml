@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/top_abilities_annotations_ontorat.owl" uri="Ontorat%20proc/Top_abilities_annotations_ontorat.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/top_skills_ontorat.owl" uri="Ontorat%20proc/Top_skills_annotations_ontorat.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/jobzone_ontorat.owl" uri="Ontorat%20proc/JobZone_ontorat.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/skill_types_ontorat.owl" uri="Ontorat%20proc/Skill_types_ontorat.owl"/>
