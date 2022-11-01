@@ -13,19 +13,19 @@
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#">
+	 
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo.owl">
         <dc:creator>Damion Dooley</dc:creator>
         <dc:creator>Eric Merrell</dc:creator>
         <dc:creator>John Beverley</dc:creator>
         <dc:creator>Oliver He</dc:creator>
         <dc:creator>Sam Smith</dc:creator>
-        <dc:date>10/25/2022</dc:date>
+        <dc:date>11/1/2022</dc:date>
         <dc:description>This Occupaton Ontology (OccO) is an ontology in the domain of human occupaitons. Current OccO version is developed based on the US Bureau of Labor Statistics Standard Occupation Classification (SOC) and the related O*Net System. The OccO development follows the principles of the Open Biological and Biomedical (OBO) Foundry.</dc:description>
         <rdfs:label>Occupation Ontology (OccO)</rdfs:label>
-        <owl:versionInfo>1.0.58</owl:versionInfo>
+        <owl:versionInfo>1.0.59</owl:versionInfo>
     </owl:Ontology>
     
-
 
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -16339,7 +16339,6 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000118>Pharmacists</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
         <obo:OccO_00000002>Written Comprehension; Oral Comprehension; Problem Sensitivity; Oral Expression; Near Vision; Written Expression</obo:OccO_00000002>
-        <obo:OccO_00000002>oral comprehension; near vision</obo:OccO_00000002>
         <obo:OccO_00000005>Reading Comprehension; Active Listening; Writing; Speaking; Service Orientation; Monitoring</obo:OccO_00000005>
         <rdfs:comment>This occupation in SOC is a Detailed Occupation</rdfs:comment>
         <rdfs:label>pharmacist</rdfs:label>
