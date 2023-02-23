@@ -23,6 +23,9 @@ OccO was initially developed as part of the Role Ontology (RoleO) as seen here i
 - Oliver He
 - Damion Dooley
 - John Beverley
+- Matthew Diller
+- Bill Hogan
+- John Judkins
 
 ## Contributors:
 - Eric Merrell 
