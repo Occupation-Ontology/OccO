@@ -14,16 +14,21 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#">
 	 
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo.owl">       
+        <dc:contributor>Eric Merrell</dc:contributor>
         <dc:creator>Damion Dooley</dc:creator>
-        <dc:creator>Eric Merrell</dc:creator>
+        <dc:creator>Jie Zheng</dc:creator>
         <dc:creator>John Beverley</dc:creator>
+        <dc:creator>John Judkins</dc:creator>
+        <dc:creator>Matthew Diller</dc:creator>
         <dc:creator>Oliver He</dc:creator>
         <dc:creator>Sam Smith</dc:creator>
-        <dc:date>11/1/2022</dc:date>
+        <dc:creator>William Duncan</dc:creator>
+        <dc:creator>William R. Hogan</dc:creator>
+        <dc:date>4/15/2023</dc:date>
         <dc:description>This Occupaton Ontology (OccO) is an ontology in the domain of human occupaitons. Current OccO version is developed based on the US Bureau of Labor Statistics Standard Occupation Classification (SOC) and the related O*Net System. The OccO development follows the principles of the Open Biological and Biomedical (OBO) Foundry.</dc:description>
         <rdfs:label>Occupation Ontology (OccO)</rdfs:label>
-        <owl:versionInfo>1.0.59</owl:versionInfo>
+        <owl:versionInfo>1.0.65</owl:versionInfo>
     </owl:Ontology>
     
 
@@ -2905,6 +2910,8 @@ No imports</obo:IAO_0000115>
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000012">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
         <obo:IAO_0000115>A role that has the bearer of a human being and is realized in an occupation process.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He, Sam Smith, Damion Dooley, John Beverley, Matt Diller</obo:IAO_0000117>
+        <obo:IAO_0000118>job role</obo:IAO_0000118>
         <rdfs:label xml:lang="en">occupation role</rdfs:label>
     </owl:Class>
     
@@ -2914,7 +2921,12 @@ No imports</obo:IAO_0000115>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000013">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+        <obo:IAO_0000115>A set of behavioural processes which a person has a disposition to perform repeatedly in pursuit of a social objective.</obo:IAO_0000115>
+        <obo:IAO_0000116>Note: Sam and Oliver suggested the term &apos;occupation actiitiy&apos; or &apos;occupation process&apos;, which is aligned with Matt&apos;s suggestion on &apos;occupation&apos;. These are considered as synonyms as a term under process and related to occupation. More discussion is needed.</obo:IAO_0000116>
+        <obo:IAO_0000118>occupation</obo:IAO_0000118>
         <obo:IAO_0000118>occupation process</obo:IAO_0000118>
+        <obo:IAO_0000119>https://en.wikipedia.org/wiki/Work_(human_activity)</obo:IAO_0000119>
+        <obo:IAO_0000119>https://www.bls.gov/bls/glossary.htm#O</obo:IAO_0000119>
         <rdfs:label xml:lang="en">occupation activity</rdfs:label>
     </owl:Class>
     
@@ -3516,6 +3528,17 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000115>An occupation holder with the job zone number of 1.</obo:IAO_0000115>
         <obo:IAO_0000117>OH, SS</obo:IAO_0000117>
         <rdfs:label xml:lang="en">occupation holder with job zone 1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000059 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000059">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
+        <obo:IAO_0000115>A disposition that is held by an occupation holder to perform occupation activity.</obo:IAO_0000115>
+        <obo:IAO_0000117>Matt Diller, Bill Duncan, Bill Hogan, Oliver He, Sam Smith, John Beverley.</obo:IAO_0000117>
+        <rdfs:label xml:lang="en">occupation disposition</rdfs:label>
     </owl:Class>
     
 
@@ -4192,6 +4215,58 @@ No imports</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
         <obo:OccO_00000008>1.A.1.a.4</obo:OccO_00000008>
         <rdfs:label>written expression</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000112 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000112">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000013"/>
+        <obo:IAO_0000115>an occupation activity which the occupation holder must be authorized to perform in a given jurisdiction (timeframe etc).</obo:IAO_0000115>
+        <obo:IAO_0000117>Matt Diller, Oliver He, Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000118>regulated occupation</obo:IAO_0000118>
+        <obo:IAO_0000118>socially-sanctioned occupation activity</obo:IAO_0000118>
+        <obo:IAO_0000119>https://journals.sagepub.com/doi/pdf/10.1177/102490790301000310</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">regulated occupation activity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000113 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000113">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000013"/>
+        <obo:IAO_0000115>an occupation activity which is illegal or ostracized in a given jurisdiction.</obo:IAO_0000115>
+        <obo:IAO_0000117>Matt Diller, Oliver He, Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000118>illicit occupation</obo:IAO_0000118>
+        <rdfs:label xml:lang="en">illicit occupation activity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000114 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000114">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000001"/>
+        <obo:IAO_0000115>A person who is the bearer of a disposition to perform a socially-sanctioned occupation activity</obo:IAO_0000115>
+        <obo:IAO_0000117>Matt Diller, Oliver He, Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000118>holder of regulated occupation</obo:IAO_0000118>
+        <rdfs:label xml:lang="en">holder of regulated occupation activity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OccO_00000115 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OccO_00000115">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OccO_00000001"/>
+        <obo:IAO_0000115>A person who is the bearer of a disposition to perform a socially-sanctioned occupation acitivity.</obo:IAO_0000115>
+        <obo:IAO_0000117>Matt Diller, Oliver He, Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000118>holder of illicit occupation</obo:IAO_0000118>
+        <obo:IAO_0000118>holder of socially-sanctioned occupation</obo:IAO_0000118>
+        <obo:IAO_0000118>holder of socially-sanctioned occupation acitivity</obo:IAO_0000118>
+        <rdfs:label xml:lang="en">holder of illicit occupation activity</rdfs:label>
     </owl:Class>
     
 
