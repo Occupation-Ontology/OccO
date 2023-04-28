@@ -11,7 +11,7 @@
 # 2023-04-16 17,559 in  7.8 seconds
 # 2023-04-26 17,662 in  33.3 seconds (saved for use in OccO OSS Paper)
 # 2023-04-26 Adding count feature to query
-SELECT ?occup  $occupLabel $count
+SELECT ?occup  ?occupLabel ?count
 WHERE 
 {
   # inner select - get what we are after, distinct values without labels
