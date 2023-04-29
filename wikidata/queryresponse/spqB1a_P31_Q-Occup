@@ -1,0 +1,10 @@
+# spqB1a (2023-04-29) Items that are instanceOf Occupation Q12737077
+
+# results 2023-04-29 count = 3999 in 9.8 sec
+
+SELECT DISTINCT ?occup ?occupLabel
+WHERE
+{
+  ?occup wdt:P31 wd:Q12737077 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+} # limit 100 # always test a new query with a limit to assure no timeouts due to errors
