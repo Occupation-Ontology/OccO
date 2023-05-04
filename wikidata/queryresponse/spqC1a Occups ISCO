@@ -1,0 +1,14 @@
+# spqC1a (2023-04-29) All Occupation Q12737077 that are ISCO P8283
+#   Removing requirement to be an instance of Q-Occup Q12737077
+# results 2023-04-29 count = 125 in 507 ms with both P31 wd:Q-occup
+# Without Q-occup: 809
+# 2023-05-04 Result without DISTINCT and without Q-occup property 1134 in 0.7 sec
+
+SELECT ?occup ?occupLabel ?idISCO ?instanceOf ?instanceOfLabel
+WHERE
+{
+  # ?occup wdt:P31 wd:Q12737077 .  # removing this changed from 125 to 809!
+  ?occup wdt:P8283 ?idISCO
+  OPTIONAL { ?occup wdt:P31 ?instanceOf }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+} # limit 100 # always test a new query with a limit to assure no timeouts due to errors
