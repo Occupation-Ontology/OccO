@@ -1,0 +1,15 @@
+# spqC1d (2023-05-04) All Occupation Q12737077 that are O*Net P8734
+#   Removing requirement to be an instance of Q-Occup Q12737077
+# 2023-05-04 Result without DISTINCT and without Q-occup property 199 incl duplicates
+# 2023-05-04 Final form with P31/P279 descendants, 350 with dups; 83 unique occupa
+
+SELECT ?occup ?occupLabel ?idONET ?instanceOf ?instanceOfLabel ?subclassOf ?subclassOfLabel
+WHERE
+{
+  # ?occup wdt:P31 wd:Q12737077 .  # removing this changed from 125 to 809!
+  ?occup wdt:P31*/wdt:P279* wd:Q12737077 .  # changing to descendants: 350
+  ?occup wdt:P8734 ?idONET
+  OPTIONAL { ?occup wdt:P31 ?instanceOf }
+  OPTIONAL { ?occup wdt:P279 ?subclassOf }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+} # limit 100 # always test a new query with a limit to assure no timeouts due to errors
