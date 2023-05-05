@@ -1,0 +1,14 @@
+# spqC1 (2023-05-04) All items / occupations that are Occup Property (eg O*Net P8734)
+#   Removing requirement to be an instance of Q-Occup Q12737077
+# 2023-05-04 Simple form without P31/P279 descendants
+SELECT DISTINCT ?occup ?occupLabel ?obj ?objLabel WHERE
+{
+   ?occup wdt:P8283 ?obj. # ISCO-08 (2008) results: 809 incl dups; less dups: 772
+   # union terms such as mathematics, actuaries... broken up: 153 + 619 ISCO = 772
+  # ?occup wdt:P4652 ?obj. # ESCO results: 398
+  # ?occup wdt:P919 ?obj. # US SOC 2010 results: 112
+  # ?occup wdt:P8734 ?obj. # O*Net 85
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }  
+}
+
+ # limit 100 # always test a new query with a limit to assure no timeouts due to errors
