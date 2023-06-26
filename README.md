@@ -58,9 +58,11 @@ OccO was initially developed as part of the Role Ontology (RoleO) as seen here i
 
 ## OccO Publications:
 
-Sam Smith, Damion Dooley, Yongqun He. Foundational Development of an Occupation Ontology. Proceedings of The International Workshop on Ontologies for Social Services (OSS2022), 15-19 August 2022, Sweden. Pages 1-11.  
+John Beverley, Sam Smith, Matthew A Diller, William D. Duncan, Jie Zheng, John W. Judkins, William R. Hogan, Robin McGill, Damion Dooley, Yongqun He. The Occupation Ontology (OccO): Building a Bridge between Global Occupational Standards. Proceedings of The International Workshop on Ontologies for Social Services (OSS2023), July 17-20, 2023, in Sherbrooke, Quebec, Canada in conjunction with FOIS 2023. Pages 1-12.   
 
 Sam Smith, Yongqun He, Damion Dooley, Eric Merrell, and John Beverley. Toward an Occupation Ontology, OccO. The 2022 International Conference on Biomedical Ontology (ICBO 2022), October 5, 2022, Ann Arbor, MI, USA. PDF: [https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf](https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_5061.pdf). Flash talk: [https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf](https://icbo-conference.github.io/icbo2022/flash-talks/Occupation_Ontology.pdf). 
+
+Sam Smith, Damion Dooley, Yongqun He. Foundational Development of an Occupation Ontology. Proceedings of The International Workshop on Ontologies for Social Services (OSS2022), 15-19 August 2022, Sweden. Pages 1-11.  [https://ceur-ws.org/Vol-3249/paper6-OSS.pdf](https://ceur-ws.org/Vol-3249/paper6-OSS.pdf). 
 
 
 ## References:
