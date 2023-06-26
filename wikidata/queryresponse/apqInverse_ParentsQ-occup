@@ -1,0 +1,28 @@
+# spqInverse (2023-04-30) Parents of Pharmacist using Inverse P31, P279
+# on Github: spqInv_ParentsQ-Occup
+# Using Inverses of InstanceOf and SubclassOf
+# getting the parents of Pharmacist
+#
+# 2023-04-30 results with both: 15 in 194 ms
+#    Note: adding optionals yielded more: 28 items retrieved in 166 ms
+#
+# ToDo - put on Github and analyze with app PyApp1117Wd...
+# 
+
+SELECT DISTINCT ?subjHuman ?subjHumanLabel  ?instanceOf ?instanceOfLabel ?subclassOf ?subclassOfLabel
+WHERE {
+  {
+  SELECT ?subjHuman
+  WHERE {
+  	?subjHuman ^wdt:P31*/^wdt:P279 wd:Q105186  . 
+  } limit 2000
+  }
+  OPTIONAL {?subjHuman wdt:P31 ?instanceOf}
+  OPTIONAL {?subjHuman wdt:P279 ?subclassOf}  
+   SERVICE wikibase:label { 
+     bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". 
+    ?subjHuman rdfs:label ?subjHumanLabel. 
+    ?instanceOf rdfs:label ?instanceOfLabel.
+    ?subclassOf rdfs:label ?subclassOfLabel.
+   }  
+} limit 2000

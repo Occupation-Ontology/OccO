@@ -1,0 +1,12 @@
+# spqB2a_P279_Q-Occup
+# 2023-04-29 Items that are subclassOf P279 Occupation Q12737077
+
+# results 2023-04-29 count = 208 in 556 ms
+
+SELECT DISTINCT ?occup ?occupLabel ?subclassOf ?subclassOfLabel
+WHERE
+{
+  ?occup wdt:P279 wd:Q12737077 .
+  ?occup wdt:P279 ?subclassOf
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+} # limit 100 # always test a new query with a limit to assure no timeouts due to errors

@@ -1,0 +1,36 @@
+# OccO-OSS Query A1a:
+# spq (2023-04-26) All (Q5 assumed) with P106 Occupation with Count
+# in Wikidata https:query.wikidata.org
+# This will show occupation Q-Id's that are used held by at least one person / entity
+# 2017-10-00 8,400
+# 2017-12-11 8,764
+# 2018-01-03 8,847 less 81 beginning t-prefix = 8,766
+# 2021-05-14 15,901 !! in 11.9 seconds  
+# 2022-01-11 17,017 in 9.3 seconds (faster than last time)
+# 2022-03-23 17,436 in 10.9 seconds (saved for initial use in OccO)
+# 2023-04-16 17,559 in  7.8 seconds
+# 2023-04-26 17,662 in  33.3 seconds (saved for use in OccO OSS Paper)
+# 2023-04-26 Adding count feature to query
+SELECT ?occup  ?occupLabel ?count
+WHERE 
+{
+  # inner select - get what we are after, distinct values without labels
+  { SELECT ?occup (count(?assumedPerson) as ?count) 
+  WHERE
+    { 
+	  # earlier: ?person wdt:P31  wd:Q5. # this is causing timeouts; at a limit of 1,000 it takes 53.6 seconds!
+      #  There are now over 10 million humans in Wikidata; just do anything with occupation 
+      # - which will almost always be a human (show animals excepted)
+      # without this it takes only 710 ms for 1,000
+	# bottom line: Just assume anything with occupation is a human (there will be a few show animals)
+      ?assumedPerson wdt:P106 ?occup.
+	  } 
+      GROUP BY ?occup
+      # limit 1000 (it looks like each select may have a limit if needed)
+  } 
+   # end of inner select
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} # limit 2000
+
+# getting t-prefix items such as t18704666, t20763975 that must be deleted; what are they?
+# also recall that there are many Q-id's with no English label and these entries cannot be effectively used

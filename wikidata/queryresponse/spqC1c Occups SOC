@@ -1,0 +1,12 @@
+# spqC1c (2023-04-29) All Occupation Q12737077 that are US-SOC (2010) P919
+#   Removing requirement to be an instance of Q-Occup Q12737077
+# 2023-05-04 Result without DISTINCT and without Q-occup property 199 incl duplicates
+
+SELECT ?occup ?occupLabel ?idSOC ?instanceOf ?instanceOfLabel
+WHERE
+{
+  # ?occup wdt:P31 wd:Q12737077 .  # removing this changed from 125 to 809!
+  ?occup wdt:P919 ?idSOC
+  OPTIONAL { ?occup wdt:P31 ?instanceOf }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+} # limit 100 # always test a new query with a limit to assure no timeouts due to errors

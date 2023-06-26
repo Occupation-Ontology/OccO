@@ -1,0 +1,17 @@
+# spqD1a All ISCO-designated Occups
+# ISCO Occupation Group Q108300140 with descendants 
+# occupation group according to ISCO-08 (Q108300140)
+# group of occupations in the ISCO 08 classification of the International Labour Organisation
+#
+# It looks like instanceOf used to indicate ISCO and subclassOf is the ISCO Label (where is id?)
+#
+# 2023-05-03 results P31 only 665; with descendants: 2121 in 2.9 sec
+
+SELECT ?item ?itemLabel ?instanceOf ?instanceOfLabel ?subclassOf ?subclassOfLabel
+WHERE 
+{
+  ?item wdt:P31*/wdt:P279* wd:Q108300140. # inst of or subclass of ISCO Group
+  OPTIONAL { ?item wdt:P31 ?instanceOf. }
+  OPTIONAL { ?item wdt:P279 ?subclassOf. }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". } # Helps get the label in your language, if not, then en language
+}
