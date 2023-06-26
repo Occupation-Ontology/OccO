@@ -1,6 +1,30 @@
 # OccO
+```mermaid
+graph RL
+    A(Entity):::BFO --> B(Continuant):::BFO
+    A(Entity):::BFO --> O(Occurrent):::BFO
+    O(Occurrent):::BFO --> P(Process):::BFO
+    P(Process):::BFO --> Z(Occupation Activity):::OccO
+    B(Continuant):::BFO -.-> J(Realizable Entity):::BFO
+    B(Continuant):::BFO -.-> F(Material Entity):::BFO
+    J(Realizable Entity):::BFO --> L(Role):::BFO
+    L(Role):::BFO --> KJ(Occupation Role):::OccO
+    K(Occupation Holder):::OccO ==has role==> KJ(Occupation Role):::OccO
+    K(Occupation Holder):::OccO ==participates in==> Z(Occupation Activity):::OccO
+    K(Occupation Holder):::OccO ==has disposition==> KK(Occupation Disposition):::OccO
+    M(Disposition):::BFO --> KK(Occupation Disposition):::OccO
+    M(Disposition):::BFO --> KM(Ability):::OccO
+    M(Disposition):::BFO --> KN(Skill):::OccO
+    J(Realizable Entity):::BFO --> M(Disposition):::BFO
+    F(Material Entity):::BFO -.-> K(Occupation Holder):::OccO
+    subgraph Legend
+        AA(BFO):::BFO
+        BB(OccO):::OccO
+    end
+    classDef BFO fill:#F5AD27,color:#060606
+    classDef OccO fill:#1FBF1F,color:#060606
+```
 OccO: Occupation Ontology
-
 The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO is an initial ontological presentation of information taken from a standardized occupation taxonomy, the US Standard Occupational Classification (SOC) as enhanced by the **O*Net** system.  These systems have been developed by the following US Federal agencies:
 - Department of Labor 
 - Bureau of Labor Statistics
