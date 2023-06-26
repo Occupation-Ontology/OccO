@@ -1,18 +1,20 @@
 # OccO
 ```mermaid
-graph TD
+graph RL
+    A(Entity):::BFO --> B(Continuant):::BFO
+    A(Entity):::BFO --> O(Occurrent):::BFO
+    O(Occurrent):::BFO --> P(Process):::BFO
+    P(Process):::BFO --> Z(Occupation Activity):::OccO
     B(Continuant):::BFO -.-> J(Realizable Entity):::BFO
     B(Continuant):::BFO -.-> F(Material Entity):::BFO
     J(Realizable Entity):::BFO --> L(Role):::BFO
     L(Role):::BFO --> KJ(Occupation Role):::OccO
     K(Occupation Holder):::OccO ==has role==> KJ(Occupation Role):::OccO
-    K(Occupation Holder):::OccO ==has capability==> KM(Ability):::OccO    
-    K(Occupation Holder):::OccO ==has capability==> KN(Skill):::OccO
+    K(Occupation Holder):::OccO ==participates in==> Z(Occupation Activity):::OccO
     K(Occupation Holder):::OccO ==has disposition==> KK(Occupation Disposition):::OccO
     M(Disposition):::BFO --> KK(Occupation Disposition):::OccO
-    M(Disposition):::BFO --> KL(Capability):::OccO
-    KL(Capability):::OccO --> KM(Ability):::OccO
-    KL(Capability):::OccO --> KN(Skill):::OccO
+    M(Disposition):::BFO --> KM(Ability):::OccO
+    M(Disposition):::BFO --> KN(Skill):::OccO
     J(Realizable Entity):::BFO --> M(Disposition):::BFO
     F(Material Entity):::BFO -.-> K(Occupation Holder):::OccO
     subgraph Legend
