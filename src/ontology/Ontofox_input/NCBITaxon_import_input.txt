@@ -6,10 +6,10 @@ NCBITaxon
 
 [Low level source term URIs]
 http://purl.obolibrary.org/obo/NCBITaxon_9606 #Homo sapiens
-subClassOf http://purl.obolibrary.org/obo/BFO_0000040 # material entity
 
 [Top level source term URIs and target direct superclass URIs]
-
+http://purl.obolibrary.org/obo/NCBITaxon_9606 #Homo sapiens
+subClassOf http://purl.obolibrary.org/obo/BFO_0000040 # material entity
 
 [Source term retrieval setting]
 includeNoIntermediates
