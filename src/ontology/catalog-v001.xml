@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
-    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/top_abilities_annotations_ontorat.owl" uri="Ontorat%20proc/Top_abilities_annotations_ontorat.owl"/>
-    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/top_skills_ontorat.owl" uri="Ontorat%20proc/Top_skills_annotations_ontorat.owl"/>
-    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/jobzone_ontorat.owl" uri="Ontorat%20proc/JobZone_ontorat.owl"/>
-    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/skill_types_ontorat.owl" uri="Ontorat%20proc/Skill_types_ontorat.owl"/>
-    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ability_type_ontorat.owl" uri="Ontorat%20proc/Ability_types_ontorat.owl"/>
-    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="Ontorat%20proc/Ability_types_ontorat.owl"/>
-    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/iao/2019-08-26/ontology-metadata.owl" uri="http://purl.obolibrary.org/obo/iao/ontology-metadata.owl"/>
-    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/occo/imports/NCBITaxon_imports.owl" uri="imports/NCBITaxon_imports.owl"/>
-    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1681568919767" name="http://purl.obolibrary.org/obo/ability_type_ontorat.owl" uri="Ontorat%20proc/Ability_types_ontorat.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1681568919767" name="http://purl.obolibrary.org/obo/jobzone_ontorat.owl" uri="Ontorat%20proc/JobZone_ontorat.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1681568919767" name="http://purl.obolibrary.org/obo/occo/imports/NCBITaxon_imports.owl" uri="imports/NCBITaxon_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1681568919767" name="http://purl.obolibrary.org/obo/skill_types_ontorat.owl" uri="Ontorat%20proc/Skill_types_ontorat.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1681568919767" name="http://purl.obolibrary.org/obo/top_abilities_annotations_ontorat.owl" uri="Ontorat%20proc/Top_abilities_annotations_ontorat.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1681568919767" name="http://purl.obolibrary.org/obo/top_skills_ontorat.owl" uri="Ontorat%20proc/Top_skills_annotations_ontorat.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1681568919767" name="duplicate:http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="occo-edit.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1681568919767" name="duplicate:http://www.semanticweb.org/samal/ontologies/2022/2/untitled-ontology-48" uri="occo-merged.owl"/>
-    </group>
+        <uri name="http://purl.obolibrary.org/obo/occo/NCBITaxon_imports.owl" uri="imports/NCBITaxon_imports.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/ability_types.owl" uri="Modules/ability_types.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/job_zones.owl" uri="Modules/job_zones.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/job_zones_equivalent.owl" uri="Modules/job_zones_equivalent.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/occo-edit.owl" uri="occo-edit.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/occo_terms.owl" uri="Modules/occo_terms.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/skill_types.owl" uri="Modules/skill_types.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/top_abilities_annotations.owl" uri="Modules/top_abilities_annotations.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/top_abilities_axioms.owl" uri="Modules/top_abilities_axioms.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/top_skills_annotations.owl" uri="Modules/top_skills_annotations.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/top_skills_axioms.owl" uri="Modules/top_skills_axioms.owl"/>
 </catalog>
