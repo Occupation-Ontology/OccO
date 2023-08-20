@@ -1,0 +1,758 @@
+Ontology ID	OccO Label	Abilities
+ID		C 'has ability' some % SPLIT=|
+OCCO:11101100	chief executives	oral comprehension| oral expression| written comprehension| written expression| speech recognition| speech clarity
+OCCO:11101103	chief sustainability officers	written comprehension| speech recognition| speech clarity| oral expression| oral comprehension| inductive reasoning
+OCCO:11102100	general and operations managers	written expression| written comprehension| speech clarity| problem sensitivity| oral expression| oral comprehension
+OCCO:11201100	advertising and promotions managers	oral expression| written comprehension| speech clarity| oral comprehension| written expression| speech recognition
+OCCO:11202100	marketing managers	written comprehension| oral expression| oral comprehension| written expression| deductive reasoning| speech clarity
+OCCO:11202200	sales managers	written comprehension| oral expression| oral comprehension| written expression| speech recognition| speech clarity
+OCCO:11301200	administrative services managers	written comprehension| oral expression| oral comprehension| written expression| speech recognition| speech clarity
+OCCO:11301301	security managers	problem sensitivity| oral expression| oral comprehension| speech recognition| inductive reasoning| deductive reasoning
+OCCO:11302100	computer and information systems managers	written comprehension| problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:11303101	treasurers and controllers	inductive reasoning| deductive reasoning| written comprehension| problem sensitivity| oral expression| oral comprehension
+OCCO:11303103	investment fund managers	deductive reasoning| written comprehension| oral expression| oral comprehension| mathematical reasoning| information ordering
+OCCO:11305100	industrial production managers	problem sensitivity| oral comprehension| deductive reasoning| written comprehension| oral expression| information ordering
+OCCO:11305101	quality control systems managers	problem sensitivity| written comprehension| oral expression| oral comprehension| written expression| near vision
+OCCO:11305102	geothermal production managers	oral expression| oral comprehension| problem sensitivity| deductive reasoning| inductive reasoning| speech recognition
+OCCO:11305103	biofuels production managers	oral comprehension| written comprehension| oral expression| speech clarity| written expression| problem sensitivity
+OCCO:11305104	biomass power plant managers	oral comprehension| problem sensitivity| written comprehension| oral expression| deductive reasoning| speech recognition
+OCCO:11305106	hydroelectric production managers	written comprehension| oral expression| oral comprehension| problem sensitivity| deductive reasoning| inductive reasoning
+OCCO:11306100	purchasing managers	oral comprehension| fluency of ideas| written comprehension| oral expression| written expression| speech recognition
+OCCO:11307104	supply chain managers	written expression| written comprehension| oral expression| oral comprehension| problem sensitivity| information ordering
+OCCO:11311100	compensation and benefits managers	written expression| written comprehension| oral expression| oral comprehension| speech recognition| speech clarity
+OCCO:11312100	human resources managers	oral expression| oral comprehension| written comprehension| written expression| speech recognition| speech clarity
+OCCO:11313100	training and development managers	oral expression| written expression| written comprehension| speech clarity| oral comprehension| fluency of ideas
+OCCO:11902100	construction managers	problem sensitivity| information ordering| deductive reasoning| written comprehension| oral expression| oral comprehension
+OCCO:11903300	"education administrators, postsecondary"	written expression| written comprehension| problem sensitivity| oral expression| speech recognition| speech clarity
+OCCO:11904100	architectural and engineering managers	written comprehension| oral expression| oral comprehension| problem sensitivity| inductive reasoning| deductive reasoning
+OCCO:11904101	biofuels/biodiesel technology and product development managers	written comprehension| problem sensitivity| oral comprehension| deductive reasoning| written expression| information ordering
+OCCO:11905100	food service managers	oral expression| oral comprehension| problem sensitivity| written comprehension| speech clarity| deductive reasoning
+OCCO:11908100	lodging managers	oral expression| written expression| written comprehension| speech recognition| speech clarity| problem sensitivity
+OCCO:11911100	medical and health services managers	oral expression| written comprehension| oral comprehension| written expression| speech clarity| problem sensitivity
+OCCO:11912100	natural sciences managers	written expression| written comprehension| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:11912101	clinical research coordinators	written comprehension| oral expression| oral comprehension| written expression| speech recognition| inductive reasoning
+OCCO:11912102	water resource specialists	written comprehension| oral comprehension| written expression| problem sensitivity| inductive reasoning| deductive reasoning
+OCCO:11913100	postmasters and mail superintendents	written comprehension| oral expression| oral comprehension| speech recognition| speech clarity| deductive reasoning
+OCCO:11914100	"property, real estate, and community association managers"	written comprehension| oral expression| oral comprehension| speech clarity| problem sensitivity| written expression
+OCCO:11915100	social and community service managers	oral expression| oral comprehension| written comprehension| problem sensitivity| written expression| speech recognition
+OCCO:11916100	emergency management directors	oral expression| oral comprehension| written expression| written comprehension| problem sensitivity| inductive reasoning
+OCCO:11917901	fitness and wellness coordinators	oral expression| oral comprehension| deductive reasoning| written comprehension| speech recognition| speech clarity
+OCCO:11917902	spa managers	problem sensitivity| oral expression| oral comprehension| speech recognition| speech clarity| deductive reasoning
+OCCO:11919901	regulatory affairs managers	written comprehension| written expression| oral expression| oral comprehension| speech clarity| problem sensitivity
+OCCO:11919902	compliance managers	problem sensitivity| oral expression| written expression| written comprehension| oral comprehension| deductive reasoning
+OCCO:11919908	loss prevention managers	problem sensitivity| written expression| written comprehension| oral expression| oral comprehension| speech clarity
+OCCO:11919909	wind energy operations managers	oral comprehension| problem sensitivity| oral expression| written comprehension| speech recognition| speech clarity
+OCCO:11919911	brownfield redevelopment specialists and site managers	problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning| written expression
+OCCO:13101100	"agents and business managers of artists, performers, and athletes"	oral expression| oral comprehension| written comprehension| speech recognition| speech clarity| problem sensitivity
+OCCO:13102100	"buyers and purchasing agents, farm products"	oral expression| written comprehension| speech clarity| oral comprehension| deductive reasoning| speech recognition
+OCCO:13102200	"wholesale and retail buyers, except farm products"	oral expression| oral comprehension| written comprehension| deductive reasoning| speech clarity| problem sensitivity
+OCCO:13102300	"purchasing agents, except wholesale, retail, and farm products"	written comprehension| oral expression| oral comprehension| speech recognition| deductive reasoning| written expression
+OCCO:13103200	"insurance appraisers, auto damage"	oral expression| oral comprehension| written comprehension| problem sensitivity| written expression| speech recognition
+OCCO:13104101	environmental compliance inspectors	problem sensitivity| inductive reasoning| written comprehension| oral expression| oral comprehension| near vision
+OCCO:13104103	equal opportunity representatives and officers	written comprehension| oral comprehension| written expression| problem sensitivity| oral expression| inductive reasoning
+OCCO:13104104	government property inspectors and investigators	inductive reasoning| written expression| written comprehension| problem sensitivity| oral expression| oral comprehension
+OCCO:13104106	coroners	written comprehension| oral expression| oral comprehension| inductive reasoning| deductive reasoning| written expression
+OCCO:13104107	regulatory affairs specialists	written comprehension| written expression| oral expression| oral comprehension| problem sensitivity| speech clarity
+OCCO:13104108	customs brokers	written comprehension| deductive reasoning| written expression| oral expression| oral comprehension| near vision
+OCCO:13105100	cost estimators	oral expression| oral comprehension| number facility| mathematical reasoning| inductive reasoning| written comprehension
+OCCO:13107100	human resources specialists	written comprehension| oral expression| oral comprehension| written expression| speech recognition| deductive reasoning
+OCCO:13107400	farm labor contractors	oral comprehension| oral expression| speech clarity| speech recognition| problem sensitivity| near vision
+OCCO:13107500	labor relations specialists	oral expression| oral comprehension| written comprehension| problem sensitivity| written expression| deductive reasoning
+OCCO:13108100	logisticians	written comprehension| problem sensitivity| oral expression| oral comprehension| information ordering| inductive reasoning
+OCCO:13108101	logistics engineers	written comprehension| written expression| oral expression| oral comprehension| problem sensitivity| mathematical reasoning
+OCCO:13108102	logistics analysts	written comprehension| problem sensitivity| oral comprehension| inductive reasoning| deductive reasoning| oral expression
+OCCO:13111100	management analysts	oral comprehension| written comprehension| oral expression| written expression| inductive reasoning| problem sensitivity
+OCCO:13112100	"meeting, convention, and event planners"	written expression| written comprehension| speech recognition| oral expression| oral comprehension| problem sensitivity
+OCCO:13113100	fundraisers	oral expression| written expression| speech recognition| oral comprehension| written comprehension| speech clarity
+OCCO:13114100	"compensation, benefits, and job analysis specialists"	oral expression| written comprehension| oral comprehension| deductive reasoning| speech clarity| problem sensitivity
+OCCO:13115100	training and development specialists	oral expression| oral comprehension| written expression| written comprehension| speech clarity| speech recognition
+OCCO:13116100	market research analysts and marketing specialists	inductive reasoning| written expression| written comprehension| oral expression| oral comprehension| fluency of ideas
+OCCO:13116101	search marketing strategists	oral expression| written comprehension| oral comprehension| written expression| problem sensitivity| information ordering
+OCCO:13119904	business continuity planners	problem sensitivity| written expression| oral expression| oral comprehension| inductive reasoning| written comprehension
+OCCO:13119905	sustainability specialists	written comprehension| written expression| problem sensitivity| deductive reasoning| oral expression| oral comprehension
+OCCO:13119906	online merchants	written comprehension| written expression| problem sensitivity| oral expression| speech recognition| speech clarity
+OCCO:13119907	security management specialists	problem sensitivity| oral expression| oral comprehension| deductive reasoning| written expression| written comprehension
+OCCO:13203100	budget analysts	written comprehension| oral comprehension| number facility| mathematical reasoning| written expression| inductive reasoning
+OCCO:13204100	credit analysts	problem sensitivity| mathematical reasoning| oral expression| oral comprehension| number facility| inductive reasoning
+OCCO:13205200	personal financial advisors	written comprehension| oral expression| oral comprehension| inductive reasoning| deductive reasoning| written expression
+OCCO:13205300	insurance underwriters	written comprehension| written expression| inductive reasoning| oral expression| oral comprehension| deductive reasoning
+OCCO:13206100	financial examiners	written comprehension| problem sensitivity| oral expression| near vision| deductive reasoning| written expression
+OCCO:13207100	credit counselors	oral comprehension| written comprehension| oral expression| written expression| problem sensitivity| deductive reasoning
+OCCO:13207200	loan officers	oral expression| oral comprehension| speech clarity| written comprehension| speech recognition| problem sensitivity
+OCCO:13208100	"tax examiners and collectors, and revenue agents"	written comprehension| problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:13208200	tax preparers	oral comprehension| written comprehension| near vision| deductive reasoning| oral expression| mathematical reasoning
+OCCO:13209901	financial quantitative analysts	mathematical reasoning| number facility| written comprehension| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:13209904	"fraud examiners, investigators and analysts"	written comprehension| written expression| oral expression| inductive reasoning| speech clarity| problem sensitivity
+OCCO:15121100	computer systems analysts	oral comprehension| written comprehension| problem sensitivity| deductive reasoning| oral expression| near vision
+OCCO:15121200	information security analysts	written comprehension| problem sensitivity| oral comprehension| inductive reasoning| deductive reasoning| written expression
+OCCO:15122100	computer and information research scientists	inductive reasoning| deductive reasoning| problem sensitivity| written comprehension| oral expression| oral comprehension
+OCCO:15123100	computer network support specialists	problem sensitivity| oral comprehension| deductive reasoning| oral expression| inductive reasoning| written comprehension
+OCCO:15123200	computer user support specialists	written comprehension| oral expression| oral comprehension| near vision| speech clarity| information ordering
+OCCO:15124100	computer network architects	written comprehension| oral comprehension| information ordering| deductive reasoning| written expression| problem sensitivity
+OCCO:15124101	telecommunications engineering specialists	oral comprehension| oral expression| written comprehension| problem sensitivity| near vision| information ordering
+OCCO:15124200	database administrators	problem sensitivity| information ordering| deductive reasoning| oral comprehension| inductive reasoning| written comprehension
+OCCO:15124300	database architects	deductive reasoning| written comprehension| problem sensitivity| information ordering| oral comprehension| inductive reasoning
+OCCO:15124301	data warehousing specialists	written comprehension| information ordering| oral comprehension| inductive reasoning| deductive reasoning| near vision
+OCCO:15124400	network and computer systems administrators	problem sensitivity| written comprehension| information ordering| oral expression| inductive reasoning| deductive reasoning
+OCCO:15125100	computer programmers	written comprehension| oral comprehension| near vision| problem sensitivity| information ordering| inductive reasoning
+OCCO:15125400	web developers	deductive reasoning| oral comprehension| written comprehension| problem sensitivity| near vision| information ordering
+OCCO:15125501	video game designers	originality| near vision| fluency of ideas| written comprehension| problem sensitivity| oral expression
+OCCO:15129901	web administrators	written comprehension| oral comprehension| problem sensitivity| oral expression| near vision| deductive reasoning
+OCCO:15129903	document management specialists	written comprehension| oral comprehension| written expression| oral expression| problem sensitivity| information ordering
+OCCO:15129908	computer systems engineers/architects	problem sensitivity| written expression| written comprehension| oral comprehension| originality| oral expression
+OCCO:15129909	information technology project managers	written expression| written comprehension| oral expression| oral comprehension| problem sensitivity| speech recognition
+OCCO:15201100	actuaries	mathematical reasoning| number facility| deductive reasoning| written comprehension| oral comprehension| near vision
+OCCO:15202100	mathematicians	mathematical reasoning| number facility| deductive reasoning| written comprehension| information ordering| inductive reasoning
+OCCO:15203100	operations research analysts	mathematical reasoning| written comprehension| number facility| inductive reasoning| oral expression| deductive reasoning
+OCCO:15204100	statisticians	mathematical reasoning| number facility| inductive reasoning| deductive reasoning| near vision| information ordering
+OCCO:15204101	biostatisticians	mathematical reasoning| written comprehension| inductive reasoning| deductive reasoning| oral expression| oral comprehension
+OCCO:15205101	business intelligence analysts	written comprehension| deductive reasoning| oral expression| oral comprehension| inductive reasoning| speech recognition
+OCCO:15205102	clinical data managers	information ordering| deductive reasoning| written comprehension| oral expression| oral comprehension| written expression
+OCCO:15209901	bioinformatics technicians	written comprehension| oral comprehension| inductive reasoning| deductive reasoning| written expression| mathematical reasoning
+OCCO:17101100	"architects, except landscape and naval"	visualization| fluency of ideas| written comprehension| problem sensitivity| originality| oral expression
+OCCO:17101200	landscape architects	oral expression| oral comprehension| written comprehension| visualization| written expression| problem sensitivity
+OCCO:17102100	cartographers and photogrammetrists	written comprehension| oral comprehension| near vision| inductive reasoning| written expression| oral expression
+OCCO:17102200	surveyors	written comprehension| mathematical reasoning| deductive reasoning| speech recognition| speech clarity| oral expression
+OCCO:17102201	geodetic surveyors	mathematical reasoning| written comprehension| oral expression| oral comprehension| number facility| information ordering
+OCCO:17201100	aerospace engineers	written comprehension| problem sensitivity| information ordering| inductive reasoning| deductive reasoning| written expression
+OCCO:17202100	agricultural engineers	written comprehension| oral comprehension| inductive reasoning| problem sensitivity| oral expression| deductive reasoning
+OCCO:17204100	chemical engineers	written comprehension| problem sensitivity| oral comprehension| mathematical reasoning| information ordering| deductive reasoning
+OCCO:17205100	civil engineers	problem sensitivity| oral expression| oral comprehension| information ordering| inductive reasoning| deductive reasoning
+OCCO:17205101	transportation engineers	deductive reasoning| written expression| written comprehension| problem sensitivity| oral expression| oral comprehension
+OCCO:17205102	water/wastewater engineers	written comprehension| problem sensitivity| oral expression| oral comprehension| deductive reasoning| written expression
+OCCO:17206100	computer hardware engineers	written comprehension| problem sensitivity| oral comprehension| inductive reasoning| deductive reasoning| oral expression
+OCCO:17207100	electrical engineers	written comprehension| problem sensitivity| oral comprehension| deductive reasoning| written expression| information ordering
+OCCO:17207200	"electronics engineers, except computer"	written comprehension| problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:17207201	radio frequency identification device specialists	problem sensitivity| oral comprehension| deductive reasoning| written comprehension| inductive reasoning| oral expression
+OCCO:17208100	environmental engineers	written comprehension| problem sensitivity| oral comprehension| written expression| oral expression| deductive reasoning
+OCCO:17211102	fire-prevention and protection engineers	problem sensitivity| inductive reasoning| deductive reasoning| oral expression| written comprehension| oral comprehension
+OCCO:17211200	industrial engineers	written comprehension| oral comprehension| problem sensitivity| oral expression| written expression| near vision
+OCCO:17211201	human factors engineers and ergonomists	written comprehension| inductive reasoning| deductive reasoning| written expression| problem sensitivity| information ordering
+OCCO:17211202	validation engineers	written expression| written comprehension| deductive reasoning| problem sensitivity| oral expression| oral comprehension
+OCCO:17211203	manufacturing engineers	visualization| problem sensitivity| oral comprehension| near vision| inductive reasoning| deductive reasoning
+OCCO:17213100	materials engineers	written comprehension| problem sensitivity| oral comprehension| inductive reasoning| deductive reasoning| written expression
+OCCO:17214100	mechanical engineers	written comprehension| oral comprehension| information ordering| problem sensitivity| mathematical reasoning| inductive reasoning
+OCCO:17214101	fuel cell engineers	written comprehension| written expression| problem sensitivity| oral comprehension| mathematical reasoning| inductive reasoning
+OCCO:17214102	automotive engineers	written comprehension| oral expression| oral comprehension| inductive reasoning| deductive reasoning| problem sensitivity
+OCCO:17215100	"mining and geological engineers, including mining safety engineers"	written expression| written comprehension| problem sensitivity| oral expression| oral comprehension| information ordering
+OCCO:17216100	nuclear engineers	problem sensitivity| written comprehension| oral expression| oral comprehension| written expression| information ordering
+OCCO:17217100	petroleum engineers	written comprehension| oral expression| oral comprehension| written expression| problem sensitivity| inductive reasoning
+OCCO:17219905	mechatronics engineers	oral comprehension| written expression| problem sensitivity| oral expression| inductive reasoning| deductive reasoning
+OCCO:17219906	microsystems engineers	written comprehension| oral comprehension| oral expression| inductive reasoning| deductive reasoning| written expression
+OCCO:17219907	photonics engineers	written comprehension| information ordering| inductive reasoning| deductive reasoning| written expression| oral comprehension
+OCCO:17219908	robotics engineers	problem sensitivity| written comprehension| oral comprehension| information ordering| inductive reasoning| deductive reasoning
+OCCO:17219909	nanosystems engineers	oral expression| oral comprehension| inductive reasoning| deductive reasoning| written expression| written comprehension
+OCCO:17219910	wind energy engineers	deductive reasoning| written comprehension| mathematical reasoning| inductive reasoning| number facility| written expression
+OCCO:17219911	solar energy systems engineers	written comprehension| oral comprehension| written expression| oral expression| deductive reasoning| problem sensitivity
+OCCO:17301300	mechanical drafters	near vision| visualization| mathematical reasoning| written expression| speech recognition| speech clarity
+OCCO:17302401	robotics technicians	deductive reasoning| written comprehension| oral comprehension| near vision| inductive reasoning| problem sensitivity
+OCCO:17302701	automotive engineering technicians	written comprehension| deductive reasoning| problem sensitivity| near vision| inductive reasoning| oral comprehension
+OCCO:17302901	non-destructive testing specialists	problem sensitivity| near vision| written comprehension| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:17302908	photonics technicians	problem sensitivity| written expression| written comprehension| oral comprehension| near vision| information ordering
+OCCO:19101100	animal scientists	oral expression| inductive reasoning| written expression| written comprehension| oral comprehension| deductive reasoning
+OCCO:19101200	food scientists and technologists	written comprehension| problem sensitivity| oral comprehension| inductive reasoning| oral expression| deductive reasoning
+OCCO:19101300	soil and plant scientists	written comprehension| oral comprehension| written expression| oral expression| information ordering| inductive reasoning
+OCCO:19102100	biochemists and biophysicists	written comprehension| inductive reasoning| deductive reasoning| written expression| oral expression| oral comprehension
+OCCO:19102200	microbiologists	written comprehension| inductive reasoning| written expression| problem sensitivity| oral expression| oral comprehension
+OCCO:19102300	zoologists and wildlife biologists	written comprehension| oral comprehension| written expression| oral expression| inductive reasoning| deductive reasoning
+OCCO:19102901	bioinformatics scientists	written expression| written comprehension| oral comprehension| problem sensitivity| oral expression| information ordering
+OCCO:19102902	molecular and cellular biologists	written comprehension| inductive reasoning| oral comprehension| written expression| oral expression| near vision
+OCCO:19102903	geneticists	written comprehension| written expression| oral comprehension| inductive reasoning| problem sensitivity| oral expression
+OCCO:19102904	biologists	inductive reasoning| written expression| written comprehension| oral expression| oral comprehension| deductive reasoning
+OCCO:19103102	range managers	written comprehension| oral comprehension| speech clarity| problem sensitivity| oral expression| deductive reasoning
+OCCO:19103103	park naturalists	oral expression| speech clarity| oral comprehension| written comprehension| written expression| speech recognition
+OCCO:19103200	foresters	written comprehension| oral expression| oral comprehension| written expression| deductive reasoning| problem sensitivity
+OCCO:19104100	epidemiologists	problem sensitivity| written comprehension| oral comprehension| inductive reasoning| deductive reasoning| written expression
+OCCO:19104200	"medical scientists, except epidemiologists"	written comprehension| oral comprehension| inductive reasoning| written expression| problem sensitivity| oral expression
+OCCO:19201100	astronomers	mathematical reasoning| inductive reasoning| deductive reasoning| written expression| written comprehension| oral expression
+OCCO:19201200	physicists	mathematical reasoning| written comprehension| oral comprehension| number facility| inductive reasoning| originality
+OCCO:19202100	atmospheric and space scientists	written expression| written comprehension| oral expression| speech clarity| oral comprehension| problem sensitivity
+OCCO:19203100	chemists	written comprehension| oral comprehension| inductive reasoning| deductive reasoning| problem sensitivity| near vision
+OCCO:19203200	materials scientists	written comprehension| oral expression| problem sensitivity| oral comprehension| deductive reasoning| written expression
+OCCO:19204100	"environmental scientists and specialists, including health"	written comprehension| oral comprehension| written expression| problem sensitivity| oral expression| inductive reasoning
+OCCO:19204102	environmental restoration planners	oral comprehension| written expression| written comprehension| oral expression| inductive reasoning| deductive reasoning
+OCCO:19204103	industrial ecologists	deductive reasoning| written expression| inductive reasoning| written comprehension| problem sensitivity| oral expression
+OCCO:19204200	"geoscientists, except hydrologists and geographers"	inductive reasoning| written expression| written comprehension| problem sensitivity| oral expression| oral comprehension
+OCCO:19204300	hydrologists	written expression| written comprehension| oral expression| oral comprehension| problem sensitivity| mathematical reasoning
+OCCO:19209901	remote sensing scientists and technologists	written comprehension| problem sensitivity| oral expression| near vision| mathematical reasoning| information ordering
+OCCO:19301100	economists	written expression| written comprehension| inductive reasoning| deductive reasoning| speech clarity| oral expression
+OCCO:19301101	environmental economists	written comprehension| written expression| mathematical reasoning| inductive reasoning| oral expression| deductive reasoning
+OCCO:19302200	survey researchers	oral expression| oral comprehension| written expression| written comprehension| mathematical reasoning| inductive reasoning
+OCCO:19303200	industrial-organizational psychologists	written expression| written comprehension| oral expression| oral comprehension| speech recognition| speech clarity
+OCCO:19303400	school psychologists	oral comprehension| written comprehension| oral expression| written expression| speech clarity| problem sensitivity
+OCCO:19304100	sociologists	written comprehension| oral expression| written expression| oral comprehension| deductive reasoning| speech clarity
+OCCO:19305100	urban and regional planners	oral expression| written expression| written comprehension| oral comprehension| speech clarity| problem sensitivity
+OCCO:19309200	geographers	written expression| written comprehension| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:19309300	historians	written comprehension| written expression| oral expression| oral comprehension| inductive reasoning| speech clarity
+OCCO:19309400	political scientists	written comprehension| oral expression| written expression| speech clarity| oral comprehension| inductive reasoning
+OCCO:19309901	transportation planners	written comprehension| oral expression| written expression| problem sensitivity| oral comprehension| inductive reasoning
+OCCO:19401200	agricultural technicians	written comprehension| near vision| problem sensitivity| oral expression| oral comprehension| written expression
+OCCO:19401201	precision agriculture technicians	written comprehension| oral comprehension| inductive reasoning| deductive reasoning| written expression| oral expression
+OCCO:19401300	food science technicians	written expression| oral expression| oral comprehension| inductive reasoning| written comprehension| problem sensitivity
+OCCO:19402100	biological technicians	oral comprehension| near vision| inductive reasoning| oral expression| information ordering| written expression
+OCCO:19403100	chemical technicians	written comprehension| oral comprehension| information ordering| near vision| inductive reasoning| deductive reasoning
+OCCO:19404200	"environmental science and protection technicians, including health"	written comprehension| oral comprehension| problem sensitivity| oral expression| written expression| deductive reasoning
+OCCO:19405102	nuclear monitoring technicians	problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning| written comprehension
+OCCO:19406100	social science research assistants	written comprehension| oral expression| oral comprehension| written expression| information ordering| near vision
+OCCO:19407100	forest and conservation technicians	problem sensitivity| oral expression| oral comprehension| information ordering| written comprehension| inductive reasoning
+OCCO:19409200	forensic science technicians	inductive reasoning| flexibility of closure| written comprehension| oral comprehension| near vision| deductive reasoning
+OCCO:19409901	quality control analysts	oral comprehension| near vision| written comprehension| oral expression| written expression| problem sensitivity
+OCCO:19409903	remote sensing technicians	problem sensitivity| information ordering| deductive reasoning| oral expression| oral comprehension| near vision
+OCCO:19501100	occupational health and safety specialists	problem sensitivity| oral comprehension| inductive reasoning| deductive reasoning| written expression| written comprehension
+OCCO:19501200	occupational health and safety technicians	oral expression| oral comprehension| written comprehension| inductive reasoning| deductive reasoning| written expression
+OCCO:21101100	substance abuse and behavioral disorder counselors	oral expression| oral comprehension| written expression| written comprehension| speech clarity| problem sensitivity
+OCCO:21101300	marriage and family therapists	oral comprehension| speech clarity| problem sensitivity| oral expression| written expression| written comprehension
+OCCO:21101400	mental health counselors	oral expression| oral comprehension| problem sensitivity| written expression| written comprehension| inductive reasoning
+OCCO:21101500	rehabilitation counselors	written expression| written comprehension| speech clarity| oral expression| oral comprehension| speech recognition
+OCCO:21102100	"child, family, and school social workers"	oral expression| oral comprehension| problem sensitivity| written expression| written comprehension| speech clarity
+OCCO:21102200	healthcare social workers	oral expression| oral comprehension| written comprehension| problem sensitivity| inductive reasoning| deductive reasoning
+OCCO:21102300	mental health and substance abuse social workers	oral comprehension| oral expression| problem sensitivity| written expression| written comprehension| inductive reasoning
+OCCO:21109200	probation officers and correctional treatment specialists	problem sensitivity| oral expression| oral comprehension| speech recognition| inductive reasoning| deductive reasoning
+OCCO:21109300	social and human service assistants	oral expression| speech clarity| problem sensitivity| oral comprehension| written expression| written comprehension
+OCCO:21109400	community health workers	oral comprehension| oral expression| written comprehension| written expression| speech recognition| speech clarity
+OCCO:21201100	clergy	oral expression| speech clarity| speech recognition| written expression| written comprehension| oral comprehension
+OCCO:21202100	"directors, religious activities and education"	written comprehension| oral expression| oral comprehension| written expression| speech recognition| speech clarity
+OCCO:23101100	lawyers	oral expression| written comprehension| oral comprehension| speech clarity| written expression| inductive reasoning
+OCCO:23101200	judicial law clerks	written comprehension| oral expression| oral comprehension| written expression| speech recognition| inductive reasoning
+OCCO:23102100	"administrative law judges, adjudicators, and hearing officers"	oral comprehension| written expression| written comprehension| oral expression| inductive reasoning| deductive reasoning
+OCCO:23102200	"arbitrators, mediators, and conciliators"	written expression| written comprehension| speech clarity| oral expression| oral comprehension| inductive reasoning
+OCCO:23102300	"judges, magistrate judges, and magistrates"	deductive reasoning| oral comprehension| inductive reasoning| written comprehension| speech clarity| oral expression
+OCCO:23201100	paralegals and legal assistants	written comprehension| written expression| oral expression| oral comprehension| near vision| speech recognition
+OCCO:23209300	"title examiners, abstractors, and searchers"	written comprehension| oral expression| oral comprehension| written expression| speech recognition| near vision
+OCCO:25101100	"business teachers, postsecondary"	oral expression| written comprehension| speech clarity| written expression| oral comprehension| deductive reasoning
+OCCO:25102100	"computer science teachers, postsecondary"	written comprehension| oral expression| speech clarity| oral comprehension| deductive reasoning| written expression
+OCCO:25102200	"mathematical science teachers, postsecondary"	mathematical reasoning| oral expression| written expression| written comprehension| oral comprehension| number facility
+OCCO:25103100	"architecture teachers, postsecondary"	written comprehension| oral expression| written expression| speech clarity| oral comprehension| inductive reasoning
+OCCO:25103200	"engineering teachers, postsecondary"	oral expression| written expression| written comprehension| oral comprehension| speech clarity| inductive reasoning
+OCCO:25104100	"agricultural sciences teachers, postsecondary"	oral expression| speech clarity| oral comprehension| inductive reasoning| written expression| written comprehension
+OCCO:25104200	"biological science teachers, postsecondary"	oral expression| written comprehension| written expression| speech clarity| oral comprehension| inductive reasoning
+OCCO:25104300	"forestry and conservation science teachers, postsecondary"	oral expression| written expression| written comprehension| speech clarity| oral comprehension| speech recognition
+OCCO:25105100	"atmospheric, earth, marine, and space sciences teachers, postsecondary"	oral expression| speech clarity| written comprehension| oral comprehension| written expression| inductive reasoning
+OCCO:25105200	"chemistry teachers, postsecondary"	oral expression| written expression| written comprehension| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:25105300	"environmental science teachers, postsecondary"	oral expression| written comprehension| speech clarity| oral comprehension| written expression| inductive reasoning
+OCCO:25105400	"physics teachers, postsecondary"	oral expression| written comprehension| oral comprehension| written expression| speech clarity| inductive reasoning
+OCCO:25106100	"anthropology and archeology teachers, postsecondary"	oral expression| written comprehension| speech clarity| written expression| oral comprehension| inductive reasoning
+OCCO:25106200	"area, ethnic, and cultural studies teachers, postsecondary"	oral expression| written comprehension| oral comprehension| inductive reasoning| written expression| deductive reasoning
+OCCO:25106300	"economics teachers, postsecondary"	oral expression| written comprehension| oral comprehension| written expression| speech clarity| deductive reasoning
+OCCO:25106400	"geography teachers, postsecondary"	oral expression| speech clarity| written expression| written comprehension| oral comprehension| deductive reasoning
+OCCO:25106500	"political science teachers, postsecondary"	oral expression| oral comprehension| written comprehension| written expression| speech clarity| near vision
+OCCO:25106600	"psychology teachers, postsecondary"	oral expression| speech clarity| written expression| written comprehension| oral comprehension| inductive reasoning
+OCCO:25106700	"sociology teachers, postsecondary"	oral expression| written expression| written comprehension| oral comprehension| speech clarity| deductive reasoning
+OCCO:25107100	"health specialties teachers, postsecondary"	oral expression| written comprehension| oral comprehension| written expression| deductive reasoning| speech clarity
+OCCO:25107200	"nursing instructors and teachers, postsecondary"	oral expression| written expression| written comprehension| speech clarity| problem sensitivity| oral comprehension
+OCCO:25108100	"education teachers, postsecondary"	oral expression| written expression| written comprehension| speech clarity| oral comprehension| speech recognition
+OCCO:25108200	"library science teachers, postsecondary"	written comprehension| oral expression| oral comprehension| written expression| speech clarity| inductive reasoning
+OCCO:25111100	"criminal justice and law enforcement teachers, postsecondary"	written comprehension| oral expression| written expression| oral comprehension| inductive reasoning| speech clarity
+OCCO:25111200	"law teachers, postsecondary"	oral expression| written comprehension| speech clarity| oral comprehension| written expression| inductive reasoning
+OCCO:25111300	"social work teachers, postsecondary"	oral expression| speech clarity| written expression| written comprehension| oral comprehension| inductive reasoning
+OCCO:25112100	"art, drama, and music teachers, postsecondary"	oral expression| oral comprehension| written expression| written comprehension| speech clarity| speech recognition
+OCCO:25112200	"communications teachers, postsecondary"	oral expression| written expression| written comprehension| speech clarity| oral comprehension| inductive reasoning
+OCCO:25112300	"english language and literature teachers, postsecondary"	written comprehension| oral expression| oral comprehension| written expression| speech clarity| inductive reasoning
+OCCO:25112400	"foreign language and literature teachers, postsecondary"	speech clarity| oral expression| oral comprehension| written comprehension| speech recognition| written expression
+OCCO:25112500	"history teachers, postsecondary"	oral expression| written comprehension| written expression| speech clarity| oral comprehension| inductive reasoning
+OCCO:25112600	"philosophy and religion teachers, postsecondary"	oral expression| written comprehension| written expression| speech clarity| oral comprehension| deductive reasoning
+OCCO:25119300	"recreation and fitness studies teachers, postsecondary"	oral expression| written expression| written comprehension| speech clarity| oral comprehension| near vision
+OCCO:25201100	"preschool teachers, except special education"	oral expression| speech clarity| problem sensitivity| oral comprehension| speech recognition| originality
+OCCO:25201200	"kindergarten teachers, except special education"	oral expression| written comprehension| written expression| speech clarity| problem sensitivity| oral comprehension
+OCCO:25202100	"elementary school teachers, except special education"	oral expression| written expression| written comprehension| speech recognition| speech clarity| problem sensitivity
+OCCO:25202200	"middle school teachers, except special and career/technical education"	oral expression| written comprehension| speech clarity| oral comprehension| written expression| speech recognition
+OCCO:25202300	"career/technical education teachers, middle school"	oral expression| written comprehension| speech clarity| oral comprehension| written expression| speech recognition
+OCCO:25203100	"secondary school teachers, except special and career/technical education"	oral expression| oral comprehension| written comprehension| speech recognition| speech clarity| deductive reasoning
+OCCO:25203200	"career/technical education teachers, secondary school"	speech clarity| oral expression| oral comprehension| written expression| written comprehension| problem sensitivity
+OCCO:25205700	"special education teachers, middle school"	written comprehension| written expression| oral expression| oral comprehension| speech recognition| speech clarity
+OCCO:25205800	"special education teachers, secondary school"	speech clarity| written expression| written comprehension| oral expression| oral comprehension| speech recognition
+OCCO:25205901	adapted physical education specialists	oral expression| oral comprehension| written comprehension| written expression| speech recognition| speech clarity
+OCCO:25304100	tutors	oral expression| speech clarity| oral comprehension| written comprehension| written expression| speech recognition
+OCCO:25401100	archivists	information ordering| written expression| written comprehension| oral comprehension| near vision| category flexibility
+OCCO:25401200	curators	written comprehension| oral expression| oral comprehension| written expression| near vision| deductive reasoning
+OCCO:25401300	museum technicians and conservators	oral expression| near vision| oral comprehension| information ordering| written expression| written comprehension
+OCCO:25403100	library technicians	oral expression| oral comprehension| written comprehension| speech recognition| speech clarity| near vision
+OCCO:25903100	instructional coordinators	written comprehension| written expression| oral expression| speech clarity| oral comprehension| speech recognition
+OCCO:27101100	art directors	originality| fluency of ideas| written comprehension| oral expression| oral comprehension| near vision
+OCCO:27101200	craft artists	originality| finger dexterity| manual dexterity| arm-hand steadiness| fluency of ideas| visualization
+OCCO:27101300	"fine artists, including painters, sculptors, and illustrators"	originality| visualization| fluency of ideas| visual color discrimination| arm-hand steadiness| near vision
+OCCO:27102100	commercial and industrial designers	oral comprehension| near vision| speech recognition| originality| oral expression| deductive reasoning
+OCCO:27102200	fashion designers	oral expression| originality| oral comprehension| written comprehension| inductive reasoning| fluency of ideas
+OCCO:27102300	floral designers	oral expression| oral comprehension| visualization| visual color discrimination| speech clarity| originality
+OCCO:27102400	graphic designers	originality| near vision| fluency of ideas| written comprehension| oral expression| oral comprehension
+OCCO:27102500	interior designers	originality| written comprehension| visualization| oral expression| oral comprehension| near vision
+OCCO:27102600	merchandise displayers and window trimmers	visualization| speech clarity| oral expression| oral comprehension| speech recognition| manual dexterity
+OCCO:27102700	set and exhibit designers	originality| fluency of ideas| visualization| oral comprehension| written comprehension| oral expression
+OCCO:27201100	actors	oral expression| oral comprehension| written comprehension| speech clarity| memorization| originality
+OCCO:27201204	talent directors	oral expression| written comprehension| oral comprehension| written expression| inductive reasoning| originality
+OCCO:27202100	athletes and sports competitors	oral comprehension| static strength| stamina| problem sensitivity| oral expression| speech clarity
+OCCO:27202200	coaches and scouts	oral expression| speech clarity| problem sensitivity| oral comprehension| deductive reasoning| speech recognition
+OCCO:27202300	"umpires, referees, and other sports officials"	near vision| far vision| oral expression| speech clarity| problem sensitivity| oral comprehension
+OCCO:27203100	dancers	gross body coordination| stamina| extent flexibility| trunk strength| gross body equilibrium| dynamic strength
+OCCO:27203200	choreographers	gross body coordination| oral comprehension| originality| oral expression| fluency of ideas| speech clarity
+OCCO:27303100	public relations specialists	oral comprehension| oral expression| written expression| speech clarity| written comprehension| speech recognition
+OCCO:27304100	editors	written comprehension| written expression| oral expression| oral comprehension| speech recognition| speech clarity
+OCCO:27304200	technical writers	written expression| written comprehension| near vision| oral comprehension| oral expression| deductive reasoning
+OCCO:27304305	"poets, lyricists and creative writers"	written expression| originality| fluency of ideas| written comprehension| near vision| oral expression
+OCCO:27309100	interpreters and translators	speech recognition| oral expression| oral comprehension| speech clarity| written comprehension| written expression
+OCCO:27401200	broadcast technicians	problem sensitivity| near vision| oral comprehension| written comprehension| speech recognition| oral expression
+OCCO:27401400	sound engineering technicians	oral expression| near vision| written expression| oral comprehension| written comprehension| speech recognition
+OCCO:27402100	photographers	oral comprehension| oral expression| visualization| originality| near vision| far vision
+OCCO:27403200	film and video editors	near vision| written comprehension| oral comprehension| speech clarity| oral expression| information ordering
+OCCO:29101100	chiropractors	written comprehension| problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:29102100	"dentists, general"	problem sensitivity| finger dexterity| near vision| inductive reasoning| deductive reasoning| arm-hand steadiness
+OCCO:29102200	oral and maxillofacial surgeons	arm-hand steadiness| near vision| finger dexterity| problem sensitivity| oral expression| oral comprehension
+OCCO:29102300	orthodontists	problem sensitivity| oral expression| oral comprehension| near vision| inductive reasoning| finger dexterity
+OCCO:29102400	prosthodontists	oral expression| near vision| oral comprehension| problem sensitivity| finger dexterity| deductive reasoning
+OCCO:29103100	dietitians and nutritionists	written expression| written comprehension| problem sensitivity| oral expression| oral comprehension| deductive reasoning
+OCCO:29104100	optometrists	near vision| inductive reasoning| deductive reasoning| problem sensitivity| oral expression| oral comprehension
+OCCO:29105100	pharmacists	written comprehension| oral comprehension| problem sensitivity| oral expression| near vision| written expression
+OCCO:29107100	physician assistants	oral expression| oral comprehension| inductive reasoning| deductive reasoning| written comprehension| problem sensitivity
+OCCO:29107101	anesthesiologist assistants	problem sensitivity| oral comprehension| written comprehension| inductive reasoning| deductive reasoning| selective attention
+OCCO:29108100	podiatrists	problem sensitivity| inductive reasoning| deductive reasoning| written expression| written comprehension| speech recognition
+OCCO:29112200	occupational therapists	problem sensitivity| speech clarity| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:29112201	"low vision therapists, orientation and mobility specialists, and vision rehabilitation therapists"	oral expression| written comprehension| problem sensitivity| oral comprehension| written expression| speech clarity
+OCCO:29112300	physical therapists	written expression| written comprehension| problem sensitivity| oral expression| oral comprehension| inductive reasoning
+OCCO:29112400	radiation therapists	oral comprehension| problem sensitivity| oral expression| written comprehension| written expression| information ordering
+OCCO:29112500	recreational therapists	oral expression| oral comprehension| speech clarity| problem sensitivity| written expression| inductive reasoning
+OCCO:29112600	respiratory therapists	problem sensitivity| oral expression| inductive reasoning| oral comprehension| information ordering| deductive reasoning
+OCCO:29112700	speech-language pathologists	speech recognition| oral comprehension| written expression| speech clarity| inductive reasoning| deductive reasoning
+OCCO:29112800	exercise physiologists	oral expression| oral comprehension| written comprehension| deductive reasoning| written expression| speech clarity
+OCCO:29112901	art therapists	speech clarity| oral expression| oral comprehension| deductive reasoning| speech recognition| inductive reasoning
+OCCO:29112902	music therapists	oral expression| oral comprehension| written expression| written comprehension| speech recognition| speech clarity
+OCCO:29113100	veterinarians	problem sensitivity| inductive reasoning| oral expression| deductive reasoning| near vision| written comprehension
+OCCO:29114100	registered nurses	problem sensitivity| oral expression| oral comprehension| written comprehension| inductive reasoning| deductive reasoning
+OCCO:29114101	acute care nurses	problem sensitivity| oral comprehension| written comprehension| speech clarity| oral expression| information ordering
+OCCO:29114102	advanced practice psychiatric nurses	problem sensitivity| oral expression| oral comprehension| written expression| written comprehension| speech clarity
+OCCO:29114103	critical care nurses	speech clarity| problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:29114104	clinical nurse specialists	oral expression| problem sensitivity| oral comprehension| written expression| written comprehension| speech clarity
+OCCO:29115100	nurse anesthetists	problem sensitivity| oral comprehension| written comprehension| speech clarity| oral expression| near vision
+OCCO:29116100	nurse midwives	written comprehension| problem sensitivity| oral expression| oral comprehension| deductive reasoning| inductive reasoning
+OCCO:29117100	nurse practitioners	oral comprehension| written comprehension| problem sensitivity| oral expression| inductive reasoning| deductive reasoning
+OCCO:29118100	audiologists	written comprehension| problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:29121100	anesthesiologists	problem sensitivity| oral comprehension| deductive reasoning| written comprehension| inductive reasoning| oral expression
+OCCO:29121300	dermatologists	problem sensitivity| oral expression| oral comprehension| inductive reasoning| near vision| deductive reasoning
+OCCO:29121700	neurologists	inductive reasoning| deductive reasoning| problem sensitivity| oral expression| oral comprehension| written comprehension
+OCCO:29121800	obstetricians and gynecologists	problem sensitivity| inductive reasoning| oral comprehension| written comprehension| oral expression| deductive reasoning
+OCCO:29122100	"pediatricians, general"	oral expression| oral comprehension| inductive reasoning| problem sensitivity| speech clarity| deductive reasoning
+OCCO:29122300	psychiatrists	oral comprehension| oral expression| written comprehension| written expression| inductive reasoning| deductive reasoning
+OCCO:29122400	radiologists	problem sensitivity| inductive reasoning| written comprehension| oral expression| oral comprehension| near vision
+OCCO:29122901	allergists and immunologists	problem sensitivity| oral expression| oral comprehension| inductive reasoning| written comprehension| deductive reasoning
+OCCO:29122902	hospitalists	oral comprehension| inductive reasoning| problem sensitivity| oral expression| written expression| written comprehension
+OCCO:29122903	urologists	problem sensitivity| inductive reasoning| written expression| written comprehension| oral comprehension| deductive reasoning
+OCCO:29122904	physical medicine and rehabilitation physicians	problem sensitivity| oral expression| inductive reasoning| deductive reasoning| written comprehension| oral comprehension
+OCCO:29122905	preventive medicine physicians	oral expression| inductive reasoning| problem sensitivity| oral comprehension| deductive reasoning| written expression
+OCCO:29122906	sports medicine physicians	problem sensitivity| oral comprehension| written comprehension| oral expression| inductive reasoning| written expression
+OCCO:29129100	acupuncturists	inductive reasoning| problem sensitivity| oral comprehension| deductive reasoning| near vision| written comprehension
+OCCO:29129200	dental hygienists	problem sensitivity| near vision| oral expression| oral comprehension| finger dexterity| arm-hand steadiness
+OCCO:29129901	naturopathic physicians	problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning| written comprehension
+OCCO:29129902	orthoptists	problem sensitivity| oral expression| oral comprehension| speech clarity| inductive reasoning| deductive reasoning
+OCCO:29201100	medical and clinical laboratory technologists	written comprehension| near vision| oral comprehension| inductive reasoning| deductive reasoning| problem sensitivity
+OCCO:29201101	cytogenetic technologists	inductive reasoning| deductive reasoning| oral comprehension| written comprehension| problem sensitivity| oral expression
+OCCO:29201102	cytotechnologists	problem sensitivity| near vision| finger dexterity| oral comprehension| written comprehension| inductive reasoning
+OCCO:29201200	medical and clinical laboratory technicians	near vision| problem sensitivity| oral expression| information ordering| oral comprehension| written comprehension
+OCCO:29203100	cardiovascular technologists and technicians	problem sensitivity| oral expression| oral comprehension| near vision| speech recognition| speech clarity
+OCCO:29203200	diagnostic medical sonographers	oral comprehension| written comprehension| problem sensitivity| oral expression| near vision| written expression
+OCCO:29203300	nuclear medicine technologists	oral expression| oral comprehension| problem sensitivity| near vision| written comprehension| information ordering
+OCCO:29203500	magnetic resonance imaging technologists	oral comprehension| oral expression| problem sensitivity| near vision| written comprehension| written expression
+OCCO:29205100	dietetic technicians	oral comprehension| oral expression| deductive reasoning| problem sensitivity| written comprehension| near vision
+OCCO:29205200	pharmacy technicians	oral comprehension| near vision| written comprehension| oral expression| speech recognition| problem sensitivity
+OCCO:29205300	psychiatric technicians	problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning| written expression
+OCCO:29205500	surgical technologists	oral comprehension| problem sensitivity| near vision| speech recognition| arm-hand steadiness| selective attention
+OCCO:29205600	veterinary technologists and technicians	oral expression| problem sensitivity| oral comprehension| deductive reasoning| written comprehension| speech recognition
+OCCO:29205700	ophthalmic medical technicians	oral comprehension| near vision| oral expression| speech clarity| problem sensitivity| written expression
+OCCO:29206100	licensed practical and licensed vocational nurses	written comprehension| speech clarity| problem sensitivity| oral expression| oral comprehension| speech recognition
+OCCO:29208100	"opticians, dispensing"	oral expression| oral comprehension| near vision| written expression| written comprehension| speech clarity
+OCCO:29209100	orthotists and prosthetists	written comprehension| oral expression| oral comprehension| near vision| inductive reasoning| deductive reasoning
+OCCO:29209200	hearing aid specialists	oral expression| oral comprehension| written comprehension| speech recognition| speech clarity| problem sensitivity
+OCCO:29209901	neurodiagnostic technologists	problem sensitivity| oral expression| deductive reasoning| information ordering| written comprehension| speech clarity
+OCCO:29209905	ophthalmic medical technologists	oral comprehension| oral expression| near vision| written comprehension| speech recognition| problem sensitivity
+OCCO:29209908	patient representatives	oral comprehension| oral expression| speech recognition| speech clarity| inductive reasoning| written comprehension
+OCCO:29909100	athletic trainers	problem sensitivity| oral expression| oral comprehension| deductive reasoning| speech recognition| inductive reasoning
+OCCO:29909200	genetic counselors	written comprehension| deductive reasoning| written expression| problem sensitivity| oral expression| oral comprehension
+OCCO:29909300	surgical assistants	oral comprehension| near vision| finger dexterity| arm-hand steadiness| speech clarity| problem sensitivity
+OCCO:29909901	midwives	problem sensitivity| oral comprehension| oral expression| speech recognition| inductive reasoning| speech clarity
+OCCO:31112100	home health aides	oral expression| problem sensitivity| oral comprehension| near vision| inductive reasoning| speech recognition
+OCCO:31112200	personal care aides	oral comprehension| oral expression| problem sensitivity| written comprehension| speech clarity| near vision
+OCCO:31113100	nursing assistants	oral comprehension| problem sensitivity| speech recognition| oral expression| near vision| written comprehension
+OCCO:31113200	orderlies	oral comprehension| trunk strength| static strength| speech recognition| problem sensitivity| oral expression
+OCCO:31113300	psychiatric aides	oral expression| oral comprehension| problem sensitivity| inductive reasoning| deductive reasoning| written comprehension
+OCCO:31201100	occupational therapy assistants	oral expression| problem sensitivity| oral comprehension| written expression| written comprehension| near vision
+OCCO:31201200	occupational therapy aides	problem sensitivity| oral expression| oral comprehension| speech clarity| written expression| written comprehension
+OCCO:31202100	physical therapist assistants	oral expression| oral comprehension| written comprehension| speech clarity| problem sensitivity| speech recognition
+OCCO:31202200	physical therapist aides	oral expression| oral comprehension| speech recognition| problem sensitivity| written comprehension| speech clarity
+OCCO:31901100	massage therapists	oral comprehension| oral expression| manual dexterity| dynamic strength| trunk strength| problem sensitivity
+OCCO:31909100	dental assistants	oral comprehension| speech recognition| oral expression| near vision| written comprehension| written expression
+OCCO:31909200	medical assistants	oral expression| oral comprehension| written comprehension| problem sensitivity| speech recognition| speech clarity
+OCCO:31909300	medical equipment preparers	near vision| problem sensitivity| oral comprehension| written expression| speech recognition| perceptual speed
+OCCO:31909400	medical transcriptionists	oral comprehension| written comprehension| written expression| speech recognition| near vision| oral expression
+OCCO:31909500	pharmacy aides	oral comprehension| speech clarity| oral expression| speech recognition| near vision| written comprehension
+OCCO:31909600	veterinary assistants and laboratory animal caretakers	problem sensitivity| oral expression| oral comprehension| near vision| deductive reasoning| written expression
+OCCO:31909700	phlebotomists	near vision| problem sensitivity| deductive reasoning| arm-hand steadiness| speech recognition| speech clarity
+OCCO:31909901	speech-language pathology assistants	speech recognition| oral expression| oral comprehension| written comprehension| written expression| speech clarity
+OCCO:31909902	endoscopy technicians	oral comprehension| oral expression| problem sensitivity| near vision| written comprehension| arm-hand steadiness
+OCCO:33101100	first-line supervisors of correctional officers	problem sensitivity| written comprehension| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:33101200	first-line supervisors of police and detectives	oral expression| written comprehension| problem sensitivity| oral comprehension| written expression| speech clarity
+OCCO:33202200	forest fire inspectors and prevention specialists	problem sensitivity| oral comprehension| oral expression| inductive reasoning| deductive reasoning| written comprehension
+OCCO:33301100	bailiffs	problem sensitivity| oral expression| selective attention| oral comprehension| speech recognition| speech clarity
+OCCO:33301200	correctional officers and jailers	speech clarity| problem sensitivity| oral expression| oral comprehension| speech recognition| inductive reasoning
+OCCO:33302102	police identification and records officers	written comprehension| oral comprehension| inductive reasoning| near vision| information ordering| deductive reasoning
+OCCO:33302106	intelligence analysts	written comprehension| inductive reasoning| deductive reasoning| written expression| speech recognition| problem sensitivity
+OCCO:33303100	fish and game wardens	oral expression| oral comprehension| inductive reasoning| problem sensitivity| speech recognition| speech clarity
+OCCO:33304100	parking enforcement workers	oral expression| speech clarity| oral comprehension| near vision| information ordering| written expression
+OCCO:33305200	transit and railroad police	problem sensitivity| oral expression| oral comprehension| speech clarity| inductive reasoning| written expression
+OCCO:33901100	animal control workers	problem sensitivity| oral expression| oral comprehension| deductive reasoning| written comprehension| speech clarity
+OCCO:33902100	private detectives and investigators	inductive reasoning| problem sensitivity| oral expression| oral comprehension| near vision| written expression
+OCCO:33903200	security guards	problem sensitivity| far vision| selective attention| oral comprehension| speech recognition| speech clarity
+OCCO:33909200	"lifeguards, ski patrol, and other recreational protective service workers"	problem sensitivity| oral expression| far vision| selective attention| oral comprehension| deductive reasoning
+OCCO:33909300	transportation security screeners	problem sensitivity| selective attention| oral expression| oral comprehension| inductive reasoning| flexibility of closure
+OCCO:33909902	retail loss prevention specialists	problem sensitivity| oral comprehension| oral expression| deductive reasoning| speech recognition| inductive reasoning
+OCCO:35101100	chefs and head cooks	problem sensitivity| oral expression| oral comprehension| deductive reasoning| speech recognition| speech clarity
+OCCO:35101200	first-line supervisors of food preparation and serving workers	oral expression| oral comprehension| problem sensitivity| deductive reasoning| speech recognition| speech clarity
+OCCO:35201100	"cooks, fast food"	oral comprehension| oral expression| information ordering| trunk strength| near vision| written comprehension
+OCCO:35201200	"cooks, institution and cafeteria"	problem sensitivity| oral comprehension| near vision| information ordering| time sharing| speech clarity
+OCCO:35201300	"cooks, private household"	near vision| problem sensitivity| manual dexterity| information ordering| finger dexterity| arm-hand steadiness
+OCCO:35201400	"cooks, restaurant"	near vision| speech recognition| problem sensitivity| manual dexterity| information ordering| visual color discrimination
+OCCO:35201500	"cooks, short order"	near vision| oral comprehension| speech recognition| speech clarity| problem sensitivity| trunk strength
+OCCO:35202100	food preparation workers	near vision| oral expression| manual dexterity| arm-hand steadiness| trunk strength| speech recognition
+OCCO:35301100	bartenders	oral expression| oral comprehension| speech recognition| near vision| information ordering| speech clarity
+OCCO:35302301	baristas	oral comprehension| oral expression| speech clarity| speech recognition| near vision| time sharing
+OCCO:35303100	waiters and waitresses	oral expression| oral comprehension| speech recognition| speech clarity| time sharing| near vision
+OCCO:35304100	"food servers, nonrestaurant"	oral comprehension| oral expression| near vision| speech recognition| speech clarity| problem sensitivity
+OCCO:35901100	dining room and cafeteria attendants and bartender helpers	trunk strength| manual dexterity| arm-hand steadiness| speech recognition| static strength| stamina
+OCCO:35902100	dishwashers	manual dexterity| near vision| multilimb coordination| arm-hand steadiness| trunk strength| static strength
+OCCO:35903100	"hosts and hostesses, restaurant, lounge, and coffee shop"	oral expression| oral comprehension| speech recognition| speech clarity| near vision| problem sensitivity
+OCCO:37101100	first-line supervisors of housekeeping and janitorial workers	oral expression| oral comprehension| written comprehension| speech recognition| speech clarity| problem sensitivity
+OCCO:37101200	"first-line supervisors of landscaping, lawn service, and groundskeeping workers"	oral expression| oral comprehension| problem sensitivity| written comprehension| speech clarity| deductive reasoning
+OCCO:37201100	"janitors and cleaners, except maids and housekeeping cleaners"	trunk strength| static strength| oral comprehension| near vision| manual dexterity| extent flexibility
+OCCO:37201200	maids and housekeeping cleaners	trunk strength| extent flexibility| stamina| problem sensitivity| oral comprehension| near vision
+OCCO:37202100	pest control workers	near vision| speech clarity| oral expression| oral comprehension| written expression| speech recognition
+OCCO:37301100	landscaping and groundskeeping workers	multilimb coordination| manual dexterity| trunk strength| static strength| extent flexibility| control precision
+OCCO:37301200	"pesticide handlers, sprayers, and applicators, vegetation"	near vision| control precision| arm-hand steadiness| speech recognition| problem sensitivity| oral comprehension
+OCCO:37301300	tree trimmers and pruners	control precision| reaction time| problem sensitivity| multilimb coordination| manual dexterity| static strength
+OCCO:39102200	first-line supervisors of personal service workers	oral expression| oral comprehension| written comprehension| problem sensitivity| speech clarity| speech recognition
+OCCO:39201100	animal trainers	problem sensitivity| oral expression| oral comprehension| speech clarity| information ordering| speech recognition
+OCCO:39302100	motion picture projectionists	near vision| far vision| problem sensitivity| oral expression| oral comprehension| manual dexterity
+OCCO:39303100	"ushers, lobby attendants, and ticket takers"	speech clarity| oral expression| oral comprehension| near vision| speech recognition| problem sensitivity
+OCCO:39309100	amusement and recreation attendants	oral expression| speech clarity| oral comprehension| speech recognition| problem sensitivity| near vision
+OCCO:39309200	costume attendants	oral expression| oral comprehension| problem sensitivity| near vision| speech clarity| information ordering
+OCCO:39309300	"locker room, coatroom, and dressing room attendants"	speech recognition| speech clarity| oral comprehension| oral expression| trunk strength| problem sensitivity
+OCCO:39401100	embalmers	problem sensitivity| near vision| oral comprehension| oral expression| manual dexterity| deductive reasoning
+OCCO:39402100	funeral attendants	oral expression| oral comprehension| speech recognition| speech clarity| written comprehension| static strength
+OCCO:39501100	barbers	arm-hand steadiness| oral comprehension| near vision| manual dexterity| finger dexterity| speech recognition
+OCCO:39501200	"hairdressers, hairstylists, and cosmetologists"	near vision| manual dexterity| finger dexterity| arm-hand steadiness| originality| oral expression
+OCCO:39509100	"makeup artists, theatrical and performance"	near vision| oral expression| oral comprehension| manual dexterity| arm-hand steadiness| visual color discrimination
+OCCO:39509200	manicurists and pedicurists	near vision| finger dexterity| arm-hand steadiness| speech recognition| oral expression| manual dexterity
+OCCO:39509300	shampooers	oral comprehension| oral expression| speech clarity| near vision| arm-hand steadiness| manual dexterity
+OCCO:39509400	skincare specialists	oral expression| oral comprehension| near vision| speech recognition| speech clarity| written comprehension
+OCCO:39601100	baggage porters and bellhops	trunk strength| oral expression| oral comprehension| static strength| speech recognition| multilimb coordination
+OCCO:39601200	concierges	oral expression| speech recognition| speech clarity| oral comprehension| problem sensitivity| deductive reasoning
+OCCO:39701100	tour guides and escorts	oral expression| oral comprehension| speech clarity| speech recognition| problem sensitivity| written comprehension
+OCCO:39701200	travel guides	speech recognition| speech clarity| oral comprehension| oral expression| written comprehension| problem sensitivity
+OCCO:39901100	childcare workers	oral comprehension| oral expression| problem sensitivity| written comprehension| speech recognition| far vision
+OCCO:39901101	nannies	problem sensitivity| oral expression| oral comprehension| deductive reasoning| speech clarity| speech recognition
+OCCO:39903200	recreation workers	oral expression| oral comprehension| speech clarity| speech recognition| problem sensitivity| near vision
+OCCO:39904100	residential advisors	speech clarity| problem sensitivity| oral expression| oral comprehension| speech recognition| written comprehension
+OCCO:41101100	first-line supervisors of retail sales workers	speech clarity| oral expression| oral comprehension| speech recognition| problem sensitivity| near vision
+OCCO:41101200	first-line supervisors of non-retail sales workers	speech recognition| oral expression| oral comprehension| written comprehension| speech clarity| problem sensitivity
+OCCO:41201100	cashiers	oral expression| oral comprehension| near vision| written comprehension| speech recognition| speech clarity
+OCCO:41202100	counter and rental clerks	oral expression| oral comprehension| speech recognition| speech clarity| written comprehension| near vision
+OCCO:41202200	parts salespersons	oral comprehension| oral expression| written comprehension| speech recognition| speech clarity| near vision
+OCCO:41203100	retail salespersons	oral expression| oral comprehension| speech recognition| speech clarity| problem sensitivity| written expression
+OCCO:41301100	advertising sales agents	speech clarity| oral expression| speech recognition| oral comprehension| written comprehension| written expression
+OCCO:41302100	insurance sales agents	written comprehension| oral expression| oral comprehension| speech clarity| written expression| speech recognition
+OCCO:41304100	travel agents	speech recognition| speech clarity| oral comprehension| written comprehension| oral expression| near vision
+OCCO:41401100	"sales representatives, wholesale and manufacturing, technical and scientific products"	oral expression| speech recognition| speech clarity| oral comprehension| written comprehension| written expression
+OCCO:41401107	solar sales representatives and assessors	oral comprehension| oral expression| speech clarity| written comprehension| speech recognition| deductive reasoning
+OCCO:41401200	"sales representatives, wholesale and manufacturing, except technical and scientific products"	speech recognition| speech clarity| oral expression| oral comprehension| written expression| written comprehension
+OCCO:41901100	demonstrators and product promoters	speech clarity| oral expression| oral comprehension| speech recognition| near vision| deductive reasoning
+OCCO:41901200	models	speech recognition| oral expression| oral comprehension| speech clarity| trunk strength| originality
+OCCO:41902100	real estate brokers	written comprehension| oral expression| oral comprehension| speech recognition| speech clarity| near vision
+OCCO:41902200	real estate sales agents	oral expression| oral comprehension| speech clarity| written comprehension| speech recognition| information ordering
+OCCO:41903100	sales engineers	oral expression| oral comprehension| written comprehension| speech recognition| speech clarity| inductive reasoning
+OCCO:41904100	telemarketers	oral expression| oral comprehension| speech clarity| speech recognition| written comprehension| selective attention
+OCCO:43101100	first-line supervisors of office and administrative support workers	oral comprehension| written comprehension| oral expression| written expression| speech recognition| speech clarity
+OCCO:43201100	"switchboard operators, including answering service"	oral comprehension| speech recognition| oral expression| speech clarity| near vision| written expression
+OCCO:43202100	telephone operators	oral expression| oral comprehension| speech clarity| speech recognition| written comprehension| selective attention
+OCCO:43301100	bill and account collectors	oral expression| oral comprehension| written comprehension| speech recognition| speech clarity| written expression
+OCCO:43303100	"bookkeeping, accounting, and auditing clerks"	oral comprehension| written comprehension| near vision| mathematical reasoning| written expression| problem sensitivity
+OCCO:43305100	payroll and timekeeping clerks	oral comprehension| near vision| written expression| written comprehension| oral expression| mathematical reasoning
+OCCO:43306100	procurement clerks	written comprehension| oral expression| oral comprehension| written expression| near vision| information ordering
+OCCO:43307100	tellers	oral comprehension| speech recognition| oral expression| number facility| speech clarity| problem sensitivity
+OCCO:43401100	brokerage clerks	oral comprehension| oral expression| written comprehension| near vision| written expression| speech recognition
+OCCO:43402100	correspondence clerks	written expression| written comprehension| oral comprehension| problem sensitivity| oral expression| near vision
+OCCO:43405100	customer service representatives	oral expression| oral comprehension| speech clarity| speech recognition| written expression| problem sensitivity
+OCCO:43406100	"eligibility interviewers, government programs"	oral expression| oral comprehension| written expression| speech clarity| written comprehension| speech recognition
+OCCO:43407100	file clerks	information ordering| written comprehension| near vision| category flexibility| oral comprehension| oral expression
+OCCO:43408100	"hotel, motel, and resort desk clerks"	oral expression| oral comprehension| speech recognition| speech clarity| problem sensitivity| near vision
+OCCO:43411100	"interviewers, except eligibility and loan"	oral expression| oral comprehension| speech clarity| speech recognition| near vision| written comprehension
+OCCO:43412100	"library assistants, clerical"	written comprehension| oral expression| oral comprehension| information ordering| near vision| speech recognition
+OCCO:43413100	loan interviewers and clerks	written comprehension| oral comprehension| speech recognition| speech clarity| oral expression| problem sensitivity
+OCCO:43414100	new accounts clerks	oral comprehension| oral expression| speech recognition| speech clarity| written comprehension| near vision
+OCCO:43415100	order clerks	written comprehension| speech clarity| oral expression| oral comprehension| near vision| speech recognition
+OCCO:43416100	"human resources assistants, except payroll and timekeeping"	oral expression| oral comprehension| written comprehension| written expression| speech clarity| near vision
+OCCO:43417100	receptionists and information clerks	speech recognition| oral expression| oral comprehension| speech clarity| written expression| written comprehension
+OCCO:43418100	reservation and transportation ticket agents and travel clerks	oral expression| speech recognition| speech clarity| oral comprehension| written comprehension| information ordering
+OCCO:43501100	cargo and freight agents	oral expression| oral comprehension| written comprehension| speech clarity| speech recognition| problem sensitivity
+OCCO:43501101	freight forwarders	oral comprehension| written comprehension| problem sensitivity| oral expression| information ordering| written expression
+OCCO:43502100	couriers and messengers	oral expression| oral comprehension| written comprehension| speech recognition| near vision| multilimb coordination
+OCCO:43503200	"dispatchers, except police, fire, and ambulance"	oral expression| oral comprehension| speech recognition| speech clarity| problem sensitivity| near vision
+OCCO:43504100	"meter readers, utilities"	near vision| oral expression| oral comprehension| trunk strength| perceptual speed| information ordering
+OCCO:43505100	postal service clerks	oral comprehension| oral expression| near vision| written comprehension| speech recognition| speech clarity
+OCCO:43505200	postal service mail carriers	near vision| information ordering| written comprehension| trunk strength| speech recognition| speech clarity
+OCCO:43505300	"postal service mail sorters, processors, and processing machine operators"	near vision| manual dexterity| written comprehension| static strength| perceptual speed| multilimb coordination
+OCCO:43506100	"production, planning, and expediting clerks"	written comprehension| oral expression| oral comprehension| problem sensitivity| written expression| near vision
+OCCO:43511100	"weighers, measurers, checkers, and samplers, recordkeeping"	near vision| written comprehension| problem sensitivity| category flexibility| selective attention| perceptual speed
+OCCO:43601100	executive secretaries and executive administrative assistants	written expression| written comprehension| speech recognition| oral expression| oral comprehension| speech clarity
+OCCO:43601400	"secretaries and administrative assistants, except legal, medical, and executive"	oral comprehension| written expression| written comprehension| oral expression| near vision| speech recognition
+OCCO:43902100	data entry keyers	written comprehension| near vision| finger dexterity| speech recognition| perceptual speed| oral comprehension
+OCCO:43902200	word processors and typists	near vision| written comprehension| speech recognition| oral comprehension| written expression| wrist-finger speed
+OCCO:43903100	desktop publishers	near vision| visualization| information ordering| written comprehension| visual color discrimination| originality
+OCCO:43905100	"mail clerks and mail machine operators, except postal service"	near vision| oral comprehension| written comprehension| speech recognition| manual dexterity| information ordering
+OCCO:43906100	"office clerks, general"	oral expression| written comprehension| oral comprehension| written expression| speech recognition| speech clarity
+OCCO:43907100	"office machine operators, except computer"	written comprehension| near vision| information ordering| oral expression| oral comprehension| selective attention
+OCCO:43908100	proofreaders and copy markers	written comprehension| near vision| oral comprehension| written expression| oral expression| problem sensitivity
+OCCO:43911100	statistical assistants	mathematical reasoning| written comprehension| number facility| written expression| oral comprehension| oral expression
+OCCO:45201100	agricultural inspectors	problem sensitivity| oral comprehension| near vision| inductive reasoning| deductive reasoning| oral expression
+OCCO:45202100	animal breeders	near vision| problem sensitivity| deductive reasoning| category flexibility| trunk strength| static strength
+OCCO:45204100	"graders and sorters, agricultural products"	near vision| manual dexterity| category flexibility| oral comprehension| finger dexterity| trunk strength
+OCCO:45209100	agricultural equipment operators	multilimb coordination| control precision| near vision| manual dexterity| depth perception| arm-hand steadiness
+OCCO:45209300	"farmworkers, farm, ranch, and aquacultural animals"	problem sensitivity| control precision| arm-hand steadiness| oral comprehension| static strength| oral expression
+OCCO:45401100	forest and conservation workers	problem sensitivity| oral expression| oral comprehension| static strength| information ordering| deductive reasoning
+OCCO:45402100	fallers	reaction time| multilimb coordination| control precision| static strength| speed of limb movement| manual dexterity
+OCCO:45402200	logging equipment operators	control precision| reaction time| multilimb coordination| arm-hand steadiness| depth perception| response orientation
+OCCO:45402300	log graders and scalers	near vision| problem sensitivity| oral expression| oral comprehension| inductive reasoning| deductive reasoning
+OCCO:47101100	first-line supervisors of construction trades and extraction workers	oral comprehension| problem sensitivity| oral expression| near vision| information ordering| inductive reasoning
+OCCO:47101103	solar energy installation managers	written comprehension| oral comprehension| oral expression| written expression| problem sensitivity| near vision
+OCCO:47201100	boilermakers	problem sensitivity| near vision| finger dexterity| control precision| arm-hand steadiness| manual dexterity
+OCCO:47202100	brickmasons and blockmasons	trunk strength| extent flexibility| static strength| near vision| manual dexterity| arm-hand steadiness
+OCCO:47202200	stonemasons	trunk strength| static strength| arm-hand steadiness| stamina| problem sensitivity| near vision
+OCCO:47204100	carpet installers	trunk strength| problem sensitivity| extent flexibility| static strength| near vision| visualization
+OCCO:47204200	"floor layers, except carpet, wood, and hard tiles"	near vision| extent flexibility| oral comprehension| arm-hand steadiness| static strength| problem sensitivity
+OCCO:47204300	floor sanders and finishers	multilimb coordination| arm-hand steadiness| trunk strength| manual dexterity| control precision| near vision
+OCCO:47205100	cement masons and concrete finishers	manual dexterity| trunk strength| near vision| multilimb coordination| control precision| arm-hand steadiness
+OCCO:47205300	terrazzo workers and finishers	manual dexterity| trunk strength| near vision| multilimb coordination| arm-hand steadiness| finger dexterity
+OCCO:47206100	construction laborers	manual dexterity| arm-hand steadiness| static strength| multilimb coordination| oral comprehension| control precision
+OCCO:47207100	"paving, surfacing, and tamping equipment operators"	problem sensitivity| control precision| multilimb coordination| rate control| reaction time| oral comprehension
+OCCO:47207300	operating engineers and other construction equipment operators	control precision| multilimb coordination| depth perception| near vision| far vision| rate control
+OCCO:47208100	drywall and ceiling tile installers	trunk strength| near vision| manual dexterity| extent flexibility| arm-hand steadiness| gross body equilibrium
+OCCO:47208200	tapers	near vision| trunk strength| multilimb coordination| manual dexterity| extent flexibility| arm-hand steadiness
+OCCO:47211100	electricians	problem sensitivity| near vision| inductive reasoning| deductive reasoning| visual color discrimination| oral comprehension
+OCCO:47212100	glaziers	near vision| arm-hand steadiness| manual dexterity| trunk strength| multilimb coordination| information ordering
+OCCO:47213100	"insulation workers, floor, ceiling, and wall"	extent flexibility| multilimb coordination| manual dexterity| trunk strength| gross body equilibrium| control precision
+OCCO:47213200	"insulation workers, mechanical"	oral expression| oral comprehension| arm-hand steadiness| problem sensitivity| near vision| manual dexterity
+OCCO:47214100	"painters, construction and maintenance"	arm-hand steadiness| trunk strength| visual color discrimination| near vision| gross body equilibrium| extent flexibility
+OCCO:47214200	paperhangers	near vision| manual dexterity| arm-hand steadiness| multilimb coordination| extent flexibility| trunk strength
+OCCO:47215100	pipelayers	oral comprehension| control precision| arm-hand steadiness| near vision| oral expression| extent flexibility
+OCCO:47215200	"plumbers, pipefitters, and steamfitters"	problem sensitivity| near vision| finger dexterity| extent flexibility| deductive reasoning| oral comprehension
+OCCO:47215204	solar thermal installers and technicians	oral comprehension| speech recognition| near vision| written comprehension| problem sensitivity| oral expression
+OCCO:47216100	plasterers and stucco masons	near vision| manual dexterity| arm-hand steadiness| trunk strength| extent flexibility| static strength
+OCCO:47217100	reinforcing iron and rebar workers	trunk strength| static strength| multilimb coordination| manual dexterity| extent flexibility| arm-hand steadiness
+OCCO:47218100	roofers	gross body equilibrium| trunk strength| problem sensitivity| extent flexibility| near vision| multilimb coordination
+OCCO:47221100	sheet metal workers	near vision| visualization| multilimb coordination| information ordering| trunk strength| selective attention
+OCCO:47222100	structural iron and steel workers	static strength| multilimb coordination| visualization| near vision| manual dexterity| arm-hand steadiness
+OCCO:47223100	solar photovoltaic installers	problem sensitivity| visualization| near vision| information ordering| finger dexterity| deductive reasoning
+OCCO:47301100	"helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters"	trunk strength| static strength| multilimb coordination| near vision| arm-hand steadiness| manual dexterity
+OCCO:47301200	helpers--carpenters	near vision| manual dexterity| arm-hand steadiness| static strength| problem sensitivity| multilimb coordination
+OCCO:47301300	helpers--electricians	near vision| manual dexterity| problem sensitivity| information ordering| multilimb coordination| finger dexterity
+OCCO:47301400	"helpers--painters, paperhangers, plasterers, and stucco masons"	trunk strength| static strength| manual dexterity| gross body equilibrium| extent flexibility| arm-hand steadiness
+OCCO:47301500	"helpers--pipelayers, plumbers, pipefitters, and steamfitters"	manual dexterity| multilimb coordination| arm-hand steadiness| trunk strength| problem sensitivity| oral comprehension
+OCCO:47301600	helpers--roofers	trunk strength| manual dexterity| gross body equilibrium| multilimb coordination| visualization| speech clarity
+OCCO:47401100	construction and building inspectors	problem sensitivity| inductive reasoning| deductive reasoning| written comprehension| oral expression| oral comprehension
+OCCO:47401101	energy auditors	written comprehension| problem sensitivity| oral expression| oral comprehension| written expression| number facility
+OCCO:47403100	fence erectors	multilimb coordination| manual dexterity| trunk strength| static strength| arm-hand steadiness| finger dexterity
+OCCO:47404100	hazardous materials removal workers	problem sensitivity| oral comprehension| control precision| oral expression| near vision| written expression
+OCCO:47405100	highway maintenance workers	multilimb coordination| control precision| static strength| problem sensitivity| oral comprehension| arm-hand steadiness
+OCCO:47406100	rail-track laying and maintenance equipment operators	control precision| multilimb coordination| manual dexterity| reaction time| problem sensitivity| far vision
+OCCO:47407100	septic tank servicers and sewer pipe cleaners	manual dexterity| control precision| problem sensitivity| oral comprehension| multilimb coordination| flexibility of closure
+OCCO:47409100	segmental pavers	oral expression| oral comprehension| multilimb coordination| control precision| speech recognition| problem sensitivity
+OCCO:47409903	weatherization installers and technicians	problem sensitivity| near vision| manual dexterity| oral expression| oral comprehension| speech recognition
+OCCO:47501100	"derrick operators, oil and gas"	multilimb coordination| control precision| reaction time| manual dexterity| arm-hand steadiness| static strength
+OCCO:47501200	"rotary drill operators, oil and gas"	problem sensitivity| control precision| near vision| multilimb coordination| manual dexterity| arm-hand steadiness
+OCCO:47502300	"earth drillers, except oil and gas"	control precision| reaction time| multilimb coordination| arm-hand steadiness| manual dexterity| depth perception
+OCCO:47503200	"explosives workers, ordnance handling experts, and blasters"	problem sensitivity| near vision| manual dexterity| oral comprehension| information ordering| inductive reasoning
+OCCO:47504100	continuous mining machine operators	control precision| arm-hand steadiness| reaction time| problem sensitivity| multilimb coordination| rate control
+OCCO:47504300	"roof bolters, mining"	control precision| arm-hand steadiness| manual dexterity| extent flexibility| reaction time| problem sensitivity
+OCCO:47505100	"rock splitters, quarry"	arm-hand steadiness| multilimb coordination| static strength| control precision| trunk strength| near vision
+OCCO:47507100	"roustabouts, oil and gas"	problem sensitivity| multilimb coordination| manual dexterity| near vision| control precision| trunk strength
+OCCO:47508100	helpers--extraction workers	manual dexterity| arm-hand steadiness| reaction time| multilimb coordination| control precision| static strength
+OCCO:49101100	"first-line supervisors of mechanics, installers, and repairers"	written comprehension| oral expression| oral comprehension| speech recognition| speech clarity| problem sensitivity
+OCCO:49201100	"computer, automated teller, and office machine repairers"	near vision| oral comprehension| problem sensitivity| oral expression| written comprehension| speech recognition
+OCCO:49202100	"radio, cellular, and tower equipment installers and repairers"	problem sensitivity| near vision| finger dexterity| deductive reasoning| oral comprehension| information ordering
+OCCO:49202200	"telecommunications equipment installers and repairers, except line installers"	visual color discrimination| problem sensitivity| oral comprehension| near vision| arm-hand steadiness| manual dexterity
+OCCO:49209100	avionics technicians	written comprehension| problem sensitivity| oral comprehension| near vision| information ordering| written expression
+OCCO:49209200	"electric motor, power tool, and related repairers"	finger dexterity| problem sensitivity| near vision| manual dexterity| arm-hand steadiness| information ordering
+OCCO:49209300	"electrical and electronics installers and repairers, transportation equipment"	arm-hand steadiness| problem sensitivity| near vision| manual dexterity| oral comprehension| finger dexterity
+OCCO:49209400	"electrical and electronics repairers, commercial and industrial equipment"	problem sensitivity| near vision| manual dexterity| finger dexterity| deductive reasoning| arm-hand steadiness
+OCCO:49209500	"electrical and electronics repairers, powerhouse, substation, and relay"	near vision| problem sensitivity| oral comprehension| arm-hand steadiness| written comprehension| oral expression
+OCCO:49209600	"electronic equipment installers and repairers, motor vehicles"	near vision| finger dexterity| arm-hand steadiness| visual color discrimination| visualization| problem sensitivity
+OCCO:49209800	security and fire alarm systems installers	problem sensitivity| oral comprehension| oral expression| near vision| manual dexterity| information ordering
+OCCO:49301100	aircraft mechanics and service technicians	written comprehension| problem sensitivity| information ordering| finger dexterity| control precision| near vision
+OCCO:49302100	automotive body and related repairers	oral comprehension| near vision| manual dexterity| information ordering| visualization| trunk strength
+OCCO:49302200	automotive glass installers and repairers	near vision| static strength| multilimb coordination| manual dexterity| visualization| speech recognition
+OCCO:49303100	bus and truck mechanics and diesel engine specialists	near vision| problem sensitivity| manual dexterity| finger dexterity| multilimb coordination| hearing sensitivity
+OCCO:49304100	farm equipment mechanics and service technicians	multilimb coordination| manual dexterity| control precision| finger dexterity| arm-hand steadiness| visualization
+OCCO:49304200	"mobile heavy equipment mechanics, except engines"	manual dexterity| control precision| near vision| finger dexterity| extent flexibility| problem sensitivity
+OCCO:49304300	rail car repairers	multilimb coordination| manual dexterity| control precision| arm-hand steadiness| static strength| finger dexterity
+OCCO:49305100	motorboat mechanics and service technicians	problem sensitivity| manual dexterity| inductive reasoning| deductive reasoning| arm-hand steadiness| finger dexterity
+OCCO:49305200	motorcycle mechanics	manual dexterity| hearing sensitivity| near vision| finger dexterity| deductive reasoning| problem sensitivity
+OCCO:49305300	outdoor power equipment and other small engine mechanics	finger dexterity| arm-hand steadiness| near vision| manual dexterity| control precision| visualization
+OCCO:49309100	bicycle repairers	visualization| near vision| finger dexterity| manual dexterity| arm-hand steadiness| problem sensitivity
+OCCO:49309200	recreational vehicle service technicians	near vision| problem sensitivity| oral expression| oral comprehension| manual dexterity| control precision
+OCCO:49309300	tire repairers and changers	trunk strength| multilimb coordination| manual dexterity| static strength| near vision| extent flexibility
+OCCO:49901100	mechanical door repairers	manual dexterity| arm-hand steadiness| near vision| trunk strength| problem sensitivity| static strength
+OCCO:49901200	"control and valve installers and repairers, except mechanical door"	problem sensitivity| oral comprehension| near vision| oral expression| information ordering| deductive reasoning
+OCCO:49903100	home appliance repairers	arm-hand steadiness| problem sensitivity| oral expression| near vision| manual dexterity| finger dexterity
+OCCO:49904100	industrial machinery mechanics	manual dexterity| arm-hand steadiness| reaction time| multilimb coordination| finger dexterity| control precision
+OCCO:49904300	"maintenance workers, machinery"	arm-hand steadiness| problem sensitivity| near vision| written comprehension| visualization| oral comprehension
+OCCO:49904400	millwrights	manual dexterity| finger dexterity| control precision| near vision| multilimb coordination| arm-hand steadiness
+OCCO:49904500	"refractory materials repairers, except brickmasons"	arm-hand steadiness| near vision| extent flexibility| oral comprehension| multilimb coordination| manual dexterity
+OCCO:49905100	electrical power-line installers and repairers	problem sensitivity| near vision| multilimb coordination| arm-hand steadiness| oral comprehension| manual dexterity
+OCCO:49905200	telecommunications line installers and repairers	oral expression| oral comprehension| near vision| problem sensitivity| extent flexibility| arm-hand steadiness
+OCCO:49906100	camera and photographic equipment repairers	near vision| visualization| finger dexterity| problem sensitivity| arm-hand steadiness| written comprehension
+OCCO:49906200	medical equipment repairers	problem sensitivity| finger dexterity| near vision| deductive reasoning| information ordering| inductive reasoning
+OCCO:49906300	musical instrument repairers and tuners	hearing sensitivity| manual dexterity| finger dexterity| arm-hand steadiness| near vision| control precision
+OCCO:49907100	"maintenance and repair workers, general"	near vision| manual dexterity| arm-hand steadiness| problem sensitivity| information ordering| visualization
+OCCO:49908100	wind turbine service technicians	problem sensitivity| oral comprehension| near vision| deductive reasoning| manual dexterity| finger dexterity
+OCCO:49909100	"coin, vending, and amusement machine servicers and repairers"	manual dexterity| finger dexterity| near vision| control precision| arm-hand steadiness| multilimb coordination
+OCCO:49909200	commercial divers	oral comprehension| problem sensitivity| oral expression| arm-hand steadiness| multilimb coordination| control precision
+OCCO:49909400	locksmiths and safe repairers	arm-hand steadiness| near vision| oral expression| oral comprehension| control precision| information ordering
+OCCO:49909500	manufactured building and mobile home installers	multilimb coordination| control precision| manual dexterity| arm-hand steadiness| reaction time| problem sensitivity
+OCCO:49909600	riggers	problem sensitivity| visualization| multilimb coordination| manual dexterity| depth perception| control precision
+OCCO:49909700	signal and track switch repairers	problem sensitivity| manual dexterity| finger dexterity| visualization| visual color discrimination| multilimb coordination
+OCCO:49909800	"helpers--installation, maintenance, and repair workers"	manual dexterity| control precision| near vision| multilimb coordination| arm-hand steadiness| trunk strength
+OCCO:49909901	geothermal technicians	problem sensitivity| near vision| perceptual speed| deductive reasoning| control precision| written expression
+OCCO:51101100	first-line supervisors of production and operating workers	problem sensitivity| oral expression| oral comprehension| deductive reasoning| written comprehension| speech recognition
+OCCO:51201100	"aircraft structure, surfaces, rigging, and systems assemblers"	problem sensitivity| near vision| finger dexterity| visualization| manual dexterity| information ordering
+OCCO:51202100	"coil winders, tapers, and finishers"	arm-hand steadiness| manual dexterity| near vision| control precision| selective attention| problem sensitivity
+OCCO:51202200	electrical and electronic equipment assemblers	near vision| finger dexterity| oral comprehension| manual dexterity| arm-hand steadiness| information ordering
+OCCO:51202300	electromechanical equipment assemblers	near vision| finger dexterity| arm-hand steadiness| manual dexterity| problem sensitivity| information ordering
+OCCO:51203100	engine and other machine assemblers	arm-hand steadiness| manual dexterity| finger dexterity| near vision| visualization| static strength
+OCCO:51204100	structural metal fabricators and fitters	arm-hand steadiness| near vision| multilimb coordination| control precision| visualization| manual dexterity
+OCCO:51205100	fiberglass laminators and fabricators	multilimb coordination| trunk strength| arm-hand steadiness| problem sensitivity| static strength| perceptual speed
+OCCO:51206100	timing device assemblers and adjusters	finger dexterity| arm-hand steadiness| near vision| problem sensitivity| manual dexterity| visualization
+OCCO:51209200	team assemblers	manual dexterity| problem sensitivity| finger dexterity| oral comprehension| near vision| information ordering
+OCCO:51301100	bakers	near vision| oral comprehension| visual color discrimination| speech recognition| problem sensitivity| oral expression
+OCCO:51302100	butchers and meat cutters	near vision| manual dexterity| arm-hand steadiness| problem sensitivity| oral expression| oral comprehension
+OCCO:51302200	"meat, poultry, and fish cutters and trimmers"	arm-hand steadiness| near vision| control precision| trunk strength| selective attention| oral expression
+OCCO:51302300	slaughterers and meat packers	arm-hand steadiness| finger dexterity| near vision| manual dexterity| trunk strength| static strength
+OCCO:51309100	"food and tobacco roasting, baking, and drying machine operators and tenders"	near vision| problem sensitivity| speech recognition| selective attention| perceptual speed| oral comprehension
+OCCO:51309200	food batchmakers	information ordering| near vision| problem sensitivity| oral comprehension| written comprehension| manual dexterity
+OCCO:51309300	food cooking machine operators and tenders	problem sensitivity| written comprehension| oral comprehension| near vision| information ordering| control precision
+OCCO:51402100	"extruding and drawing machine setters, operators, and tenders, metal and plastic"	control precision| reaction time| multilimb coordination| manual dexterity| rate control| problem sensitivity
+OCCO:51402200	"forging machine setters, operators, and tenders, metal and plastic"	near vision| oral comprehension| written comprehension| problem sensitivity| oral expression| information ordering
+OCCO:51402300	"rolling machine setters, operators, and tenders, metal and plastic"	problem sensitivity| reaction time| near vision| control precision| rate control| multilimb coordination
+OCCO:51403100	"cutting, punching, and press machine setters, operators, and tenders, metal and plastic"	arm-hand steadiness| control precision| near vision| reaction time| problem sensitivity| manual dexterity
+OCCO:51403200	"drilling and boring machine tool setters, operators, and tenders, metal and plastic"	near vision| control precision| arm-hand steadiness| written comprehension| problem sensitivity| oral comprehension
+OCCO:51403300	"grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic"	control precision| near vision| manual dexterity| reaction time| problem sensitivity| multilimb coordination
+OCCO:51403400	"lathe and turning machine tool setters, operators, and tenders, metal and plastic"	control precision| arm-hand steadiness| reaction time| near vision| finger dexterity| problem sensitivity
+OCCO:51403500	"milling and planing machine setters, operators, and tenders, metal and plastic"	manual dexterity| near vision| arm-hand steadiness| selective attention| reaction time| problem sensitivity
+OCCO:51404100	machinists	manual dexterity| arm-hand steadiness| finger dexterity| control precision| near vision| multilimb coordination
+OCCO:51405100	metal-refining furnace operators and tenders	control precision| problem sensitivity| near vision| manual dexterity| reaction time| arm-hand steadiness
+OCCO:51405200	"pourers and casters, metal"	arm-hand steadiness| control precision| manual dexterity| perceptual speed| oral comprehension| near vision
+OCCO:51406100	"model makers, metal and plastic"	near vision| visualization| arm-hand steadiness| reaction time| problem sensitivity| manual dexterity
+OCCO:51406200	"patternmakers, metal and plastic"	near vision| arm-hand steadiness| visualization| problem sensitivity| manual dexterity| control precision
+OCCO:51407100	foundry mold and coremakers	manual dexterity| trunk strength| finger dexterity| static strength| multilimb coordination| arm-hand steadiness
+OCCO:51407200	"molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic"	arm-hand steadiness| manual dexterity| multilimb coordination| control precision| perceptual speed| near vision
+OCCO:51408100	"multiple machine tool setters, operators, and tenders, metal and plastic"	control precision| problem sensitivity| manual dexterity| arm-hand steadiness| near vision| visualization
+OCCO:51411100	tool and die makers	visualization| near vision| problem sensitivity| oral expression| written comprehension| oral comprehension
+OCCO:51412200	"welding, soldering, and brazing machine setters, operators, and tenders"	near vision| control precision| manual dexterity| visualization| problem sensitivity| oral expression
+OCCO:51419100	"heat treating equipment setters, operators, and tenders, metal and plastic"	arm-hand steadiness| reaction time| multilimb coordination| problem sensitivity| near vision| manual dexterity
+OCCO:51419200	"layout workers, metal and plastic"	near vision| visualization| arm-hand steadiness| problem sensitivity| manual dexterity| information ordering
+OCCO:51419400	"tool grinders, filers, and sharpeners"	arm-hand steadiness| manual dexterity| finger dexterity| control precision| near vision| visualization
+OCCO:51511100	prepress technicians and workers	near vision| visualization| visual color discrimination| problem sensitivity| inductive reasoning| written comprehension
+OCCO:51511200	printing press operators	near vision| problem sensitivity| written comprehension| visualization| visual color discrimination| oral comprehension
+OCCO:51511300	print binding and finishing workers	problem sensitivity| near vision| finger dexterity| oral expression| oral comprehension| manual dexterity
+OCCO:51601100	laundry and dry-cleaning workers	arm-hand steadiness| speech recognition| oral expression| oral comprehension| near vision| manual dexterity
+OCCO:51602100	"pressers, textile, garment, and related materials"	manual dexterity| arm-hand steadiness| near vision| control precision| multilimb coordination| finger dexterity
+OCCO:51603100	sewing machine operators	arm-hand steadiness| manual dexterity| control precision| near vision| finger dexterity| rate control
+OCCO:51604100	shoe and leather workers and repairers	near vision| manual dexterity| finger dexterity| arm-hand steadiness| multilimb coordination| control precision
+OCCO:51604200	shoe machine operators and tenders	near vision| control precision| arm-hand steadiness| manual dexterity| oral comprehension| finger dexterity
+OCCO:51605100	"sewers, hand"	arm-hand steadiness| manual dexterity| finger dexterity| near vision| visualization| control precision
+OCCO:51605200	"tailors, dressmakers, and custom sewers"	visualization| finger dexterity| arm-hand steadiness| oral comprehension| near vision| control precision
+OCCO:51606100	textile bleaching and dyeing machine operators and tenders	control precision| arm-hand steadiness| oral expression| oral comprehension| near vision| speech recognition
+OCCO:51606200	"textile cutting machine setters, operators, and tenders"	arm-hand steadiness| multilimb coordination| near vision| manual dexterity| control precision| visual color discrimination
+OCCO:51606300	"textile knitting and weaving machine setters, operators, and tenders"	arm-hand steadiness| finger dexterity| control precision| multilimb coordination| manual dexterity| trunk strength
+OCCO:51606400	"textile winding, twisting, and drawing out machine setters, operators, and tenders"	arm-hand steadiness| reaction time| multilimb coordination| manual dexterity| visual color discrimination| trunk strength
+OCCO:51609100	"extruding and forming machine setters, operators, and tenders, synthetic and glass fibers"	control precision| problem sensitivity| oral comprehension| finger dexterity| reaction time| oral expression
+OCCO:51609200	fabric and apparel patternmakers	visualization| near vision| originality| information ordering| written comprehension| oral expression
+OCCO:51609300	upholsterers	manual dexterity| finger dexterity| arm-hand steadiness| near vision| visual color discrimination| multilimb coordination
+OCCO:51701100	cabinetmakers and bench carpenters	near vision| manual dexterity| finger dexterity| arm-hand steadiness| control precision| trunk strength
+OCCO:51702100	furniture finishers	near vision| visual color discrimination| arm-hand steadiness| manual dexterity| control precision| visualization
+OCCO:51703100	"model makers, wood"	finger dexterity| arm-hand steadiness| problem sensitivity| near vision| control precision| oral comprehension
+OCCO:51703200	"patternmakers, wood"	manual dexterity| arm-hand steadiness| reaction time| near vision| control precision| multilimb coordination
+OCCO:51704100	"sawing machine setters, operators, and tenders, wood"	control precision| near vision| manual dexterity| arm-hand steadiness| reaction time| rate control
+OCCO:51704200	"woodworking machine setters, operators, and tenders, except sawing"	reaction time| near vision| manual dexterity| control precision| oral comprehension| trunk strength
+OCCO:51801100	nuclear power reactor operators	problem sensitivity| written comprehension| oral expression| oral comprehension| information ordering| perceptual speed
+OCCO:51801200	power distributors and dispatchers	problem sensitivity| oral expression| oral comprehension| written comprehension| near vision| inductive reasoning
+OCCO:51801300	power plant operators	oral comprehension| problem sensitivity| oral expression| deductive reasoning| near vision| information ordering
+OCCO:51801303	biomass plant technicians	near vision| control precision| problem sensitivity| written comprehension| perceptual speed| oral expression
+OCCO:51801304	hydroelectric plant technicians	problem sensitivity| near vision| inductive reasoning| deductive reasoning| oral comprehension| information ordering
+OCCO:51802100	stationary engineers and boiler operators	problem sensitivity| oral expression| oral comprehension| near vision| information ordering| control precision
+OCCO:51803100	water and wastewater treatment plant and system operators	oral expression| oral comprehension| written comprehension| near vision| deductive reasoning| problem sensitivity
+OCCO:51809100	chemical plant and system operators	selective attention| problem sensitivity| near vision| oral expression| oral comprehension| deductive reasoning
+OCCO:51809200	gas plant operators	auditory attention| perceptual speed| problem sensitivity| near vision| reaction time| far vision
+OCCO:51809300	"petroleum pump system operators, refinery operators, and gaugers"	problem sensitivity| perceptual speed| selective attention| near vision| information ordering| auditory attention
+OCCO:51809901	biofuels processing technicians	written comprehension| speech recognition| oral expression| oral comprehension| control precision| visual color discrimination
+OCCO:51901100	chemical equipment operators and tenders	problem sensitivity| oral expression| oral comprehension| near vision| control precision| written comprehension
+OCCO:51901200	"separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders"	near vision| perceptual speed| problem sensitivity| information ordering| arm-hand steadiness| reaction time
+OCCO:51902100	"crushing, grinding, and polishing machine setters, operators, and tenders"	multilimb coordination| reaction time| rate control| near vision| manual dexterity| control precision
+OCCO:51902200	"grinding and polishing workers, hand"	arm-hand steadiness| manual dexterity| finger dexterity| control precision| near vision| multilimb coordination
+OCCO:51902300	"mixing and blending machine setters, operators, and tenders"	near vision| arm-hand steadiness| written comprehension| problem sensitivity| manual dexterity| information ordering
+OCCO:51903100	"cutters and trimmers, hand"	manual dexterity| near vision| finger dexterity| arm-hand steadiness| oral comprehension| visual color discrimination
+OCCO:51903200	"cutting and slicing machine setters, operators, and tenders"	near vision| finger dexterity| control precision| arm-hand steadiness| problem sensitivity| manual dexterity
+OCCO:51904100	"extruding, forming, pressing, and compacting machine setters, operators, and tenders"	reaction time| rate control| perceptual speed| arm-hand steadiness| problem sensitivity| near vision
+OCCO:51905100	"furnace, kiln, oven, drier, and kettle operators and tenders"	problem sensitivity| control precision| written comprehension| oral comprehension| speech recognition| near vision
+OCCO:51906100	"inspectors, testers, sorters, samplers, and weighers"	oral expression| oral comprehension| near vision| written comprehension| problem sensitivity| flexibility of closure
+OCCO:51907106	gem and diamond workers	near vision| finger dexterity| arm-hand steadiness| visual color discrimination| problem sensitivity| manual dexterity
+OCCO:51908100	dental laboratory technicians	finger dexterity| near vision| control precision| arm-hand steadiness| visualization| information ordering
+OCCO:51908200	medical appliance technicians	problem sensitivity| oral comprehension| near vision| visualization| oral expression| deductive reasoning
+OCCO:51908300	ophthalmic laboratory technicians	near vision| finger dexterity| arm-hand steadiness| manual dexterity| control precision| deductive reasoning
+OCCO:51911100	packaging and filling machine operators and tenders	arm-hand steadiness| problem sensitivity| perceptual speed| oral expression| oral comprehension| near vision
+OCCO:51912300	"painting, coating, and decorating workers"	arm-hand steadiness| near vision| visual color discrimination| manual dexterity| finger dexterity| oral expression
+OCCO:51912400	"coating, painting, and spraying machine setters, operators, and tenders"	near vision| visual color discrimination| control precision| manual dexterity| arm-hand steadiness| information ordering
+OCCO:51915100	photographic process workers and processing machine operators	near vision| visual color discrimination| oral comprehension| oral expression| written comprehension| selective attention
+OCCO:51919100	adhesive bonding machine operators and tenders	static strength| manual dexterity| arm-hand steadiness| trunk strength| near vision| control precision
+OCCO:51919200	"cleaning, washing, and metal pickling equipment operators and tenders"	near vision| perceptual speed| information ordering| control precision| arm-hand steadiness| trunk strength
+OCCO:51919300	cooling and freezing equipment operators and tenders	near vision| problem sensitivity| deductive reasoning| perceptual speed| arm-hand steadiness| trunk strength
+OCCO:51919400	etchers and engravers	near vision| control precision| arm-hand steadiness| oral comprehension| selective attention| oral expression
+OCCO:51919503	"stone cutters and carvers, manufacturing"	arm-hand steadiness| near vision| manual dexterity| control precision| finger dexterity| visualization
+OCCO:51919504	"glass blowers, molders, benders, and finishers"	near vision| arm-hand steadiness| reaction time| control precision| visualization| visual color discrimination
+OCCO:51919505	"potters, manufacturing"	arm-hand steadiness| finger dexterity| control precision| manual dexterity| visualization| near vision
+OCCO:51919600	"paper goods machine setters, operators, and tenders"	near vision| problem sensitivity| control precision| arm-hand steadiness| selective attention| manual dexterity
+OCCO:51919700	tire builders	rate control| multilimb coordination| manual dexterity| arm-hand steadiness| control precision| trunk strength
+OCCO:51919800	helpers--production workers	near vision| trunk strength| static strength| manual dexterity| control precision| problem sensitivity
+OCCO:53104100	aircraft cargo handling supervisors	oral expression| oral comprehension| problem sensitivity| far vision| deductive reasoning| selective attention
+OCCO:53104200	"first-line supervisors of helpers, laborers, and material movers, hand"	oral expression| oral comprehension| speech recognition| speech clarity| problem sensitivity| deductive reasoning
+OCCO:53104201	recycling coordinators	oral expression| oral comprehension| speech recognition| speech clarity| deductive reasoning| information ordering
+OCCO:53201100	"airline pilots, copilots, and flight engineers"	control precision| response orientation| problem sensitivity| spatial orientation| written comprehension| reaction time
+OCCO:53201200	commercial pilots	problem sensitivity| near vision| far vision| control precision| response orientation| oral expression
+OCCO:53202100	air traffic controllers	problem sensitivity| oral expression| oral comprehension| selective attention| deductive reasoning| speed of closure
+OCCO:53202200	airfield operations specialists	oral expression| oral comprehension| problem sensitivity| written comprehension| deductive reasoning| inductive reasoning
+OCCO:53203100	flight attendants	oral expression| oral comprehension| speech clarity| speech recognition| problem sensitivity| deductive reasoning
+OCCO:53301100	"ambulance drivers and attendants, except emergency medical technicians"	problem sensitivity| oral comprehension| oral expression| speech recognition| near vision| deductive reasoning
+OCCO:53303100	driver/sales workers	oral expression| oral comprehension| speech recognition| speech clarity| near vision| far vision
+OCCO:53303200	heavy and tractor-trailer truck drivers	far vision| control precision| response orientation| reaction time| near vision| multilimb coordination
+OCCO:53305200	"bus drivers, transit and intercity"	far vision| control precision| multilimb coordination| depth perception| spatial orientation| response orientation
+OCCO:53401100	locomotive engineers	far vision| selective attention| response orientation| control precision| reaction time| problem sensitivity
+OCCO:53401300	"rail yard engineers, dinkey operators, and hostlers"	problem sensitivity| visual color discrimination| oral comprehension| control precision| oral expression| near vision
+OCCO:53403100	railroad conductors and yardmasters	oral expression| problem sensitivity| oral comprehension| speech recognition| speech clarity| near vision
+OCCO:53404100	subway and streetcar operators	control precision| multilimb coordination| depth perception| reaction time| problem sensitivity| oral expression
+OCCO:53501100	sailors and marine oilers	far vision| control precision| problem sensitivity| perceptual speed| oral comprehension| depth perception
+OCCO:53502200	motorboat operators	control precision| far vision| spatial orientation| problem sensitivity| multilimb coordination| manual dexterity
+OCCO:53503100	ship engineers	problem sensitivity| oral expression| oral comprehension| near vision| deductive reasoning| control precision
+OCCO:53601100	bridge and lock tenders	speech clarity| problem sensitivity| control precision| speech recognition| depth perception| written expression
+OCCO:53603100	automotive and watercraft service attendants	oral expression| oral comprehension| trunk strength| near vision| manual dexterity| finger dexterity
+OCCO:53604100	traffic technicians	problem sensitivity| oral expression| oral comprehension| inductive reasoning| written comprehension| speech recognition
+OCCO:53605101	aviation inspectors	problem sensitivity| written comprehension| oral comprehension| inductive reasoning| deductive reasoning| oral expression
+OCCO:53605107	"transportation vehicle, equipment and systems inspectors, except aviation"	near vision| problem sensitivity| oral comprehension| flexibility of closure| arm-hand steadiness| speech clarity
+OCCO:53701100	conveyor operators and tenders	oral comprehension| control precision| problem sensitivity| oral expression| deductive reasoning| multilimb coordination
+OCCO:53702100	crane and tower operators	control precision| multilimb coordination| far vision| depth perception| reaction time| rate control
+OCCO:53703100	dredge operators	control precision| multilimb coordination| depth perception| reaction time| manual dexterity| arm-hand steadiness
+OCCO:53704100	hoist and winch operators	problem sensitivity| reaction time| depth perception| control precision| arm-hand steadiness| near vision
+OCCO:53705100	industrial truck and tractor operators	control precision| multilimb coordination| response orientation| manual dexterity| far vision| reaction time
+OCCO:53706100	cleaners of vehicles and equipment	near vision| multilimb coordination| manual dexterity| problem sensitivity| trunk strength| information ordering
+OCCO:53706200	"laborers and freight, stock, and material movers, hand"	static strength| trunk strength| multilimb coordination| control precision| stamina| oral comprehension
+OCCO:53706204	recycling and reclamation workers	manual dexterity| control precision| near vision| multilimb coordination| arm-hand steadiness| trunk strength
+OCCO:53706300	machine feeders and offbearers	arm-hand steadiness| control precision| reaction time| rate control| oral expression| near vision
+OCCO:53706400	"packers and packagers, hand"	manual dexterity| trunk strength| static strength| near vision| multilimb coordination| speech recognition
+OCCO:53707100	gas compressor and gas pumping station operators	manual dexterity| finger dexterity| arm-hand steadiness| problem sensitivity| near vision| multilimb coordination
+OCCO:53707200	"pump operators, except wellhead pumpers"	problem sensitivity| perceptual speed| oral expression| oral comprehension| near vision| information ordering
+OCCO:53707300	wellhead pumpers	problem sensitivity| near vision| multilimb coordination| control precision| reaction time| oral expression
+OCCO:53708100	refuse and recyclable material collectors	multilimb coordination| near vision| oral comprehension| static strength| reaction time| oral expression
+OCCO:53712100	"tank car, truck, and ship loaders"	multilimb coordination| static strength| rate control| problem sensitivity| perceptual speed| far vision

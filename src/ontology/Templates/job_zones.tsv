@@ -1,0 +1,925 @@
+Ontology ID	Label	Job Zone
+ID		C 'has job zone' value % SPLIT=|
+OCCO:13201100	Accountants and Auditors	4
+OCCO:27201100	Actors	2
+OCCO:15201100	Actuaries	4
+OCCO:29129100	Acupuncturists	5
+OCCO:29114101	Acute Care Nurses	3
+OCCO:25205901	Adapted Physical Education Specialists	5
+OCCO:51919100	Adhesive Bonding Machine Operators and Tenders	2
+OCCO:23102100	"Administrative Law Judges, Adjudicators, and Hearing Officers"	5
+OCCO:11301200	Administrative Services Managers	3
+OCCO:25301100	"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"	4
+OCCO:29114102	Advanced Practice Psychiatric Nurses	5
+OCCO:11201100	Advertising and Promotions Managers	4
+OCCO:41301100	Advertising Sales Agents	4
+OCCO:17302100	Aerospace Engineering and Operations Technologists and Technicians	3
+OCCO:17201100	Aerospace Engineers	4
+OCCO:13101100	"Agents and Business Managers of Artists, Performers, and Athletes"	4
+OCCO:17202100	Agricultural Engineers	4
+OCCO:45209100	Agricultural Equipment Operators	1
+OCCO:45201100	Agricultural Inspectors	2
+OCCO:25104100	"Agricultural Sciences Teachers, Postsecondary"	5
+OCCO:19401200	Agricultural Technicians	3
+OCCO:53202100	Air Traffic Controllers	3
+OCCO:53104100	Aircraft Cargo Handling Supervisors	2
+OCCO:49301100	Aircraft Mechanics and Service Technicians	3
+OCCO:53603200	Aircraft Service Attendants	2
+OCCO:51201100	"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"	2
+OCCO:53202200	Airfield Operations Specialists	3
+OCCO:53201100	"Airline Pilots, Copilots, and Flight Engineers"	4
+OCCO:29122901	Allergists and Immunologists	5
+OCCO:53301100	"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"	2
+OCCO:39309100	Amusement and Recreation Attendants	1
+OCCO:29107101	Anesthesiologist Assistants	5
+OCCO:29121100	Anesthesiologists	5
+OCCO:45202100	Animal Breeders	2
+OCCO:39202100	Animal Caretakers	2
+OCCO:33901100	Animal Control Workers	2
+OCCO:19101100	Animal Scientists	5
+OCCO:39201100	Animal Trainers	2
+OCCO:19309100	Anthropologists and Archeologists	5
+OCCO:25106100	"Anthropology and Archeology Teachers, Postsecondary"	5
+OCCO:13202300	Appraisers and Assessors of Real Estate	4
+OCCO:13202200	Appraisers of Personal and Business Property	4
+OCCO:23102200	"Arbitrators, Mediators, and Conciliators"	5
+OCCO:17101100	"Architects, Except Landscape and Naval"	5
+OCCO:17301100	Architectural and Civil Drafters	3
+OCCO:11904100	Architectural and Engineering Managers	5
+OCCO:25103100	"Architecture Teachers, Postsecondary"	5
+OCCO:25401100	Archivists	5
+OCCO:25106200	"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"	5
+OCCO:27101100	Art Directors	4
+OCCO:29112901	Art Therapists	5
+OCCO:25112100	"Art, Drama, and Music Teachers, Postsecondary"	5
+OCCO:19201100	Astronomers	5
+OCCO:27202100	Athletes and Sports Competitors	2
+OCCO:29909100	Athletic Trainers	5
+OCCO:19202100	Atmospheric and Space Scientists	4
+OCCO:25105100	"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"	5
+OCCO:27401100	Audio and Video Technicians	3
+OCCO:29118100	Audiologists	5
+OCCO:49209700	Audiovisual Equipment Installers and Repairers	3
+OCCO:53603100	Automotive and Watercraft Service Attendants	2
+OCCO:49302100	Automotive Body and Related Repairers	2
+OCCO:17302701	Automotive Engineering Technicians	3
+OCCO:17214102	Automotive Engineers	4
+OCCO:49302200	Automotive Glass Installers and Repairers	2
+OCCO:49302300	Automotive Service Technicians and Mechanics	3
+OCCO:53605101	Aviation Inspectors	3
+OCCO:49209100	Avionics Technicians	3
+OCCO:39601100	Baggage Porters and Bellhops	2
+OCCO:33301100	Bailiffs	3
+OCCO:51301100	Bakers	2
+OCCO:39501100	Barbers	3
+OCCO:35302301	Baristas	1
+OCCO:35301100	Bartenders	2
+OCCO:49309100	Bicycle Repairers	2
+OCCO:43301100	Bill and Account Collectors	2
+OCCO:43302100	Billing and Posting Clerks	3
+OCCO:19102100	Biochemists and Biophysicists	5
+OCCO:17203100	Bioengineers and Biomedical Engineers	4
+OCCO:51809901	Biofuels Processing Technicians	2
+OCCO:11305103	Biofuels Production Managers	4
+OCCO:11904101	Biofuels/Biodiesel Technology and Product Development Managers	4
+OCCO:19102901	Bioinformatics Scientists	5
+OCCO:15209901	Bioinformatics Technicians	4
+OCCO:25104200	"Biological Science Teachers, Postsecondary"	5
+OCCO:19402100	Biological Technicians	4
+OCCO:19102904	Biologists	5
+OCCO:51801303	Biomass Plant Technicians	2
+OCCO:11305104	Biomass Power Plant Managers	4
+OCCO:15204101	Biostatisticians	5
+OCCO:15129907	Blockchain Engineers	4
+OCCO:47201100	Boilermakers	3
+OCCO:43303100	"Bookkeeping, Accounting, and Auditing Clerks"	3
+OCCO:47202100	Brickmasons and Blockmasons	2
+OCCO:53601100	Bridge and Lock Tenders	2
+OCCO:27301100	Broadcast Announcers and Radio Disc Jockeys	4
+OCCO:27401200	Broadcast Technicians	3
+OCCO:43401100	Brokerage Clerks	3
+OCCO:11919911	Brownfield Redevelopment Specialists and Site Managers	4
+OCCO:13203100	Budget Analysts	4
+OCCO:49303100	Bus and Truck Mechanics and Diesel Engine Specialists	3
+OCCO:53305100	"Bus Drivers, School"	2
+OCCO:53305200	"Bus Drivers, Transit and Intercity"	2
+OCCO:13119904	Business Continuity Planners	4
+OCCO:15205101	Business Intelligence Analysts	4
+OCCO:25101100	"Business Teachers, Postsecondary"	5
+OCCO:51302100	Butchers and Meat Cutters	2
+OCCO:13102100	"Buyers and Purchasing Agents, Farm Products"	4
+OCCO:51701100	Cabinetmakers and Bench Carpenters	2
+OCCO:17302800	Calibration Technologists and Technicians	3
+OCCO:49906100	Camera and Photographic Equipment Repairers	3
+OCCO:27403100	"Camera Operators, Television, Video, and Film"	3
+OCCO:53502100	"Captains, Mates, and Pilots of Water Vessels"	3
+OCCO:29121200	Cardiologists	5
+OCCO:29203100	Cardiovascular Technologists and Technicians	3
+OCCO:25202300	"Career/Technical Education Teachers, Middle School"	4
+OCCO:25119400	"Career/Technical Education Teachers, Postsecondary"	3
+OCCO:25203200	"Career/Technical Education Teachers, Secondary School"	4
+OCCO:43501100	Cargo and Freight Agents	2
+OCCO:47203100	Carpenters	2
+OCCO:47204100	Carpet Installers	2
+OCCO:17102100	Cartographers and Photogrammetrists	4
+OCCO:41201100	Cashiers	2
+OCCO:47205100	Cement Masons and Concrete Finishers	1
+OCCO:35101100	Chefs and Head Cooks	3
+OCCO:17204100	Chemical Engineers	4
+OCCO:51901100	Chemical Equipment Operators and Tenders	2
+OCCO:51809100	Chemical Plant and System Operators	2
+OCCO:19403100	Chemical Technicians	3
+OCCO:25105200	"Chemistry Teachers, Postsecondary"	5
+OCCO:19203100	Chemists	4
+OCCO:11101100	Chief Executives	5
+OCCO:11101103	Chief Sustainability Officers	5
+OCCO:21102100	"Child, Family, and School Social Workers"	4
+OCCO:39901100	Childcare Workers	2
+OCCO:29101100	Chiropractors	5
+OCCO:27203200	Choreographers	4
+OCCO:17302200	Civil Engineering Technologists and Technicians	3
+OCCO:17205100	Civil Engineers	4
+OCCO:13103100	"Claims Adjusters, Examiners, and Investigators"	4
+OCCO:53706100	Cleaners of Vehicles and Equipment	2
+OCCO:51919200	"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"	2
+OCCO:21201100	Clergy	5
+OCCO:19204101	Climate Change Policy Analysts	5
+OCCO:19303300	Clinical and Counseling Psychologists	5
+OCCO:15205102	Clinical Data Managers	4
+OCCO:19303903	Clinical Neuropsychologists	5
+OCCO:29114104	Clinical Nurse Specialists	5
+OCCO:11912101	Clinical Research Coordinators	4
+OCCO:27202200	Coaches and Scouts	4
+OCCO:51912400	"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"	2
+OCCO:51202100	"Coil Winders, Tapers, and Finishers"	2
+OCCO:49909100	"Coin, Vending, and Amusement Machine Servicers and Repairers"	2
+OCCO:27102100	Commercial and Industrial Designers	4
+OCCO:49909200	Commercial Divers	3
+OCCO:53201200	Commercial Pilots	3
+OCCO:25112200	"Communications Teachers, Postsecondary"	5
+OCCO:21109400	Community Health Workers	4
+OCCO:11311100	Compensation and Benefits Managers	4
+OCCO:13114100	"Compensation, Benefits, and Job Analysis Specialists"	4
+OCCO:11919902	Compliance Managers	4
+OCCO:13104100	Compliance Officers	3
+OCCO:15122100	Computer and Information Research Scientists	5
+OCCO:11302100	Computer and Information Systems Managers	4
+OCCO:17206100	Computer Hardware Engineers	4
+OCCO:15124100	Computer Network Architects	4
+OCCO:15123100	Computer Network Support Specialists	4
+OCCO:51916100	Computer Numerically Controlled Tool Operators	3
+OCCO:51916200	Computer Numerically Controlled Tool Programmers	3
+OCCO:15125100	Computer Programmers	4
+OCCO:25102100	"Computer Science Teachers, Postsecondary"	5
+OCCO:15121100	Computer Systems Analysts	4
+OCCO:15129908	Computer Systems Engineers/Architects	4
+OCCO:15123200	Computer User Support Specialists	3
+OCCO:49201100	"Computer, Automated Teller, and Office Machine Repairers"	3
+OCCO:39601200	Concierges	3
+OCCO:19103100	Conservation Scientists	4
+OCCO:47401100	Construction and Building Inspectors	3
+OCCO:47206100	Construction Laborers	2
+OCCO:11902100	Construction Managers	4
+OCCO:47504100	Continuous Mining Machine Operators	2
+OCCO:49901200	"Control and Valve Installers and Repairers, Except Mechanical Door"	3
+OCCO:53701100	Conveyor Operators and Tenders	1
+OCCO:35201100	"Cooks, Fast Food"	1
+OCCO:35201200	"Cooks, Institution and Cafeteria"	2
+OCCO:35201300	"Cooks, Private Household"	3
+OCCO:35201400	"Cooks, Restaurant"	2
+OCCO:35201500	"Cooks, Short Order"	2
+OCCO:51919300	Cooling and Freezing Equipment Operators and Tenders	2
+OCCO:13104106	Coroners	3
+OCCO:33301200	Correctional Officers and Jailers	2
+OCCO:43402100	Correspondence Clerks	2
+OCCO:13105100	Cost Estimators	4
+OCCO:39309200	Costume Attendants	2
+OCCO:41202100	Counter and Rental Clerks	2
+OCCO:43502100	Couriers and Messengers	2
+OCCO:27309200	Court Reporters and Simultaneous Captioners	3
+OCCO:43403100	"Court, Municipal, and License Clerks"	2
+OCCO:27101200	Craft Artists	3
+OCCO:53702100	Crane and Tower Operators	3
+OCCO:13204100	Credit Analysts	4
+OCCO:43404100	"Credit Authorizers, Checkers, and Clerks"	2
+OCCO:13207100	Credit Counselors	4
+OCCO:39401200	Crematory Operators	2
+OCCO:25111100	"Criminal Justice and Law Enforcement Teachers, Postsecondary"	5
+OCCO:29114103	Critical Care Nurses	4
+OCCO:33909100	Crossing Guards and Flaggers	2
+OCCO:51902100	"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"	2
+OCCO:25401200	Curators	5
+OCCO:43405100	Customer Service Representatives	2
+OCCO:33305104	Customs and Border Protection Officers	3
+OCCO:13104108	Customs Brokers	3
+OCCO:51903100	"Cutters and Trimmers, Hand"	1
+OCCO:51903200	"Cutting and Slicing Machine Setters, Operators, and Tenders"	2
+OCCO:51403100	"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:29201101	Cytogenetic Technologists	4
+OCCO:29201102	Cytotechnologists	5
+OCCO:27203100	Dancers	3
+OCCO:43902100	Data Entry Keyers	2
+OCCO:15205100	Data Scientists	4
+OCCO:15124301	Data Warehousing Specialists	4
+OCCO:15124200	Database Administrators	4
+OCCO:15124300	Database Architects	4
+OCCO:41901100	Demonstrators and Product Promoters	2
+OCCO:31909100	Dental Assistants	3
+OCCO:29129200	Dental Hygienists	3
+OCCO:51908100	Dental Laboratory Technicians	2
+OCCO:29102100	"Dentists, General"	5
+OCCO:29121300	Dermatologists	5
+OCCO:47501100	"Derrick Operators, Oil and Gas"	1
+OCCO:43903100	Desktop Publishers	3
+OCCO:33302100	Detectives and Criminal Investigators	3
+OCCO:29203200	Diagnostic Medical Sonographers	3
+OCCO:29205100	Dietetic Technicians	3
+OCCO:29103100	Dietitians and Nutritionists	5
+OCCO:15129906	Digital Forensics Analysts	4
+OCCO:35901100	Dining Room and Cafeteria Attendants and Bartender Helpers	1
+OCCO:21202100	"Directors, Religious Activities and Education"	4
+OCCO:27209100	"Disc Jockeys, Except Radio"	2
+OCCO:35902100	Dishwashers	1
+OCCO:43503200	"Dispatchers, Except Police, Fire, and Ambulance"	2
+OCCO:15129903	Document Management Specialists	4
+OCCO:41909100	"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"	1
+OCCO:53703100	Dredge Operators	2
+OCCO:51403200	"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:53303100	Driver/Sales Workers	2
+OCCO:47208100	Drywall and Ceiling Tile Installers	2
+OCCO:47502300	"Earth Drillers, Except Oil and Gas"	2
+OCCO:25106300	"Economics Teachers, Postsecondary"	5
+OCCO:19301100	Economists	5
+OCCO:27304100	Editors	4
+OCCO:11903200	"Education Administrators, Kindergarten through Secondary"	5
+OCCO:11903300	"Education Administrators, Postsecondary"	5
+OCCO:11903100	"Education and Childcare Administrators, Preschool and Daycare"	4
+OCCO:25108100	"Education Teachers, Postsecondary"	5
+OCCO:21101200	"Educational, Guidance, and Career Counselors and Advisors"	5
+OCCO:49209200	"Electric Motor, Power Tool, and Related Repairers"	3
+OCCO:17302300	Electrical and Electronic Engineering Technologists and Technicians	3
+OCCO:51202200	Electrical and Electronic Equipment Assemblers	2
+OCCO:17301200	Electrical and Electronics Drafters	3
+OCCO:49209300	"Electrical and Electronics Installers and Repairers, Transportation Equipment"	3
+OCCO:49209400	"Electrical and Electronics Repairers, Commercial and Industrial Equipment"	3
+OCCO:49209500	"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"	3
+OCCO:17207100	Electrical Engineers	4
+OCCO:49905100	Electrical Power-Line Installers and Repairers	2
+OCCO:47211100	Electricians	3
+OCCO:17302400	Electro-Mechanical and Mechatronics Technologists and Technicians	3
+OCCO:51202300	Electromechanical Equipment Assemblers	2
+OCCO:49209600	"Electronic Equipment Installers and Repairers, Motor Vehicles"	3
+OCCO:17207200	"Electronics Engineers, Except Computer"	4
+OCCO:25202100	"Elementary School Teachers, Except Special Education"	4
+OCCO:47402100	Elevator and Escalator Installers and Repairers	3
+OCCO:43406100	"Eligibility Interviewers, Government Programs"	3
+OCCO:39401100	Embalmers	3
+OCCO:11916100	Emergency Management Directors	4
+OCCO:29204200	Emergency Medical Technicians	3
+OCCO:29121400	Emergency Medicine Physicians	5
+OCCO:31909902	Endoscopy Technicians	3
+OCCO:47401101	Energy Auditors	3
+OCCO:17219903	"Energy Engineers, Except Wind and Solar"	4
+OCCO:51203100	Engine and Other Machine Assemblers	2
+OCCO:25103200	"Engineering Teachers, Postsecondary"	5
+OCCO:25112300	"English Language and Literature Teachers, Postsecondary"	5
+OCCO:11907200	"Entertainment and Recreation Managers, Except Gambling"	4
+OCCO:13104101	Environmental Compliance Inspectors	4
+OCCO:19301101	Environmental Economists	5
+OCCO:17302500	Environmental Engineering Technologists and Technicians	4
+OCCO:17208100	Environmental Engineers	4
+OCCO:19204102	Environmental Restoration Planners	5
+OCCO:19404200	"Environmental Science and Protection Technicians, Including Health"	4
+OCCO:25105300	"Environmental Science Teachers, Postsecondary"	5
+OCCO:19204100	"Environmental Scientists and Specialists, Including Health"	4
+OCCO:19104100	Epidemiologists	5
+OCCO:13104103	Equal Opportunity Representatives and Officers	4
+OCCO:51919400	Etchers and Engravers	2
+OCCO:47502200	"Excavating and Loading Machine and Dragline Operators, Surface Mining"	2
+OCCO:43601100	Executive Secretaries and Executive Administrative Assistants	3
+OCCO:29112800	Exercise Physiologists	4
+OCCO:39903100	Exercise Trainers and Group Fitness Instructors	3
+OCCO:47503200	"Explosives Workers, Ordnance Handling Experts, and Blasters"	2
+OCCO:51402100	"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:51609100	"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"	2
+OCCO:51904100	"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"	2
+OCCO:51609200	Fabric and Apparel Patternmakers	3
+OCCO:11301300	Facilities Managers	3
+OCCO:45402100	Fallers	1
+OCCO:25119200	"Family and Consumer Sciences Teachers, Postsecondary"	5
+OCCO:29121500	Family Medicine Physicians	5
+OCCO:25902100	Farm and Home Management Educators	5
+OCCO:49304100	Farm Equipment Mechanics and Service Technicians	3
+OCCO:13107400	Farm Labor Contractors	2
+OCCO:11901300	"Farmers, Ranchers, and Other Agricultural Managers"	4
+OCCO:45209200	"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"	1
+OCCO:45209300	"Farmworkers, Farm, Ranch, and Aquacultural Animals"	2
+OCCO:27102200	Fashion Designers	3
+OCCO:35302300	Fast Food and Counter Workers	1
+OCCO:47403100	Fence Erectors	2
+OCCO:51205100	Fiberglass Laminators and Fabricators	2
+OCCO:43407100	File Clerks	2
+OCCO:27403200	Film and Video Editors	4
+OCCO:13205100	Financial and Investment Analysts	4
+OCCO:13206100	Financial Examiners	4
+OCCO:11303100	Financial Managers	4
+OCCO:13209901	Financial Quantitative Analysts	5
+OCCO:13205400	Financial Risk Specialists	4
+OCCO:27101300	"Fine Artists, Including Painters, Sculptors, and Illustrators"	3
+OCCO:33202100	Fire Inspectors and Investigators	3
+OCCO:17211102	Fire-Prevention and Protection Engineers	4
+OCCO:33201100	Firefighters	3
+OCCO:47101100	First-Line Supervisors of Construction Trades and Extraction Workers	3
+OCCO:33101100	First-Line Supervisors of Correctional Officers	3
+OCCO:39101400	"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services"	2
+OCCO:45101100	"First-Line Supervisors of Farming, Fishing, and Forestry Workers"	3
+OCCO:33102100	First-Line Supervisors of Firefighting and Prevention Workers	3
+OCCO:35101200	First-Line Supervisors of Food Preparation and Serving Workers	2
+OCCO:39101300	First-Line Supervisors of Gambling Services Workers	2
+OCCO:53104200	"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"	2
+OCCO:37101100	First-Line Supervisors of Housekeeping and Janitorial Workers	2
+OCCO:37101200	"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"	3
+OCCO:53104300	First-Line Supervisors of Material-Moving Machine and Vehicle Operators	2
+OCCO:49101100	"First-Line Supervisors of Mechanics, Installers, and Repairers"	3
+OCCO:41101200	First-Line Supervisors of Non-Retail Sales Workers	4
+OCCO:43101100	First-Line Supervisors of Office and Administrative Support Workers	3
+OCCO:53104400	First-Line Supervisors of Passenger Attendants	3
+OCCO:39102200	First-Line Supervisors of Personal Service Workers	3
+OCCO:33101200	First-Line Supervisors of Police and Detectives	3
+OCCO:51101100	First-Line Supervisors of Production and Operating Workers	3
+OCCO:41101100	First-Line Supervisors of Retail Sales Workers	2
+OCCO:33109100	First-Line Supervisors of Security Workers	2
+OCCO:33303100	Fish and Game Wardens	4
+OCCO:45303100	Fishing and Hunting Workers	1
+OCCO:11917901	Fitness and Wellness Coordinators	4
+OCCO:53203100	Flight Attendants	2
+OCCO:47204200	"Floor Layers, Except Carpet, Wood, and Hard Tiles"	2
+OCCO:47204300	Floor Sanders and Finishers	1
+OCCO:27102300	Floral Designers	2
+OCCO:51309100	"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"	2
+OCCO:51309200	Food Batchmakers	2
+OCCO:51309300	Food Cooking Machine Operators and Tenders	2
+OCCO:35202100	Food Preparation Workers	1
+OCCO:19401300	Food Science Technicians	3
+OCCO:19101200	Food Scientists and Technologists	4
+OCCO:35304100	"Food Servers, Nonrestaurant"	2
+OCCO:11905100	Food Service Managers	2
+OCCO:25112400	"Foreign Language and Literature Teachers, Postsecondary"	5
+OCCO:19409200	Forensic Science Technicians	4
+OCCO:19407100	Forest and Conservation Technicians	3
+OCCO:45401100	Forest and Conservation Workers	3
+OCCO:33202200	Forest Fire Inspectors and Prevention Specialists	3
+OCCO:19103200	Foresters	4
+OCCO:25104300	"Forestry and Conservation Science Teachers, Postsecondary"	5
+OCCO:51402200	"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:51407100	Foundry Mold and Coremakers	2
+OCCO:13209904	"Fraud Examiners, Investigators and Analysts"	4
+OCCO:43501101	Freight Forwarders	2
+OCCO:17214101	Fuel Cell Engineers	4
+OCCO:13113100	Fundraisers	4
+OCCO:11203300	Fundraising Managers	4
+OCCO:39402100	Funeral Attendants	2
+OCCO:11917100	Funeral Home Managers	3
+OCCO:51905100	"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"	2
+OCCO:51702100	Furniture Finishers	2
+OCCO:39301200	Gambling and Sports Book Writers and Runners	2
+OCCO:43304100	Gambling Cage Workers	2
+OCCO:41201200	Gambling Change Persons and Booth Cashiers	2
+OCCO:39301100	Gambling Dealers	2
+OCCO:11907100	Gambling Managers	3
+OCCO:33903100	Gambling Surveillance Officers and Gambling Investigators	2
+OCCO:53707100	Gas Compressor and Gas Pumping Station Operators	2
+OCCO:51809200	Gas Plant Operators	3
+OCCO:51907106	Gem and Diamond Workers	3
+OCCO:11102100	General and Operations Managers	4
+OCCO:29121600	General Internal Medicine Physicians	5
+OCCO:29909200	Genetic Counselors	5
+OCCO:19102903	Geneticists	5
+OCCO:17102201	Geodetic Surveyors	4
+OCCO:19309200	Geographers	5
+OCCO:15129902	Geographic Information Systems Technologists and Technicians	4
+OCCO:25106400	"Geography Teachers, Postsecondary"	5
+OCCO:19404300	"Geological Technicians, Except Hydrologic Technicians"	4
+OCCO:19204200	"Geoscientists, Except Hydrologists and Geographers"	5
+OCCO:11305102	Geothermal Production Managers	3
+OCCO:49909901	Geothermal Technicians	2
+OCCO:51919504	"Glass Blowers, Molders, Benders, and Finishers"	2
+OCCO:47212100	Glaziers	2
+OCCO:13104104	Government Property Inspectors and Investigators	3
+OCCO:45204100	"Graders and Sorters, Agricultural Products"	1
+OCCO:27102400	Graphic Designers	4
+OCCO:51902200	"Grinding and Polishing Workers, Hand"	1
+OCCO:51403300	"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:39501200	"Hairdressers, Hairstylists, and Cosmetologists"	3
+OCCO:47404100	Hazardous Materials Removal Workers	3
+OCCO:17211100	"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"	4
+OCCO:21109100	Health Education Specialists	4
+OCCO:15121101	Health Informatics Specialists	4
+OCCO:29902100	Health Information Technologists and Medical Registrars	3
+OCCO:25107100	"Health Specialties Teachers, Postsecondary"	5
+OCCO:21102200	Healthcare Social Workers	5
+OCCO:29209200	Hearing Aid Specialists	3
+OCCO:51419100	"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:49902100	"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"	3
+OCCO:53303200	Heavy and Tractor-Trailer Truck Drivers	2
+OCCO:47301100	"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"	2
+OCCO:47301200	Helpers--Carpenters	2
+OCCO:47301300	Helpers--Electricians	2
+OCCO:47508100	Helpers--Extraction Workers	2
+OCCO:49909800	"Helpers--Installation, Maintenance, and Repair Workers"	2
+OCCO:47301400	"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"	1
+OCCO:47301500	"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"	2
+OCCO:51919800	Helpers--Production Workers	2
+OCCO:47301600	Helpers--Roofers	2
+OCCO:47405100	Highway Maintenance Workers	2
+OCCO:29201201	Histology Technicians	3
+OCCO:19309300	Historians	5
+OCCO:25112500	"History Teachers, Postsecondary"	5
+OCCO:29201104	Histotechnologists	4
+OCCO:53704100	Hoist and Winch Operators	2
+OCCO:49903100	Home Appliance Repairers	2
+OCCO:31112100	Home Health Aides	2
+OCCO:29122902	Hospitalists	5
+OCCO:35903100	"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"	2
+OCCO:43408100	"Hotel, Motel, and Resort Desk Clerks"	2
+OCCO:17211201	Human Factors Engineers and Ergonomists	5
+OCCO:43416100	"Human Resources Assistants, Except Payroll and Timekeeping"	3
+OCCO:11312100	Human Resources Managers	4
+OCCO:13107100	Human Resources Specialists	4
+OCCO:51801304	Hydroelectric Plant Technicians	3
+OCCO:11305106	Hydroelectric Production Managers	3
+OCCO:19404400	Hydrologic Technicians	3
+OCCO:19204300	Hydrologists	5
+OCCO:19204103	Industrial Ecologists	5
+OCCO:17302600	Industrial Engineering Technologists and Technicians	3
+OCCO:17211200	Industrial Engineers	4
+OCCO:49904100	Industrial Machinery Mechanics	3
+OCCO:11305100	Industrial Production Managers	4
+OCCO:53705100	Industrial Truck and Tractor Operators	2
+OCCO:19303200	Industrial-Organizational Psychologists	5
+OCCO:15121200	Information Security Analysts	4
+OCCO:15129905	Information Security Engineers	4
+OCCO:15129909	Information Technology Project Managers	4
+OCCO:51906100	"Inspectors, Testers, Sorters, Samplers, and Weighers"	2
+OCCO:25903100	Instructional Coordinators	5
+OCCO:47213100	"Insulation Workers, Floor, Ceiling, and Wall"	2
+OCCO:47213200	"Insulation Workers, Mechanical"	2
+OCCO:13103200	"Insurance Appraisers, Auto Damage"	3
+OCCO:43904100	Insurance Claims and Policy Processing Clerks	2
+OCCO:41302100	Insurance Sales Agents	4
+OCCO:13205300	Insurance Underwriters	4
+OCCO:33302106	Intelligence Analysts	4
+OCCO:27102500	Interior Designers	4
+OCCO:27309100	Interpreters and Translators	4
+OCCO:43411100	"Interviewers, Except Eligibility and Loan"	3
+OCCO:11303103	Investment Fund Managers	5
+OCCO:37201100	"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"	2
+OCCO:51907100	Jewelers and Precious Stone and Metal Workers	3
+OCCO:23102300	"Judges, Magistrate Judges, and Magistrates"	5
+OCCO:23101200	Judicial Law Clerks	5
+OCCO:25201200	"Kindergarten Teachers, Except Special Education"	4
+OCCO:13107500	Labor Relations Specialists	4
+OCCO:53706200	"Laborers and Freight, Stock, and Material Movers, Hand"	2
+OCCO:17101200	Landscape Architects	4
+OCCO:37301100	Landscaping and Groundskeeping Workers	1
+OCCO:51403400	"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:51601100	Laundry and Dry-Cleaning Workers	1
+OCCO:25111200	"Law Teachers, Postsecondary"	5
+OCCO:23101100	Lawyers	5
+OCCO:51419200	"Layout Workers, Metal and Plastic"	2
+OCCO:43601200	Legal Secretaries and Administrative Assistants	3
+OCCO:11103100	Legislators	4
+OCCO:25402200	Librarians and Media Collections Specialists	5
+OCCO:43412100	"Library Assistants, Clerical"	2
+OCCO:25108200	"Library Science Teachers, Postsecondary"	5
+OCCO:25403100	Library Technicians	3
+OCCO:29206100	Licensed Practical and Licensed Vocational Nurses	3
+OCCO:33909200	"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"	2
+OCCO:53303300	Light Truck Drivers	2
+OCCO:27401500	Lighting Technicians	3
+OCCO:47504400	"Loading and Moving Machine Operators, Underground Mining"	2
+OCCO:43413100	Loan Interviewers and Clerks	3
+OCCO:13207200	Loan Officers	4
+OCCO:39309300	"Locker Room, Coatroom, and Dressing Room Attendants"	2
+OCCO:49909400	Locksmiths and Safe Repairers	2
+OCCO:53401100	Locomotive Engineers	2
+OCCO:11908100	Lodging Managers	4
+OCCO:45402300	Log Graders and Scalers	2
+OCCO:45402200	Logging Equipment Operators	1
+OCCO:13108100	Logisticians	4
+OCCO:13108102	Logistics Analysts	4
+OCCO:13108101	Logistics Engineers	4
+OCCO:11919908	Loss Prevention Managers	4
+OCCO:29112201	"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists"	5
+OCCO:53706300	Machine Feeders and Offbearers	2
+OCCO:51404100	Machinists	3
+OCCO:29203500	Magnetic Resonance Imaging Technologists	3
+OCCO:37201200	Maids and Housekeeping Cleaners	1
+OCCO:43905100	"Mail Clerks and Mail Machine Operators, Except Postal Service"	2
+OCCO:49907100	"Maintenance and Repair Workers, General"	3
+OCCO:49904300	"Maintenance Workers, Machinery"	3
+OCCO:39509100	"Makeup Artists, Theatrical and Performance"	3
+OCCO:13111100	Management Analysts	4
+OCCO:39509200	Manicurists and Pedicurists	2
+OCCO:49909500	Manufactured Building and Mobile Home Installers	2
+OCCO:17211203	Manufacturing Engineers	4
+OCCO:17212100	Marine Engineers and Naval Architects	4
+OCCO:13116100	Market Research Analysts and Marketing Specialists	4
+OCCO:11202100	Marketing Managers	4
+OCCO:21101300	Marriage and Family Therapists	5
+OCCO:31901100	Massage Therapists	3
+OCCO:17213100	Materials Engineers	4
+OCCO:19203200	Materials Scientists	5
+OCCO:25102200	"Mathematical Science Teachers, Postsecondary"	5
+OCCO:15202100	Mathematicians	5
+OCCO:51302200	"Meat, Poultry, and Fish Cutters and Trimmers"	1
+OCCO:49901100	Mechanical Door Repairers	2
+OCCO:17301300	Mechanical Drafters	3
+OCCO:17302700	Mechanical Engineering Technologists and Technicians	3
+OCCO:17214100	Mechanical Engineers	4
+OCCO:17219905	Mechatronics Engineers	4
+OCCO:27201203	Media Programming Directors	4
+OCCO:27201205	Media Technical Directors/Managers	4
+OCCO:29201200	Medical and Clinical Laboratory Technicians	3
+OCCO:29201100	Medical and Clinical Laboratory Technologists	4
+OCCO:11911100	Medical and Health Services Managers	4
+OCCO:51908200	Medical Appliance Technicians	3
+OCCO:31909200	Medical Assistants	3
+OCCO:29203600	Medical Dosimetrists	3
+OCCO:31909300	Medical Equipment Preparers	2
+OCCO:49906200	Medical Equipment Repairers	3
+OCCO:29207200	Medical Records Specialists	3
+OCCO:19104200	"Medical Scientists, Except Epidemiologists"	5
+OCCO:43601300	Medical Secretaries and Administrative Assistants	2
+OCCO:31909400	Medical Transcriptionists	3
+OCCO:13112100	"Meeting, Convention, and Event Planners"	4
+OCCO:21102300	Mental Health and Substance Abuse Social Workers	5
+OCCO:21101400	Mental Health Counselors	5
+OCCO:27102600	Merchandise Displayers and Window Trimmers	3
+OCCO:51405100	Metal-Refining Furnace Operators and Tenders	2
+OCCO:43504100	"Meter Readers, Utilities"	2
+OCCO:19102200	Microbiologists	5
+OCCO:17219906	Microsystems Engineers	5
+OCCO:25202200	"Middle School Teachers, Except Special and Career/Technical Education"	4
+OCCO:29909901	Midwives	5
+OCCO:51403500	"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:49904400	Millwrights	2
+OCCO:17215100	"Mining and Geological Engineers, Including Mining Safety Engineers"	4
+OCCO:51902300	"Mixing and Blending Machine Setters, Operators, and Tenders"	2
+OCCO:49304200	"Mobile Heavy Equipment Mechanics, Except Engines"	3
+OCCO:51406100	"Model Makers, Metal and Plastic"	3
+OCCO:51703100	"Model Makers, Wood"	3
+OCCO:41901200	Models	2
+OCCO:51919500	"Molders, Shapers, and Casters, Except Metal and Plastic"	2
+OCCO:51407200	"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:19102902	Molecular and Cellular Biologists	5
+OCCO:39403100	"Morticians, Undertakers, and Funeral Arrangers"	3
+OCCO:39302100	Motion Picture Projectionists	2
+OCCO:49305100	Motorboat Mechanics and Service Technicians	3
+OCCO:53502200	Motorboat Operators	2
+OCCO:49305200	Motorcycle Mechanics	3
+OCCO:51408100	"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:25401300	Museum Technicians and Conservators	4
+OCCO:27204100	Music Directors and Composers	4
+OCCO:29112902	Music Therapists	4
+OCCO:49906300	Musical Instrument Repairers and Tuners	3
+OCCO:27204200	Musicians and Singers	4
+OCCO:39901101	Nannies	2
+OCCO:17219909	Nanosystems Engineers	5
+OCCO:17302601	Nanotechnology Engineering Technologists and Technicians	4
+OCCO:11912100	Natural Sciences Managers	5
+OCCO:29129901	Naturopathic Physicians	5
+OCCO:15124400	Network and Computer Systems Administrators	4
+OCCO:29209901	Neurodiagnostic Technologists	3
+OCCO:29121700	Neurologists	5
+OCCO:19303902	Neuropsychologists	5
+OCCO:43414100	New Accounts Clerks	3
+OCCO:27302300	"News Analysts, Reporters, and Journalists"	4
+OCCO:17302901	Non-Destructive Testing Specialists	2
+OCCO:17216100	Nuclear Engineers	4
+OCCO:29203300	Nuclear Medicine Technologists	3
+OCCO:19405102	Nuclear Monitoring Technicians	3
+OCCO:51801100	Nuclear Power Reactor Operators	3
+OCCO:19405100	Nuclear Technicians	3
+OCCO:29115100	Nurse Anesthetists	5
+OCCO:29116100	Nurse Midwives	5
+OCCO:29117100	Nurse Practitioners	5
+OCCO:31113100	Nursing Assistants	3
+OCCO:25107200	"Nursing Instructors and Teachers, Postsecondary"	5
+OCCO:29121800	Obstetricians and Gynecologists	5
+OCCO:19501100	Occupational Health and Safety Specialists	4
+OCCO:19501200	Occupational Health and Safety Technicians	3
+OCCO:29112200	Occupational Therapists	5
+OCCO:31201200	Occupational Therapy Aides	3
+OCCO:31201100	Occupational Therapy Assistants	3
+OCCO:43906100	"Office Clerks, General"	2
+OCCO:43907100	"Office Machine Operators, Except Computer"	2
+OCCO:13119906	Online Merchants	4
+OCCO:47207300	Operating Engineers and Other Construction Equipment Operators	2
+OCCO:15203100	Operations Research Analysts	5
+OCCO:51908300	Ophthalmic Laboratory Technicians	2
+OCCO:29205700	Ophthalmic Medical Technicians	3
+OCCO:29209905	Ophthalmic Medical Technologists	3
+OCCO:29124100	"Ophthalmologists, Except Pediatric"	5
+OCCO:29208100	"Opticians, Dispensing"	3
+OCCO:29104100	Optometrists	5
+OCCO:29102200	Oral and Maxillofacial Surgeons	5
+OCCO:43415100	Order Clerks	2
+OCCO:31113200	Orderlies	2
+OCCO:29102300	Orthodontists	5
+OCCO:29124200	"Orthopedic Surgeons, Except Pediatric"	5
+OCCO:29129902	Orthoptists	5
+OCCO:29209100	Orthotists and Prosthetists	5
+OCCO:49305300	Outdoor Power Equipment and Other Small Engine Mechanics	2
+OCCO:51911100	Packaging and Filling Machine Operators and Tenders	2
+OCCO:53706400	"Packers and Packagers, Hand"	2
+OCCO:47214100	"Painters, Construction and Maintenance"	2
+OCCO:51912300	"Painting, Coating, and Decorating Workers"	1
+OCCO:51919600	"Paper Goods Machine Setters, Operators, and Tenders"	2
+OCCO:47214200	Paperhangers	2
+OCCO:23201100	Paralegals and Legal Assistants	3
+OCCO:29204300	Paramedics	3
+OCCO:19103103	Park Naturalists	4
+OCCO:53602100	Parking Attendants	2
+OCCO:33304100	Parking Enforcement Workers	2
+OCCO:41202200	Parts Salespersons	2
+OCCO:53606100	Passenger Attendants	2
+OCCO:29209908	Patient Representatives	3
+OCCO:51406200	"Patternmakers, Metal and Plastic"	3
+OCCO:51703200	"Patternmakers, Wood"	3
+OCCO:47207100	"Paving, Surfacing, and Tamping Equipment Operators"	2
+OCCO:43305100	Payroll and Timekeeping Clerks	3
+OCCO:29124300	Pediatric Surgeons	5
+OCCO:29122100	"Pediatricians, General"	5
+OCCO:15129904	Penetration Testers	4
+OCCO:31112200	Personal Care Aides	2
+OCCO:13205200	Personal Financial Advisors	4
+OCCO:37202100	Pest Control Workers	2
+OCCO:37301200	"Pesticide Handlers, Sprayers, and Applicators, Vegetation"	2
+OCCO:17217100	Petroleum Engineers	4
+OCCO:51809300	"Petroleum Pump System Operators, Refinery Operators, and Gaugers"	2
+OCCO:29105100	Pharmacists	5
+OCCO:31909500	Pharmacy Aides	2
+OCCO:29205200	Pharmacy Technicians	3
+OCCO:25112600	"Philosophy and Religion Teachers, Postsecondary"	5
+OCCO:31909700	Phlebotomists	3
+OCCO:27402100	Photographers	3
+OCCO:51915100	Photographic Process Workers and Processing Machine Operators	2
+OCCO:17219907	Photonics Engineers	4
+OCCO:17302908	Photonics Technicians	3
+OCCO:29122904	Physical Medicine and Rehabilitation Physicians	5
+OCCO:31202200	Physical Therapist Aides	2
+OCCO:31202100	Physical Therapist Assistants	3
+OCCO:29112300	Physical Therapists	5
+OCCO:29107100	Physician Assistants	5
+OCCO:29122200	"Physicians, Pathologists"	5
+OCCO:19201200	Physicists	5
+OCCO:25105400	"Physics Teachers, Postsecondary"	5
+OCCO:47207200	Pile Driver Operators	2
+OCCO:47215100	Pipelayers	2
+OCCO:47216100	Plasterers and Stucco Masons	1
+OCCO:51419300	"Plating Machine Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:47215200	"Plumbers, Pipefitters, and Steamfitters"	3
+OCCO:29108100	Podiatrists	5
+OCCO:27304305	"Poets, Lyricists and Creative Writers"	4
+OCCO:33305100	Police and Sheriff's Patrol Officers	3
+OCCO:33302102	Police Identification and Records Officers	3
+OCCO:25106500	"Political Science Teachers, Postsecondary"	5
+OCCO:19309400	Political Scientists	5
+OCCO:43505100	Postal Service Clerks	2
+OCCO:43505200	Postal Service Mail Carriers	2
+OCCO:43505300	"Postal Service Mail Sorters, Processors, and Processing Machine Operators"	2
+OCCO:11913100	Postmasters and Mail Superintendents	2
+OCCO:51919505	"Potters, Manufacturing"	3
+OCCO:51405200	"Pourers and Casters, Metal"	2
+OCCO:51801200	Power Distributors and Dispatchers	3
+OCCO:51801300	Power Plant Operators	2
+OCCO:19401201	Precision Agriculture Technicians	4
+OCCO:51511100	Prepress Technicians and Workers	3
+OCCO:25201100	"Preschool Teachers, Except Special Education"	3
+OCCO:51602100	"Pressers, Textile, Garment, and Related Materials"	1
+OCCO:29122905	Preventive Medicine Physicians	5
+OCCO:51511300	Print Binding and Finishing Workers	2
+OCCO:51511200	Printing Press Operators	2
+OCCO:33902100	Private Detectives and Investigators	3
+OCCO:21109200	Probation Officers and Correctional Treatment Specialists	4
+OCCO:43306100	Procurement Clerks	2
+OCCO:27201200	Producers and Directors	4
+OCCO:43506100	"Production, Planning, and Expediting Clerks"	2
+OCCO:13108200	Project Management Specialists	4
+OCCO:43908100	Proofreaders and Copy Markers	4
+OCCO:11914100	"Property, Real Estate, and Community Association Managers"	4
+OCCO:29102400	Prosthodontists	5
+OCCO:31113300	Psychiatric Aides	2
+OCCO:29205300	Psychiatric Technicians	3
+OCCO:29122300	Psychiatrists	5
+OCCO:25106600	"Psychology Teachers, Postsecondary"	5
+OCCO:11203200	Public Relations Managers	4
+OCCO:27303100	Public Relations Specialists	4
+OCCO:43503100	Public Safety Telecommunicators	2
+OCCO:53707200	"Pump Operators, Except Wellhead Pumpers"	2
+OCCO:13102300	"Purchasing Agents, Except Wholesale, Retail, and Farm Products"	4
+OCCO:11306100	Purchasing Managers	4
+OCCO:19409901	Quality Control Analysts	3
+OCCO:11305101	Quality Control Systems Managers	4
+OCCO:29112400	Radiation Therapists	3
+OCCO:17207201	Radio Frequency Identification Device Specialists	4
+OCCO:49202100	"Radio, Cellular, and Tower Equipment Installers and Repairers"	3
+OCCO:29203400	Radiologic Technologists and Technicians	3
+OCCO:29122400	Radiologists	5
+OCCO:49304300	Rail Car Repairers	2
+OCCO:53401300	"Rail Yard Engineers, Dinkey Operators, and Hostlers"	2
+OCCO:47406100	Rail-Track Laying and Maintenance Equipment Operators	2
+OCCO:53402200	"Railroad Brake, Signal, and Switch Operators and Locomotive Firers"	2
+OCCO:53403100	Railroad Conductors and Yardmasters	2
+OCCO:19103102	Range Managers	4
+OCCO:41902100	Real Estate Brokers	4
+OCCO:41902200	Real Estate Sales Agents	3
+OCCO:43417100	Receptionists and Information Clerks	2
+OCCO:25119300	"Recreation and Fitness Studies Teachers, Postsecondary"	5
+OCCO:39903200	Recreation Workers	4
+OCCO:29112500	Recreational Therapists	4
+OCCO:49309200	Recreational Vehicle Service Technicians	2
+OCCO:53706204	Recycling and Reclamation Workers	2
+OCCO:53104201	Recycling Coordinators	2
+OCCO:49904500	"Refractory Materials Repairers, Except Brickmasons"	2
+OCCO:53708100	Refuse and Recyclable Material Collectors	2
+OCCO:29114100	Registered Nurses	4
+OCCO:11919901	Regulatory Affairs Managers	4
+OCCO:13104107	Regulatory Affairs Specialists	4
+OCCO:21101500	Rehabilitation Counselors	4
+OCCO:47217100	Reinforcing Iron and Rebar Workers	2
+OCCO:19209901	Remote Sensing Scientists and Technologists	5
+OCCO:19409903	Remote Sensing Technicians	4
+OCCO:43418100	Reservation and Transportation Ticket Agents and Travel Clerks	2
+OCCO:39904100	Residential Advisors	3
+OCCO:29112600	Respiratory Therapists	3
+OCCO:33909902	Retail Loss Prevention Specialists	2
+OCCO:41203100	Retail Salespersons	2
+OCCO:49909600	Riggers	2
+OCCO:17219908	Robotics Engineers	4
+OCCO:17302401	Robotics Technicians	3
+OCCO:47505100	"Rock Splitters, Quarry"	1
+OCCO:51402300	"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"	2
+OCCO:47504300	"Roof Bolters, Mining"	2
+OCCO:47218100	Roofers	2
+OCCO:47501200	"Rotary Drill Operators, Oil and Gas"	2
+OCCO:47507100	"Roustabouts, Oil and Gas"	1
+OCCO:53501100	Sailors and Marine Oilers	2
+OCCO:41903100	Sales Engineers	4
+OCCO:11202200	Sales Managers	4
+OCCO:41309100	"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"	2
+OCCO:41401200	"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"	4
+OCCO:41401100	"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"	4
+OCCO:51704100	"Sawing Machine Setters, Operators, and Tenders, Wood"	2
+OCCO:33909400	School Bus Monitors	2
+OCCO:19303400	School Psychologists	5
+OCCO:13116101	Search Marketing Strategists	4
+OCCO:25203100	"Secondary School Teachers, Except Special and Career/Technical Education"	4
+OCCO:43601400	"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"	2
+OCCO:41303100	"Securities, Commodities, and Financial Services Sales Agents"	4
+OCCO:49209800	Security and Fire Alarm Systems Installers	3
+OCCO:33903200	Security Guards	2
+OCCO:13119907	Security Management Specialists	4
+OCCO:11301301	Security Managers	4
+OCCO:47409100	Segmental Pavers	2
+OCCO:25302100	Self-Enrichment Teachers	3
+OCCO:51914100	Semiconductor Processing Technicians	2
+OCCO:51901200	"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"	2
+OCCO:47407100	Septic Tank Servicers and Sewer Pipe Cleaners	1
+OCCO:47501300	"Service Unit Operators, Oil and Gas"	2
+OCCO:27102700	Set and Exhibit Designers	5
+OCCO:51605100	"Sewers, Hand"	2
+OCCO:51603100	Sewing Machine Operators	1
+OCCO:39509300	Shampooers	2
+OCCO:47221100	Sheet Metal Workers	2
+OCCO:53503100	Ship Engineers	3
+OCCO:43507100	"Shipping, Receiving, and Inventory Clerks"	2
+OCCO:51604100	Shoe and Leather Workers and Repairers	2
+OCCO:51604200	Shoe Machine Operators and Tenders	2
+OCCO:53305300	Shuttle Drivers and Chauffeurs	2
+OCCO:49909700	Signal and Track Switch Repairers	3
+OCCO:39509400	Skincare Specialists	3
+OCCO:51302300	Slaughterers and Meat Packers	2
+OCCO:11915100	Social and Community Service Managers	4
+OCCO:21109300	Social and Human Service Assistants	4
+OCCO:19406100	Social Science Research Assistants	4
+OCCO:25111300	"Social Work Teachers, Postsecondary"	5
+OCCO:19304100	Sociologists	5
+OCCO:25106700	"Sociology Teachers, Postsecondary"	5
+OCCO:15125200	Software Developers	4
+OCCO:15125300	Software Quality Assurance Analysts and Testers	4
+OCCO:19101300	Soil and Plant Scientists	5
+OCCO:47101103	Solar Energy Installation Managers	3
+OCCO:17219911	Solar Energy Systems Engineers	4
+OCCO:47223100	Solar Photovoltaic Installers	2
+OCCO:41401107	Solar Sales Representatives and Assessors	3
+OCCO:47215204	Solar Thermal Installers and Technicians	3
+OCCO:27401400	Sound Engineering Technicians	3
+OCCO:11917902	Spa Managers	3
+OCCO:25205600	"Special Education Teachers, Elementary School"	4
+OCCO:25205500	"Special Education Teachers, Kindergarten"	4
+OCCO:25205700	"Special Education Teachers, Middle School"	4
+OCCO:25205100	"Special Education Teachers, Preschool"	5
+OCCO:25205800	"Special Education Teachers, Secondary School"	4
+OCCO:27101400	Special Effects Artists and Animators	4
+OCCO:29112700	Speech-Language Pathologists	5
+OCCO:31909901	Speech-Language Pathology Assistants	3
+OCCO:29122906	Sports Medicine Physicians	5
+OCCO:51802100	Stationary Engineers and Boiler Operators	3
+OCCO:43911100	Statistical Assistants	4
+OCCO:15204100	Statisticians	5
+OCCO:53706500	Stockers and Order Fillers	2
+OCCO:51919503	"Stone Cutters and Carvers, Manufacturing"	2
+OCCO:47202200	Stonemasons	3
+OCCO:47222100	Structural Iron and Steel Workers	2
+OCCO:51204100	Structural Metal Fabricators and Fitters	3
+OCCO:21101100	Substance Abuse and Behavioral Disorder Counselors	5
+OCCO:25303100	"Substitute Teachers, Short-Term"	4
+OCCO:53404100	Subway and Streetcar Operators	2
+OCCO:11307104	Supply Chain Managers	4
+OCCO:29909300	Surgical Assistants	3
+OCCO:29205500	Surgical Technologists	3
+OCCO:19302200	Survey Researchers	5
+OCCO:17303100	Surveying and Mapping Technicians	3
+OCCO:17102200	Surveyors	4
+OCCO:13119905	Sustainability Specialists	4
+OCCO:43201100	"Switchboard Operators, Including Answering Service"	2
+OCCO:51605200	"Tailors, Dressmakers, and Custom Sewers"	2
+OCCO:27201204	Talent Directors	4
+OCCO:53712100	"Tank Car, Truck, and Ship Loaders"	2
+OCCO:47208200	Tapers	2
+OCCO:13208100	"Tax Examiners and Collectors, and Revenue Agents"	3
+OCCO:13208200	Tax Preparers	3
+OCCO:53305400	Taxi Drivers	2
+OCCO:25904400	"Teaching Assistants, Postsecondary"	5
+OCCO:25904200	"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education"	3
+OCCO:25904300	"Teaching Assistants, Special Education"	3
+OCCO:51209200	Team Assemblers	2
+OCCO:27304200	Technical Writers	4
+OCCO:15124101	Telecommunications Engineering Specialists	3
+OCCO:49202200	"Telecommunications Equipment Installers and Repairers, Except Line Installers"	3
+OCCO:49905200	Telecommunications Line Installers and Repairers	2
+OCCO:41904100	Telemarketers	2
+OCCO:43202100	Telephone Operators	2
+OCCO:43307100	Tellers	2
+OCCO:47205300	Terrazzo Workers and Finishers	2
+OCCO:51606100	Textile Bleaching and Dyeing Machine Operators and Tenders	2
+OCCO:51606200	"Textile Cutting Machine Setters, Operators, and Tenders"	2
+OCCO:51606300	"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"	2
+OCCO:51606400	"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"	2
+OCCO:47204400	Tile and Stone Setters	2
+OCCO:51206100	Timing Device Assemblers and Adjusters	2
+OCCO:51919700	Tire Builders	2
+OCCO:49309300	Tire Repairers and Changers	2
+OCCO:23209300	"Title Examiners, Abstractors, and Searchers"	2
+OCCO:51411100	Tool and Die Makers	3
+OCCO:51419400	"Tool Grinders, Filers, and Sharpeners"	2
+OCCO:39701100	Tour Guides and Escorts	3
+OCCO:53604100	Traffic Technicians	3
+OCCO:11313100	Training and Development Managers	4
+OCCO:13115100	Training and Development Specialists	4
+OCCO:33305200	Transit and Railroad Police	3
+OCCO:17205101	Transportation Engineers	4
+OCCO:53605100	Transportation Inspectors	4
+OCCO:19309901	Transportation Planners	4
+OCCO:33909300	Transportation Security Screeners	2
+OCCO:53605107	"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation"	2
+OCCO:11307100	"Transportation, Storage, and Distribution Managers"	4
+OCCO:41304100	Travel Agents	3
+OCCO:39701200	Travel Guides	2
+OCCO:11303101	Treasurers and Controllers	4
+OCCO:37301300	Tree Trimmers and Pruners	2
+OCCO:25304100	Tutors	3
+OCCO:27202300	"Umpires, Referees, and Other Sports Officials"	2
+OCCO:51609300	Upholsterers	2
+OCCO:19305100	Urban and Regional Planners	5
+OCCO:29122903	Urologists	5
+OCCO:39303100	"Ushers, Lobby Attendants, and Ticket Takers"	2
+OCCO:17211202	Validation Engineers	4
+OCCO:29113100	Veterinarians	5
+OCCO:31909600	Veterinary Assistants and Laboratory Animal Caretakers	2
+OCCO:29205600	Veterinary Technologists and Technicians	3
+OCCO:15125501	Video Game Designers	4
+OCCO:35303100	Waiters and Waitresses	2
+OCCO:49906400	Watch and Clock Repairers	3
+OCCO:51803100	Water and Wastewater Treatment Plant and System Operators	3
+OCCO:11912102	Water Resource Specialists	4
+OCCO:17205102	Water/Wastewater Engineers	4
+OCCO:47409903	Weatherization Installers and Technicians	2
+OCCO:15129901	Web Administrators	4
+OCCO:15125500	Web and Digital Interface Designers	4
+OCCO:15125400	Web Developers	3
+OCCO:43511100	"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"	2
+OCCO:51412100	"Welders, Cutters, Solderers, and Brazers"	2
+OCCO:51412200	"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"	2
+OCCO:53707300	Wellhead Pumpers	2
+OCCO:13102200	"Wholesale and Retail Buyers, Except Farm Products"	3
+OCCO:11919910	Wind Energy Development Managers	4
+OCCO:17219910	Wind Energy Engineers	4
+OCCO:11919909	Wind Energy Operations Managers	3
+OCCO:49908100	Wind Turbine Service Technicians	3
+OCCO:51704200	"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"	2
+OCCO:43902200	Word Processors and Typists	2
+OCCO:27304300	Writers and Authors	4
+OCCO:19102300	Zoologists and Wildlife Biologists	5

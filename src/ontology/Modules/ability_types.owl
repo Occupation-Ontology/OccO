@@ -1,0 +1,796 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/occo/dev/ability_types.owl#"
+     xml:base="http://purl.obolibrary.org/obo/occo/dev/ability_types.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo/dev/ability_types.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000117"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000008 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OCCO_00000008"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000060 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000060">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to keep your hand and arm steady while moving your arm or while holding your arm and hand in one position.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.a.1</obo:OCCO_00000008>
+        <rdfs:label>arm-hand steadiness</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000061 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000061">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to focus on a single source of sound in the presence of other distracting sounds.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.b.2</obo:OCCO_00000008>
+        <rdfs:label>auditory attention</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000062 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000062">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to generate or use different sets of rules for combining or grouping things in different ways.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.b.7</obo:OCCO_00000008>
+        <rdfs:label>category flexibility</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000063 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000063">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to quickly and repeatedly adjust the controls of a machine or a vehicle to exact positions.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.b.1</obo:OCCO_00000008>
+        <rdfs:label>control precision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000064 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000064">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to apply general rules to specific problems to produce answers that make sense.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.b.4</obo:OCCO_00000008>
+        <rdfs:label>deductive reasoning</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000065 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000065">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to judge which of several objects is closer or farther away from you, or to judge the distance between you and an object.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.a.6</obo:OCCO_00000008>
+        <rdfs:label>depth perception</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000066 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000066">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to quickly and repeatedly bend, stretch, twist, or reach out with your body, arms, and/or legs.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.3.c.2</obo:OCCO_00000008>
+        <rdfs:label>dynamic flexibility</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000067 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000067">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to exert muscle force repeatedly or continuously over time. This involves muscular endurance and resistance to muscle fatigue.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.3.a.3</obo:OCCO_00000008>
+        <rdfs:label>dynamic strength</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000068 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000068">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to use short bursts of muscle force to propel oneself (as in jumping or sprinting), or to throw an object.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.3.a.2</obo:OCCO_00000008>
+        <rdfs:label>explosive strength</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000069 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000069">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to bend, stretch, twist, or reach with your body, arms, and/or legs.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.3.c.1</obo:OCCO_00000008>
+        <rdfs:label>extent flexibility</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000070 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000070">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to see details at a distance.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.a.2</obo:OCCO_00000008>
+        <rdfs:label>far vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000071 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000071">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.a.3</obo:OCCO_00000008>
+        <rdfs:label>finger dexterity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000072 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000072">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to identify or detect a known pattern (a figure, object, word, or sound) that is hidden in other distracting material.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.e.2</obo:OCCO_00000008>
+        <rdfs:label>flexibility of closure</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000073 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000073">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to come up with a number of ideas about a topic (the number of ideas is important, not their quality, correctness, or creativity).</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.b.1</obo:OCCO_00000008>
+        <rdfs:label>fluency of ideas</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000074 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000074">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to see objects in the presence of a glare or bright lighting.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.a.7</obo:OCCO_00000008>
+        <rdfs:label>glare sensitivity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000075 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000075">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to coordinate the movement of your arms, legs, and torso together when the whole body is in motion.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.3.c.3</obo:OCCO_00000008>
+        <rdfs:label>gross body coordination</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000076 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000076">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to keep or regain your body balance or stay upright when in an unstable position.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.3.c.4</obo:OCCO_00000008>
+        <rdfs:label>gross body equilibrium</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000077 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000077">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to detect or tell the differences between sounds that vary in pitch and loudness.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.b.1</obo:OCCO_00000008>
+        <rdfs:label>hearing sensitivity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000078 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000078">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.b.5</obo:OCCO_00000008>
+        <rdfs:label>inductive reasoning</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000079 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000079">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations).</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.b.6</obo:OCCO_00000008>
+        <rdfs:label>information ordering</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000080 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000080">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.a.2</obo:OCCO_00000008>
+        <rdfs:label>manual dexterity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000081 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000081">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to choose the right mathematical methods or formulas to solve a problem.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.c.1</obo:OCCO_00000008>
+        <rdfs:label>mathematical reasoning</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000082 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000082">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to remember information such as words, numbers, pictures, and procedures.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.d.1</obo:OCCO_00000008>
+        <rdfs:label>memorization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000083 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000083">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.b.2</obo:OCCO_00000008>
+        <rdfs:label>multilimb coordination</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000084 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000084">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to see details at close range (within a few feet of the observer).</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.a.1</obo:OCCO_00000008>
+        <rdfs:label>near vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000085 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000085">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to see under low-light conditions.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.a.4</obo:OCCO_00000008>
+        <rdfs:label>night vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000086 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000086">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to add, subtract, multiply, or divide quickly and correctly.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.c.2</obo:OCCO_00000008>
+        <rdfs:label>number facility</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000087 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000087">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to listen to and understand information and ideas presented through spoken words and sentences.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.a.1</obo:OCCO_00000008>
+        <rdfs:label>oral comprehension</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000088 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000088">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to communicate information and ideas in speaking so others will understand.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.a.3</obo:OCCO_00000008>
+        <rdfs:label>oral expression</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000089 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000089">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to come up with unusual or clever ideas about a given topic or situation, or to develop creative ways to solve a problem.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.b.2</obo:OCCO_00000008>
+        <rdfs:label>originality</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000090 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000090">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to quickly and accurately compare similarities and differences among sets of letters, numbers, objects, pictures, or patterns. The things to be compared may be presented at the same time or one after the other. This ability also includes comparing a presented object with a remembered object.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.e.3</obo:OCCO_00000008>
+        <rdfs:label>perceptual speed</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000091 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000091">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to see objects or movement of objects to one&apos;s side when the eyes are looking ahead.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.a.5</obo:OCCO_00000008>
+        <rdfs:label>peripheral vision</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000092 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000092">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing that there is a problem.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.b.3</obo:OCCO_00000008>
+        <rdfs:label>problem sensitivity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000093 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000093">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to time your movements or the movement of a piece of equipment in anticipation of changes in the speed and/or direction of a moving object or scene.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.b.4</obo:OCCO_00000008>
+        <rdfs:label>rate control</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000094 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000094">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to quickly respond (with the hand, finger, or foot) to a signal (sound, light, picture) when it appears.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.c.1</obo:OCCO_00000008>
+        <rdfs:label>reaction time</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000095 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000095">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to choose quickly between two or more movements in response to two or more different signals (lights, sounds, pictures). It includes the speed with which the correct response is started with the hand, foot, or other body part.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.b.3</obo:OCCO_00000008>
+        <rdfs:label>response orientation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000096 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000096">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to concentrate on a task over a period of time without being distracted.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.g.1</obo:OCCO_00000008>
+        <rdfs:label>selective attention</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000097 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000097">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to tell the direction from which a sound originated.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.b.3</obo:OCCO_00000008>
+        <rdfs:label>sound localization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000098 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000098">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to know your location in relation to the environment or to know where other objects are in relation to you.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.f.1</obo:OCCO_00000008>
+        <rdfs:label>spatial orientation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000099 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000099">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to speak clearly so others can understand you.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.b.5</obo:OCCO_00000008>
+        <rdfs:label>speech clarity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000100">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to identify and understand the speech of another person.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.b.4</obo:OCCO_00000008>
+        <rdfs:label>speech recognition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000101 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000101">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to quickly make sense of, combine, and organize information into meaningful patterns.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.e.1</obo:OCCO_00000008>
+        <rdfs:label>speed of closure</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000102 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000102">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to quickly move the arms and legs.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.c.3</obo:OCCO_00000008>
+        <rdfs:label>speed of limb movement</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000103 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000103">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to exert yourself physically over long periods of time without getting winded or out of breath.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.3.b.1</obo:OCCO_00000008>
+        <rdfs:label>stamina</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000104 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000104">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to exert maximum muscle force to lift, push, pull, or carry objects.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.3.a.1</obo:OCCO_00000008>
+        <rdfs:label>static strength</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000105 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000105">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to shift back and forth between two or more activities or sources of information (such as speech, sounds, touch, or other sources).</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.g.2</obo:OCCO_00000008>
+        <rdfs:label>time sharing</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000106 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000106">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to use your abdominal and lower back muscles to support part of the body repeatedly or continuously over time without &quot;giving out&quot; or fatiguing.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.3.a.4</obo:OCCO_00000008>
+        <rdfs:label>trunk strength</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000107 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000107">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to match or detect differences between colors, including shades of color and brightness.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.4.a.3</obo:OCCO_00000008>
+        <rdfs:label>visual color discrimination</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000108 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000108">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to imagine how something will look after it is moved around or when its parts are moved or rearranged.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.f.2</obo:OCCO_00000008>
+        <rdfs:label>visualization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000109 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000109">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to make fast, simple, repeated movements of the fingers, hands, and wrists.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.2.c.2</obo:OCCO_00000008>
+        <rdfs:label>wrist-finger speed</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000110 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000110">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to read and understand information and ideas presented in writing.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.a.2</obo:OCCO_00000008>
+        <rdfs:label>written comprehension</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000111 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000111">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000004"/>
+        <obo:IAO_0000115>The ability to communicate information and ideas in writing so others will understand.</obo:IAO_0000115>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/1.A/1.A.1/1.A.1.g</obo:IAO_0000119>
+        <obo:OCCO_00000008>1.A.1.a.4</obo:OCCO_00000008>
+        <rdfs:label>written expression</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.25) https://github.com/owlcs/owlapi -->
+
