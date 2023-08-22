@@ -100,7 +100,7 @@ build/occo-merged.owl: src/ontology/occo-edit.owl | build/robot.jar build
 	--input $< \
 	annotate \
 	--ontology-iri "$(OBO)/occo/occo-merged.owl" \
-	--version-iri "$(OBO)/opl/$(TODAY)/occo-merged.owl" \
+	--version-iri "$(OBO)/occo/$(TODAY)/occo-merged.owl" \
 	--annotation owl:versionInfo "$(TODAY)" \
 	--output build/occo-merged.tmp.owl
 	sed '/<owl:imports/d' build/occo-merged.tmp.owl > $@
