@@ -1,5 +1,5 @@
 ---
-name: 'New Term Request'
+name: NTR
 about: Request to add a new term
 title: 'NTR: [Your proposed new term]'
 labels: ''
