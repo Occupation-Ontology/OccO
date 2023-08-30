@@ -1,7 +1,7 @@
 ---
-name: 'NTR: [Your proposed new term]'
+name: 'New Term Request'
 about: Request to add a new term
-title: ''
+title: 'NTR: [Your proposed new term]'
 labels: ''
 assignees: ''
 
