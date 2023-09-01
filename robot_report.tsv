@@ -1,6 +1,4 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	multiple_labels	IAO:0000118	rdfs:label	alternative label@en
-ERROR	multiple_labels	IAO:0000118	rdfs:label	alternative term@en
 WARN	annotation_whitespace	BFO:0000002	IAO:0000602	(forall (x y) (if (and (Continuant x) (exists (t) (continuantPartOfAt y x t))) (Continuant y))) // axiom label in BFO2 CLIF: [009-002] 
 WARN	annotation_whitespace	BFO:0000002	IAO:0000602	(forall (x y) (if (and (Continuant x) (exists (t) (hasContinuantPartOfAt y x t))) (Continuant y))) // axiom label in BFO2 CLIF: [126-001] 
 WARN	annotation_whitespace	BFO:0000002	IAO:0000602	(forall (x) (if (Continuant x) (Entity x))) // axiom label in BFO2 CLIF: [008-002] 
@@ -85,6 +83,7 @@ WARN	annotation_whitespace	IAO:0000597	IAO:0000112	"Datatype: idrange:1
 Annotations: 'has ID range allocated to': \""Chris Mungall\""
 EquivalentTo: xsd:integer[> 2151 , <= 2300]
 @en"
+WARN	annotation_whitespace	OMO:0001002	IAO:0000116	This obsolesence reason should be used conservatively. For example: Obsoleting class that describes a breed of cow based on a record in an existing database, that was later retracted as faulty (breed does not exist). Do not use this term to obsolete a historic concept (that was once valid, but not anymore). @en
 WARN	duplicate_exact_synonym	obo:OCCO_49908000	IAO:0000118	Wind Turbine Service Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_49908100	IAO:0000118	Wind Turbine Service Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_43511000	IAO:0000118	Weighers, Measurers, Checkers, and Samplers, Recordkeeping
