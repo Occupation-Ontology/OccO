@@ -1,0 +1,756 @@
+Ontology ID	OccO Label	Skills
+ID		C 'has skill' some % SPLIT=|
+OCCO:11101100	chief executives	judgment and decision making| speaking| critical thinking| complex problem solving| social perceptiveness| management of personnel resources
+OCCO:11101103	chief sustainability officers	speaking| reading comprehension| critical thinking| complex problem solving| writing| active listening
+OCCO:11102100	general and operations managers	speaking| social perceptiveness| monitoring| coordination| active listening| reading comprehension
+OCCO:11201100	advertising and promotions managers	speaking| social perceptiveness| active listening| time management| writing| reading comprehension
+OCCO:11202100	marketing managers	speaking| social perceptiveness| reading comprehension| critical thinking| active listening| active learning
+OCCO:11202200	sales managers	persuasion| speaking| active listening| social perceptiveness| service orientation| reading comprehension
+OCCO:11301200	administrative services managers	speaking| active listening| coordination| writing| time management| reading comprehension
+OCCO:11301301	security managers	speaking| reading comprehension| critical thinking| active listening| writing| judgment and decision making
+OCCO:11302100	computer and information systems managers	critical thinking| reading comprehension| active listening| speaking| monitoring| judgment and decision making
+OCCO:11303101	treasurers and controllers	judgment and decision making| critical thinking| speaking| reading comprehension| management of financial resources| complex problem solving
+OCCO:11303103	investment fund managers	reading comprehension| critical thinking| active listening| speaking| judgment and decision making| complex problem solving
+OCCO:11305100	industrial production managers	speaking| monitoring| critical thinking| time management| coordination| reading comprehension
+OCCO:11305101	quality control systems managers	reading comprehension| quality control analysis| judgment and decision making| monitoring| active listening| writing
+OCCO:11305102	geothermal production managers	critical thinking| speaking| reading comprehension| monitoring| judgment and decision making| coordination
+OCCO:11305103	biofuels production managers	reading comprehension| management of personnel resources| critical thinking| monitoring| active listening| speaking
+OCCO:11305104	biomass power plant managers	critical thinking| speaking| time management| reading comprehension| monitoring| management of personnel resources
+OCCO:11305106	hydroelectric production managers	speaking| active listening| reading comprehension| monitoring| judgment and decision making| time management
+OCCO:11306100	purchasing managers	coordination| speaking| critical thinking| active listening| time management| social perceptiveness
+OCCO:11307104	supply chain managers	speaking| reading comprehension| active listening| monitoring| coordination| complex problem solving
+OCCO:11311100	compensation and benefits managers	speaking| reading comprehension| active listening| critical thinking| judgment and decision making| time management
+OCCO:11312100	human resources managers	speaking| social perceptiveness| management of personnel resources| active listening| reading comprehension| critical thinking
+OCCO:11313100	training and development managers	speaking| learning strategies| instructing| coordination| active listening| critical thinking
+OCCO:11902100	construction managers	speaking| critical thinking| active listening| time management| reading comprehension| management of personnel resources
+OCCO:11903300	"education administrators, postsecondary"	speaking| reading comprehension| critical thinking| active listening| writing| monitoring
+OCCO:11904100	architectural and engineering managers	reading comprehension| critical thinking| active listening| time management| speaking| judgment and decision making
+OCCO:11904101	biofuels/biodiesel technology and product development managers	writing| systems analysis| speaking| reading comprehension| judgment and decision making| critical thinking
+OCCO:11905100	food service managers	service orientation| speaking| critical thinking| coordination| time management| social perceptiveness
+OCCO:11908100	lodging managers	coordination| active listening| speaking| management of personnel resources| critical thinking| time management
+OCCO:11911100	medical and health services managers	speaking| critical thinking| writing| time management| reading comprehension| judgment and decision making
+OCCO:11912100	natural sciences managers	writing| speaking| reading comprehension| critical thinking| active listening| science
+OCCO:11912101	clinical research coordinators	writing| reading comprehension| coordination| active listening| speaking| critical thinking
+OCCO:11912102	water resource specialists	reading comprehension| systems analysis| complex problem solving| active listening| writing| systems evaluation
+OCCO:11913100	postmasters and mail superintendents	time management| speaking| social perceptiveness| reading comprehension| coordination| active listening
+OCCO:11914100	"property, real estate, and community association managers"	speaking| coordination| active listening| reading comprehension| negotiation| writing
+OCCO:11915100	social and community service managers	active listening| time management| speaking| social perceptiveness| management of personnel resources| judgment and decision making
+OCCO:11916100	emergency management directors	service orientation| speaking| critical thinking| coordination| complex problem solving| writing
+OCCO:11917901	fitness and wellness coordinators	speaking| social perceptiveness| critical thinking| coordination| reading comprehension| active listening
+OCCO:11917902	spa managers	speaking| monitoring| coordination| social perceptiveness| service orientation| management of personnel resources
+OCCO:11919901	regulatory affairs managers	reading comprehension| writing| speaking| judgment and decision making| critical thinking| active listening
+OCCO:11919902	compliance managers	reading comprehension| critical thinking| monitoring| active listening| writing| coordination
+OCCO:11919908	loss prevention managers	speaking| reading comprehension| monitoring| critical thinking| active listening| writing
+OCCO:11919909	wind energy operations managers	speaking| monitoring| critical thinking| active listening| social perceptiveness| reading comprehension
+OCCO:11919911	brownfield redevelopment specialists and site managers	speaking| critical thinking| reading comprehension| coordination| complex problem solving| writing
+OCCO:13101100	"agents and business managers of artists, performers, and athletes"	speaking| persuasion| social perceptiveness| negotiation| active listening| reading comprehension
+OCCO:13102100	"buyers and purchasing agents, farm products"	speaking| critical thinking| active listening| reading comprehension| persuasion| negotiation
+OCCO:13102200	"wholesale and retail buyers, except farm products"	negotiation| speaking| persuasion| critical thinking| active listening| judgment and decision making
+OCCO:13102300	"purchasing agents, except wholesale, retail, and farm products"	speaking| reading comprehension| active listening| critical thinking| writing| management of financial resources
+OCCO:13103200	"insurance appraisers, auto damage"	writing| speaking| reading comprehension| active listening| critical thinking| time management
+OCCO:13104101	environmental compliance inspectors	reading comprehension| critical thinking| active listening| speaking| writing| monitoring
+OCCO:13104103	equal opportunity representatives and officers	active listening| reading comprehension| speaking| social perceptiveness| critical thinking| writing
+OCCO:13104104	government property inspectors and investigators	active listening| writing| speaking| reading comprehension| judgment and decision making| critical thinking
+OCCO:13104106	coroners	speaking| critical thinking| active listening| writing| social perceptiveness| reading comprehension
+OCCO:13104107	regulatory affairs specialists	reading comprehension| writing| critical thinking| speaking| systems analysis| judgment and decision making
+OCCO:13104108	customs brokers	reading comprehension| active listening| complex problem solving| writing| speaking| critical thinking
+OCCO:13105100	cost estimators	mathematics| reading comprehension| critical thinking| speaking| judgment and decision making| active listening
+OCCO:13107100	human resources specialists	speaking| active listening| reading comprehension| critical thinking| writing| coordination
+OCCO:13107400	farm labor contractors	speaking| active listening| management of personnel resources| time management| social perceptiveness| judgment and decision making
+OCCO:13107500	labor relations specialists	active listening| speaking| reading comprehension| negotiation| writing| persuasion
+OCCO:13108100	logisticians	critical thinking| speaking| reading comprehension| monitoring| coordination| active listening
+OCCO:13108101	logistics engineers	reading comprehension| systems analysis| systems evaluation| critical thinking| judgment and decision making| complex problem solving
+OCCO:13108102	logistics analysts	reading comprehension| critical thinking| complex problem solving| systems evaluation| systems analysis| speaking
+OCCO:13111100	management analysts	reading comprehension| critical thinking| active listening| writing| systems evaluation| speaking
+OCCO:13112100	"meeting, convention, and event planners"	speaking| reading comprehension| active listening| social perceptiveness| service orientation| critical thinking
+OCCO:13113100	fundraisers	speaking| writing| persuasion| active listening| critical thinking| social perceptiveness
+OCCO:13114100	"compensation, benefits, and job analysis specialists"	active listening| critical thinking| speaking| reading comprehension| writing| systems analysis
+OCCO:13115100	training and development specialists	learning strategies| instructing| speaking| active listening| social perceptiveness| reading comprehension
+OCCO:13116100	market research analysts and marketing specialists	reading comprehension| active listening| complex problem solving| writing| speaking| judgment and decision making
+OCCO:13116101	search marketing strategists	speaking| reading comprehension| complex problem solving| critical thinking| active listening| active learning
+OCCO:13119904	business continuity planners	critical thinking| complex problem solving| writing| systems analysis| judgment and decision making| speaking
+OCCO:13119905	sustainability specialists	reading comprehension| speaking| complex problem solving| active listening| writing| monitoring
+OCCO:13119906	online merchants	reading comprehension| speaking| critical thinking| active listening| writing| service orientation
+OCCO:13119907	security management specialists	critical thinking| speaking| active listening| reading comprehension| judgment and decision making| writing
+OCCO:13203100	budget analysts	active listening| reading comprehension| speaking| mathematics| critical thinking| complex problem solving
+OCCO:13204100	credit analysts	critical thinking| active learning| speaking| reading comprehension| judgment and decision making| active listening
+OCCO:13205200	personal financial advisors	speaking| reading comprehension| judgment and decision making| critical thinking| active listening| service orientation
+OCCO:13205300	insurance underwriters	reading comprehension| judgment and decision making| active listening| speaking| critical thinking| writing
+OCCO:13206100	financial examiners	reading comprehension| critical thinking| active listening| writing| speaking| management of personnel resources
+OCCO:13207100	credit counselors	writing| speaking| active listening| reading comprehension| critical thinking| service orientation
+OCCO:13207200	loan officers	speaking| active listening| reading comprehension| judgment and decision making| critical thinking| service orientation
+OCCO:13208100	"tax examiners and collectors, and revenue agents"	reading comprehension| active listening| speaking| critical thinking| writing| active learning
+OCCO:13208200	tax preparers	reading comprehension| active listening| critical thinking| speaking| writing| mathematics
+OCCO:13209904	"fraud examiners, investigators and analysts"	writing| speaking| reading comprehension| critical thinking| active listening| judgment and decision making
+OCCO:15121100	computer systems analysts	critical thinking| systems analysis| speaking| reading comprehension| active listening| writing
+OCCO:15121200	information security analysts	reading comprehension| critical thinking| complex problem solving| speaking| writing| active listening
+OCCO:15122100	computer and information research scientists	complex problem solving| systems evaluation| systems analysis| critical thinking| judgment and decision making| time management
+OCCO:15123100	computer network support specialists	critical thinking| active listening| reading comprehension| judgment and decision making| speaking| monitoring
+OCCO:15123200	computer user support specialists	speaking| active listening| reading comprehension| critical thinking| writing| complex problem solving
+OCCO:15124100	computer network architects	systems analysis| operations analysis| active listening| complex problem solving| active learning| systems evaluation
+OCCO:15124101	telecommunications engineering specialists	active listening| critical thinking| reading comprehension| speaking| active learning| writing
+OCCO:15124200	database administrators	critical thinking| complex problem solving| reading comprehension| judgment and decision making| active listening| active learning
+OCCO:15124300	database architects	critical thinking| reading comprehension| judgment and decision making| systems analysis| speaking| complex problem solving
+OCCO:15124400	network and computer systems administrators	systems analysis| reading comprehension| critical thinking| systems evaluation| monitoring| judgment and decision making
+OCCO:15125100	computer programmers	programming| reading comprehension| critical thinking| complex problem solving| quality control analysis| active listening
+OCCO:15125400	web developers	programming| critical thinking| operations analysis| reading comprehension| complex problem solving| active listening
+OCCO:15125501	video game designers	programming| active listening| reading comprehension| critical thinking| complex problem solving| time management
+OCCO:15129901	web administrators	critical thinking| reading comprehension| complex problem solving| active listening| writing| judgment and decision making
+OCCO:15129903	document management specialists	reading comprehension| monitoring| active listening| writing| critical thinking| systems analysis
+OCCO:15129908	computer systems engineers/architects	critical thinking| active listening| reading comprehension| complex problem solving| writing| speaking
+OCCO:15129909	information technology project managers	critical thinking| time management| speaking| reading comprehension| monitoring| coordination
+OCCO:15201100	actuaries	mathematics| judgment and decision making| critical thinking| reading comprehension| complex problem solving| systems evaluation
+OCCO:15202100	mathematicians	mathematics| reading comprehension| critical thinking| complex problem solving| active learning| writing
+OCCO:15203100	operations research analysts	mathematics| complex problem solving| critical thinking| writing| systems evaluation| reading comprehension
+OCCO:15204100	statisticians	mathematics| reading comprehension| critical thinking| active listening| active learning| complex problem solving
+OCCO:15204101	biostatisticians	mathematics| reading comprehension| critical thinking| science| complex problem solving| writing
+OCCO:15205101	business intelligence analysts	critical thinking| reading comprehension| active listening| speaking| active learning| judgment and decision making
+OCCO:15205102	clinical data managers	critical thinking| speaking| reading comprehension| active listening| writing| monitoring
+OCCO:15209901	bioinformatics technicians	reading comprehension| writing| judgment and decision making| critical thinking| complex problem solving| active listening
+OCCO:17101100	"architects, except landscape and naval"	speaking| critical thinking| reading comprehension| operations analysis| judgment and decision making| complex problem solving
+OCCO:17101200	landscape architects	active listening| reading comprehension| speaking| coordination| writing| time management
+OCCO:17102100	cartographers and photogrammetrists	reading comprehension| writing| critical thinking| active listening| time management| active learning
+OCCO:17102200	surveyors	reading comprehension| mathematics| writing| speaking| critical thinking| time management
+OCCO:17102201	geodetic surveyors	mathematics| reading comprehension| critical thinking| active listening| judgment and decision making| complex problem solving
+OCCO:17201100	aerospace engineers	critical thinking| science| reading comprehension| writing| speaking| operations analysis
+OCCO:17202100	agricultural engineers	critical thinking| writing| reading comprehension| complex problem solving| judgment and decision making| active listening
+OCCO:17204100	chemical engineers	science| critical thinking| complex problem solving| systems analysis| judgment and decision making| mathematics
+OCCO:17205100	civil engineers	reading comprehension| critical thinking| systems analysis| speaking| operations analysis| mathematics
+OCCO:17205101	transportation engineers	complex problem solving| speaking| critical thinking| writing| reading comprehension| judgment and decision making
+OCCO:17205102	water/wastewater engineers	mathematics| critical thinking| complex problem solving| speaking| reading comprehension| judgment and decision making
+OCCO:17206100	computer hardware engineers	reading comprehension| critical thinking| speaking| active listening| writing| active learning
+OCCO:17207100	electrical engineers	writing| reading comprehension| critical thinking| complex problem solving| active listening| speaking
+OCCO:17207200	"electronics engineers, except computer"	reading comprehension| critical thinking| complex problem solving| writing| systems analysis| speaking
+OCCO:17207201	radio frequency identification device specialists	critical thinking| speaking| active listening| reading comprehension| judgment and decision making| complex problem solving
+OCCO:17208100	environmental engineers	reading comprehension| critical thinking| complex problem solving| active listening| active learning| writing
+OCCO:17211102	fire-prevention and protection engineers	critical thinking| active listening| reading comprehension| complex problem solving| systems analysis| speaking
+OCCO:17211200	industrial engineers	reading comprehension| writing| critical thinking| complex problem solving| active listening| speaking
+OCCO:17211201	human factors engineers and ergonomists	critical thinking| complex problem solving| speaking| reading comprehension| active listening| writing
+OCCO:17211202	validation engineers	science| reading comprehension| active listening| writing| speaking| critical thinking
+OCCO:17211203	manufacturing engineers	active listening| systems analysis| speaking| reading comprehension| judgment and decision making| complex problem solving
+OCCO:17213100	materials engineers	reading comprehension| critical thinking| active listening| writing| speaking| science
+OCCO:17214100	mechanical engineers	science| reading comprehension| mathematics| critical thinking| active listening| operations analysis
+OCCO:17214101	fuel cell engineers	reading comprehension| systems analysis| critical thinking| writing| science| judgment and decision making
+OCCO:17214102	automotive engineers	critical thinking| complex problem solving| judgment and decision making| speaking| reading comprehension| writing
+OCCO:17215100	"mining and geological engineers, including mining safety engineers"	critical thinking| writing| speaking| reading comprehension| judgment and decision making| complex problem solving
+OCCO:17216100	nuclear engineers	active listening| speaking| reading comprehension| operations analysis| critical thinking| writing
+OCCO:17217100	petroleum engineers	reading comprehension| speaking| active listening| writing| critical thinking| complex problem solving
+OCCO:17219905	mechatronics engineers	judgment and decision making| complex problem solving| active listening| writing| speaking| reading comprehension
+OCCO:17219906	microsystems engineers	reading comprehension| critical thinking| active listening| complex problem solving| writing| systems analysis
+OCCO:17219907	photonics engineers	critical thinking| reading comprehension| mathematics| writing| complex problem solving| active listening
+OCCO:17219908	robotics engineers	reading comprehension| critical thinking| quality control analysis| operation monitoring| mathematics| judgment and decision making
+OCCO:17219909	nanosystems engineers	speaking| critical thinking| writing| science| reading comprehension| mathematics
+OCCO:17219910	wind energy engineers	critical thinking| reading comprehension| mathematics| judgment and decision making| writing| systems analysis
+OCCO:17219911	solar energy systems engineers	reading comprehension| writing| judgment and decision making| critical thinking| active listening| speaking
+OCCO:17301300	mechanical drafters	active learning| speaking| mathematics| critical thinking| complex problem solving| active listening
+OCCO:17302401	robotics technicians	troubleshooting| repairing| reading comprehension| equipment maintenance| critical thinking| complex problem solving
+OCCO:17302701	automotive engineering technicians	reading comprehension| speaking| critical thinking| writing| quality control analysis| operation monitoring
+OCCO:17302901	non-destructive testing specialists	quality control analysis| reading comprehension| critical thinking| active learning| monitoring| active listening
+OCCO:17302908	photonics technicians	reading comprehension| operation monitoring| quality control analysis| active listening| troubleshooting| monitoring
+OCCO:19101100	animal scientists	science| writing| speaking| reading comprehension| critical thinking| judgment and decision making
+OCCO:19101200	food scientists and technologists	writing| reading comprehension| active listening| speaking| critical thinking| active learning
+OCCO:19101300	soil and plant scientists	science| reading comprehension| speaking| critical thinking| complex problem solving| active learning
+OCCO:19102100	biochemists and biophysicists	science| reading comprehension| critical thinking| writing| speaking| active listening
+OCCO:19102200	microbiologists	science| critical thinking| writing| reading comprehension| active listening| active learning
+OCCO:19102300	zoologists and wildlife biologists	science| active listening| writing| reading comprehension| critical thinking| speaking
+OCCO:19102901	bioinformatics scientists	reading comprehension| critical thinking| speaking| complex problem solving| active listening| writing
+OCCO:19102902	molecular and cellular biologists	science| reading comprehension| critical thinking| writing| speaking| judgment and decision making
+OCCO:19102903	geneticists	reading comprehension| speaking| science| critical thinking| active learning| writing
+OCCO:19102904	biologists	science| critical thinking| reading comprehension| complex problem solving| active listening| writing
+OCCO:19103102	range managers	active listening| speaking| critical thinking| reading comprehension| judgment and decision making| monitoring
+OCCO:19103103	park naturalists	speaking| reading comprehension| social perceptiveness| critical thinking| active listening| writing
+OCCO:19103200	foresters	speaking| reading comprehension| monitoring| judgment and decision making| critical thinking| time management
+OCCO:19104100	epidemiologists	science| reading comprehension| critical thinking| speaking| judgment and decision making| active learning
+OCCO:19104200	"medical scientists, except epidemiologists"	science| critical thinking| writing| reading comprehension| active listening| speaking
+OCCO:19201100	astronomers	science| reading comprehension| critical thinking| active learning| writing| mathematics
+OCCO:19201200	physicists	science| mathematics| critical thinking| speaking| reading comprehension| complex problem solving
+OCCO:19202100	atmospheric and space scientists	science| reading comprehension| speaking| critical thinking| active listening| writing
+OCCO:19203100	chemists	science| reading comprehension| critical thinking| mathematics| active listening| complex problem solving
+OCCO:19203200	materials scientists	science| reading comprehension| critical thinking| speaking| complex problem solving| judgment and decision making
+OCCO:19204100	"environmental scientists and specialists, including health"	reading comprehension| critical thinking| active listening| writing| speaking| science
+OCCO:19204102	environmental restoration planners	critical thinking| active listening| reading comprehension| writing| speaking| science
+OCCO:19204103	industrial ecologists	reading comprehension| writing| critical thinking| speaking| judgment and decision making| active listening
+OCCO:19204200	"geoscientists, except hydrologists and geographers"	science| reading comprehension| critical thinking| speaking| complex problem solving| active listening
+OCCO:19204300	hydrologists	critical thinking| science| reading comprehension| speaking| mathematics| active listening
+OCCO:19209901	remote sensing scientists and technologists	science| reading comprehension| critical thinking| writing| speaking| mathematics
+OCCO:19301100	economists	writing| speaking| mathematics| critical thinking| active listening| reading comprehension
+OCCO:19301101	environmental economists	writing| reading comprehension| critical thinking| judgment and decision making| active listening| mathematics
+OCCO:19302200	survey researchers	writing| speaking| reading comprehension| active listening| critical thinking| complex problem solving
+OCCO:19303200	industrial-organizational psychologists	reading comprehension| active listening| speaking| judgment and decision making| complex problem solving| writing
+OCCO:19303400	school psychologists	active listening| social perceptiveness| reading comprehension| writing| speaking| monitoring
+OCCO:19304100	sociologists	reading comprehension| writing| social perceptiveness| active listening| speaking| critical thinking
+OCCO:19305100	urban and regional planners	reading comprehension| active listening| speaking| judgment and decision making| critical thinking| systems analysis
+OCCO:19309200	geographers	writing| speaking| reading comprehension| critical thinking| active listening| judgment and decision making
+OCCO:19309300	historians	reading comprehension| critical thinking| writing| active listening| speaking| active learning
+OCCO:19309400	political scientists	reading comprehension| speaking| critical thinking| writing| complex problem solving| social perceptiveness
+OCCO:19309901	transportation planners	reading comprehension| writing| speaking| judgment and decision making| critical thinking| systems evaluation
+OCCO:19401200	agricultural technicians	reading comprehension| writing| critical thinking| complex problem solving| active listening| monitoring
+OCCO:19401201	precision agriculture technicians	reading comprehension| critical thinking| active listening| speaking| active learning| writing
+OCCO:19401300	food science technicians	reading comprehension| active listening| writing| speaking| science| critical thinking
+OCCO:19402100	biological technicians	reading comprehension| science| critical thinking| active listening| complex problem solving| active learning
+OCCO:19403100	chemical technicians	science| reading comprehension| critical thinking| monitoring| writing| active listening
+OCCO:19404200	"environmental science and protection technicians, including health"	active listening| reading comprehension| critical thinking| speaking| writing| science
+OCCO:19405102	nuclear monitoring technicians	monitoring| critical thinking| active listening| reading comprehension| operation monitoring| speaking
+OCCO:19406100	social science research assistants	reading comprehension| active listening| writing| critical thinking| complex problem solving| speaking
+OCCO:19407100	forest and conservation technicians	critical thinking| active listening| reading comprehension| speaking| judgment and decision making| social perceptiveness
+OCCO:19409200	forensic science technicians	writing| speaking| reading comprehension| critical thinking| active listening| complex problem solving
+OCCO:19409901	quality control analysts	quality control analysis| reading comprehension| active listening| monitoring| complex problem solving| writing
+OCCO:19409903	remote sensing technicians	critical thinking| speaking| reading comprehension| mathematics| systems analysis| monitoring
+OCCO:19501100	occupational health and safety specialists	speaking| critical thinking| complex problem solving| active listening| reading comprehension| judgment and decision making
+OCCO:19501200	occupational health and safety technicians	speaking| reading comprehension| active listening| critical thinking| writing| monitoring
+OCCO:21101100	substance abuse and behavioral disorder counselors	speaking| social perceptiveness| active listening| reading comprehension| critical thinking| service orientation
+OCCO:21101300	marriage and family therapists	active listening| social perceptiveness| speaking| service orientation| judgment and decision making| writing
+OCCO:21101400	mental health counselors	active listening| social perceptiveness| speaking| service orientation| writing| monitoring
+OCCO:21101500	rehabilitation counselors	active listening| social perceptiveness| speaking| monitoring| critical thinking| writing
+OCCO:21102100	"child, family, and school social workers"	speaking| active listening| reading comprehension| social perceptiveness| service orientation| monitoring
+OCCO:21102200	healthcare social workers	active listening| speaking| social perceptiveness| critical thinking| reading comprehension| coordination
+OCCO:21102300	mental health and substance abuse social workers	active listening| speaking| social perceptiveness| reading comprehension| service orientation| monitoring
+OCCO:21109200	probation officers and correctional treatment specialists	speaking| social perceptiveness| critical thinking| monitoring| active listening| writing
+OCCO:21109300	social and human service assistants	speaking| social perceptiveness| service orientation| active listening| writing| reading comprehension
+OCCO:21109400	community health workers	speaking| social perceptiveness| active listening| writing| service orientation| reading comprehension
+OCCO:21201100	clergy	speaking| active listening| social perceptiveness| service orientation| writing| reading comprehension
+OCCO:21202100	"directors, religious activities and education"	speaking| social perceptiveness| reading comprehension| active listening| critical thinking| coordination
+OCCO:23101100	lawyers	speaking| active listening| reading comprehension| critical thinking| judgment and decision making| complex problem solving
+OCCO:23101200	judicial law clerks	reading comprehension| active listening| critical thinking| writing| speaking| active learning
+OCCO:23102100	"administrative law judges, adjudicators, and hearing officers"	critical thinking| reading comprehension| writing| judgment and decision making| complex problem solving| active listening
+OCCO:23102200	"arbitrators, mediators, and conciliators"	negotiation| active listening| speaking| persuasion| critical thinking| writing
+OCCO:23102300	"judges, magistrate judges, and magistrates"	critical thinking| active listening| judgment and decision making| speaking| reading comprehension| complex problem solving
+OCCO:23201100	paralegals and legal assistants	reading comprehension| active listening| writing| speaking| critical thinking| time management
+OCCO:23209300	"title examiners, abstractors, and searchers"	speaking| reading comprehension| critical thinking| active listening| time management| writing
+OCCO:25101100	"business teachers, postsecondary"	speaking| reading comprehension| instructing| writing| learning strategies| critical thinking
+OCCO:25102100	"computer science teachers, postsecondary"	speaking| instructing| writing| reading comprehension| learning strategies| critical thinking
+OCCO:25102200	"mathematical science teachers, postsecondary"	mathematics| writing| speaking| reading comprehension| instructing| critical thinking
+OCCO:25103100	"architecture teachers, postsecondary"	instructing| writing| speaking| reading comprehension| learning strategies| critical thinking
+OCCO:25103200	"engineering teachers, postsecondary"	reading comprehension| writing| instructing| active listening| speaking| learning strategies
+OCCO:25104100	"agricultural sciences teachers, postsecondary"	instructing| speaking| reading comprehension| learning strategies| active listening| writing
+OCCO:25104200	"biological science teachers, postsecondary"	speaking| writing| reading comprehension| learning strategies| science| instructing
+OCCO:25104300	"forestry and conservation science teachers, postsecondary"	speaking| writing| reading comprehension| instructing| active listening| learning strategies
+OCCO:25105100	"atmospheric, earth, marine, and space sciences teachers, postsecondary"	speaking| reading comprehension| science| instructing| writing| learning strategies
+OCCO:25105200	"chemistry teachers, postsecondary"	speaking| writing| science| reading comprehension| critical thinking| active listening
+OCCO:25105300	"environmental science teachers, postsecondary"	writing| speaking| science| reading comprehension| instructing| monitoring
+OCCO:25105400	"physics teachers, postsecondary"	speaking| reading comprehension| writing| instructing| active learning| science
+OCCO:25106100	"anthropology and archeology teachers, postsecondary"	speaking| reading comprehension| writing| learning strategies| instructing| critical thinking
+OCCO:25106200	"area, ethnic, and cultural studies teachers, postsecondary"	speaking| reading comprehension| active listening| instructing| critical thinking| active learning
+OCCO:25106300	"economics teachers, postsecondary"	speaking| reading comprehension| instructing| active listening| writing| critical thinking
+OCCO:25106400	"geography teachers, postsecondary"	speaking| instructing| writing| reading comprehension| learning strategies| critical thinking
+OCCO:25106500	"political science teachers, postsecondary"	speaking| writing| reading comprehension| instructing| critical thinking| active listening
+OCCO:25106600	"psychology teachers, postsecondary"	speaking| writing| reading comprehension| learning strategies| instructing| critical thinking
+OCCO:25106700	"sociology teachers, postsecondary"	speaking| reading comprehension| writing| instructing| active listening| learning strategies
+OCCO:25107100	"health specialties teachers, postsecondary"	speaking| reading comprehension| instructing| writing| learning strategies| critical thinking
+OCCO:25107200	"nursing instructors and teachers, postsecondary"	speaking| instructing| writing| reading comprehension| learning strategies| critical thinking
+OCCO:25108100	"education teachers, postsecondary"	speaking| writing| reading comprehension| learning strategies| instructing| active listening
+OCCO:25108200	"library science teachers, postsecondary"	speaking| reading comprehension| instructing| writing| critical thinking| active listening
+OCCO:25111100	"criminal justice and law enforcement teachers, postsecondary"	speaking| critical thinking| writing| reading comprehension| learning strategies| instructing
+OCCO:25111200	"law teachers, postsecondary"	speaking| reading comprehension| learning strategies| instructing| active listening| writing
+OCCO:25111300	"social work teachers, postsecondary"	instructing| speaking| reading comprehension| learning strategies| writing| critical thinking
+OCCO:25112100	"art, drama, and music teachers, postsecondary"	speaking| instructing| time management| reading comprehension| learning strategies| active listening
+OCCO:25112200	"communications teachers, postsecondary"	speaking| instructing| writing| reading comprehension| learning strategies| critical thinking
+OCCO:25112300	"english language and literature teachers, postsecondary"	reading comprehension| instructing| speaking| writing| active listening| learning strategies
+OCCO:25112400	"foreign language and literature teachers, postsecondary"	speaking| reading comprehension| instructing| writing| active listening| learning strategies
+OCCO:25112500	"history teachers, postsecondary"	speaking| reading comprehension| writing| learning strategies| instructing| critical thinking
+OCCO:25112600	"philosophy and religion teachers, postsecondary"	instructing| writing| speaking| reading comprehension| critical thinking| active listening
+OCCO:25119300	"recreation and fitness studies teachers, postsecondary"	speaking| instructing| reading comprehension| learning strategies| writing| active listening
+OCCO:25201100	"preschool teachers, except special education"	speaking| learning strategies| instructing| social perceptiveness| coordination| active listening
+OCCO:25201200	"kindergarten teachers, except special education"	instructing| speaking| social perceptiveness| active listening| monitoring| learning strategies
+OCCO:25202100	"elementary school teachers, except special education"	speaking| instructing| learning strategies| active listening| social perceptiveness| monitoring
+OCCO:25202200	"middle school teachers, except special and career/technical education"	speaking| instructing| active listening| reading comprehension| writing| social perceptiveness
+OCCO:25202300	"career/technical education teachers, middle school"	instructing| speaking| reading comprehension| monitoring| learning strategies| critical thinking
+OCCO:25203100	"secondary school teachers, except special and career/technical education"	learning strategies| instructing| speaking| active listening| critical thinking| coordination
+OCCO:25203200	"career/technical education teachers, secondary school"	instructing| writing| speaking| reading comprehension| active listening| monitoring
+OCCO:25205700	"special education teachers, middle school"	instructing| speaking| active listening| reading comprehension| time management| social perceptiveness
+OCCO:25205800	"special education teachers, secondary school"	learning strategies| instructing| speaking| service orientation| monitoring| active listening
+OCCO:25205901	adapted physical education specialists	service orientation| instructing| active listening| speaking| social perceptiveness| reading comprehension
+OCCO:25304100	tutors	instructing| learning strategies| active listening| speaking| reading comprehension| social perceptiveness
+OCCO:25401100	archivists	reading comprehension| writing| active listening| judgment and decision making| critical thinking| active learning
+OCCO:25401200	curators	speaking| reading comprehension| writing| active listening| critical thinking| time management
+OCCO:25401300	museum technicians and conservators	active listening| speaking| reading comprehension| writing| monitoring| critical thinking
+OCCO:25403100	library technicians	speaking| reading comprehension| service orientation| active listening| social perceptiveness| critical thinking
+OCCO:25903100	instructional coordinators	reading comprehension| speaking| writing| learning strategies| monitoring| active listening
+OCCO:27101100	art directors	speaking| active listening| time management| judgment and decision making| reading comprehension| critical thinking
+OCCO:27101200	craft artists	speaking| social perceptiveness| reading comprehension| active listening| persuasion| monitoring
+OCCO:27101300	"fine artists, including painters, sculptors, and illustrators"	active learning| judgment and decision making| critical thinking| active listening| social perceptiveness| complex problem solving
+OCCO:27102100	commercial and industrial designers	critical thinking| active listening| speaking| reading comprehension| complex problem solving| operations analysis
+OCCO:27102200	fashion designers	critical thinking| active listening| speaking| social perceptiveness| judgment and decision making| coordination
+OCCO:27102300	floral designers	active listening| speaking| social perceptiveness| service orientation| time management| critical thinking
+OCCO:27102400	graphic designers	active listening| speaking| critical thinking| reading comprehension| time management| social perceptiveness
+OCCO:27102500	interior designers	active listening| speaking| reading comprehension| social perceptiveness| service orientation| writing
+OCCO:27102600	merchandise displayers and window trimmers	active listening| speaking| critical thinking| judgment and decision making| time management| social perceptiveness
+OCCO:27102700	set and exhibit designers	reading comprehension| critical thinking| active listening| coordination| time management| operations analysis
+OCCO:27201100	actors	speaking| social perceptiveness| reading comprehension| active listening| monitoring| critical thinking
+OCCO:27201204	talent directors	speaking| reading comprehension| active listening| social perceptiveness| time management| monitoring
+OCCO:27202100	athletes and sports competitors	speaking| critical thinking| active listening| coordination| monitoring| judgment and decision making
+OCCO:27202200	coaches and scouts	instructing| speaking| monitoring| management of personnel resources| learning strategies| judgment and decision making
+OCCO:27202300	"umpires, referees, and other sports officials"	speaking| critical thinking| judgment and decision making| time management| social perceptiveness| monitoring
+OCCO:27203100	dancers	active listening| coordination| speaking| service orientation| learning strategies| instructing
+OCCO:27203200	choreographers	speaking| active listening| instructing| coordination| time management| monitoring
+OCCO:27303100	public relations specialists	speaking| active listening| writing| time management| social perceptiveness| coordination
+OCCO:27304100	editors	reading comprehension| writing| quality control analysis| critical thinking| active listening| speaking
+OCCO:27304200	technical writers	writing| reading comprehension| speaking| active listening| critical thinking| active learning
+OCCO:27304305	"poets, lyricists and creative writers"	writing| reading comprehension| critical thinking| judgment and decision making| active listening| active learning
+OCCO:27309100	interpreters and translators	speaking| active listening| reading comprehension| writing| critical thinking| monitoring
+OCCO:27401200	broadcast technicians	critical thinking| operation monitoring| monitoring| active listening| speaking| writing
+OCCO:27401400	sound engineering technicians	speaking| active listening| reading comprehension| critical thinking| monitoring| writing
+OCCO:27402100	photographers	active listening| speaking| social perceptiveness| service orientation| time management| reading comprehension
+OCCO:27403200	film and video editors	active listening| reading comprehension| critical thinking| time management| speaking| judgment and decision making
+OCCO:29101100	chiropractors	active listening| speaking| reading comprehension| critical thinking| writing| social perceptiveness
+OCCO:29102100	"dentists, general"	judgment and decision making| critical thinking| speaking| reading comprehension| monitoring| complex problem solving
+OCCO:29102200	oral and maxillofacial surgeons	judgment and decision making| complex problem solving| reading comprehension| critical thinking| speaking| monitoring
+OCCO:29102300	orthodontists	speaking| critical thinking| active listening| social perceptiveness| judgment and decision making| complex problem solving
+OCCO:29102400	prosthodontists	speaking| active listening| social perceptiveness| critical thinking| complex problem solving| reading comprehension
+OCCO:29103100	dietitians and nutritionists	reading comprehension| speaking| monitoring| critical thinking| active listening| writing
+OCCO:29104100	optometrists	critical thinking| active listening| speaking| science| writing| reading comprehension
+OCCO:29105100	pharmacists	reading comprehension| active listening| writing| speaking| service orientation| monitoring
+OCCO:29107100	physician assistants	speaking| reading comprehension| critical thinking| active listening| social perceptiveness| service orientation
+OCCO:29107101	anesthesiologist assistants	active listening| reading comprehension| monitoring| speaking| judgment and decision making| critical thinking
+OCCO:29108100	podiatrists	speaking| reading comprehension| critical thinking| active listening| judgment and decision making| active learning
+OCCO:29112200	occupational therapists	service orientation| monitoring| speaking| social perceptiveness| reading comprehension| judgment and decision making
+OCCO:29112201	"low vision therapists, orientation and mobility specialists, and vision rehabilitation therapists"	active listening| speaking| writing| social perceptiveness| service orientation| monitoring
+OCCO:29112300	physical therapists	reading comprehension| speaking| critical thinking| social perceptiveness| service orientation| monitoring
+OCCO:29112400	radiation therapists	reading comprehension| active listening| critical thinking| social perceptiveness| operation monitoring| speaking
+OCCO:29112500	recreational therapists	social perceptiveness| service orientation| speaking| coordination| active listening| reading comprehension
+OCCO:29112600	respiratory therapists	monitoring| critical thinking| active listening| speaking| social perceptiveness| service orientation
+OCCO:29112700	speech-language pathologists	active listening| speaking| social perceptiveness| reading comprehension| learning strategies| critical thinking
+OCCO:29112800	exercise physiologists	speaking| reading comprehension| critical thinking| active listening| writing| service orientation
+OCCO:29112901	art therapists	social perceptiveness| speaking| active listening| judgment and decision making| critical thinking| service orientation
+OCCO:29112902	music therapists	social perceptiveness| active listening| speaking| service orientation| reading comprehension| critical thinking
+OCCO:29113100	veterinarians	science| speaking| reading comprehension| critical thinking| complex problem solving| judgment and decision making
+OCCO:29114100	registered nurses	social perceptiveness| active listening| speaking| service orientation| reading comprehension| critical thinking
+OCCO:29114101	acute care nurses	speaking| social perceptiveness| service orientation| reading comprehension| monitoring| critical thinking
+OCCO:29114102	advanced practice psychiatric nurses	social perceptiveness| active listening| speaking| reading comprehension| critical thinking| writing
+OCCO:29114103	critical care nurses	service orientation| active listening| speaking| social perceptiveness| reading comprehension| monitoring
+OCCO:29114104	clinical nurse specialists	speaking| social perceptiveness| service orientation| reading comprehension| critical thinking| coordination
+OCCO:29115100	nurse anesthetists	reading comprehension| critical thinking| speaking| monitoring| active listening| active learning
+OCCO:29116100	nurse midwives	speaking| social perceptiveness| critical thinking| active listening| active learning| service orientation
+OCCO:29117100	nurse practitioners	speaking| social perceptiveness| reading comprehension| critical thinking| active listening| active learning
+OCCO:29118100	audiologists	speaking| reading comprehension| critical thinking| active listening| active learning| writing
+OCCO:29121100	anesthesiologists	critical thinking| monitoring| judgment and decision making| active listening| writing| science
+OCCO:29121300	dermatologists	critical thinking| active listening| reading comprehension| service orientation| speaking| active learning
+OCCO:29121700	neurologists	active listening| speaking| social perceptiveness| reading comprehension| critical thinking| complex problem solving
+OCCO:29121800	obstetricians and gynecologists	critical thinking| speaking| reading comprehension| active listening| writing| science
+OCCO:29122100	"pediatricians, general"	critical thinking| active listening| speaking| judgment and decision making| social perceptiveness| science
+OCCO:29122300	psychiatrists	active listening| social perceptiveness| speaking| critical thinking| writing| reading comprehension
+OCCO:29122400	radiologists	writing| reading comprehension| critical thinking| active listening| speaking| judgment and decision making
+OCCO:29122901	allergists and immunologists	reading comprehension| speaking| active listening| monitoring| judgment and decision making| critical thinking
+OCCO:29122902	hospitalists	social perceptiveness| service orientation| critical thinking| active listening| speaking| reading comprehension
+OCCO:29122903	urologists	writing| reading comprehension| judgment and decision making| active listening| critical thinking| complex problem solving
+OCCO:29122904	physical medicine and rehabilitation physicians	critical thinking| speaking| social perceptiveness| reading comprehension| active listening| judgment and decision making
+OCCO:29122905	preventive medicine physicians	reading comprehension| critical thinking| active listening| active learning| writing| speaking
+OCCO:29122906	sports medicine physicians	reading comprehension| active listening| critical thinking| monitoring| judgment and decision making| speaking
+OCCO:29129100	acupuncturists	critical thinking| active listening| social perceptiveness| service orientation| speaking| judgment and decision making
+OCCO:29129200	dental hygienists	speaking| active listening| critical thinking| writing| social perceptiveness| service orientation
+OCCO:29129901	naturopathic physicians	speaking| social perceptiveness| reading comprehension| critical thinking| active listening| judgment and decision making
+OCCO:29129902	orthoptists	science| critical thinking| speaking| social perceptiveness| active listening| reading comprehension
+OCCO:29201100	medical and clinical laboratory technologists	reading comprehension| critical thinking| active listening| science| operation monitoring| speaking
+OCCO:29201101	cytogenetic technologists	reading comprehension| critical thinking| active listening| writing| speaking| judgment and decision making
+OCCO:29201102	cytotechnologists	critical thinking| reading comprehension| active listening| active learning| speaking| science
+OCCO:29201200	medical and clinical laboratory technicians	active listening| reading comprehension| speaking| critical thinking| science| writing
+OCCO:29203100	cardiovascular technologists and technicians	active listening| speaking| operation monitoring| monitoring| critical thinking| social perceptiveness
+OCCO:29203200	diagnostic medical sonographers	active listening| speaking| social perceptiveness| reading comprehension| monitoring| critical thinking
+OCCO:29203300	nuclear medicine technologists	critical thinking| speaking| active listening| writing| reading comprehension| monitoring
+OCCO:29203500	magnetic resonance imaging technologists	active listening| reading comprehension| operation monitoring| speaking| monitoring| writing
+OCCO:29205100	dietetic technicians	speaking| reading comprehension| monitoring| service orientation| critical thinking| active listening
+OCCO:29205200	pharmacy technicians	reading comprehension| active listening| speaking| critical thinking| time management| social perceptiveness
+OCCO:29205300	psychiatric technicians	social perceptiveness| speaking| monitoring| active listening| reading comprehension| critical thinking
+OCCO:29205500	surgical technologists	monitoring| active listening| operation monitoring| time management| speaking| critical thinking
+OCCO:29205600	veterinary technologists and technicians	critical thinking| active listening| speaking| reading comprehension| monitoring| judgment and decision making
+OCCO:29205700	ophthalmic medical technicians	active listening| speaking| social perceptiveness| service orientation| reading comprehension| coordination
+OCCO:29206100	licensed practical and licensed vocational nurses	service orientation| time management| speaking| social perceptiveness| reading comprehension| monitoring
+OCCO:29208100	"opticians, dispensing"	speaking| active listening| reading comprehension| service orientation| critical thinking| writing
+OCCO:29209100	orthotists and prosthetists	speaking| service orientation| reading comprehension| critical thinking| active listening| writing
+OCCO:29209200	hearing aid specialists	active listening| service orientation| instructing| speaking| judgment and decision making| social perceptiveness
+OCCO:29209901	neurodiagnostic technologists	critical thinking| speaking| active listening| monitoring| reading comprehension| writing
+OCCO:29209905	ophthalmic medical technologists	speaking| active listening| social perceptiveness| service orientation| reading comprehension| critical thinking
+OCCO:29209908	patient representatives	active listening| social perceptiveness| service orientation| speaking| critical thinking| reading comprehension
+OCCO:29909100	athletic trainers	monitoring| critical thinking| active listening| speaking| writing| social perceptiveness
+OCCO:29909200	genetic counselors	reading comprehension| complex problem solving| active listening| writing| speaking| social perceptiveness
+OCCO:29909300	surgical assistants	active listening| speaking| reading comprehension| monitoring| critical thinking| service orientation
+OCCO:29909901	midwives	critical thinking| speaking| social perceptiveness| judgment and decision making| active listening| monitoring
+OCCO:31112100	home health aides	active listening| service orientation| social perceptiveness| critical thinking| reading comprehension| monitoring
+OCCO:31112200	personal care aides	service orientation| social perceptiveness| active listening| speaking| monitoring| time management
+OCCO:31113100	nursing assistants	service orientation| social perceptiveness| active listening| speaking| monitoring| coordination
+OCCO:31113200	orderlies	social perceptiveness| service orientation| active listening| speaking| coordination| critical thinking
+OCCO:31113300	psychiatric aides	social perceptiveness| service orientation| speaking| monitoring| active listening| coordination
+OCCO:31201100	occupational therapy assistants	active listening| speaking| writing| time management| social perceptiveness| reading comprehension
+OCCO:31201200	occupational therapy aides	speaking| service orientation| active listening| social perceptiveness| writing| critical thinking
+OCCO:31202100	physical therapist assistants	active listening| speaking| social perceptiveness| monitoring| service orientation| reading comprehension
+OCCO:31202200	physical therapist aides	active listening| social perceptiveness| speaking| service orientation| monitoring| coordination
+OCCO:31901100	massage therapists	active listening| speaking| social perceptiveness| service orientation| writing| judgment and decision making
+OCCO:31909100	dental assistants	active listening| speaking| reading comprehension| service orientation| critical thinking| social perceptiveness
+OCCO:31909200	medical assistants	speaking| social perceptiveness| reading comprehension| active listening| monitoring| critical thinking
+OCCO:31909300	medical equipment preparers	critical thinking| quality control analysis| monitoring| operation monitoring| active listening| troubleshooting
+OCCO:31909400	medical transcriptionists	active listening| writing| reading comprehension| time management| speaking| monitoring
+OCCO:31909500	pharmacy aides	active listening| speaking| service orientation| social perceptiveness| reading comprehension| judgment and decision making
+OCCO:31909600	veterinary assistants and laboratory animal caretakers	active listening| service orientation| monitoring| speaking| social perceptiveness| reading comprehension
+OCCO:31909700	phlebotomists	social perceptiveness| service orientation| active listening| speaking| critical thinking| writing
+OCCO:31909901	speech-language pathology assistants	active listening| reading comprehension| speaking| social perceptiveness| service orientation| monitoring
+OCCO:31909902	endoscopy technicians	reading comprehension| critical thinking| speaking| active listening| writing| social perceptiveness
+OCCO:33101100	first-line supervisors of correctional officers	social perceptiveness| monitoring| critical thinking| coordination| active listening| speaking
+OCCO:33101200	first-line supervisors of police and detectives	active listening| speaking| social perceptiveness| monitoring| management of personnel resources| critical thinking
+OCCO:33202200	forest fire inspectors and prevention specialists	critical thinking| speaking| judgment and decision making| coordination| complex problem solving| active listening
+OCCO:33301100	bailiffs	social perceptiveness| speaking| monitoring| active listening| judgment and decision making| critical thinking
+OCCO:33301200	correctional officers and jailers	speaking| social perceptiveness| monitoring| active listening| critical thinking| reading comprehension
+OCCO:33302102	police identification and records officers	active listening| critical thinking| speaking| reading comprehension| writing| social perceptiveness
+OCCO:33302106	intelligence analysts	reading comprehension| active listening| critical thinking| speaking| writing| judgment and decision making
+OCCO:33303100	fish and game wardens	critical thinking| active listening| speaking| reading comprehension| judgment and decision making| social perceptiveness
+OCCO:33304100	parking enforcement workers	speaking| monitoring| social perceptiveness| critical thinking| active listening| time management
+OCCO:33305200	transit and railroad police	speaking| active listening| critical thinking| complex problem solving| social perceptiveness| monitoring
+OCCO:33901100	animal control workers	active listening| speaking| critical thinking| social perceptiveness| judgment and decision making| complex problem solving
+OCCO:33902100	private detectives and investigators	active listening| speaking| reading comprehension| critical thinking| complex problem solving| writing
+OCCO:33903200	security guards	active listening| speaking| monitoring| reading comprehension| critical thinking| coordination
+OCCO:33909200	"lifeguards, ski patrol, and other recreational protective service workers"	speaking| monitoring| service orientation| judgment and decision making| active listening| social perceptiveness
+OCCO:33909300	transportation security screeners	speaking| monitoring| social perceptiveness| critical thinking| coordination| active listening
+OCCO:33909902	retail loss prevention specialists	critical thinking| speaking| monitoring| active listening| social perceptiveness| judgment and decision making
+OCCO:35101100	chefs and head cooks	monitoring| speaking| coordination| time management| social perceptiveness| management of personnel resources
+OCCO:35101200	first-line supervisors of food preparation and serving workers	speaking| service orientation| coordination| active listening| monitoring| management of personnel resources
+OCCO:35201100	"cooks, fast food"	active listening| speaking| service orientation| critical thinking| social perceptiveness| reading comprehension
+OCCO:35201200	"cooks, institution and cafeteria"	time management| monitoring| speaking| service orientation| reading comprehension| quality control analysis
+OCCO:35201300	"cooks, private household"	service orientation| critical thinking| management of material resources| time management| speaking| social perceptiveness
+OCCO:35201400	"cooks, restaurant"	monitoring| coordination| active listening| speaking| quality control analysis| judgment and decision making
+OCCO:35201500	"cooks, short order"	active listening| time management| service orientation| coordination| speaking| reading comprehension
+OCCO:35202100	food preparation workers	active listening| monitoring| speaking| time management| coordination| service orientation
+OCCO:35301100	bartenders	service orientation| active listening| speaking| social perceptiveness| critical thinking| monitoring
+OCCO:35302301	baristas	active listening| speaking| service orientation| social perceptiveness| reading comprehension| monitoring
+OCCO:35303100	waiters and waitresses	active listening| service orientation| speaking| social perceptiveness| coordination| monitoring
+OCCO:35304100	"food servers, nonrestaurant"	monitoring| service orientation| speaking| active listening| social perceptiveness| coordination
+OCCO:35901100	dining room and cafeteria attendants and bartender helpers	service orientation| coordination| social perceptiveness| monitoring| active listening| speaking
+OCCO:35902100	dishwashers	active listening| time management| operation monitoring| operation and control| monitoring| coordination
+OCCO:35903100	"hosts and hostesses, restaurant, lounge, and coffee shop"	active listening| speaking| service orientation| social perceptiveness| persuasion| coordination
+OCCO:37101100	first-line supervisors of housekeeping and janitorial workers	time management| speaking| social perceptiveness| monitoring| management of personnel resources| coordination
+OCCO:37101200	"first-line supervisors of landscaping, lawn service, and groundskeeping workers"	critical thinking| coordination| active listening| time management| speaking| monitoring
+OCCO:37201100	"janitors and cleaners, except maids and housekeeping cleaners"	active listening| social perceptiveness| critical thinking| coordination| time management| speaking
+OCCO:37201200	maids and housekeeping cleaners	service orientation| coordination| speaking| monitoring| active listening| time management
+OCCO:37202100	pest control workers	critical thinking| active listening| writing| speaking| monitoring| time management
+OCCO:37301100	landscaping and groundskeeping workers	operation and control| speaking| critical thinking| operation monitoring| coordination| active listening
+OCCO:37301200	"pesticide handlers, sprayers, and applicators, vegetation"	active listening| time management| speaking| critical thinking| social perceptiveness| reading comprehension
+OCCO:37301300	tree trimmers and pruners	operation and control| operation monitoring| active listening| critical thinking| coordination| instructing
+OCCO:39102200	first-line supervisors of personal service workers	critical thinking| active listening| speaking| social perceptiveness| management of personnel resources| time management
+OCCO:39201100	animal trainers	instructing| speaking| learning strategies| critical thinking| active learning| monitoring
+OCCO:39302100	motion picture projectionists	operation monitoring| operation and control| monitoring| active listening| time management| speaking
+OCCO:39303100	"ushers, lobby attendants, and ticket takers"	social perceptiveness| speaking| service orientation| active listening| coordination| persuasion
+OCCO:39309100	amusement and recreation attendants	speaking| active listening| social perceptiveness| service orientation| monitoring| coordination
+OCCO:39309200	costume attendants	speaking| monitoring| coordination| active listening| social perceptiveness| service orientation
+OCCO:39309300	"locker room, coatroom, and dressing room attendants"	speaking| service orientation| active listening| social perceptiveness| monitoring| coordination
+OCCO:39401100	embalmers	speaking| active listening| critical thinking| social perceptiveness| service orientation| monitoring
+OCCO:39402100	funeral attendants	social perceptiveness| speaking| service orientation| monitoring| active listening| coordination
+OCCO:39501100	barbers	active listening| speaking| social perceptiveness| monitoring| service orientation| critical thinking
+OCCO:39501200	"hairdressers, hairstylists, and cosmetologists"	active listening| speaking| service orientation| critical thinking| judgment and decision making| active learning
+OCCO:39509100	"makeup artists, theatrical and performance"	speaking| judgment and decision making| active listening| time management| critical thinking| coordination
+OCCO:39509200	manicurists and pedicurists	speaking| social perceptiveness| service orientation| active listening| time management| reading comprehension
+OCCO:39509300	shampooers	speaking| active listening| service orientation| social perceptiveness| monitoring| coordination
+OCCO:39509400	skincare specialists	speaking| service orientation| active listening| reading comprehension| active learning| social perceptiveness
+OCCO:39601100	baggage porters and bellhops	service orientation| speaking| active listening| social perceptiveness| monitoring| coordination
+OCCO:39601200	concierges	service orientation| speaking| social perceptiveness| active listening| coordination| critical thinking
+OCCO:39701100	tour guides and escorts	speaking| social perceptiveness| active listening| service orientation| reading comprehension| coordination
+OCCO:39701200	travel guides	speaking| active listening| service orientation| coordination| social perceptiveness| persuasion
+OCCO:39901100	childcare workers	speaking| service orientation| monitoring| social perceptiveness| critical thinking| judgment and decision making
+OCCO:39901101	nannies	speaking| social perceptiveness| monitoring| judgment and decision making| active listening| complex problem solving
+OCCO:39903200	recreation workers	active listening| speaking| social perceptiveness| service orientation| coordination| monitoring
+OCCO:39904100	residential advisors	speaking| social perceptiveness| monitoring| active listening| critical thinking| coordination
+OCCO:41101100	first-line supervisors of retail sales workers	active listening| speaking| service orientation| monitoring| critical thinking| coordination
+OCCO:41101200	first-line supervisors of non-retail sales workers	speaking| monitoring| management of personnel resources| judgment and decision making| active listening| time management
+OCCO:41201100	cashiers	active listening| speaking| service orientation| mathematics| social perceptiveness| critical thinking
+OCCO:41202100	counter and rental clerks	active listening| speaking| service orientation| social perceptiveness| reading comprehension| critical thinking
+OCCO:41202200	parts salespersons	speaking| active listening| service orientation| reading comprehension| persuasion| social perceptiveness
+OCCO:41203100	retail salespersons	speaking| persuasion| active listening| service orientation| social perceptiveness| negotiation
+OCCO:41301100	advertising sales agents	social perceptiveness| persuasion| speaking| active listening| service orientation| negotiation
+OCCO:41302100	insurance sales agents	active listening| reading comprehension| writing| speaking| time management| service orientation
+OCCO:41304100	travel agents	service orientation| active listening| speaking| reading comprehension| social perceptiveness| persuasion
+OCCO:41401100	"sales representatives, wholesale and manufacturing, technical and scientific products"	speaking| persuasion| active listening| negotiation| social perceptiveness| service orientation
+OCCO:41401107	solar sales representatives and assessors	speaking| active listening| service orientation| social perceptiveness| reading comprehension| persuasion
+OCCO:41401200	"sales representatives, wholesale and manufacturing, except technical and scientific products"	speaking| active listening| persuasion| social perceptiveness| negotiation| critical thinking
+OCCO:41901100	demonstrators and product promoters	speaking| active listening| persuasion| service orientation| reading comprehension| writing
+OCCO:41901200	models	social perceptiveness| time management| active listening| speaking| reading comprehension| critical thinking
+OCCO:41902100	real estate brokers	speaking| reading comprehension| critical thinking| active listening| negotiation| active learning
+OCCO:41902200	real estate sales agents	speaking| persuasion| negotiation| active listening| social perceptiveness| coordination
+OCCO:41903100	sales engineers	persuasion| speaking| social perceptiveness| reading comprehension| critical thinking| active listening
+OCCO:41904100	telemarketers	speaking| persuasion| active listening| social perceptiveness| service orientation| reading comprehension
+OCCO:43101100	first-line supervisors of office and administrative support workers	speaking| social perceptiveness| reading comprehension| monitoring| coordination| active listening
+OCCO:43201100	"switchboard operators, including answering service"	speaking| active listening| social perceptiveness| writing| service orientation| reading comprehension
+OCCO:43202100	telephone operators	speaking| active listening| service orientation| social perceptiveness| reading comprehension| critical thinking
+OCCO:43301100	bill and account collectors	speaking| active listening| social perceptiveness| persuasion| reading comprehension| negotiation
+OCCO:43303100	"bookkeeping, accounting, and auditing clerks"	speaking| reading comprehension| active listening| writing| time management| monitoring
+OCCO:43305100	payroll and timekeeping clerks	reading comprehension| active listening| speaking| writing| critical thinking| time management
+OCCO:43306100	procurement clerks	speaking| reading comprehension| writing| active listening| critical thinking| complex problem solving
+OCCO:43307100	tellers	active listening| speaking| service orientation| reading comprehension| mathematics| critical thinking
+OCCO:43401100	brokerage clerks	speaking| active listening| reading comprehension| time management| critical thinking| writing
+OCCO:43402100	correspondence clerks	writing| reading comprehension| critical thinking| active listening| judgment and decision making| speaking
+OCCO:43405100	customer service representatives	speaking| active listening| service orientation| reading comprehension| persuasion| critical thinking
+OCCO:43406100	"eligibility interviewers, government programs"	speaking| active listening| reading comprehension| writing| social perceptiveness| service orientation
+OCCO:43407100	file clerks	reading comprehension| active listening| writing| time management| speaking| social perceptiveness
+OCCO:43408100	"hotel, motel, and resort desk clerks"	social perceptiveness| speaking| service orientation| active listening| coordination| reading comprehension
+OCCO:43411100	"interviewers, except eligibility and loan"	speaking| active listening| reading comprehension| social perceptiveness| service orientation| critical thinking
+OCCO:43412100	"library assistants, clerical"	service orientation| reading comprehension| active listening| speaking| coordination| social perceptiveness
+OCCO:43413100	loan interviewers and clerks	speaking| active listening| reading comprehension| writing| social perceptiveness| critical thinking
+OCCO:43414100	new accounts clerks	speaking| active listening| service orientation| reading comprehension| social perceptiveness| critical thinking
+OCCO:43415100	order clerks	active listening| speaking| reading comprehension| service orientation| social perceptiveness| persuasion
+OCCO:43416100	"human resources assistants, except payroll and timekeeping"	reading comprehension| active listening| speaking| writing| critical thinking| time management
+OCCO:43417100	receptionists and information clerks	speaking| active listening| service orientation| writing| reading comprehension| critical thinking
+OCCO:43418100	reservation and transportation ticket agents and travel clerks	speaking| service orientation| active listening| social perceptiveness| reading comprehension| critical thinking
+OCCO:43501100	cargo and freight agents	speaking| active listening| service orientation| monitoring| critical thinking| time management
+OCCO:43501101	freight forwarders	reading comprehension| monitoring| coordination| writing| time management| speaking
+OCCO:43502100	couriers and messengers	time management| speaking| active listening| writing| service orientation| reading comprehension
+OCCO:43503200	"dispatchers, except police, fire, and ambulance"	speaking| active listening| coordination| reading comprehension| monitoring| time management
+OCCO:43504100	"meter readers, utilities"	time management| speaking| service orientation| reading comprehension| critical thinking| active listening
+OCCO:43505100	postal service clerks	active listening| speaking| service orientation| reading comprehension| time management| social perceptiveness
+OCCO:43505200	postal service mail carriers	speaking| social perceptiveness| critical thinking| active listening| time management| coordination
+OCCO:43505300	"postal service mail sorters, processors, and processing machine operators"	monitoring| speaking| reading comprehension| critical thinking| coordination| time management
+OCCO:43506100	"production, planning, and expediting clerks"	reading comprehension| active listening| speaking| time management| writing| monitoring
+OCCO:43511100	"weighers, measurers, checkers, and samplers, recordkeeping"	critical thinking| speaking| reading comprehension| writing| social perceptiveness| coordination
+OCCO:43601100	executive secretaries and executive administrative assistants	reading comprehension| active listening| speaking| service orientation| writing| time management
+OCCO:43601400	"secretaries and administrative assistants, except legal, medical, and executive"	writing| time management| speaking| reading comprehension| active listening| service orientation
+OCCO:43902100	data entry keyers	reading comprehension| monitoring| active listening| speaking| writing| time management
+OCCO:43902200	word processors and typists	time management| speaking| reading comprehension| active listening| monitoring| writing
+OCCO:43903100	desktop publishers	critical thinking| reading comprehension| speaking| judgment and decision making| active listening| writing
+OCCO:43905100	"mail clerks and mail machine operators, except postal service"	time management| speaking| reading comprehension| monitoring| critical thinking| writing
+OCCO:43906100	"office clerks, general"	speaking| reading comprehension| active listening| writing| time management| social perceptiveness
+OCCO:43907100	"office machine operators, except computer"	operation monitoring| operation and control| monitoring| time management| reading comprehension| judgment and decision making
+OCCO:43908100	proofreaders and copy markers	reading comprehension| writing| speaking| active listening| critical thinking| monitoring
+OCCO:43911100	statistical assistants	mathematics| reading comprehension| critical thinking| complex problem solving| active learning| writing
+OCCO:45201100	agricultural inspectors	quality control analysis| reading comprehension| monitoring| active listening| critical thinking| speaking
+OCCO:45202100	animal breeders	science| monitoring| critical thinking| time management| speaking| reading comprehension
+OCCO:45204100	"graders and sorters, agricultural products"	active listening| speaking| monitoring| social perceptiveness| critical thinking| coordination
+OCCO:45209100	agricultural equipment operators	operation monitoring| operation and control| troubleshooting| repairing| quality control analysis| social perceptiveness
+OCCO:45209300	"farmworkers, farm, ranch, and aquacultural animals"	critical thinking| active listening| monitoring| operation monitoring| operation and control| coordination
+OCCO:45401100	forest and conservation workers	speaking| coordination| monitoring| judgment and decision making| critical thinking| active listening
+OCCO:45402100	fallers	operation and control| operation monitoring| monitoring| critical thinking| judgment and decision making| equipment maintenance
+OCCO:45402200	logging equipment operators	operation and control| operation monitoring| quality control analysis| equipment maintenance| repairing| monitoring
+OCCO:45402300	log graders and scalers	speaking| active listening| judgment and decision making| critical thinking| coordination| social perceptiveness
+OCCO:47101100	first-line supervisors of construction trades and extraction workers	coordination| active listening| critical thinking| speaking| time management| reading comprehension
+OCCO:47101103	solar energy installation managers	time management| monitoring| management of personnel resources| coordination| critical thinking| active listening
+OCCO:47201100	boilermakers	operation monitoring| operation and control| critical thinking| quality control analysis| equipment maintenance| troubleshooting
+OCCO:47202100	brickmasons and blockmasons	monitoring| critical thinking| time management| quality control analysis| coordination| judgment and decision making
+OCCO:47202200	stonemasons	critical thinking| time management| coordination| social perceptiveness| judgment and decision making| complex problem solving
+OCCO:47204100	carpet installers	monitoring| coordination| time management| quality control analysis| mathematics| critical thinking
+OCCO:47204200	"floor layers, except carpet, wood, and hard tiles"	speaking| active listening| time management| social perceptiveness| monitoring| judgment and decision making
+OCCO:47204300	floor sanders and finishers	active listening| operation and control| speaking| operation monitoring| monitoring| coordination
+OCCO:47205100	cement masons and concrete finishers	monitoring| judgment and decision making| critical thinking| coordination| active listening| time management
+OCCO:47205300	terrazzo workers and finishers	quality control analysis| coordination| speaking| judgment and decision making| time management| operation monitoring
+OCCO:47206100	construction laborers	active listening| speaking| social perceptiveness| reading comprehension| operation monitoring| coordination
+OCCO:47207100	"paving, surfacing, and tamping equipment operators"	operation monitoring| operation and control| monitoring| judgment and decision making| critical thinking| coordination
+OCCO:47207300	operating engineers and other construction equipment operators	operation and control| operation monitoring| monitoring| troubleshooting| equipment maintenance| coordination
+OCCO:47208100	drywall and ceiling tile installers	critical thinking| time management| speaking| monitoring| judgment and decision making| coordination
+OCCO:47208200	tapers	speaking| monitoring| active listening| time management| social perceptiveness| critical thinking
+OCCO:47211100	electricians	troubleshooting| repairing| judgment and decision making| critical thinking| active listening| installation
+OCCO:47212100	glaziers	reading comprehension| operation and control| critical thinking| coordination| time management| speaking
+OCCO:47213100	"insulation workers, floor, ceiling, and wall"	speaking| operation and control| critical thinking| active listening| operation monitoring| monitoring
+OCCO:47213200	"insulation workers, mechanical"	critical thinking| coordination| active listening| time management| speaking| social perceptiveness
+OCCO:47214100	"painters, construction and maintenance"	time management| social perceptiveness| critical thinking| active listening| reading comprehension| monitoring
+OCCO:47214200	paperhangers	speaking| coordination| active listening| time management| critical thinking| monitoring
+OCCO:47215100	pipelayers	operation and control| operation monitoring| active listening| quality control analysis| critical thinking| coordination
+OCCO:47215200	"plumbers, pipefitters, and steamfitters"	critical thinking| judgment and decision making| active listening| troubleshooting| speaking| repairing
+OCCO:47215204	solar thermal installers and technicians	installation| reading comprehension| quality control analysis| speaking| operation monitoring| monitoring
+OCCO:47216100	plasterers and stucco masons	time management| quality control analysis| active listening| speaking| service orientation| operation monitoring
+OCCO:47217100	reinforcing iron and rebar workers	coordination| critical thinking| operation and control| monitoring| judgment and decision making| time management
+OCCO:47218100	roofers	coordination| critical thinking| active listening| time management| speaking| operation monitoring
+OCCO:47221100	sheet metal workers	critical thinking| time management| speaking| reading comprehension| monitoring| mathematics
+OCCO:47222100	structural iron and steel workers	operation monitoring| operation and control| coordination| critical thinking| active listening| time management
+OCCO:47223100	solar photovoltaic installers	installation| critical thinking| active listening| monitoring| troubleshooting| time management
+OCCO:47301100	"helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters"	time management| operation and control| monitoring| critical thinking| coordination| judgment and decision making
+OCCO:47301200	helpers--carpenters	speaking| social perceptiveness| monitoring| critical thinking| coordination| complex problem solving
+OCCO:47301300	helpers--electricians	quality control analysis| active listening| troubleshooting| speaking| repairing| critical thinking
+OCCO:47301400	"helpers--painters, paperhangers, plasterers, and stucco masons"	speaking| coordination| active listening| time management| monitoring| critical thinking
+OCCO:47301500	"helpers--pipelayers, plumbers, pipefitters, and steamfitters"	monitoring| judgment and decision making| critical thinking| active listening| coordination| repairing
+OCCO:47301600	helpers--roofers	coordination| monitoring| active listening| speaking| quality control analysis| critical thinking
+OCCO:47401100	construction and building inspectors	reading comprehension| active listening| critical thinking| speaking| complex problem solving| writing
+OCCO:47401101	energy auditors	reading comprehension| active listening| writing| speaking| judgment and decision making| critical thinking
+OCCO:47403100	fence erectors	operation and control| critical thinking| active listening| time management| speaking| operation monitoring
+OCCO:47404100	hazardous materials removal workers	monitoring| critical thinking| operation and control| operation monitoring| active listening| speaking
+OCCO:47405100	highway maintenance workers	operation monitoring| operation and control| troubleshooting| speaking| monitoring| equipment maintenance
+OCCO:47406100	rail-track laying and maintenance equipment operators	operation monitoring| operation and control| troubleshooting| equipment maintenance| repairing| quality control analysis
+OCCO:47407100	septic tank servicers and sewer pipe cleaners	operation monitoring| operation and control| troubleshooting| critical thinking| quality control analysis| monitoring
+OCCO:47409100	segmental pavers	speaking| active listening| critical thinking| coordination| social perceptiveness| operation and control
+OCCO:47409903	weatherization installers and technicians	speaking| monitoring| active listening| systems analysis| operation monitoring| judgment and decision making
+OCCO:47501100	"derrick operators, oil and gas"	operation monitoring| operation and control| critical thinking| speaking| repairing| monitoring
+OCCO:47501200	"rotary drill operators, oil and gas"	operation monitoring| operation and control| critical thinking| monitoring| instructing| active listening
+OCCO:47502300	"earth drillers, except oil and gas"	operation monitoring| operation and control| monitoring| quality control analysis| equipment maintenance| critical thinking
+OCCO:47503200	"explosives workers, ordnance handling experts, and blasters"	active listening| monitoring| judgment and decision making| critical thinking| operation monitoring| operation and control
+OCCO:47504100	continuous mining machine operators	operation monitoring| operation and control| equipment maintenance| troubleshooting| critical thinking| repairing
+OCCO:47504300	"roof bolters, mining"	operation and control| operation monitoring| critical thinking| monitoring| coordination| active listening
+OCCO:47505100	"rock splitters, quarry"	operation and control| operation monitoring| active listening| monitoring| time management| reading comprehension
+OCCO:47507100	"roustabouts, oil and gas"	monitoring| critical thinking| troubleshooting| quality control analysis| operation monitoring| judgment and decision making
+OCCO:47508100	helpers--extraction workers	operation monitoring| monitoring| troubleshooting| repairing| operation and control| equipment maintenance
+OCCO:49101100	"first-line supervisors of mechanics, installers, and repairers"	monitoring| management of personnel resources| critical thinking| time management| speaking| coordination
+OCCO:49201100	"computer, automated teller, and office machine repairers"	repairing| active listening| critical thinking| troubleshooting| complex problem solving| time management
+OCCO:49202100	"radio, cellular, and tower equipment installers and repairers"	repairing| equipment maintenance| active listening| troubleshooting| installation| critical thinking
+OCCO:49202200	"telecommunications equipment installers and repairers, except line installers"	operation monitoring| troubleshooting| quality control analysis| repairing| equipment maintenance| critical thinking
+OCCO:49209100	avionics technicians	troubleshooting| repairing| equipment maintenance| quality control analysis| operation monitoring| critical thinking
+OCCO:49209200	"electric motor, power tool, and related repairers"	repairing| troubleshooting| quality control analysis| equipment selection| equipment maintenance| critical thinking
+OCCO:49209300	"electrical and electronics installers and repairers, transportation equipment"	critical thinking| active listening| social perceptiveness| repairing| operation monitoring| complex problem solving
+OCCO:49209400	"electrical and electronics repairers, commercial and industrial equipment"	repairing| quality control analysis| operation monitoring| troubleshooting| equipment maintenance| critical thinking
+OCCO:49209500	"electrical and electronics repairers, powerhouse, substation, and relay"	critical thinking| repairing| reading comprehension| equipment maintenance| troubleshooting| quality control analysis
+OCCO:49209600	"electronic equipment installers and repairers, motor vehicles"	troubleshooting| repairing| operation monitoring| critical thinking| active listening| installation
+OCCO:49209800	security and fire alarm systems installers	speaking| installation| critical thinking| active listening| reading comprehension| quality control analysis
+OCCO:49301100	aircraft mechanics and service technicians	repairing| equipment maintenance| troubleshooting| operation monitoring| quality control analysis| critical thinking
+OCCO:49302100	automotive body and related repairers	repairing| speaking| operation and control| monitoring| complex problem solving| active listening
+OCCO:49302200	automotive glass installers and repairers	installation| speaking| equipment selection| time management| social perceptiveness| service orientation
+OCCO:49303100	bus and truck mechanics and diesel engine specialists	troubleshooting| repairing| operation monitoring| operation and control| quality control analysis| equipment maintenance
+OCCO:49304100	farm equipment mechanics and service technicians	repairing| equipment maintenance| troubleshooting| operation and control| operation monitoring| critical thinking
+OCCO:49304200	"mobile heavy equipment mechanics, except engines"	troubleshooting| repairing| equipment maintenance| operation monitoring| quality control analysis| operation and control
+OCCO:49304300	rail car repairers	troubleshooting| repairing| equipment maintenance| operation and control| quality control analysis| operation monitoring
+OCCO:49305100	motorboat mechanics and service technicians	repairing| equipment maintenance| troubleshooting| operation and control| operation monitoring| critical thinking
+OCCO:49305200	motorcycle mechanics	repairing| troubleshooting| active listening| critical thinking| complex problem solving| speaking
+OCCO:49305300	outdoor power equipment and other small engine mechanics	repairing| troubleshooting| equipment maintenance| operation monitoring| operation and control| quality control analysis
+OCCO:49309100	bicycle repairers	repairing| troubleshooting| critical thinking| active listening| speaking| service orientation
+OCCO:49309200	recreational vehicle service technicians	repairing| troubleshooting| speaking| critical thinking| active listening| complex problem solving
+OCCO:49309300	tire repairers and changers	time management| speaking| service orientation| critical thinking| active listening| troubleshooting
+OCCO:49901100	mechanical door repairers	critical thinking| quality control analysis| speaking| reading comprehension| installation| active listening
+OCCO:49901200	"control and valve installers and repairers, except mechanical door"	operation monitoring| critical thinking| operation and control| monitoring| judgment and decision making| equipment maintenance
+OCCO:49903100	home appliance repairers	repairing| troubleshooting| equipment maintenance| quality control analysis| operation monitoring| critical thinking
+OCCO:49904100	industrial machinery mechanics	repairing| equipment maintenance| operation monitoring| troubleshooting| quality control analysis| operation and control
+OCCO:49904300	"maintenance workers, machinery"	repairing| operation monitoring| equipment maintenance| troubleshooting| operation and control| reading comprehension
+OCCO:49904400	millwrights	installation| operation monitoring| equipment maintenance| troubleshooting| repairing| critical thinking
+OCCO:49904500	"refractory materials repairers, except brickmasons"	operation monitoring| repairing| operation and control| equipment maintenance| active listening| troubleshooting
+OCCO:49905100	electrical power-line installers and repairers	active listening| monitoring| troubleshooting| operation monitoring| critical thinking| time management
+OCCO:49905200	telecommunications line installers and repairers	speaking| operation monitoring| critical thinking| complex problem solving| troubleshooting| operation and control
+OCCO:49906100	camera and photographic equipment repairers	troubleshooting| repairing| critical thinking| quality control analysis| equipment maintenance| time management
+OCCO:49906200	medical equipment repairers	troubleshooting| repairing| equipment maintenance| quality control analysis| operation monitoring| reading comprehension
+OCCO:49906300	musical instrument repairers and tuners	repairing| troubleshooting| quality control analysis| critical thinking| judgment and decision making| time management
+OCCO:49907100	"maintenance and repair workers, general"	repairing| equipment maintenance| troubleshooting| operation monitoring| operation and control| monitoring
+OCCO:49908100	wind turbine service technicians	troubleshooting| repairing| equipment maintenance| operation monitoring| critical thinking| complex problem solving
+OCCO:49909100	"coin, vending, and amusement machine servicers and repairers"	repairing| operation monitoring| equipment maintenance| troubleshooting| time management| judgment and decision making
+OCCO:49909200	commercial divers	critical thinking| operation monitoring| active listening| speaking| quality control analysis| time management
+OCCO:49909400	locksmiths and safe repairers	repairing| speaking| active listening| time management| equipment maintenance| critical thinking
+OCCO:49909500	manufactured building and mobile home installers	quality control analysis| operation and control| critical thinking| operation monitoring| monitoring| judgment and decision making
+OCCO:49909600	riggers	critical thinking| time management| operation and control| active listening| operation monitoring| monitoring
+OCCO:49909700	signal and track switch repairers	troubleshooting| equipment maintenance| repairing| quality control analysis| operation monitoring| equipment selection
+OCCO:49909800	"helpers--installation, maintenance, and repair workers"	operation monitoring| active listening| troubleshooting| repairing| equipment maintenance| critical thinking
+OCCO:49909901	geothermal technicians	operation monitoring| troubleshooting| monitoring| reading comprehension| operation and control| equipment maintenance
+OCCO:51101100	first-line supervisors of production and operating workers	speaking| active listening| time management| reading comprehension| management of personnel resources| critical thinking
+OCCO:51201100	"aircraft structure, surfaces, rigging, and systems assemblers"	quality control analysis| monitoring| critical thinking| active listening| time management| speaking
+OCCO:51202100	"coil winders, tapers, and finishers"	operation monitoring| operation and control| reading comprehension| monitoring| critical thinking| active listening
+OCCO:51202200	electrical and electronic equipment assemblers	reading comprehension| operation monitoring| monitoring| judgment and decision making| critical thinking| coordination
+OCCO:51202300	electromechanical equipment assemblers	quality control analysis| reading comprehension| operation monitoring| troubleshooting| critical thinking| speaking
+OCCO:51203100	engine and other machine assemblers	operation monitoring| reading comprehension| quality control analysis| speaking| monitoring| critical thinking
+OCCO:51204100	structural metal fabricators and fitters	speaking| reading comprehension| critical thinking| active listening| social perceptiveness| monitoring
+OCCO:51205100	fiberglass laminators and fabricators	monitoring| operation monitoring| critical thinking| speaking| active listening| time management
+OCCO:51206100	timing device assemblers and adjusters	repairing| troubleshooting| quality control analysis| operation monitoring| monitoring| critical thinking
+OCCO:51209200	team assemblers	quality control analysis| monitoring| coordination| time management| speaking| critical thinking
+OCCO:51301100	bakers	monitoring| time management| speaking| judgment and decision making| critical thinking| coordination
+OCCO:51302100	butchers and meat cutters	active listening| time management| speaking| social perceptiveness| service orientation| reading comprehension
+OCCO:51302200	"meat, poultry, and fish cutters and trimmers"	speaking| monitoring| critical thinking| coordination| active listening| time management
+OCCO:51302300	slaughterers and meat packers	speaking| active listening| social perceptiveness| coordination| time management| operation monitoring
+OCCO:51309100	"food and tobacco roasting, baking, and drying machine operators and tenders"	operation monitoring| monitoring| quality control analysis| critical thinking| reading comprehension| operation and control
+OCCO:51309200	food batchmakers	operation and control| monitoring| reading comprehension| operation monitoring| critical thinking| writing
+OCCO:51309300	food cooking machine operators and tenders	operation monitoring| operation and control| monitoring| speaking| reading comprehension| writing
+OCCO:51402100	"extruding and drawing machine setters, operators, and tenders, metal and plastic"	operation monitoring| operation and control| quality control analysis| monitoring| judgment and decision making| critical thinking
+OCCO:51402200	"forging machine setters, operators, and tenders, metal and plastic"	operation monitoring| reading comprehension| operation and control| monitoring| active listening| time management
+OCCO:51402300	"rolling machine setters, operators, and tenders, metal and plastic"	operation monitoring| operation and control| quality control analysis| monitoring| critical thinking| troubleshooting
+OCCO:51403100	"cutting, punching, and press machine setters, operators, and tenders, metal and plastic"	operation monitoring| operation and control| quality control analysis| monitoring| troubleshooting| speaking
+OCCO:51403200	"drilling and boring machine tool setters, operators, and tenders, metal and plastic"	operation monitoring| operation and control| monitoring| speaking| reading comprehension| critical thinking
+OCCO:51403300	"grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic"	operation monitoring| operation and control| quality control analysis| reading comprehension| monitoring| troubleshooting
+OCCO:51403400	"lathe and turning machine tool setters, operators, and tenders, metal and plastic"	operation monitoring| operation and control| quality control analysis| monitoring| reading comprehension| active listening
+OCCO:51403500	"milling and planing machine setters, operators, and tenders, metal and plastic"	operation monitoring| operation and control| monitoring| active listening| speaking| reading comprehension
+OCCO:51404100	machinists	operation monitoring| operation and control| critical thinking| reading comprehension| monitoring| coordination
+OCCO:51405100	metal-refining furnace operators and tenders	operation monitoring| operation and control| monitoring| quality control analysis| time management| judgment and decision making
+OCCO:51405200	"pourers and casters, metal"	operation monitoring| monitoring| operation and control| critical thinking| active listening| coordination
+OCCO:51406100	"model makers, metal and plastic"	operation and control| operation monitoring| quality control analysis| monitoring| troubleshooting| critical thinking
+OCCO:51406200	"patternmakers, metal and plastic"	operation monitoring| monitoring| operation and control| critical thinking| reading comprehension| active listening
+OCCO:51407100	foundry mold and coremakers	monitoring| judgment and decision making| critical thinking| time management| operation monitoring| active listening
+OCCO:51407200	"molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic"	operation monitoring| active listening| reading comprehension| operation and control| monitoring| time management
+OCCO:51408100	"multiple machine tool setters, operators, and tenders, metal and plastic"	operation monitoring| quality control analysis| operation and control| troubleshooting| monitoring| critical thinking
+OCCO:51411100	tool and die makers	operation and control| quality control analysis| operation monitoring| critical thinking| judgment and decision making| equipment selection
+OCCO:51412200	"welding, soldering, and brazing machine setters, operators, and tenders"	operation monitoring| speaking| operation and control| critical thinking| active listening| monitoring
+OCCO:51419100	"heat treating equipment setters, operators, and tenders, metal and plastic"	operation monitoring| operation and control| speaking| quality control analysis| monitoring| active listening
+OCCO:51419200	"layout workers, metal and plastic"	critical thinking| active listening| operation monitoring| monitoring| complex problem solving| speaking
+OCCO:51419400	"tool grinders, filers, and sharpeners"	operation monitoring| operation and control| quality control analysis| repairing| equipment maintenance| critical thinking
+OCCO:51511100	prepress technicians and workers	time management| speaking| monitoring| critical thinking| active listening| reading comprehension
+OCCO:51511200	printing press operators	quality control analysis| operation monitoring| reading comprehension| monitoring| active listening| operation and control
+OCCO:51511300	print binding and finishing workers	operation monitoring| critical thinking| reading comprehension| monitoring| judgment and decision making| speaking
+OCCO:51601100	laundry and dry-cleaning workers	monitoring| active listening| time management| speaking| social perceptiveness| operation monitoring
+OCCO:51602100	"pressers, textile, garment, and related materials"	operation and control| operation monitoring| time management| complex problem solving| quality control analysis| monitoring
+OCCO:51603100	sewing machine operators	monitoring| time management| critical thinking| operation monitoring| active listening| social perceptiveness
+OCCO:51604100	shoe and leather workers and repairers	active listening| speaking| critical thinking| social perceptiveness| operation monitoring| monitoring
+OCCO:51604200	shoe machine operators and tenders	operation monitoring| reading comprehension| quality control analysis| operation and control| critical thinking| active listening
+OCCO:51605100	"sewers, hand"	judgment and decision making| time management| critical thinking| complex problem solving| speaking| operation monitoring
+OCCO:51605200	"tailors, dressmakers, and custom sewers"	active listening| time management| critical thinking| social perceptiveness| speaking| judgment and decision making
+OCCO:51606100	textile bleaching and dyeing machine operators and tenders	operation monitoring| operation and control| quality control analysis| active listening| speaking| monitoring
+OCCO:51606200	"textile cutting machine setters, operators, and tenders"	operation monitoring| troubleshooting| quality control analysis| operation and control| monitoring| equipment maintenance
+OCCO:51606300	"textile knitting and weaving machine setters, operators, and tenders"	operation monitoring| monitoring| operation and control| speaking| critical thinking| active listening
+OCCO:51606400	"textile winding, twisting, and drawing out machine setters, operators, and tenders"	operation monitoring| operation and control| quality control analysis| monitoring| speaking| critical thinking
+OCCO:51609100	"extruding and forming machine setters, operators, and tenders, synthetic and glass fibers"	operation monitoring| operation and control| monitoring| quality control analysis| equipment maintenance| critical thinking
+OCCO:51609200	fabric and apparel patternmakers	critical thinking| active listening| time management| judgment and decision making| speaking| reading comprehension
+OCCO:51609300	upholsterers	critical thinking| reading comprehension| time management| speaking| monitoring| judgment and decision making
+OCCO:51701100	cabinetmakers and bench carpenters	operation monitoring| quality control analysis| operation and control| monitoring| troubleshooting| time management
+OCCO:51702100	furniture finishers	monitoring| quality control analysis| operation monitoring| critical thinking| coordination| time management
+OCCO:51703100	"model makers, wood"	reading comprehension| monitoring| active listening| operations analysis| critical thinking| time management
+OCCO:51703200	"patternmakers, wood"	operation and control| operations analysis| reading comprehension| operation monitoring| critical thinking| complex problem solving
+OCCO:51704100	"sawing machine setters, operators, and tenders, wood"	operation monitoring| operation and control| troubleshooting| quality control analysis| monitoring| critical thinking
+OCCO:51704200	"woodworking machine setters, operators, and tenders, except sawing"	operation monitoring| operation and control| quality control analysis| monitoring| troubleshooting| speaking
+OCCO:51801100	nuclear power reactor operators	reading comprehension| operation monitoring| operation and control| monitoring| critical thinking| active listening
+OCCO:51801200	power distributors and dispatchers	monitoring| critical thinking| active listening| speaking| reading comprehension| operation monitoring
+OCCO:51801300	power plant operators	operation monitoring| operation and control| critical thinking| speaking| quality control analysis| active listening
+OCCO:51801303	biomass plant technicians	operation monitoring| operation and control| repairing| quality control analysis| monitoring| equipment maintenance
+OCCO:51801304	hydroelectric plant technicians	operation monitoring| operation and control| critical thinking| monitoring| equipment maintenance| troubleshooting
+OCCO:51802100	stationary engineers and boiler operators	operation monitoring| operation and control| critical thinking| troubleshooting| quality control analysis| monitoring
+OCCO:51803100	water and wastewater treatment plant and system operators	operation monitoring| operation and control| monitoring| quality control analysis| troubleshooting| reading comprehension
+OCCO:51809100	chemical plant and system operators	operation monitoring| operation and control| quality control analysis| monitoring| critical thinking| active listening
+OCCO:51809200	gas plant operators	operation monitoring| monitoring| operation and control| quality control analysis| critical thinking| judgment and decision making
+OCCO:51809300	"petroleum pump system operators, refinery operators, and gaugers"	operation monitoring| monitoring| reading comprehension| operation and control| writing| quality control analysis
+OCCO:51809901	biofuels processing technicians	operation monitoring| operation and control| reading comprehension| quality control analysis| monitoring| speaking
+OCCO:51901100	chemical equipment operators and tenders	operation monitoring| operation and control| monitoring| reading comprehension| judgment and decision making| critical thinking
+OCCO:51901200	"separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders"	operation monitoring| quality control analysis| operation and control| monitoring| critical thinking| time management
+OCCO:51902100	"crushing, grinding, and polishing machine setters, operators, and tenders"	operation monitoring| operation and control| monitoring| troubleshooting| time management| speaking
+OCCO:51902200	"grinding and polishing workers, hand"	quality control analysis| operation monitoring| operation and control| equipment maintenance| troubleshooting| repairing
+OCCO:51902300	"mixing and blending machine setters, operators, and tenders"	operation monitoring| operation and control| reading comprehension| monitoring| quality control analysis| equipment maintenance
+OCCO:51903100	"cutters and trimmers, hand"	active listening| time management| social perceptiveness| judgment and decision making| critical thinking| speaking
+OCCO:51903200	"cutting and slicing machine setters, operators, and tenders"	operation monitoring| operation and control| quality control analysis| monitoring| reading comprehension| troubleshooting
+OCCO:51904100	"extruding, forming, pressing, and compacting machine setters, operators, and tenders"	operation monitoring| operation and control| monitoring| speaking| troubleshooting| reading comprehension
+OCCO:51905100	"furnace, kiln, oven, drier, and kettle operators and tenders"	operation monitoring| speaking| reading comprehension| operation and control| monitoring| critical thinking
+OCCO:51906100	"inspectors, testers, sorters, samplers, and weighers"	quality control analysis| active listening| speaking| reading comprehension| monitoring| critical thinking
+OCCO:51907106	gem and diamond workers	quality control analysis| speaking| active listening| monitoring| critical thinking| reading comprehension
+OCCO:51908100	dental laboratory technicians	reading comprehension| time management| quality control analysis| critical thinking| speaking| operation monitoring
+OCCO:51908200	medical appliance technicians	active listening| quality control analysis| critical thinking| troubleshooting| speaking| reading comprehension
+OCCO:51908300	ophthalmic laboratory technicians	operation and control| time management| quality control analysis| operation monitoring| reading comprehension| monitoring
+OCCO:51911100	packaging and filling machine operators and tenders	operation monitoring| monitoring| quality control analysis| coordination| active listening| reading comprehension
+OCCO:51912300	"painting, coating, and decorating workers"	monitoring| critical thinking| social perceptiveness| active listening| time management| speaking
+OCCO:51912400	"coating, painting, and spraying machine setters, operators, and tenders"	operation monitoring| quality control analysis| operation and control| monitoring| troubleshooting| critical thinking
+OCCO:51915100	photographic process workers and processing machine operators	operation monitoring| monitoring| active listening| reading comprehension| quality control analysis| speaking
+OCCO:51919100	adhesive bonding machine operators and tenders	operation and control| operation monitoring| speaking| quality control analysis| monitoring| active listening
+OCCO:51919200	"cleaning, washing, and metal pickling equipment operators and tenders"	operation and control| operation monitoring| monitoring| judgment and decision making| critical thinking| time management
+OCCO:51919300	cooling and freezing equipment operators and tenders	operation monitoring| monitoring| critical thinking| operation and control| complex problem solving| troubleshooting
+OCCO:51919400	etchers and engravers	critical thinking| time management| active listening| speaking| operation monitoring| reading comprehension
+OCCO:51919503	"stone cutters and carvers, manufacturing"	judgment and decision making| critical thinking| active listening| time management| speaking| reading comprehension
+OCCO:51919504	"glass blowers, molders, benders, and finishers"	quality control analysis| operation monitoring| operation and control| monitoring| reading comprehension| critical thinking
+OCCO:51919505	"potters, manufacturing"	operation monitoring| operation and control| monitoring| critical thinking| active listening| speaking
+OCCO:51919600	"paper goods machine setters, operators, and tenders"	operation monitoring| operation and control| monitoring| quality control analysis| critical thinking| coordination
+OCCO:51919700	tire builders	operation and control| operation monitoring| active listening| time management| monitoring| critical thinking
+OCCO:51919800	helpers--production workers	monitoring| active listening| speaking| operation monitoring| critical thinking| social perceptiveness
+OCCO:53104100	aircraft cargo handling supervisors	management of personnel resources| critical thinking| time management| speaking| monitoring| active listening
+OCCO:53104200	"first-line supervisors of helpers, laborers, and material movers, hand"	active listening| speaking| critical thinking| coordination| management of personnel resources| complex problem solving
+OCCO:53104201	recycling coordinators	speaking| management of personnel resources| time management| critical thinking| coordination| active listening
+OCCO:53201100	"airline pilots, copilots, and flight engineers"	operation and control| operation monitoring| monitoring| critical thinking| active listening| speaking
+OCCO:53201200	commercial pilots	operation and control| operation monitoring| monitoring| critical thinking| active listening| judgment and decision making
+OCCO:53202100	air traffic controllers	active listening| speaking| judgment and decision making| critical thinking| monitoring| complex problem solving
+OCCO:53202200	airfield operations specialists	active listening| speaking| reading comprehension| critical thinking| monitoring| coordination
+OCCO:53203100	flight attendants	speaking| social perceptiveness| service orientation| active listening| monitoring| coordination
+OCCO:53301100	"ambulance drivers and attendants, except emergency medical technicians"	service orientation| critical thinking| active listening| speaking| monitoring| coordination
+OCCO:53303100	driver/sales workers	speaking| active listening| service orientation| social perceptiveness| critical thinking| persuasion
+OCCO:53303200	heavy and tractor-trailer truck drivers	operation and control| operation monitoring| time management| troubleshooting| speaking| reading comprehension
+OCCO:53305200	"bus drivers, transit and intercity"	operation and control| operation monitoring| time management| active listening| speaking| social perceptiveness
+OCCO:53401100	locomotive engineers	operation and control| operation monitoring| active listening| speaking| monitoring| critical thinking
+OCCO:53401300	"rail yard engineers, dinkey operators, and hostlers"	operation monitoring| operation and control| speaking| quality control analysis| monitoring| complex problem solving
+OCCO:53403100	railroad conductors and yardmasters	speaking| monitoring| coordination| critical thinking| time management| judgment and decision making
+OCCO:53404100	subway and streetcar operators	operation and control| operation monitoring| speaking| active listening| monitoring| service orientation
+OCCO:53501100	sailors and marine oilers	operation monitoring| operation and control| monitoring| troubleshooting| repairing| critical thinking
+OCCO:53502200	motorboat operators	operation and control| operation monitoring| speaking| judgment and decision making| active listening| monitoring
+OCCO:53503100	ship engineers	operation monitoring| operation and control| critical thinking| troubleshooting| equipment maintenance| repairing
+OCCO:53601100	bridge and lock tenders	monitoring| critical thinking| speaking| active listening| social perceptiveness| operation monitoring
+OCCO:53603100	automotive and watercraft service attendants	time management| speaking| service orientation| operation and control| active listening| repairing
+OCCO:53604100	traffic technicians	active listening| speaking| reading comprehension| judgment and decision making| critical thinking| complex problem solving
+OCCO:53605101	aviation inspectors	quality control analysis| critical thinking| speaking| operation monitoring| writing| reading comprehension
+OCCO:53605107	"transportation vehicle, equipment and systems inspectors, except aviation"	quality control analysis| operation monitoring| active listening| troubleshooting| speaking| reading comprehension
+OCCO:53701100	conveyor operators and tenders	operation monitoring| operation and control| monitoring| critical thinking| active listening| time management
+OCCO:53702100	crane and tower operators	operation and control| operation monitoring| critical thinking| monitoring| active listening| time management
+OCCO:53703100	dredge operators	operation and control| operation monitoring| judgment and decision making| critical thinking| coordination| troubleshooting
+OCCO:53704100	hoist and winch operators	critical thinking| operation monitoring| monitoring| time management| operation and control| active listening
+OCCO:53705100	industrial truck and tractor operators	operation and control| operation monitoring| time management| equipment maintenance| coordination| troubleshooting
+OCCO:53706100	cleaners of vehicles and equipment	operation and control| quality control analysis| operation monitoring| time management| speaking| monitoring
+OCCO:53706200	"laborers and freight, stock, and material movers, hand"	operation and control| critical thinking| coordination| speaking| reading comprehension| operation monitoring
+OCCO:53706204	recycling and reclamation workers	operation and control| operation monitoring| monitoring| active listening| speaking| quality control analysis
+OCCO:53706300	machine feeders and offbearers	operation monitoring| monitoring| troubleshooting| speaking| reading comprehension| quality control analysis
+OCCO:53706400	"packers and packagers, hand"	monitoring| speaking| critical thinking| coordination| active listening| reading comprehension
+OCCO:53707100	gas compressor and gas pumping station operators	operation monitoring| operation and control| critical thinking| active listening| quality control analysis| equipment maintenance
+OCCO:53707200	"pump operators, except wellhead pumpers"	operation monitoring| monitoring| operation and control| critical thinking| writing| reading comprehension
+OCCO:53707300	wellhead pumpers	operation monitoring| operation and control| repairing| monitoring| critical thinking| speaking
+OCCO:53708100	refuse and recyclable material collectors	operation and control| speaking| operation monitoring| equipment maintenance| critical thinking| coordination
+OCCO:53712100	"tank car, truck, and ship loaders"	operation monitoring| operation and control| monitoring| coordination| writing| time management
