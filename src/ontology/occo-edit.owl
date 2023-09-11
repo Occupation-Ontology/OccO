@@ -16,6 +16,7 @@
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo/dev/occo-edit.owl">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/omo.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ro/core.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/NCBITaxon_imports.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/ability_types.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/job_zones.owl"/>
