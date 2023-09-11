@@ -108,6 +108,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/RO_0000091 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000091"/>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -175,6 +181,12 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000001 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000001">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000091"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000059"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
         <obo:IAO_0000115>A human who has a role in society that is realized in an occupation process or an activity as a livelihood (i.e., “means of support or subsistence”). To fulfill such an occupation, the occupation holder is required to have necessary capabilities including skill(s) and abilities. A human who has a role in society that is realized in an occupation process or an activity as a livelihood (i.e., “means of support or subsistence”). To fulfill such an occupation, the occupation holder is required to have necessary capabilities including skill(s) and abilities.</obo:IAO_0000115>
         <obo:IAO_0000117>Damion Dooley</obo:IAO_0000117>
@@ -617,7 +629,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Advertising, Marketing, Promotions, Public Relations, and Sales Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-2000</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-00</obo:OCCO_00000008>
         <rdfs:label>advertising, marketing, promotions, public relations, or sales manager</rdfs:label>
     </owl:Class>
     
@@ -631,7 +643,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Advertising and Promotions Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-2010</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
         <rdfs:label>advertising or promotions manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -660,7 +672,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Marketing and Sales Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-2020</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
         <rdfs:label>marketing or sales manager</rdfs:label>
     </owl:Class>
     
@@ -704,7 +716,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Public Relations and Fundraising Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-2030</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
         <rdfs:label>public relations or fundraising manager</rdfs:label>
     </owl:Class>
     
@@ -748,7 +760,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Operations Specialties Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3000</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-00</obo:OCCO_00000008>
         <rdfs:label>operations specialties manager</rdfs:label>
     </owl:Class>
     
@@ -762,7 +774,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Administrative Services and Facilities Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3010</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
         <rdfs:label>administrative services or facilities manager</rdfs:label>
     </owl:Class>
     
@@ -821,7 +833,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Computer and Information Systems Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3020</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
         <rdfs:label>computer or information systems manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -850,7 +862,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Financial Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3030</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
         <rdfs:label>financial manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -865,7 +877,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Financial Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3031</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-31</obo:OCCO_00000008>
         <rdfs:label>financial manager</rdfs:label>
     </owl:Class>
     
@@ -909,7 +921,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Industrial Production Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3050</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-50</obo:OCCO_00000008>
         <rdfs:label>industrial production manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1013,7 +1025,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Purchasing Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3060</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-60</obo:OCCO_00000008>
         <rdfs:label>purchasing manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1042,7 +1054,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Transportation, Storage, and Distribution Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3070</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-70</obo:OCCO_00000008>
         <rdfs:label>transportation, storage, or distribution manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1086,7 +1098,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Compensation and Benefits Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3110</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
         <rdfs:label>compensation or benefits manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1115,7 +1127,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Human Resources Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3120</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
         <rdfs:label>human resources manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1144,7 +1156,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Training and Development Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-3130</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
         <rdfs:label>training or development manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1173,7 +1185,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Other Management Occupations</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9000</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-00</obo:OCCO_00000008>
         <rdfs:label>other management occupation</rdfs:label>
     </owl:Class>
     
@@ -1187,7 +1199,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Farmers, Ranchers, and Other Agricultural Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9010</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
         <rdfs:label>farmer, rancher, or other agricultural manager</rdfs:label>
     </owl:Class>
     
@@ -1216,7 +1228,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Construction Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9020</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
         <rdfs:label>construction manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1245,7 +1257,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Education and Childcare Administrators</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9030</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
         <rdfs:label>education or childcare administrator</rdfs:label>
     </owl:Class>
     
@@ -1319,7 +1331,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Architectural and Engineering Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9040</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-40</obo:OCCO_00000008>
         <rdfs:label>architectural or engineering manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1363,7 +1375,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Food Service Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9050</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-50</obo:OCCO_00000008>
         <rdfs:label>food service manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1392,7 +1404,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Entertainment and Recreation Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9070</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-70</obo:OCCO_00000008>
         <rdfs:label>entertainment or recreation manager</rdfs:label>
     </owl:Class>
     
@@ -1436,7 +1448,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Lodging Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9080</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-80</obo:OCCO_00000008>
         <rdfs:label>lodging manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1465,7 +1477,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Medical and Health Services Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9110</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
         <rdfs:label>medical or health services manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1494,7 +1506,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Natural Sciences Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9120</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
         <rdfs:label>natural sciences manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1553,7 +1565,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Postmasters and Mail Superintendents</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9130</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
         <rdfs:label>postmaster or mail superintendent</rdfs:label>
     </owl:Class>
     
@@ -1582,7 +1594,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Property, Real Estate, and Community Association Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9140</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-40</obo:OCCO_00000008>
         <rdfs:label>property, real estate, or community association manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1611,7 +1623,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Social and Community Service Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9150</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-50</obo:OCCO_00000008>
         <rdfs:label>social or community service manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1640,7 +1652,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Emergency Management Directors</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9160</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-60</obo:OCCO_00000008>
         <rdfs:label>emergency management director (broad)</rdfs:label>
     </owl:Class>
     
@@ -1669,7 +1681,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Personal Service Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9170</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-70</obo:OCCO_00000008>
         <rdfs:label>personal service manager</rdfs:label>
     </owl:Class>
     
@@ -1743,7 +1755,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Miscellaneous Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>11-9190</obo:OCCO_00000008>
+        <obo:OCCO_00000008>Nov-90</obo:OCCO_00000008>
         <rdfs:label>miscellaneous manager</rdfs:label>
     </owl:Class>
     
