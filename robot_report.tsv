@@ -83,27 +83,27 @@ WARN	annotation_whitespace	IAO:0000597	IAO:0000112	"Datatype: idrange:1
 Annotations: 'has ID range allocated to': \""Chris Mungall\""
 EquivalentTo: xsd:integer[> 2151 , <= 2300]
 @en"
-WARN	annotation_whitespace	OMO:0001002	IAO:0000116	This obsolesence reason should be used conservatively. For example: Obsoleting class that describes a breed of cow based on a record in an existing database, that was later retracted as faulty (breed does not exist). Do not use this term to obsolete a historic concept (that was once valid, but not anymore). @en
+WARN	annotation_whitespace	OMO:0001002	IAO:0000116	"This obsolesence reason should be used conservatively. For example: Obsoleting class that describes a breed of cow based on a record in an existing database, that was later retracted as faulty (breed does not exist). Do not use this term to obsolete a historic concept (that was once valid, but not anymore). @en"
 WARN	duplicate_exact_synonym	obo:OCCO_49908000	IAO:0000118	Wind Turbine Service Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_49908100	IAO:0000118	Wind Turbine Service Technicians
-WARN	duplicate_exact_synonym	obo:OCCO_43511000	IAO:0000118	Weighers, Measurers, Checkers, and Samplers, Recordkeeping
-WARN	duplicate_exact_synonym	obo:OCCO_43511100	IAO:0000118	Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+WARN	duplicate_exact_synonym	obo:OCCO_43511000	IAO:0000118	"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+WARN	duplicate_exact_synonym	obo:OCCO_43511100	IAO:0000118	"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
 WARN	duplicate_exact_synonym	obo:OCCO_51803000	IAO:0000118	Water and Wastewater Treatment Plant and System Operators
 WARN	duplicate_exact_synonym	obo:OCCO_51803100	IAO:0000118	Water and Wastewater Treatment Plant and System Operators
 WARN	duplicate_exact_synonym	obo:OCCO_35303000	IAO:0000118	Waiters and Waitresses
 WARN	duplicate_exact_synonym	obo:OCCO_35303100	IAO:0000118	Waiters and Waitresses
 WARN	duplicate_exact_synonym	obo:OCCO_29113000	IAO:0000118	Veterinarians
 WARN	duplicate_exact_synonym	obo:OCCO_29113100	IAO:0000118	Veterinarians
-WARN	duplicate_exact_synonym	obo:OCCO_39303000	IAO:0000118	Ushers, Lobby Attendants, and Ticket Takers
-WARN	duplicate_exact_synonym	obo:OCCO_39303100	IAO:0000118	Ushers, Lobby Attendants, and Ticket Takers
+WARN	duplicate_exact_synonym	obo:OCCO_39303000	IAO:0000118	"Ushers, Lobby Attendants, and Ticket Takers"
+WARN	duplicate_exact_synonym	obo:OCCO_39303100	IAO:0000118	"Ushers, Lobby Attendants, and Ticket Takers"
 WARN	duplicate_exact_synonym	obo:OCCO_19305000	IAO:0000118	Urban and Regional Planners
 WARN	duplicate_exact_synonym	obo:OCCO_19305100	IAO:0000118	Urban and Regional Planners
 WARN	duplicate_exact_synonym	obo:OCCO_25304000	IAO:0000118	Tutors
 WARN	duplicate_exact_synonym	obo:OCCO_25304100	IAO:0000118	Tutors
 WARN	duplicate_exact_synonym	obo:OCCO_41304000	IAO:0000118	Travel Agents
 WARN	duplicate_exact_synonym	obo:OCCO_41304100	IAO:0000118	Travel Agents
-WARN	duplicate_exact_synonym	obo:OCCO_11307000	IAO:0000118	Transportation, Storage, and Distribution Managers
-WARN	duplicate_exact_synonym	obo:OCCO_11307100	IAO:0000118	Transportation, Storage, and Distribution Managers
+WARN	duplicate_exact_synonym	obo:OCCO_11307000	IAO:0000118	"Transportation, Storage, and Distribution Managers"
+WARN	duplicate_exact_synonym	obo:OCCO_11307100	IAO:0000118	"Transportation, Storage, and Distribution Managers"
 WARN	duplicate_exact_synonym	obo:OCCO_53605000	IAO:0000118	Transportation Inspectors
 WARN	duplicate_exact_synonym	obo:OCCO_53605100	IAO:0000118	Transportation Inspectors
 WARN	duplicate_exact_synonym	obo:OCCO_13115000	IAO:0000118	Training and Development Specialists
@@ -124,10 +124,10 @@ WARN	duplicate_exact_synonym	obo:OCCO_43202000	IAO:0000118	Telephone Operators
 WARN	duplicate_exact_synonym	obo:OCCO_43202100	IAO:0000118	Telephone Operators
 WARN	duplicate_exact_synonym	obo:OCCO_41904000	IAO:0000118	Telemarketers
 WARN	duplicate_exact_synonym	obo:OCCO_41904100	IAO:0000118	Telemarketers
-WARN	duplicate_exact_synonym	obo:OCCO_53712000	IAO:0000118	Tank Car, Truck, and Ship Loaders
-WARN	duplicate_exact_synonym	obo:OCCO_53712100	IAO:0000118	Tank Car, Truck, and Ship Loaders
-WARN	duplicate_exact_synonym	obo:OCCO_43201000	IAO:0000118	Switchboard Operators, Including Answering Service
-WARN	duplicate_exact_synonym	obo:OCCO_43201100	IAO:0000118	Switchboard Operators, Including Answering Service
+WARN	duplicate_exact_synonym	obo:OCCO_53712000	IAO:0000118	"Tank Car, Truck, and Ship Loaders"
+WARN	duplicate_exact_synonym	obo:OCCO_53712100	IAO:0000118	"Tank Car, Truck, and Ship Loaders"
+WARN	duplicate_exact_synonym	obo:OCCO_43201000	IAO:0000118	"Switchboard Operators, Including Answering Service"
+WARN	duplicate_exact_synonym	obo:OCCO_43201100	IAO:0000118	"Switchboard Operators, Including Answering Service"
 WARN	duplicate_exact_synonym	obo:OCCO_17303000	IAO:0000118	Surveying and Mapping Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_17303100	IAO:0000118	Surveying and Mapping Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_19302000	IAO:0000118	Survey Researchers
@@ -136,8 +136,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_35100000	IAO:0000118	Supervisors of Food P
 WARN	duplicate_exact_synonym	obo:OCCO_35101000	IAO:0000118	Supervisors of Food Preparation and Serving Workers
 WARN	duplicate_exact_synonym	obo:OCCO_53404000	IAO:0000118	Subway and Streetcar Operators
 WARN	duplicate_exact_synonym	obo:OCCO_53404100	IAO:0000118	Subway and Streetcar Operators
-WARN	duplicate_exact_synonym	obo:OCCO_25303000	IAO:0000118	Substitute Teachers, Short-Term
-WARN	duplicate_exact_synonym	obo:OCCO_25303100	IAO:0000118	Substitute Teachers, Short-Term
+WARN	duplicate_exact_synonym	obo:OCCO_25303000	IAO:0000118	"Substitute Teachers, Short-Term"
+WARN	duplicate_exact_synonym	obo:OCCO_25303100	IAO:0000118	"Substitute Teachers, Short-Term"
 WARN	duplicate_exact_synonym	obo:OCCO_51204000	IAO:0000118	Structural Metal Fabricators and Fitters
 WARN	duplicate_exact_synonym	obo:OCCO_51204100	IAO:0000118	Structural Metal Fabricators and Fitters
 WARN	duplicate_exact_synonym	obo:OCCO_47222000	IAO:0000118	Structural Iron and Steel Workers
@@ -156,8 +156,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_19406000	IAO:0000118	Social Science Resear
 WARN	duplicate_exact_synonym	obo:OCCO_19406100	IAO:0000118	Social Science Research Assistants
 WARN	duplicate_exact_synonym	obo:OCCO_11915000	IAO:0000118	Social and Community Service Managers
 WARN	duplicate_exact_synonym	obo:OCCO_11915100	IAO:0000118	Social and Community Service Managers
-WARN	duplicate_exact_synonym	obo:OCCO_43507000	IAO:0000118	Shipping, Receiving, and Inventory Clerks
-WARN	duplicate_exact_synonym	obo:OCCO_43507100	IAO:0000118	Shipping, Receiving, and Inventory Clerks
+WARN	duplicate_exact_synonym	obo:OCCO_43507000	IAO:0000118	"Shipping, Receiving, and Inventory Clerks"
+WARN	duplicate_exact_synonym	obo:OCCO_43507100	IAO:0000118	"Shipping, Receiving, and Inventory Clerks"
 WARN	duplicate_exact_synonym	obo:OCCO_53503000	IAO:0000118	Ship Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_53503100	IAO:0000118	Ship Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_47221000	IAO:0000118	Sheet Metal Workers
@@ -170,22 +170,22 @@ WARN	duplicate_exact_synonym	obo:OCCO_51914000	IAO:0000118	Semiconductor Process
 WARN	duplicate_exact_synonym	obo:OCCO_51914100	IAO:0000118	Semiconductor Processing Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_25302000	IAO:0000118	Self-Enrichment Teachers
 WARN	duplicate_exact_synonym	obo:OCCO_25302100	IAO:0000118	Self-Enrichment Teachers
-WARN	duplicate_exact_synonym	obo:OCCO_41303000	IAO:0000118	Securities, Commodities, and Financial Services Sales Agents
-WARN	duplicate_exact_synonym	obo:OCCO_41303100	IAO:0000118	Securities, Commodities, and Financial Services Sales Agents
+WARN	duplicate_exact_synonym	obo:OCCO_41303000	IAO:0000118	"Securities, Commodities, and Financial Services Sales Agents"
+WARN	duplicate_exact_synonym	obo:OCCO_41303100	IAO:0000118	"Securities, Commodities, and Financial Services Sales Agents"
 WARN	duplicate_exact_synonym	obo:OCCO_43600000	IAO:0000118	Secretaries and Administrative Assistants
 WARN	duplicate_exact_synonym	obo:OCCO_43601000	IAO:0000118	Secretaries and Administrative Assistants
-WARN	duplicate_exact_synonym	obo:OCCO_41400000	IAO:0000118	Sales Representatives, Wholesale and Manufacturing
-WARN	duplicate_exact_synonym	obo:OCCO_41401000	IAO:0000118	Sales Representatives, Wholesale and Manufacturing
+WARN	duplicate_exact_synonym	obo:OCCO_41400000	IAO:0000118	"Sales Representatives, Wholesale and Manufacturing"
+WARN	duplicate_exact_synonym	obo:OCCO_41401000	IAO:0000118	"Sales Representatives, Wholesale and Manufacturing"
 WARN	duplicate_exact_synonym	obo:OCCO_41903000	IAO:0000118	Sales Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_41903100	IAO:0000118	Sales Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_53501000	IAO:0000118	Sailors and Marine Oilers
 WARN	duplicate_exact_synonym	obo:OCCO_53501100	IAO:0000118	Sailors and Marine Oilers
-WARN	duplicate_exact_synonym	obo:OCCO_47507000	IAO:0000118	Roustabouts, Oil and Gas
-WARN	duplicate_exact_synonym	obo:OCCO_47507100	IAO:0000118	Roustabouts, Oil and Gas
+WARN	duplicate_exact_synonym	obo:OCCO_47507000	IAO:0000118	"Roustabouts, Oil and Gas"
+WARN	duplicate_exact_synonym	obo:OCCO_47507100	IAO:0000118	"Roustabouts, Oil and Gas"
 WARN	duplicate_exact_synonym	obo:OCCO_47218000	IAO:0000118	Roofers
 WARN	duplicate_exact_synonym	obo:OCCO_47218100	IAO:0000118	Roofers
-WARN	duplicate_exact_synonym	obo:OCCO_47505000	IAO:0000118	Rock Splitters, Quarry
-WARN	duplicate_exact_synonym	obo:OCCO_47505100	IAO:0000118	Rock Splitters, Quarry
+WARN	duplicate_exact_synonym	obo:OCCO_47505000	IAO:0000118	"Rock Splitters, Quarry"
+WARN	duplicate_exact_synonym	obo:OCCO_47505100	IAO:0000118	"Rock Splitters, Quarry"
 WARN	duplicate_exact_synonym	obo:OCCO_41203000	IAO:0000118	Retail Salespersons
 WARN	duplicate_exact_synonym	obo:OCCO_41203100	IAO:0000118	Retail Salespersons
 WARN	duplicate_exact_synonym	obo:OCCO_39904000	IAO:0000118	Residential Advisors
@@ -202,28 +202,28 @@ WARN	duplicate_exact_synonym	obo:OCCO_43417000	IAO:0000118	Receptionists and Inf
 WARN	duplicate_exact_synonym	obo:OCCO_43417100	IAO:0000118	Receptionists and Information Clerks
 WARN	duplicate_exact_synonym	obo:OCCO_53403000	IAO:0000118	Railroad Conductors and Yardmasters
 WARN	duplicate_exact_synonym	obo:OCCO_53403100	IAO:0000118	Railroad Conductors and Yardmasters
-WARN	duplicate_exact_synonym	obo:OCCO_53402000	IAO:0000118	Railroad Brake, Signal, and Switch Operators and Locomotive Firers
-WARN	duplicate_exact_synonym	obo:OCCO_53402200	IAO:0000118	Railroad Brake, Signal, and Switch Operators and Locomotive Firers
+WARN	duplicate_exact_synonym	obo:OCCO_53402000	IAO:0000118	"Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
+WARN	duplicate_exact_synonym	obo:OCCO_53402200	IAO:0000118	"Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
 WARN	duplicate_exact_synonym	obo:OCCO_47406000	IAO:0000118	Rail-Track Laying and Maintenance Equipment Operators
 WARN	duplicate_exact_synonym	obo:OCCO_47406100	IAO:0000118	Rail-Track Laying and Maintenance Equipment Operators
 WARN	duplicate_exact_synonym	obo:OCCO_11306000	IAO:0000118	Purchasing Managers
 WARN	duplicate_exact_synonym	obo:OCCO_11306100	IAO:0000118	Purchasing Managers
 WARN	duplicate_exact_synonym	obo:OCCO_27303000	IAO:0000118	Public Relations Specialists
 WARN	duplicate_exact_synonym	obo:OCCO_27303100	IAO:0000118	Public Relations Specialists
-WARN	duplicate_exact_synonym	obo:OCCO_11914000	IAO:0000118	Property, Real Estate, and Community Association Managers
-WARN	duplicate_exact_synonym	obo:OCCO_11914100	IAO:0000118	Property, Real Estate, and Community Association Managers
+WARN	duplicate_exact_synonym	obo:OCCO_11914000	IAO:0000118	"Property, Real Estate, and Community Association Managers"
+WARN	duplicate_exact_synonym	obo:OCCO_11914100	IAO:0000118	"Property, Real Estate, and Community Association Managers"
 WARN	duplicate_exact_synonym	obo:OCCO_43908000	IAO:0000118	Proofreaders and Copy Markers
 WARN	duplicate_exact_synonym	obo:OCCO_43908100	IAO:0000118	Proofreaders and Copy Markers
-WARN	duplicate_exact_synonym	obo:OCCO_43506000	IAO:0000118	Production, Planning, and Expediting Clerks
-WARN	duplicate_exact_synonym	obo:OCCO_43506100	IAO:0000118	Production, Planning, and Expediting Clerks
+WARN	duplicate_exact_synonym	obo:OCCO_43506000	IAO:0000118	"Production, Planning, and Expediting Clerks"
+WARN	duplicate_exact_synonym	obo:OCCO_43506100	IAO:0000118	"Production, Planning, and Expediting Clerks"
 WARN	duplicate_exact_synonym	obo:OCCO_43306000	IAO:0000118	Procurement Clerks
 WARN	duplicate_exact_synonym	obo:OCCO_43306100	IAO:0000118	Procurement Clerks
 WARN	duplicate_exact_synonym	obo:OCCO_33902000	IAO:0000118	Private Detectives and Investigators
 WARN	duplicate_exact_synonym	obo:OCCO_33902100	IAO:0000118	Private Detectives and Investigators
 WARN	duplicate_exact_synonym	obo:OCCO_51510000	IAO:0000118	Printing Workers
 WARN	duplicate_exact_synonym	obo:OCCO_51511000	IAO:0000118	Printing Workers
-WARN	duplicate_exact_synonym	obo:OCCO_51602000	IAO:0000118	Pressers, Textile, Garment, and Related Materials
-WARN	duplicate_exact_synonym	obo:OCCO_51602100	IAO:0000118	Pressers, Textile, Garment, and Related Materials
+WARN	duplicate_exact_synonym	obo:OCCO_51602000	IAO:0000118	"Pressers, Textile, Garment, and Related Materials"
+WARN	duplicate_exact_synonym	obo:OCCO_51602100	IAO:0000118	"Pressers, Textile, Garment, and Related Materials"
 WARN	duplicate_exact_synonym	obo:OCCO_11913000	IAO:0000118	Postmasters and Mail Superintendents
 WARN	duplicate_exact_synonym	obo:OCCO_11913100	IAO:0000118	Postmasters and Mail Superintendents
 WARN	duplicate_exact_synonym	obo:OCCO_29108000	IAO:0000118	Podiatrists
@@ -258,14 +258,14 @@ WARN	duplicate_exact_synonym	obo:OCCO_43415000	IAO:0000118	Order Clerks
 WARN	duplicate_exact_synonym	obo:OCCO_43415100	IAO:0000118	Order Clerks
 WARN	duplicate_exact_synonym	obo:OCCO_29104000	IAO:0000118	Optometrists
 WARN	duplicate_exact_synonym	obo:OCCO_29104100	IAO:0000118	Optometrists
-WARN	duplicate_exact_synonym	obo:OCCO_29208000	IAO:0000118	Opticians, Dispensing
-WARN	duplicate_exact_synonym	obo:OCCO_29208100	IAO:0000118	Opticians, Dispensing
+WARN	duplicate_exact_synonym	obo:OCCO_29208000	IAO:0000118	"Opticians, Dispensing"
+WARN	duplicate_exact_synonym	obo:OCCO_29208100	IAO:0000118	"Opticians, Dispensing"
 WARN	duplicate_exact_synonym	obo:OCCO_15203000	IAO:0000118	Operations Research Analysts
 WARN	duplicate_exact_synonym	obo:OCCO_15203100	IAO:0000118	Operations Research Analysts
-WARN	duplicate_exact_synonym	obo:OCCO_43907000	IAO:0000118	Office Machine Operators, Except Computer
-WARN	duplicate_exact_synonym	obo:OCCO_43907100	IAO:0000118	Office Machine Operators, Except Computer
-WARN	duplicate_exact_synonym	obo:OCCO_43906000	IAO:0000118	Office Clerks, General
-WARN	duplicate_exact_synonym	obo:OCCO_43906100	IAO:0000118	Office Clerks, General
+WARN	duplicate_exact_synonym	obo:OCCO_43907000	IAO:0000118	"Office Machine Operators, Except Computer"
+WARN	duplicate_exact_synonym	obo:OCCO_43907100	IAO:0000118	"Office Machine Operators, Except Computer"
+WARN	duplicate_exact_synonym	obo:OCCO_43906000	IAO:0000118	"Office Clerks, General"
+WARN	duplicate_exact_synonym	obo:OCCO_43906100	IAO:0000118	"Office Clerks, General"
 WARN	duplicate_exact_synonym	obo:OCCO_19500000	IAO:0000118	Occupational Health and Safety Specialists and Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_19501000	IAO:0000118	Occupational Health and Safety Specialists and Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_29117000	IAO:0000118	Nurse Practitioners
@@ -282,22 +282,22 @@ WARN	duplicate_exact_synonym	obo:OCCO_43414000	IAO:0000118	New Accounts Clerks
 WARN	duplicate_exact_synonym	obo:OCCO_43414100	IAO:0000118	New Accounts Clerks
 WARN	duplicate_exact_synonym	obo:OCCO_11912000	IAO:0000118	Natural Sciences Managers
 WARN	duplicate_exact_synonym	obo:OCCO_11912100	IAO:0000118	Natural Sciences Managers
-WARN	duplicate_exact_synonym	obo:OCCO_51408000	IAO:0000118	Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
-WARN	duplicate_exact_synonym	obo:OCCO_51408100	IAO:0000118	Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+WARN	duplicate_exact_synonym	obo:OCCO_51408000	IAO:0000118	"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+WARN	duplicate_exact_synonym	obo:OCCO_51408100	IAO:0000118	"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
 WARN	duplicate_exact_synonym	obo:OCCO_39302000	IAO:0000118	Motion Picture Projectionists
 WARN	duplicate_exact_synonym	obo:OCCO_39302100	IAO:0000118	Motion Picture Projectionists
-WARN	duplicate_exact_synonym	obo:OCCO_39403000	IAO:0000118	Morticians, Undertakers, and Funeral Arrangers
-WARN	duplicate_exact_synonym	obo:OCCO_39403100	IAO:0000118	Morticians, Undertakers, and Funeral Arrangers
-WARN	duplicate_exact_synonym	obo:OCCO_17215000	IAO:0000118	Mining and Geological Engineers, Including Mining Safety Engineers
-WARN	duplicate_exact_synonym	obo:OCCO_17215100	IAO:0000118	Mining and Geological Engineers, Including Mining Safety Engineers
+WARN	duplicate_exact_synonym	obo:OCCO_39403000	IAO:0000118	"Morticians, Undertakers, and Funeral Arrangers"
+WARN	duplicate_exact_synonym	obo:OCCO_39403100	IAO:0000118	"Morticians, Undertakers, and Funeral Arrangers"
+WARN	duplicate_exact_synonym	obo:OCCO_17215000	IAO:0000118	"Mining and Geological Engineers, Including Mining Safety Engineers"
+WARN	duplicate_exact_synonym	obo:OCCO_17215100	IAO:0000118	"Mining and Geological Engineers, Including Mining Safety Engineers"
 WARN	duplicate_exact_synonym	obo:OCCO_55100000	IAO:0000118	Military Officer Special and Tactical Operations Leaders
 WARN	duplicate_exact_synonym	obo:OCCO_55101000	IAO:0000118	Military Officer Special and Tactical Operations Leaders
 WARN	duplicate_exact_synonym	obo:OCCO_55300000	IAO:0000118	Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members
 WARN	duplicate_exact_synonym	obo:OCCO_55301000	IAO:0000118	Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members
-WARN	duplicate_exact_synonym	obo:OCCO_43504000	IAO:0000118	Meter Readers, Utilities
-WARN	duplicate_exact_synonym	obo:OCCO_43504100	IAO:0000118	Meter Readers, Utilities
-WARN	duplicate_exact_synonym	obo:OCCO_13112000	IAO:0000118	Meeting, Convention, and Event Planners
-WARN	duplicate_exact_synonym	obo:OCCO_13112100	IAO:0000118	Meeting, Convention, and Event Planners
+WARN	duplicate_exact_synonym	obo:OCCO_43504000	IAO:0000118	"Meter Readers, Utilities"
+WARN	duplicate_exact_synonym	obo:OCCO_43504100	IAO:0000118	"Meter Readers, Utilities"
+WARN	duplicate_exact_synonym	obo:OCCO_13112000	IAO:0000118	"Meeting, Convention, and Event Planners"
+WARN	duplicate_exact_synonym	obo:OCCO_13112100	IAO:0000118	"Meeting, Convention, and Event Planners"
 WARN	duplicate_exact_synonym	obo:OCCO_29207000	IAO:0000118	Medical Records Specialists
 WARN	duplicate_exact_synonym	obo:OCCO_29207200	IAO:0000118	Medical Records Specialists
 WARN	duplicate_exact_synonym	obo:OCCO_11911000	IAO:0000118	Medical and Health Services Managers
@@ -316,10 +316,10 @@ WARN	duplicate_exact_synonym	obo:OCCO_17212000	IAO:0000118	Marine Engineers and 
 WARN	duplicate_exact_synonym	obo:OCCO_17212100	IAO:0000118	Marine Engineers and Naval Architects
 WARN	duplicate_exact_synonym	obo:OCCO_13111000	IAO:0000118	Management Analysts
 WARN	duplicate_exact_synonym	obo:OCCO_13111100	IAO:0000118	Management Analysts
-WARN	duplicate_exact_synonym	obo:OCCO_49907000	IAO:0000118	Maintenance and Repair Workers, General
-WARN	duplicate_exact_synonym	obo:OCCO_49907100	IAO:0000118	Maintenance and Repair Workers, General
-WARN	duplicate_exact_synonym	obo:OCCO_43905000	IAO:0000118	Mail Clerks and Mail Machine Operators, Except Postal Service
-WARN	duplicate_exact_synonym	obo:OCCO_43905100	IAO:0000118	Mail Clerks and Mail Machine Operators, Except Postal Service
+WARN	duplicate_exact_synonym	obo:OCCO_49907000	IAO:0000118	"Maintenance and Repair Workers, General"
+WARN	duplicate_exact_synonym	obo:OCCO_49907100	IAO:0000118	"Maintenance and Repair Workers, General"
+WARN	duplicate_exact_synonym	obo:OCCO_43905000	IAO:0000118	"Mail Clerks and Mail Machine Operators, Except Postal Service"
+WARN	duplicate_exact_synonym	obo:OCCO_43905100	IAO:0000118	"Mail Clerks and Mail Machine Operators, Except Postal Service"
 WARN	duplicate_exact_synonym	obo:OCCO_51404000	IAO:0000118	Machinists
 WARN	duplicate_exact_synonym	obo:OCCO_51404100	IAO:0000118	Machinists
 WARN	duplicate_exact_synonym	obo:OCCO_11908000	IAO:0000118	Lodging Managers
@@ -330,8 +330,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_29206000	IAO:0000118	Licensed Practical an
 WARN	duplicate_exact_synonym	obo:OCCO_29206100	IAO:0000118	Licensed Practical and Licensed Vocational Nurses
 WARN	duplicate_exact_synonym	obo:OCCO_25403000	IAO:0000118	Library Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_25403100	IAO:0000118	Library Technicians
-WARN	duplicate_exact_synonym	obo:OCCO_43412000	IAO:0000118	Library Assistants, Clerical
-WARN	duplicate_exact_synonym	obo:OCCO_43412100	IAO:0000118	Library Assistants, Clerical
+WARN	duplicate_exact_synonym	obo:OCCO_43412000	IAO:0000118	"Library Assistants, Clerical"
+WARN	duplicate_exact_synonym	obo:OCCO_43412100	IAO:0000118	"Library Assistants, Clerical"
 WARN	duplicate_exact_synonym	obo:OCCO_25402000	IAO:0000118	Librarians and Media Collections Specialists
 WARN	duplicate_exact_synonym	obo:OCCO_25402200	IAO:0000118	Librarians and Media Collections Specialists
 WARN	duplicate_exact_synonym	obo:OCCO_11103000	IAO:0000118	Legislators
@@ -340,28 +340,28 @@ WARN	duplicate_exact_synonym	obo:OCCO_51601000	IAO:0000118	Laundry and Dry-Clean
 WARN	duplicate_exact_synonym	obo:OCCO_51601100	IAO:0000118	Laundry and Dry-Cleaning Workers
 WARN	duplicate_exact_synonym	obo:OCCO_51907000	IAO:0000118	Jewelers and Precious Stone and Metal Workers
 WARN	duplicate_exact_synonym	obo:OCCO_51907100	IAO:0000118	Jewelers and Precious Stone and Metal Workers
-WARN	duplicate_exact_synonym	obo:OCCO_43411000	IAO:0000118	Interviewers, Except Eligibility and Loan
-WARN	duplicate_exact_synonym	obo:OCCO_43411100	IAO:0000118	Interviewers, Except Eligibility and Loan
+WARN	duplicate_exact_synonym	obo:OCCO_43411000	IAO:0000118	"Interviewers, Except Eligibility and Loan"
+WARN	duplicate_exact_synonym	obo:OCCO_43411100	IAO:0000118	"Interviewers, Except Eligibility and Loan"
 WARN	duplicate_exact_synonym	obo:OCCO_41302000	IAO:0000118	Insurance Sales Agents
 WARN	duplicate_exact_synonym	obo:OCCO_41302100	IAO:0000118	Insurance Sales Agents
 WARN	duplicate_exact_synonym	obo:OCCO_43904000	IAO:0000118	Insurance Claims and Policy Processing Clerks
 WARN	duplicate_exact_synonym	obo:OCCO_43904100	IAO:0000118	Insurance Claims and Policy Processing Clerks
 WARN	duplicate_exact_synonym	obo:OCCO_25903000	IAO:0000118	Instructional Coordinators
 WARN	duplicate_exact_synonym	obo:OCCO_25903100	IAO:0000118	Instructional Coordinators
-WARN	duplicate_exact_synonym	obo:OCCO_51906000	IAO:0000118	Inspectors, Testers, Sorters, Samplers, and Weighers
-WARN	duplicate_exact_synonym	obo:OCCO_51906100	IAO:0000118	Inspectors, Testers, Sorters, Samplers, and Weighers
+WARN	duplicate_exact_synonym	obo:OCCO_51906000	IAO:0000118	"Inspectors, Testers, Sorters, Samplers, and Weighers"
+WARN	duplicate_exact_synonym	obo:OCCO_51906100	IAO:0000118	"Inspectors, Testers, Sorters, Samplers, and Weighers"
 WARN	duplicate_exact_synonym	obo:OCCO_53705000	IAO:0000118	Industrial Truck and Tractor Operators
 WARN	duplicate_exact_synonym	obo:OCCO_53705100	IAO:0000118	Industrial Truck and Tractor Operators
 WARN	duplicate_exact_synonym	obo:OCCO_11305000	IAO:0000118	Industrial Production Managers
 WARN	duplicate_exact_synonym	obo:OCCO_11305100	IAO:0000118	Industrial Production Managers
 WARN	duplicate_exact_synonym	obo:OCCO_11312000	IAO:0000118	Human Resources Managers
 WARN	duplicate_exact_synonym	obo:OCCO_11312100	IAO:0000118	Human Resources Managers
-WARN	duplicate_exact_synonym	obo:OCCO_43416000	IAO:0000118	Human Resources Assistants, Except Payroll and Timekeeping
-WARN	duplicate_exact_synonym	obo:OCCO_43416100	IAO:0000118	Human Resources Assistants, Except Payroll and Timekeeping
-WARN	duplicate_exact_synonym	obo:OCCO_43408000	IAO:0000118	Hotel, Motel, and Resort Desk Clerks
-WARN	duplicate_exact_synonym	obo:OCCO_43408100	IAO:0000118	Hotel, Motel, and Resort Desk Clerks
-WARN	duplicate_exact_synonym	obo:OCCO_35903000	IAO:0000118	Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
-WARN	duplicate_exact_synonym	obo:OCCO_35903100	IAO:0000118	Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+WARN	duplicate_exact_synonym	obo:OCCO_43416000	IAO:0000118	"Human Resources Assistants, Except Payroll and Timekeeping"
+WARN	duplicate_exact_synonym	obo:OCCO_43416100	IAO:0000118	"Human Resources Assistants, Except Payroll and Timekeeping"
+WARN	duplicate_exact_synonym	obo:OCCO_43408000	IAO:0000118	"Hotel, Motel, and Resort Desk Clerks"
+WARN	duplicate_exact_synonym	obo:OCCO_43408100	IAO:0000118	"Hotel, Motel, and Resort Desk Clerks"
+WARN	duplicate_exact_synonym	obo:OCCO_35903000	IAO:0000118	"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+WARN	duplicate_exact_synonym	obo:OCCO_35903100	IAO:0000118	"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
 WARN	duplicate_exact_synonym	obo:OCCO_49903000	IAO:0000118	Home Appliance Repairers
 WARN	duplicate_exact_synonym	obo:OCCO_49903100	IAO:0000118	Home Appliance Repairers
 WARN	duplicate_exact_synonym	obo:OCCO_53704000	IAO:0000118	Hoist and Winch Operators
@@ -370,18 +370,18 @@ WARN	duplicate_exact_synonym	obo:OCCO_47405000	IAO:0000118	Highway Maintenance W
 WARN	duplicate_exact_synonym	obo:OCCO_47405100	IAO:0000118	Highway Maintenance Workers
 WARN	duplicate_exact_synonym	obo:OCCO_47508000	IAO:0000118	Helpers--Extraction Workers
 WARN	duplicate_exact_synonym	obo:OCCO_47508100	IAO:0000118	Helpers--Extraction Workers
-WARN	duplicate_exact_synonym	obo:OCCO_47300000	IAO:0000118	Helpers, Construction Trades
-WARN	duplicate_exact_synonym	obo:OCCO_47301000	IAO:0000118	Helpers, Construction Trades
-WARN	duplicate_exact_synonym	obo:OCCO_49902000	IAO:0000118	Heating, Air Conditioning, and Refrigeration Mechanics and Installers
-WARN	duplicate_exact_synonym	obo:OCCO_49902100	IAO:0000118	Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+WARN	duplicate_exact_synonym	obo:OCCO_47300000	IAO:0000118	"Helpers, Construction Trades"
+WARN	duplicate_exact_synonym	obo:OCCO_47301000	IAO:0000118	"Helpers, Construction Trades"
+WARN	duplicate_exact_synonym	obo:OCCO_49902000	IAO:0000118	"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+WARN	duplicate_exact_synonym	obo:OCCO_49902100	IAO:0000118	"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
 WARN	duplicate_exact_synonym	obo:OCCO_29902000	IAO:0000118	Health Information Technologists and Medical Registrars
 WARN	duplicate_exact_synonym	obo:OCCO_29902100	IAO:0000118	Health Information Technologists and Medical Registrars
 WARN	duplicate_exact_synonym	obo:OCCO_47404000	IAO:0000118	Hazardous Materials Removal Workers
 WARN	duplicate_exact_synonym	obo:OCCO_47404100	IAO:0000118	Hazardous Materials Removal Workers
 WARN	duplicate_exact_synonym	obo:OCCO_37300000	IAO:0000118	Grounds Maintenance Workers
 WARN	duplicate_exact_synonym	obo:OCCO_37301000	IAO:0000118	Grounds Maintenance Workers
-WARN	duplicate_exact_synonym	obo:OCCO_45204000	IAO:0000118	Graders and Sorters, Agricultural Products
-WARN	duplicate_exact_synonym	obo:OCCO_45204100	IAO:0000118	Graders and Sorters, Agricultural Products
+WARN	duplicate_exact_synonym	obo:OCCO_45204000	IAO:0000118	"Graders and Sorters, Agricultural Products"
+WARN	duplicate_exact_synonym	obo:OCCO_45204100	IAO:0000118	"Graders and Sorters, Agricultural Products"
 WARN	duplicate_exact_synonym	obo:OCCO_47212000	IAO:0000118	Glaziers
 WARN	duplicate_exact_synonym	obo:OCCO_47212100	IAO:0000118	Glaziers
 WARN	duplicate_exact_synonym	obo:OCCO_11102000	IAO:0000118	General and Operations Managers
@@ -390,8 +390,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_43304000	IAO:0000118	Gambling Cage Workers
 WARN	duplicate_exact_synonym	obo:OCCO_43304100	IAO:0000118	Gambling Cage Workers
 WARN	duplicate_exact_synonym	obo:OCCO_51702000	IAO:0000118	Furniture Finishers
 WARN	duplicate_exact_synonym	obo:OCCO_51702100	IAO:0000118	Furniture Finishers
-WARN	duplicate_exact_synonym	obo:OCCO_51905000	IAO:0000118	Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
-WARN	duplicate_exact_synonym	obo:OCCO_51905100	IAO:0000118	Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+WARN	duplicate_exact_synonym	obo:OCCO_51905000	IAO:0000118	"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+WARN	duplicate_exact_synonym	obo:OCCO_51905100	IAO:0000118	"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
 WARN	duplicate_exact_synonym	obo:OCCO_39402000	IAO:0000118	Funeral Attendants
 WARN	duplicate_exact_synonym	obo:OCCO_39402100	IAO:0000118	Funeral Attendants
 WARN	duplicate_exact_synonym	obo:OCCO_13113000	IAO:0000118	Fundraisers
@@ -402,8 +402,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_19407000	IAO:0000118	Forest and Conservati
 WARN	duplicate_exact_synonym	obo:OCCO_19407100	IAO:0000118	Forest and Conservation Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_11905000	IAO:0000118	Food Service Managers
 WARN	duplicate_exact_synonym	obo:OCCO_11905100	IAO:0000118	Food Service Managers
-WARN	duplicate_exact_synonym	obo:OCCO_35304000	IAO:0000118	Food Servers, Nonrestaurant
-WARN	duplicate_exact_synonym	obo:OCCO_35304100	IAO:0000118	Food Servers, Nonrestaurant
+WARN	duplicate_exact_synonym	obo:OCCO_35304000	IAO:0000118	"Food Servers, Nonrestaurant"
+WARN	duplicate_exact_synonym	obo:OCCO_35304100	IAO:0000118	"Food Servers, Nonrestaurant"
 WARN	duplicate_exact_synonym	obo:OCCO_35202000	IAO:0000118	Food Preparation Workers
 WARN	duplicate_exact_synonym	obo:OCCO_35202100	IAO:0000118	Food Preparation Workers
 WARN	duplicate_exact_synonym	obo:OCCO_53203000	IAO:0000118	Flight Attendants
@@ -419,12 +419,12 @@ WARN	duplicate_exact_synonym	obo:OCCO_39102000	IAO:0000118	First-Line Supervisor
 WARN	duplicate_exact_synonym	obo:OCCO_39102200	IAO:0000118	First-Line Supervisors of Personal Service Workers
 WARN	duplicate_exact_synonym	obo:OCCO_43101000	IAO:0000118	First-Line Supervisors of Office and Administrative Support Workers
 WARN	duplicate_exact_synonym	obo:OCCO_43101100	IAO:0000118	First-Line Supervisors of Office and Administrative Support Workers
-WARN	duplicate_exact_synonym	obo:OCCO_49101000	IAO:0000118	First-Line Supervisors of Mechanics, Installers, and Repairers
-WARN	duplicate_exact_synonym	obo:OCCO_49101100	IAO:0000118	First-Line Supervisors of Mechanics, Installers, and Repairers
+WARN	duplicate_exact_synonym	obo:OCCO_49101000	IAO:0000118	"First-Line Supervisors of Mechanics, Installers, and Repairers"
+WARN	duplicate_exact_synonym	obo:OCCO_49101100	IAO:0000118	"First-Line Supervisors of Mechanics, Installers, and Repairers"
 WARN	duplicate_exact_synonym	obo:OCCO_33102000	IAO:0000118	First-Line Supervisors of Firefighting and Prevention Workers
 WARN	duplicate_exact_synonym	obo:OCCO_33102100	IAO:0000118	First-Line Supervisors of Firefighting and Prevention Workers
-WARN	duplicate_exact_synonym	obo:OCCO_45101000	IAO:0000118	First-Line Supervisors of Farming, Fishing, and Forestry Workers
-WARN	duplicate_exact_synonym	obo:OCCO_45101100	IAO:0000118	First-Line Supervisors of Farming, Fishing, and Forestry Workers
+WARN	duplicate_exact_synonym	obo:OCCO_45101000	IAO:0000118	"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+WARN	duplicate_exact_synonym	obo:OCCO_45101100	IAO:0000118	"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
 WARN	duplicate_exact_synonym	obo:OCCO_47101000	IAO:0000118	First-Line Supervisors of Construction Trades and Extraction Workers
 WARN	duplicate_exact_synonym	obo:OCCO_47101100	IAO:0000118	First-Line Supervisors of Construction Trades and Extraction Workers
 WARN	duplicate_exact_synonym	obo:OCCO_55200000	IAO:0000118	First-Line Enlisted Military Supervisors
@@ -443,22 +443,22 @@ WARN	duplicate_exact_synonym	obo:OCCO_47403000	IAO:0000118	Fence Erectors
 WARN	duplicate_exact_synonym	obo:OCCO_47403100	IAO:0000118	Fence Erectors
 WARN	duplicate_exact_synonym	obo:OCCO_35302000	IAO:0000118	Fast Food and Counter Workers
 WARN	duplicate_exact_synonym	obo:OCCO_35302300	IAO:0000118	Fast Food and Counter Workers
-WARN	duplicate_exact_synonym	obo:OCCO_11901000	IAO:0000118	Farmers, Ranchers, and Other Agricultural Managers
-WARN	duplicate_exact_synonym	obo:OCCO_11901300	IAO:0000118	Farmers, Ranchers, and Other Agricultural Managers
+WARN	duplicate_exact_synonym	obo:OCCO_11901000	IAO:0000118	"Farmers, Ranchers, and Other Agricultural Managers"
+WARN	duplicate_exact_synonym	obo:OCCO_11901300	IAO:0000118	"Farmers, Ranchers, and Other Agricultural Managers"
 WARN	duplicate_exact_synonym	obo:OCCO_25902000	IAO:0000118	Farm and Home Management Educators
 WARN	duplicate_exact_synonym	obo:OCCO_25902100	IAO:0000118	Farm and Home Management Educators
-WARN	duplicate_exact_synonym	obo:OCCO_51904000	IAO:0000118	Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
-WARN	duplicate_exact_synonym	obo:OCCO_51904100	IAO:0000118	Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
-WARN	duplicate_exact_synonym	obo:OCCO_47503000	IAO:0000118	Explosives Workers, Ordnance Handling Experts, and Blasters
-WARN	duplicate_exact_synonym	obo:OCCO_47503200	IAO:0000118	Explosives Workers, Ordnance Handling Experts, and Blasters
+WARN	duplicate_exact_synonym	obo:OCCO_51904000	IAO:0000118	"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+WARN	duplicate_exact_synonym	obo:OCCO_51904100	IAO:0000118	"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+WARN	duplicate_exact_synonym	obo:OCCO_47503000	IAO:0000118	"Explosives Workers, Ordnance Handling Experts, and Blasters"
+WARN	duplicate_exact_synonym	obo:OCCO_47503200	IAO:0000118	"Explosives Workers, Ordnance Handling Experts, and Blasters"
 WARN	duplicate_exact_synonym	obo:OCCO_17208000	IAO:0000118	Environmental Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_17208100	IAO:0000118	Environmental Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_51203000	IAO:0000118	Engine and Other Machine Assemblers
 WARN	duplicate_exact_synonym	obo:OCCO_51203100	IAO:0000118	Engine and Other Machine Assemblers
 WARN	duplicate_exact_synonym	obo:OCCO_11916000	IAO:0000118	Emergency Management Directors
 WARN	duplicate_exact_synonym	obo:OCCO_11916100	IAO:0000118	Emergency Management Directors
-WARN	duplicate_exact_synonym	obo:OCCO_43406000	IAO:0000118	Eligibility Interviewers, Government Programs
-WARN	duplicate_exact_synonym	obo:OCCO_43406100	IAO:0000118	Eligibility Interviewers, Government Programs
+WARN	duplicate_exact_synonym	obo:OCCO_43406000	IAO:0000118	"Eligibility Interviewers, Government Programs"
+WARN	duplicate_exact_synonym	obo:OCCO_43406100	IAO:0000118	"Eligibility Interviewers, Government Programs"
 WARN	duplicate_exact_synonym	obo:OCCO_47402000	IAO:0000118	Elevator and Escalator Installers and Repairers
 WARN	duplicate_exact_synonym	obo:OCCO_47402100	IAO:0000118	Elevator and Escalator Installers and Repairers
 WARN	duplicate_exact_synonym	obo:OCCO_47211000	IAO:0000118	Electricians
@@ -469,8 +469,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_53703000	IAO:0000118	Dredge Operators
 WARN	duplicate_exact_synonym	obo:OCCO_53703100	IAO:0000118	Dredge Operators
 WARN	duplicate_exact_synonym	obo:OCCO_35902000	IAO:0000118	Dishwashers
 WARN	duplicate_exact_synonym	obo:OCCO_35902100	IAO:0000118	Dishwashers
-WARN	duplicate_exact_synonym	obo:OCCO_21202000	IAO:0000118	Directors, Religious Activities and Education
-WARN	duplicate_exact_synonym	obo:OCCO_21202100	IAO:0000118	Directors, Religious Activities and Education
+WARN	duplicate_exact_synonym	obo:OCCO_21202000	IAO:0000118	"Directors, Religious Activities and Education"
+WARN	duplicate_exact_synonym	obo:OCCO_21202100	IAO:0000118	"Directors, Religious Activities and Education"
 WARN	duplicate_exact_synonym	obo:OCCO_35901000	IAO:0000118	Dining Room and Cafeteria Attendants and Bartender Helpers
 WARN	duplicate_exact_synonym	obo:OCCO_35901100	IAO:0000118	Dining Room and Cafeteria Attendants and Bartender Helpers
 WARN	duplicate_exact_synonym	obo:OCCO_29103000	IAO:0000118	Dietitians and Nutritionists
@@ -483,14 +483,14 @@ WARN	duplicate_exact_synonym	obo:OCCO_15205000	IAO:0000118	Data Scientists
 WARN	duplicate_exact_synonym	obo:OCCO_15205100	IAO:0000118	Data Scientists
 WARN	duplicate_exact_synonym	obo:OCCO_43405000	IAO:0000118	Customer Service Representatives
 WARN	duplicate_exact_synonym	obo:OCCO_43405100	IAO:0000118	Customer Service Representatives
-WARN	duplicate_exact_synonym	obo:OCCO_43404000	IAO:0000118	Credit Authorizers, Checkers, and Clerks
-WARN	duplicate_exact_synonym	obo:OCCO_43404100	IAO:0000118	Credit Authorizers, Checkers, and Clerks
+WARN	duplicate_exact_synonym	obo:OCCO_43404000	IAO:0000118	"Credit Authorizers, Checkers, and Clerks"
+WARN	duplicate_exact_synonym	obo:OCCO_43404100	IAO:0000118	"Credit Authorizers, Checkers, and Clerks"
 WARN	duplicate_exact_synonym	obo:OCCO_13204000	IAO:0000118	Credit Analysts
 WARN	duplicate_exact_synonym	obo:OCCO_13204100	IAO:0000118	Credit Analysts
 WARN	duplicate_exact_synonym	obo:OCCO_53702000	IAO:0000118	Crane and Tower Operators
 WARN	duplicate_exact_synonym	obo:OCCO_53702100	IAO:0000118	Crane and Tower Operators
-WARN	duplicate_exact_synonym	obo:OCCO_43403000	IAO:0000118	Court, Municipal, and License Clerks
-WARN	duplicate_exact_synonym	obo:OCCO_43403100	IAO:0000118	Court, Municipal, and License Clerks
+WARN	duplicate_exact_synonym	obo:OCCO_43403000	IAO:0000118	"Court, Municipal, and License Clerks"
+WARN	duplicate_exact_synonym	obo:OCCO_43403100	IAO:0000118	"Court, Municipal, and License Clerks"
 WARN	duplicate_exact_synonym	obo:OCCO_43502000	IAO:0000118	Couriers and Messengers
 WARN	duplicate_exact_synonym	obo:OCCO_43502100	IAO:0000118	Couriers and Messengers
 WARN	duplicate_exact_synonym	obo:OCCO_13105000	IAO:0000118	Cost Estimators
@@ -505,8 +505,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_47206000	IAO:0000118	Construction Laborers
 WARN	duplicate_exact_synonym	obo:OCCO_47206100	IAO:0000118	Construction Laborers
 WARN	duplicate_exact_synonym	obo:OCCO_47401000	IAO:0000118	Construction and Building Inspectors
 WARN	duplicate_exact_synonym	obo:OCCO_47401100	IAO:0000118	Construction and Building Inspectors
-WARN	duplicate_exact_synonym	obo:OCCO_49201000	IAO:0000118	Computer, Automated Teller, and Office Machine Repairers
-WARN	duplicate_exact_synonym	obo:OCCO_49201100	IAO:0000118	Computer, Automated Teller, and Office Machine Repairers
+WARN	duplicate_exact_synonym	obo:OCCO_49201000	IAO:0000118	"Computer, Automated Teller, and Office Machine Repairers"
+WARN	duplicate_exact_synonym	obo:OCCO_49201100	IAO:0000118	"Computer, Automated Teller, and Office Machine Repairers"
 WARN	duplicate_exact_synonym	obo:OCCO_17206000	IAO:0000118	Computer Hardware Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_17206100	IAO:0000118	Computer Hardware Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_11302000	IAO:0000118	Computer and Information Systems Managers
@@ -515,8 +515,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_15122000	IAO:0000118	Computer and Informat
 WARN	duplicate_exact_synonym	obo:OCCO_15122100	IAO:0000118	Computer and Information Research Scientists
 WARN	duplicate_exact_synonym	obo:OCCO_13104000	IAO:0000118	Compliance Officers
 WARN	duplicate_exact_synonym	obo:OCCO_13104100	IAO:0000118	Compliance Officers
-WARN	duplicate_exact_synonym	obo:OCCO_13114000	IAO:0000118	Compensation, Benefits, and Job Analysis Specialists
-WARN	duplicate_exact_synonym	obo:OCCO_13114100	IAO:0000118	Compensation, Benefits, and Job Analysis Specialists
+WARN	duplicate_exact_synonym	obo:OCCO_13114000	IAO:0000118	"Compensation, Benefits, and Job Analysis Specialists"
+WARN	duplicate_exact_synonym	obo:OCCO_13114100	IAO:0000118	"Compensation, Benefits, and Job Analysis Specialists"
 WARN	duplicate_exact_synonym	obo:OCCO_11311000	IAO:0000118	Compensation and Benefits Managers
 WARN	duplicate_exact_synonym	obo:OCCO_11311100	IAO:0000118	Compensation and Benefits Managers
 WARN	duplicate_exact_synonym	obo:OCCO_21201000	IAO:0000118	Clergy
@@ -541,8 +541,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_43501000	IAO:0000118	Cargo and Freight Age
 WARN	duplicate_exact_synonym	obo:OCCO_43501100	IAO:0000118	Cargo and Freight Agents
 WARN	duplicate_exact_synonym	obo:OCCO_51701000	IAO:0000118	Cabinetmakers and Bench Carpenters
 WARN	duplicate_exact_synonym	obo:OCCO_51701100	IAO:0000118	Cabinetmakers and Bench Carpenters
-WARN	duplicate_exact_synonym	obo:OCCO_25101000	IAO:0000118	Business Teachers, Postsecondary
-WARN	duplicate_exact_synonym	obo:OCCO_25101100	IAO:0000118	Business Teachers, Postsecondary
+WARN	duplicate_exact_synonym	obo:OCCO_25101000	IAO:0000118	"Business Teachers, Postsecondary"
+WARN	duplicate_exact_synonym	obo:OCCO_25101100	IAO:0000118	"Business Teachers, Postsecondary"
 WARN	duplicate_exact_synonym	obo:OCCO_49303000	IAO:0000118	Bus and Truck Mechanics and Diesel Engine Specialists
 WARN	duplicate_exact_synonym	obo:OCCO_49303100	IAO:0000118	Bus and Truck Mechanics and Diesel Engine Specialists
 WARN	duplicate_exact_synonym	obo:OCCO_13203000	IAO:0000118	Budget Analysts
@@ -553,8 +553,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_27301000	IAO:0000118	Broadcast Announcers 
 WARN	duplicate_exact_synonym	obo:OCCO_27301100	IAO:0000118	Broadcast Announcers and Radio Disc Jockeys
 WARN	duplicate_exact_synonym	obo:OCCO_53601000	IAO:0000118	Bridge and Lock Tenders
 WARN	duplicate_exact_synonym	obo:OCCO_53601100	IAO:0000118	Bridge and Lock Tenders
-WARN	duplicate_exact_synonym	obo:OCCO_43303000	IAO:0000118	Bookkeeping, Accounting, and Auditing Clerks
-WARN	duplicate_exact_synonym	obo:OCCO_43303100	IAO:0000118	Bookkeeping, Accounting, and Auditing Clerks
+WARN	duplicate_exact_synonym	obo:OCCO_43303000	IAO:0000118	"Bookkeeping, Accounting, and Auditing Clerks"
+WARN	duplicate_exact_synonym	obo:OCCO_43303100	IAO:0000118	"Bookkeeping, Accounting, and Auditing Clerks"
 WARN	duplicate_exact_synonym	obo:OCCO_47201000	IAO:0000118	Boilermakers
 WARN	duplicate_exact_synonym	obo:OCCO_47201100	IAO:0000118	Boilermakers
 WARN	duplicate_exact_synonym	obo:OCCO_19402000	IAO:0000118	Biological Technicians
@@ -569,8 +569,8 @@ WARN	duplicate_exact_synonym	obo:OCCO_35301000	IAO:0000118	Bartenders
 WARN	duplicate_exact_synonym	obo:OCCO_35301100	IAO:0000118	Bartenders
 WARN	duplicate_exact_synonym	obo:OCCO_51301000	IAO:0000118	Bakers
 WARN	duplicate_exact_synonym	obo:OCCO_51301100	IAO:0000118	Bakers
-WARN	duplicate_exact_synonym	obo:OCCO_39600000	IAO:0000118	Baggage Porters, Bellhops, and Concierges
-WARN	duplicate_exact_synonym	obo:OCCO_39601000	IAO:0000118	Baggage Porters, Bellhops, and Concierges
+WARN	duplicate_exact_synonym	obo:OCCO_39600000	IAO:0000118	"Baggage Porters, Bellhops, and Concierges"
+WARN	duplicate_exact_synonym	obo:OCCO_39601000	IAO:0000118	"Baggage Porters, Bellhops, and Concierges"
 WARN	duplicate_exact_synonym	obo:OCCO_29118000	IAO:0000118	Audiologists
 WARN	duplicate_exact_synonym	obo:OCCO_29118100	IAO:0000118	Audiologists
 WARN	duplicate_exact_synonym	obo:OCCO_19202000	IAO:0000118	Atmospheric and Space Scientists
@@ -585,31 +585,32 @@ WARN	duplicate_exact_synonym	obo:OCCO_39202000	IAO:0000118	Animal Caretakers
 WARN	duplicate_exact_synonym	obo:OCCO_39202100	IAO:0000118	Animal Caretakers
 WARN	duplicate_exact_synonym	obo:OCCO_45202000	IAO:0000118	Animal Breeders
 WARN	duplicate_exact_synonym	obo:OCCO_45202100	IAO:0000118	Animal Breeders
-WARN	duplicate_exact_synonym	obo:OCCO_53301000	IAO:0000118	Ambulance Drivers and Attendants, Except Emergency Medical Technicians
-WARN	duplicate_exact_synonym	obo:OCCO_53301100	IAO:0000118	Ambulance Drivers and Attendants, Except Emergency Medical Technicians
-WARN	duplicate_exact_synonym	obo:OCCO_51201000	IAO:0000118	Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
-WARN	duplicate_exact_synonym	obo:OCCO_51201100	IAO:0000118	Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+WARN	duplicate_exact_synonym	obo:OCCO_53301000	IAO:0000118	"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+WARN	duplicate_exact_synonym	obo:OCCO_53301100	IAO:0000118	"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+WARN	duplicate_exact_synonym	obo:OCCO_51201000	IAO:0000118	"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+WARN	duplicate_exact_synonym	obo:OCCO_51201100	IAO:0000118	"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
 WARN	duplicate_exact_synonym	obo:OCCO_49301000	IAO:0000118	Aircraft Mechanics and Service Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_49301100	IAO:0000118	Aircraft Mechanics and Service Technicians
 WARN	duplicate_exact_synonym	obo:OCCO_45201000	IAO:0000118	Agricultural Inspectors
 WARN	duplicate_exact_synonym	obo:OCCO_45201100	IAO:0000118	Agricultural Inspectors
 WARN	duplicate_exact_synonym	obo:OCCO_17202000	IAO:0000118	Agricultural Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_17202100	IAO:0000118	Agricultural Engineers
-WARN	duplicate_exact_synonym	obo:OCCO_13101000	IAO:0000118	Agents and Business Managers of Artists, Performers, and Athletes
-WARN	duplicate_exact_synonym	obo:OCCO_13101100	IAO:0000118	Agents and Business Managers of Artists, Performers, and Athletes
+WARN	duplicate_exact_synonym	obo:OCCO_13101000	IAO:0000118	"Agents and Business Managers of Artists, Performers, and Athletes"
+WARN	duplicate_exact_synonym	obo:OCCO_13101100	IAO:0000118	"Agents and Business Managers of Artists, Performers, and Athletes"
 WARN	duplicate_exact_synonym	obo:OCCO_17201000	IAO:0000118	Aerospace Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_17201100	IAO:0000118	Aerospace Engineers
 WARN	duplicate_exact_synonym	obo:OCCO_41301000	IAO:0000118	Advertising Sales Agents
 WARN	duplicate_exact_synonym	obo:OCCO_41301100	IAO:0000118	Advertising Sales Agents
 WARN	duplicate_exact_synonym	obo:OCCO_11201000	IAO:0000118	Advertising and Promotions Managers
 WARN	duplicate_exact_synonym	obo:OCCO_11201100	IAO:0000118	Advertising and Promotions Managers
-WARN	duplicate_exact_synonym	obo:OCCO_25301000	IAO:0000118	Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
-WARN	duplicate_exact_synonym	obo:OCCO_25301100	IAO:0000118	Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+WARN	duplicate_exact_synonym	obo:OCCO_25301000	IAO:0000118	"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"
+WARN	duplicate_exact_synonym	obo:OCCO_25301100	IAO:0000118	"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"
 WARN	duplicate_exact_synonym	obo:OCCO_15201000	IAO:0000118	Actuaries
 WARN	duplicate_exact_synonym	obo:OCCO_15201100	IAO:0000118	Actuaries
 WARN	duplicate_exact_synonym	obo:OCCO_13201000	IAO:0000118	Accountants and Auditors
 WARN	duplicate_exact_synonym	obo:OCCO_13201100	IAO:0000118	Accountants and Auditors
 WARN	duplicate_label_synonym	obo:OCCO_29114000	IAO:0000118	registered nurse
+WARN	equivalent_class_axiom_no_genus	obo:OCCO_00000001	RO:0000091	OMRSE:00000284
 WARN	missing_definition	BFO:0000141	IAO:0000115	
 WARN	missing_definition	IAO:0000027	IAO:0000115	
 WARN	missing_definition	IAO:0000030	IAO:0000115	
@@ -1204,22 +1205,50 @@ WARN	missing_definition	obo:OCCO_55200000	IAO:0000115
 WARN	missing_definition	obo:OCCO_55201000	IAO:0000115	
 WARN	missing_definition	obo:OCCO_55300000	IAO:0000115	
 WARN	missing_definition	obo:OCCO_55301000	IAO:0000115	
+WARN	missing_definition	OMRSE:00000048	IAO:0000115	
+WARN	missing_definition	RO:0000092	IAO:0000115	
+WARN	missing_obsolete_label	RO:0004096	rdfs:label	DEPRECATED inheres in@en
+WARN	missing_obsolete_label	RO:0004097	rdfs:label	DEPRECATED bearer of@en
 INFO	lowercase_definition	BFO:0000004	IAO:0000115	b is an independent continuant = Def. b is a continuant which is such that there is no c and no t such that b s-depends_on c at t. (axiom label in BFO2 Reference: [017-002])@en
-INFO	lowercase_definition	BFO:0000015	IAO:0000115	p is a process = Def. p is an occurrent that has temporal proper parts and for some time t, p s-depends_on some material entity at t. (axiom label in BFO2 Reference: [083-003])@en
-INFO	lowercase_definition	BFO:0000016	IAO:0000600	b is a disposition means: b is a realizable entity & b’s bearer is some material entity & b is such that if it ceases to exist, then its bearer is physically changed, & b’s realization occurs when and because this bearer is in some special physical circumstances, & this realization occurs in virtue of the bearer’s physical make-up. (axiom label in BFO2 Reference: [062-002])@en
-INFO	lowercase_definition	BFO:0000019	IAO:0000600	a quality is a specifically dependent continuant that, in contrast to roles and dispositions, does not require any further process in order to be realized. (axiom label in BFO2 Reference: [055-001])@en
+INFO	lowercase_definition	BFO:0000015	IAO:0000115	"p is a process = Def. p is an occurrent that has temporal proper parts and for some time t, p s-depends_on some material entity at t. (axiom label in BFO2 Reference: [083-003])@en"
+INFO	lowercase_definition	BFO:0000016	IAO:0000600	"b is a disposition means: b is a realizable entity & b’s bearer is some material entity & b is such that if it ceases to exist, then its bearer is physically changed, & b’s realization occurs when and because this bearer is in some special physical circumstances, & this realization occurs in virtue of the bearer’s physical make-up. (axiom label in BFO2 Reference: [062-002])@en"
+INFO	lowercase_definition	BFO:0000019	IAO:0000600	"a quality is a specifically dependent continuant that, in contrast to roles and dispositions, does not require any further process in order to be realized. (axiom label in BFO2 Reference: [055-001])@en"
 INFO	lowercase_definition	BFO:0000020	IAO:0000115	b is a specifically dependent continuant = Def. b is a continuant & there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence. (axiom label in BFO2 Reference: [050-003])@en
-INFO	lowercase_definition	BFO:0000023	IAO:0000600	b is a role means: b is a realizable entity & b exists because there is some single bearer that is in some special physical, social, or institutional set of circumstances in which this bearer does not have to be& b is not such that, if it ceases to exist, then the physical make-up of the bearer is thereby changed. (axiom label in BFO2 Reference: [061-001])@en
-INFO	lowercase_definition	BFO:0000024	IAO:0000600	b is a fiat object part = Def. b is a material entity which is such that for all times t, if b exists at t then there is some object c such that b proper continuant_part of  c at t and c is demarcated from the remainder of c by a two-dimensional continuant fiat boundary. (axiom label in BFO2 Reference: [027-004])@en
+INFO	lowercase_definition	BFO:0000023	IAO:0000600	"b is a role means: b is a realizable entity & b exists because there is some single bearer that is in some special physical, social, or institutional set of circumstances in which this bearer does not have to be& b is not such that, if it ceases to exist, then the physical make-up of the bearer is thereby changed. (axiom label in BFO2 Reference: [061-001])@en"
+INFO	lowercase_definition	BFO:0000024	IAO:0000600	"b is a fiat object part = Def. b is a material entity which is such that for all times t, if b exists at t then there is some object c such that b proper continuant_part of  c at t and c is demarcated from the remainder of c by a two-dimensional continuant fiat boundary. (axiom label in BFO2 Reference: [027-004])@en"
 INFO	lowercase_definition	BFO:0000027	IAO:0000600	b is an object aggregate means: b is a material entity consisting exactly of a plurality of objects as member_parts at all times at which b exists. (axiom label in BFO2 Reference: [025-004])@en
 INFO	lowercase_definition	BFO:0000029	IAO:0000600	b is a site means: b is a three-dimensional immaterial entity that is (partially or wholly) bounded by a material entity or it is a three-dimensional immaterial part thereof. (axiom label in BFO2 Reference: [034-002])@en
 INFO	lowercase_definition	BFO:0000030	IAO:0000600	b is an object means: b is a material entity which manifests causal unity of one or other of the types CUn listed above & is of a type (a material universal) instances of which are maximal relative to this criterion of causal unity. (axiom label in BFO2 Reference: [024-001])@en
 INFO	lowercase_definition	BFO:0000031	IAO:0000115	b is a generically dependent continuant = Def. b is a continuant that g-depends_on one or more other entities. (axiom label in BFO2 Reference: [074-001])@en
 INFO	lowercase_definition	BFO:0000035	IAO:0000115	p is a process boundary =Def. p is a temporal part of a process & p has no proper temporal parts. (axiom label in BFO2 Reference: [084-001])@en
-INFO	lowercase_definition	BFO:0000140	IAO:0000115	b is a continuant fiat boundary = Def. b is an immaterial entity that is of zero, one or two dimensions and does not include a spatial region as part. (axiom label in BFO2 Reference: [029-001])@en
+INFO	lowercase_definition	BFO:0000050	IAO:0000115	a core relation that holds between a part and its whole@en
+INFO	lowercase_definition	BFO:0000051	IAO:0000115	a core relation that holds between a whole and its part@en
+INFO	lowercase_definition	BFO:0000054	IAO:0000600	[copied from inverse property 'realizes'] to say that b realizes c at t is to assert that there is some material entity d & b is a process which has participant d at t & c is a disposition or role of which d is bearer_of at t& the type instantiated by b is correlated with the type instantiated by c. (axiom label in BFO2 Reference: [059-003])@en
+INFO	lowercase_definition	BFO:0000055	IAO:0000600	to say that b realizes c at t is to assert that there is some material entity d & b is a process which has participant d at t & c is a disposition or role of which d is bearer_of at t& the type instantiated by b is correlated with the type instantiated by c. (axiom label in BFO2 Reference: [059-003])@en
+INFO	lowercase_definition	BFO:0000066	IAO:0000115	b occurs_in c =def b is a process and c is a material entity or immaterial entity& there exists a spatiotemporal region r and b occupies_spatiotemporal_region r.& forall(t) if b exists_at t then c exists_at t & there exist spatial regions s and s’ where & b spatially_projects_onto s at t& c is occupies_spatial_region s’ at t& s is a proper_continuant_part_of s’ at t@en
+INFO	lowercase_definition	BFO:0000067	IAO:0000115	[copied from inverse property 'occurs in'] b occurs_in c =def b is a process and c is a material entity or immaterial entity& there exists a spatiotemporal region r and b occupies_spatiotemporal_region r.& forall(t) if b exists_at t then c exists_at t & there exist spatial regions s and s’ where & b spatially_projects_onto s at t& c is occupies_spatial_region s’ at t& s is a proper_continuant_part_of s’ at t@en
+INFO	lowercase_definition	BFO:0000140	IAO:0000115	"b is a continuant fiat boundary = Def. b is an immaterial entity that is of zero, one or two dimensions and does not include a spatial region as part. (axiom label in BFO2 Reference: [029-001])@en"
 INFO	lowercase_definition	BFO:0000142	IAO:0000600	a one-dimensional continuant fiat boundary is a continuous fiat line whose location is defined in relation to some material entity. (axiom label in BFO2 Reference: [032-001])@en
 INFO	lowercase_definition	BFO:0000144	IAO:0000115	b is a process_profile =Def. there is some process c such that b process_profile_of c (axiom label in BFO2 Reference: [093-002])@en
-INFO	lowercase_definition	BFO:0000144	IAO:0000600	b process_profile_of c holds when b proper_occurrent_part_of c& there is some proper_occurrent_part d of c which has no parts in common with b & is mutually dependent on b& is such that b, c and d occupy the same temporal region (axiom label in BFO2 Reference: [094-005])@en
-INFO	lowercase_definition	BFO:0000145	IAO:0000115	b is a relational quality = Def. for some independent continuants c, d and for some time t: b quality_of c at t & b quality_of d at t. (axiom label in BFO2 Reference: [057-001])@en
+INFO	lowercase_definition	BFO:0000144	IAO:0000600	"b process_profile_of c holds when b proper_occurrent_part_of c& there is some proper_occurrent_part d of c which has no parts in common with b & is mutually dependent on b& is such that b, c and d occupy the same temporal region (axiom label in BFO2 Reference: [094-005])@en"
+INFO	lowercase_definition	BFO:0000145	IAO:0000115	"b is a relational quality = Def. for some independent continuants c, d and for some time t: b quality_of c at t & b quality_of d at t. (axiom label in BFO2 Reference: [057-001])@en"
 INFO	lowercase_definition	BFO:0000146	IAO:0000600	a two-dimensional continuant fiat boundary (surface) is a self-connected fiat surface whose location is defined in relation to some material entity. (axiom label in BFO2 Reference: [033-001])@en
 INFO	lowercase_definition	BFO:0000147	IAO:0000600	a zero-dimensional continuant fiat boundary is a fiat point whose location is defined in relation to some material entity. (axiom label in BFO2 Reference: [031-001])@en
+INFO	lowercase_definition	RO:0000052	IAO:0000115	"a relation between a specifically dependent continuant (the characteristic) and any other entity (the bearer), in which the characteristic depends on the bearer for its existence.@en"
+INFO	lowercase_definition	RO:0000056	IAO:0000115	"a relation between a continuant and a process, in which the continuant is somehow involved in the process@en"
+INFO	lowercase_definition	RO:0000057	IAO:0000115	"a relation between a process and a continuant, in which the continuant is somehow involved in the process@en"
+INFO	lowercase_definition	RO:0000079	IAO:0000115	"a relation between a function and an independent continuant (the bearer), in which the function specifically depends on the bearer for its existence@en"
+INFO	lowercase_definition	RO:0000080	IAO:0000115	"a relation between a quality and an independent continuant (the bearer), in which the quality specifically depends on the bearer for its existence@en"
+INFO	lowercase_definition	RO:0000081	IAO:0000115	"a relation between a role and an independent continuant (the bearer), in which the role specifically depends on the bearer for its existence@en"
+INFO	lowercase_definition	RO:0000085	IAO:0000115	"a relation between an independent continuant (the bearer) and a function, in which the function specifically depends on the bearer for its existence@en"
+INFO	lowercase_definition	RO:0000086	IAO:0000115	"a relation between an independent continuant (the bearer) and a quality, in which the quality specifically depends on the bearer for its existence@en"
+INFO	lowercase_definition	RO:0000087	IAO:0000115	"a relation between an independent continuant (the bearer) and a role, in which the role specifically depends on the bearer for its existence@en"
+INFO	lowercase_definition	RO:0000091	IAO:0000115	"a relation between an independent continuant (the bearer) and a disposition, in which the disposition specifically depends on the bearer for its existence@en"
+INFO	lowercase_definition	RO:0001000	IAO:0000115	"a relation between two distinct material entities, the new entity and the old entity, in which the new entity begins to exist when the old entity ceases to exist, and the new entity inherits the significant portion of the matter of the old entity@en"
+INFO	lowercase_definition	RO:0001001	IAO:0000115	"a relation between two distinct material entities, the old entity and the new entity, in which the new entity begins to exist when the old entity ceases to exist, and the new entity inherits the significant portion of the matter of the old entity@en"
+INFO	lowercase_definition	RO:0001015	IAO:0000115	"a relation between two independent continuants, the location and the target, in which the target is entirely within the location@en"
+INFO	lowercase_definition	RO:0001025	IAO:0000115	"a relation between two independent continuants, the target and the location, in which the target is entirely within the location@en"
+INFO	lowercase_definition	RO:0002000	IAO:0000115	"a relation between a 2D immaterial entity (the boundary) and a material entity, in which the boundary delimits the material entity@en"
+INFO	lowercase_definition	RO:0002002	IAO:0000115	"a relation between a material entity and a 2D immaterial entity (the boundary), in which the boundary delimits the material entity@en"
+INFO	lowercase_definition	RO:0002350	IAO:0000115	is member of is a mereological relation between a item and a collection.
+INFO	lowercase_definition	RO:0002351	IAO:0000115	has member is a mereological relation between a collection and an item.
