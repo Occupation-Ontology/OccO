@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
         <uri name="http://purl.obolibrary.org/obo/occo/NCBITaxon_imports.owl" uri="imports/NCBITaxon_imports.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/OMRSE_imports.owl" uri="imports/OMRSE_imports.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/ability_types.owl" uri="Modules/ability_types.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/job_zones.owl" uri="Modules/job_zones.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/job_zones_equivalent.owl" uri="Modules/job_zones_equivalent.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/occo-edit.owl" uri="occo-edit.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/occo_terms.owl" uri="Modules/occo_terms.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/occo_obsolete.owl" uri="Modules/occo_obsolete.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/skill_types.owl" uri="Modules/skill_types.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/top_abilities_annotations.owl" uri="Modules/top_abilities_annotations.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/top_abilities_axioms.owl" uri="Modules/top_abilities_axioms.owl"/>
