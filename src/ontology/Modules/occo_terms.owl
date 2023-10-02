@@ -108,6 +108,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/RO_0000087 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000087"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/RO_0000091 -->
 
     <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000091"/>
@@ -148,21 +154,9 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/BFO_0000015 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000015"/>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/BFO_0000016 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000016"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/BFO_0000023 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000023"/>
     
 
 
@@ -184,10 +178,16 @@
         <owl:equivalentClass>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000091"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000059"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000284"/>
             </owl:Restriction>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000087"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000077"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <obo:IAO_0000115>A human who has a role in society that is realized in an occupation process or an activity as a livelihood (i.e., “means of support or subsistence”). To fulfill such an occupation, the occupation holder is required to have necessary capabilities including skill(s) and abilities. A human who has a role in society that is realized in an occupation process or an activity as a livelihood (i.e., “means of support or subsistence”). To fulfill such an occupation, the occupation holder is required to have necessary capabilities including skill(s) and abilities.</obo:IAO_0000115>
         <obo:IAO_0000117>Damion Dooley</obo:IAO_0000117>
         <obo:IAO_0000117>Eric Merrell</obo:IAO_0000117>
@@ -250,36 +250,6 @@
         <obo:IAO_0000117>Peter Koch</obo:IAO_0000117>
         <obo:IAO_0000119>https://philpapers.org/rec/MERC-14</obo:IAO_0000119>
         <rdfs:label>capability</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/OCCO_00000012 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000012">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
-        <obo:IAO_0000115>A role that has the bearer of a human being and is realized in an occupation process.</obo:IAO_0000115>
-        <obo:IAO_0000117>Damion Dooley</obo:IAO_0000117>
-        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
-        <obo:IAO_0000117>Matt Diller</obo:IAO_0000117>
-        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
-        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
-        <obo:IAO_0000118>job role</obo:IAO_0000118>
-        <rdfs:label>occupation role</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/OCCO_00000013 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000013">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
-        <obo:IAO_0000115>A set of behavioural processes which a person has a disposition to perform repeatedly in pursuit of a social objective.</obo:IAO_0000115>
-        <obo:IAO_0000118>occupation</obo:IAO_0000118>
-        <obo:IAO_0000118>occupation process</obo:IAO_0000118>
-        <obo:IAO_0000119>https://en.wikipedia.org/wiki/Work_(human_activity)</obo:IAO_0000119>
-        <obo:IAO_0000119>https://www.bls.gov/bls/glossary.htm#O</obo:IAO_0000119>
-        <rdfs:label>occupation activity</rdfs:label>
     </owl:Class>
     
 
@@ -415,26 +385,10 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/OCCO_00000059 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000059">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
-        <obo:IAO_0000115>A disposition that is held by an occupation holder to perform occupation activity.</obo:IAO_0000115>
-        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
-        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
-        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
-        <obo:IAO_0000117>Matt Diller</obo:IAO_0000117>
-        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
-        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
-        <rdfs:label>occupation disposition</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/OCCO_00000112 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000112">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000013"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000285"/>
         <obo:IAO_0000115>An occupation activity which the occupation holder must be authorized to perform in a given jurisdiction (timeframe etc).</obo:IAO_0000115>
         <obo:IAO_0000117>Matt Diller</obo:IAO_0000117>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
@@ -450,7 +404,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000113 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000113">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000013"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000285"/>
         <obo:IAO_0000115>An occupation activity which is illegal or ostracized in a given jurisdiction.</obo:IAO_0000115>
         <obo:IAO_0000117>Matt Diller</obo:IAO_0000117>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
@@ -643,7 +597,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Advertising and Promotions Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
+        <obo:OCCO_00000008>10-Nov</obo:OCCO_00000008>
         <rdfs:label>advertising or promotions manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -672,7 +626,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Marketing and Sales Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
+        <obo:OCCO_00000008>20-Nov</obo:OCCO_00000008>
         <rdfs:label>marketing or sales manager</rdfs:label>
     </owl:Class>
     
@@ -716,7 +670,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Public Relations and Fundraising Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
+        <obo:OCCO_00000008>30-Nov</obo:OCCO_00000008>
         <rdfs:label>public relations or fundraising manager</rdfs:label>
     </owl:Class>
     
@@ -774,7 +728,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Administrative Services and Facilities Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
+        <obo:OCCO_00000008>10-Nov</obo:OCCO_00000008>
         <rdfs:label>administrative services or facilities manager</rdfs:label>
     </owl:Class>
     
@@ -833,7 +787,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Computer and Information Systems Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
+        <obo:OCCO_00000008>20-Nov</obo:OCCO_00000008>
         <rdfs:label>computer or information systems manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -862,7 +816,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Financial Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
+        <obo:OCCO_00000008>30-Nov</obo:OCCO_00000008>
         <rdfs:label>financial manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1098,7 +1052,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Compensation and Benefits Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
+        <obo:OCCO_00000008>10-Nov</obo:OCCO_00000008>
         <rdfs:label>compensation or benefits manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1127,7 +1081,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Human Resources Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
+        <obo:OCCO_00000008>20-Nov</obo:OCCO_00000008>
         <rdfs:label>human resources manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1156,7 +1110,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Training and Development Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
+        <obo:OCCO_00000008>30-Nov</obo:OCCO_00000008>
         <rdfs:label>training or development manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1199,7 +1153,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Farmers, Ranchers, and Other Agricultural Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
+        <obo:OCCO_00000008>10-Nov</obo:OCCO_00000008>
         <rdfs:label>farmer, rancher, or other agricultural manager</rdfs:label>
     </owl:Class>
     
@@ -1228,7 +1182,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Construction Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
+        <obo:OCCO_00000008>20-Nov</obo:OCCO_00000008>
         <rdfs:label>construction manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1257,7 +1211,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Education and Childcare Administrators</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
+        <obo:OCCO_00000008>30-Nov</obo:OCCO_00000008>
         <rdfs:label>education or childcare administrator</rdfs:label>
     </owl:Class>
     
@@ -1477,7 +1431,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Medical and Health Services Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-10</obo:OCCO_00000008>
+        <obo:OCCO_00000008>10-Nov</obo:OCCO_00000008>
         <rdfs:label>medical or health services manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1506,7 +1460,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Natural Sciences Managers</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-20</obo:OCCO_00000008>
+        <obo:OCCO_00000008>20-Nov</obo:OCCO_00000008>
         <rdfs:label>natural sciences manager (broad)</rdfs:label>
     </owl:Class>
     
@@ -1565,7 +1519,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000118>Postmasters and Mail Superintendents</obo:IAO_0000118>
         <obo:IAO_0000119>https://www.bls.gov/soc/</obo:IAO_0000119>
-        <obo:OCCO_00000008>Nov-30</obo:OCCO_00000008>
+        <obo:OCCO_00000008>30-Nov</obo:OCCO_00000008>
         <rdfs:label>postmaster or mail superintendent</rdfs:label>
     </owl:Class>
     
@@ -23849,9 +23803,27 @@
         <obo:OCCO_00000008>55-3019.00</obo:OCCO_00000008>
         <rdfs:label>military enlisted tactical operations or air/weapons specialist or crew member, all other</rdfs:label>
     </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMRSE_00000077 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000077"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMRSE_00000284 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000284"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMRSE_00000285 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000285"/>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 4.5.25) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.26) https://github.com/owlcs/owlapi -->
 

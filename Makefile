@@ -81,7 +81,8 @@ MODULE_NAMES := occo_terms\
  top_abilities_axioms\
  top_abilities_annotations\
  top_skills_axioms\
- top_skills_annotations
+ top_skills_annotations\
+ occo_obsolete
 
 MODULE_FILES := $(foreach x,$(MODULE_NAMES),src/ontology/Modules/$(x).owl)
 
