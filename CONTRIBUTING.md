@@ -9,7 +9,7 @@ changes to this document in a pull request.
 - [Guidelines for Contributions and Requests](#contributions)
     * [Reporting problems with the ontology](#reporting-bugs)
     * [Requesting new terms](#requesting-terms)
-    * [Adding new terms by yourself](#adding-terms)
+    * [Editing the ontology](#editing)
 - [Best practices](#best-practices)
     * [How to write a great issue?](#great-issues)
     * [How to create a great pull/merge request?](#great-pulls)
@@ -53,21 +53,14 @@ To make this work easier, please always use issue templates if they are availabl
 
 For how to write a good term request, please read the [best practices carefully](#great-issues).
 
-<a id="adding-terms"></a>
+<a id="editing"></a>
 
-### How to add a new term
+### Editing the ontology
 
-If you have never editted this ontology before, first follow a [general tutorial](https://oboacademy.github.io/obook/lesson/contributing-to-obo-ontologies)
+If you have never edited an ontology before, first follow a [general tutorial](https://oboacademy.github.io/obook/lesson/contributing-to-obo-ontologies)
 
 **Process**:
-
-1. Clone the repository (In case you are not an offical team member, create a fork first)
-1. Create new branch in git, for example `git checkout -b issue123`
-1. Open src/ontology/OccO-edit.owl in your favourite editor, i.e. [Protege](https://protege.stanford.edu/). **Careful:** double check you are editing the correct file. There are many ontology files in this repository, but only one _editors file_!
-1. Perform your edit and save your changes
-1. Commit changes to branch
-1. Push changes upstream
-1. Create pull request
+  Check [OccO editing wiki page](https://github.com/Occupation-Ontology/OccO/wiki/OccO-Editing)
 
 ## Best Practices
 
