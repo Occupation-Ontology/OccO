@@ -1,0 +1,2047 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/occo/dev/Alabama_subset.owl#"
+     xml:base="http://purl.obolibrary.org/obo/occo/dev/Alabama_subset.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo/dev/Alabama_subset.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000116 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OCCO_00000116"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000117 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OCCO_00000117"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#inSubset -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11102100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11102100">
+        <obo:OCCO_00000116>General &amp; Operations Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11202100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11202100">
+        <obo:OCCO_00000116>Marketing Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11202200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11202200">
+        <obo:OCCO_00000116>Sales Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11302100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11302100">
+        <obo:OCCO_00000116>Computer &amp; Information Systems Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11303101 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11303101">
+        <obo:OCCO_00000116>Financial Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Finance</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11305100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11305100">
+        <obo:OCCO_00000116>Industrial Production Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11306100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11306100">
+        <obo:OCCO_00000116>Purchasing Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11312100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11312100">
+        <obo:OCCO_00000116>Human Resources Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11902100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11902100">
+        <obo:OCCO_00000116>Construction Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11903300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11903300">
+        <obo:OCCO_00000116>Education Administrators, Postsecondary</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Education &amp; Training</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11904100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11904100">
+        <obo:OCCO_00000116>Architectural &amp; Engineering Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Science, Technology, Engineering &amp; Mathematics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11905000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11905000">
+        <obo:OCCO_00000116>Education Administrators, Kindergarten through Secondary</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Education &amp; Training</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11905100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11905100">
+        <obo:OCCO_00000116>Food Service Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Hospitality &amp; Tourism</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11908100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11908100">
+        <obo:OCCO_00000116>Lodging Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Hospitality &amp; Tourism</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11911100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11911100">
+        <obo:OCCO_00000116>Medical &amp; Health Services Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11914100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11914100">
+        <obo:OCCO_00000116>Property, Real Estate, &amp; Community Association Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_11915100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_11915100">
+        <obo:OCCO_00000116>Social &amp; Community Service Managers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13104101 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13104101">
+        <obo:OCCO_00000116>Compliance Officers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Government &amp; Public Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13105100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13105100">
+        <obo:OCCO_00000116>Cost Estimators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13107100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13107100">
+        <obo:OCCO_00000116>Human Resources Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13108100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13108100">
+        <obo:OCCO_00000116>Logisticians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13111100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13111100">
+        <obo:OCCO_00000116>Management Analysts</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13112100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13112100">
+        <obo:OCCO_00000116>Meeting, Convention, &amp; Event Planners</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13113100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13113100">
+        <obo:OCCO_00000116>Fundraisers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13115100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13115100">
+        <obo:OCCO_00000116>Training &amp; Development Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13116100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13116100">
+        <obo:OCCO_00000116>Market Research Analysts &amp; Marketing Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13202300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13202300">
+        <obo:OCCO_00000116>Accountants &amp; Auditors</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Finance</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13203000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13203000">
+        <obo:OCCO_00000116>Property Appraisers &amp; Assessors</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Government &amp; Public Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13205200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13205200">
+        <obo:OCCO_00000116>Personal Financial Advisors</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Finance</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13207000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13207000">
+        <obo:OCCO_00000116>Financial &amp; Investment Analysts</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Finance</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13207200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13207200">
+        <obo:OCCO_00000116>Loan Officers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Finance</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13208100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13208100">
+        <obo:OCCO_00000116>Tax Examiners &amp; Collectors, &amp; Revenue Agents</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Government &amp; Public Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_13208200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_13208200">
+        <obo:OCCO_00000116>Tax Preparers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Finance</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_15121100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_15121100">
+        <obo:OCCO_00000116>Computer Systems Analysts</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Information Technology</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_15121200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_15121200">
+        <obo:OCCO_00000116>Information Security Analysts</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Information Technology</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_15123200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_15123200">
+        <obo:OCCO_00000116>Computer User Support Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Information Technology</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_15124200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_15124200">
+        <obo:OCCO_00000116>Database Administrators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Information Technology</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_15124400 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_15124400">
+        <obo:OCCO_00000116>Network &amp; Computer Systems Administrators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Information Technology</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_15125400 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_15125400">
+        <obo:OCCO_00000116>Web Developers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Information Technology</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_15129000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_15129000">
+        <obo:OCCO_00000116>Software Developers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Information Technology</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_15129900 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_15129900">
+        <obo:OCCO_00000116>Software Quality Assurance Analysts &amp; Testers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Information Technology</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_17205100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_17205100">
+        <obo:OCCO_00000116>Civil Engineers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_17207100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_17207100">
+        <obo:OCCO_00000116>Electrical Engineers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Science, Technology, Engineering &amp; Mathematics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_17208100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_17208100">
+        <obo:OCCO_00000116>Environmental Engineers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Agriculture, Food &amp; Natural Resources</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_17211200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_17211200">
+        <obo:OCCO_00000116>Industrial Engineers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Science, Technology, Engineering &amp; Mathematics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_17214100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_17214100">
+        <obo:OCCO_00000116>Mechanical Engineers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Science, Technology, Engineering &amp; Mathematics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_17302000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_17302000">
+        <obo:OCCO_00000116>Architectural &amp; Civil Drafters</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_17302500 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_17302500">
+        <obo:OCCO_00000116>Civil Engineering Technologists &amp; Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_17302600 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_17302600">
+        <obo:OCCO_00000116>Electrical &amp; Electronics Engineering Technologists &amp; Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_19101000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_19101000">
+        <obo:OCCO_00000116>Surveying &amp; Mapping Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_19204100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_19204100">
+        <obo:OCCO_00000116>Environmental Scientists &amp; Specialists, Including Health</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Science, Technology, Engineering &amp; Mathematics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_19403100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_19403100">
+        <obo:OCCO_00000116>Chemical Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_19501100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_19501100">
+        <obo:OCCO_00000116>Occupational Health &amp; Safety Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Government &amp; Public Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_21102100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_21102100">
+        <obo:OCCO_00000116>Child, Family, &amp; School Social Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_21102200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_21102200">
+        <obo:OCCO_00000116>Healthcare Social Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_21102300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_21102300">
+        <obo:OCCO_00000116>Mental Health &amp; Substance Abuse Social Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_21102900 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_21102900">
+        <obo:OCCO_00000116>Educational, Guidance, &amp; Career Counselors &amp; Advisors</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Education &amp; Training</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_21109200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_21109200">
+        <obo:OCCO_00000116>Probation Officers &amp; Correctional Treatment Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_21109300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_21109300">
+        <obo:OCCO_00000116>Social &amp; Human Service Assistants</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_23101100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_23101100">
+        <obo:OCCO_00000116>Lawyers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_23201100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_23201100">
+        <obo:OCCO_00000116>Paralegals &amp; Legal Assistants</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_25103000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_25103000">
+        <obo:OCCO_00000116>Postsecondary Teachers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Education &amp; Training</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_25202100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_25202100">
+        <obo:OCCO_00000116>Elementary School Teachers, Except Special Education</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Education &amp; Training</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_25202200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_25202200">
+        <obo:OCCO_00000116>Middle School Teachers, Except Special &amp; Career/Technical Education</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Education &amp; Training</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_25203100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_25203100">
+        <obo:OCCO_00000116>Secondary School Teachers, Except Special &amp; Career/Technical Education</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Education &amp; Training</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_25902000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_25902000">
+        <obo:OCCO_00000116>Librarians &amp; Media Collections Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Education &amp; Training</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_27102600 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_27102600">
+        <obo:OCCO_00000116>Merchandise Displayers &amp; Window Trimmers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_27201204 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_27201204">
+        <obo:OCCO_00000116>Producers &amp; Directors</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Arts, A/V Technology &amp; Communications</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_27202200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_27202200">
+        <obo:OCCO_00000116>Coaches &amp; Scouts</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Education &amp; Training</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_27303100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_27303100">
+        <obo:OCCO_00000116>Public Relations Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_27402100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_27402100">
+        <obo:OCCO_00000116>Photographers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Arts, A/V Technology &amp; Communications</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_27403000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_27403000">
+        <obo:OCCO_00000116>Audio &amp; Video Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Arts, A/V Technology &amp; Communications</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29105100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29105100">
+        <obo:OCCO_00000116>Pharmacists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29112200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29112200">
+        <obo:OCCO_00000116>Occupational Therapists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29112300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29112300">
+        <obo:OCCO_00000116>Physical Therapists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29112600 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29112600">
+        <obo:OCCO_00000116>Respiratory Therapists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29112700 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29112700">
+        <obo:OCCO_00000116>Speech-Language Pathologists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29114100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29114100">
+        <obo:OCCO_00000116>Registered Nurses</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29117100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29117100">
+        <obo:OCCO_00000116>Nurse Practitioners</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29129200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29129200">
+        <obo:OCCO_00000116>Dental Hygienists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29203000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29203000">
+        <obo:OCCO_00000116>Clinical Laboratory Technologists &amp; Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29203100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29203100">
+        <obo:OCCO_00000116>Cardiovascular Technologists &amp; Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29203200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29203200">
+        <obo:OCCO_00000116>Diagnostic Medical Sonographers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29204200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29204200">
+        <obo:OCCO_00000116>Radiologic Technologists &amp; Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29205200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29205200">
+        <obo:OCCO_00000116>Pharmacy Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29205300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29205300">
+        <obo:OCCO_00000116>Psychiatric Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29205500 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29205500">
+        <obo:OCCO_00000116>Surgical Technologists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29205600 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29205600">
+        <obo:OCCO_00000116>Veterinary Technologists &amp; Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29205700 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29205700">
+        <obo:OCCO_00000116>Ophthalmic Medical Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29206000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29206000">
+        <obo:OCCO_00000116>Emergency Medical Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29206100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29206100">
+        <obo:OCCO_00000116>Licensed Practical &amp; Licensed Vocational Nurses</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29207000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29207000">
+        <obo:OCCO_00000116>Paramedics</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_29209900 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_29209900">
+        <obo:OCCO_00000116>Medical Records Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_31201100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_31201100">
+        <obo:OCCO_00000116>Occupational Therapy Assistants</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_31202100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_31202100">
+        <obo:OCCO_00000116>Physical Therapist Assistants</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_31901100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_31901100">
+        <obo:OCCO_00000116>Massage Therapists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_31909100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_31909100">
+        <obo:OCCO_00000116>Dental Assistants</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_31909200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_31909200">
+        <obo:OCCO_00000116>Medical Assistants</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_31909300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_31909300">
+        <obo:OCCO_00000116>Medical Equipment Preparers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_31909600 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_31909600">
+        <obo:OCCO_00000116>Veterinary Assistants &amp; Laboratory Animal Caretakers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_31909700 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_31909700">
+        <obo:OCCO_00000116>Phlebotomists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_33101200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_33101200">
+        <obo:OCCO_00000116>First-Line Supervisors of Police &amp; Detectives</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_33300000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_33300000">
+        <obo:OCCO_00000116>Firefighters</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_33302102 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_33302102">
+        <obo:OCCO_00000116>Detectives &amp; Criminal Investigators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_33901000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_33901000">
+        <obo:OCCO_00000116>Police &amp; Sheriff&apos;s Patrol Officers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_35101100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_35101100">
+        <obo:OCCO_00000116>Chefs &amp; Head Cooks</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Hospitality &amp; Tourism</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_35101200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_35101200">
+        <obo:OCCO_00000116>First-Line Supervisors of Food Preparation &amp; Serving Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Hospitality &amp; Tourism</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_35201400 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_35201400">
+        <obo:OCCO_00000116>Cooks, Restaurant</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Hospitality &amp; Tourism</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_37101100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_37101100">
+        <obo:OCCO_00000116>First-Line Supervisors of Housekeeping &amp; Janitorial Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Hospitality &amp; Tourism</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_37101200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_37101200">
+        <obo:OCCO_00000116>First-Line Supervisors of Landscaping, Lawn Service, &amp; Groundskeeping Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_37202100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_37202100">
+        <obo:OCCO_00000116>Pest Control Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Agriculture, Food &amp; Natural Resources</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_37301100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_37301100">
+        <obo:OCCO_00000116>Landscaping &amp; Groundskeeping Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_37301300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_37301300">
+        <obo:OCCO_00000116>Tree Trimmers &amp; Pruners</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Agriculture, Food &amp; Natural Resources</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_39201000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_39201000">
+        <obo:OCCO_00000116>First-line Supervisors of Entertainment &amp; Recreation Workers, Except Gambling Services</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_39509200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_39509200">
+        <obo:OCCO_00000116>Manicurists &amp; Pedicurists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_39509400 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_39509400">
+        <obo:OCCO_00000116>Skincare Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_39909900 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_39909900">
+        <obo:OCCO_00000116>Exercise Trainers &amp; Group Fitness Instructors</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Human Services</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_41202100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_41202100">
+        <obo:OCCO_00000116>Counter &amp; Rental Clerks</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_41202200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_41202200">
+        <obo:OCCO_00000116>Parts Salespersons</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_41302100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_41302100">
+        <obo:OCCO_00000116>Insurance Sales Agents</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Finance</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_41309100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_41309100">
+        <obo:OCCO_00000116>Securities, Commodities, &amp; Financial Services Sales Agents</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Finance</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_41401100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_41401100">
+        <obo:OCCO_00000116>Sales Representatives, Wholesale &amp; Manufacturing, Technical &amp; Scientific Products</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_41401200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_41401200">
+        <obo:OCCO_00000116>Sales Representatives, Wholesale &amp; Manufacturing, Except Technical &amp; Scientific Products</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_41900000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_41900000">
+        <obo:OCCO_00000116>Sales Representatives of Services, Except Advertising, Insurance, Financial Services, &amp; Travel</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_41902200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_41902200">
+        <obo:OCCO_00000116>Real Estate Sales Agents</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Marketing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_43304100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_43304100">
+        <obo:OCCO_00000116>Billing &amp; Posting Clerks</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_43405000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_43405000">
+        <obo:OCCO_00000116>Court, Municipal, &amp; License Clerks</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Government &amp; Public Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_43406100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_43406100">
+        <obo:OCCO_00000116>Eligibility Interviewers, Government Programs</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Government &amp; Public Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_43413100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_43413100">
+        <obo:OCCO_00000116>Loan Interviewers &amp; Clerks</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Finance</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_43506000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_43506000">
+        <obo:OCCO_00000116>Public Safety Telecommunicators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Law, Public Safety, Corrections &amp; Security</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_43506100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_43506100">
+        <obo:OCCO_00000116>Production, Planning, &amp; Expediting Clerks</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_43903000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_43903000">
+        <obo:OCCO_00000116>Medical Secretaries &amp; Administrative Assistants</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Health Science</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_45209100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_45209100">
+        <obo:OCCO_00000116>Agricultural Equipment Operators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Agriculture, Food &amp; Natural Resources</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_45402200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_45402200">
+        <obo:OCCO_00000116>Logging Equipment Operators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Agriculture, Food &amp; Natural Resources</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47101100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47101100">
+        <obo:OCCO_00000116>First-Line Supervisors of Construction Trades &amp; Extraction Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47205000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47205000">
+        <obo:OCCO_00000116>Carpenters</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47205100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47205100">
+        <obo:OCCO_00000116>Cement Masons &amp; Concrete Finishers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47206100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47206100">
+        <obo:OCCO_00000116>Construction Laborers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47207000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47207000">
+        <obo:OCCO_00000116>Tile &amp; Stone Setters</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47207100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47207100">
+        <obo:OCCO_00000116>Paving, Surfacing, &amp; Tamping Equipment Operators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47207300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47207300">
+        <obo:OCCO_00000116>Operating Engineers &amp; Other Construction Equipment Operators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47211100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47211100">
+        <obo:OCCO_00000116>Electricians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47213100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47213100">
+        <obo:OCCO_00000116>Insulation Workers, Floor, Ceiling, &amp; Wall</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47214100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47214100">
+        <obo:OCCO_00000116>Painters, Construction &amp; Maintenance</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47215200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47215200">
+        <obo:OCCO_00000116>Plumbers, Pipefitters, &amp; Steamfitters</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47218100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47218100">
+        <obo:OCCO_00000116>Roofers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47221100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47221100">
+        <obo:OCCO_00000116>Sheet Metal Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47222100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47222100">
+        <obo:OCCO_00000116>Structural Iron &amp; Steel Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47301500 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47301500">
+        <obo:OCCO_00000116>Helpers--Pipelayers, Plumbers, Pipefitters, &amp; Steamfitters</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_47405100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_47405100">
+        <obo:OCCO_00000116>Highway Maintenance Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49101100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49101100">
+        <obo:OCCO_00000116>First-Line Supervisors of Mechanics, Installers, &amp; Repairers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49202200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49202200">
+        <obo:OCCO_00000116>Telecommunications Equipment Installers &amp; Repairers, Except Line Installers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Arts, A/V Technology &amp; Communications</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49209400 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49209400">
+        <obo:OCCO_00000116>Electrical &amp; Electronics Repairers, Commercial &amp; Industrial Equipment</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49209800 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49209800">
+        <obo:OCCO_00000116>Security &amp; Fire Alarm Systems Installers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49301100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49301100">
+        <obo:OCCO_00000116>Aircraft Mechanics &amp; Service Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49302100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49302100">
+        <obo:OCCO_00000116>Automotive Body &amp; Related Repairers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49303100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49303100">
+        <obo:OCCO_00000116>Bus &amp; Truck Mechanics &amp; Diesel Engine Specialists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49304100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49304100">
+        <obo:OCCO_00000116>Farm Equipment Mechanics &amp; Service Technicians</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Agriculture, Food &amp; Natural Resources</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49304200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49304200">
+        <obo:OCCO_00000116>Mobile Heavy Equipment Mechanics, Except Engines</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49305000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49305000">
+        <obo:OCCO_00000116>Automotive Service Technicians &amp; Mechanics</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49904100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49904100">
+        <obo:OCCO_00000116>Industrial Machinery Mechanics</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49904400 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49904400">
+        <obo:OCCO_00000116>Millwrights</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49905000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49905000">
+        <obo:OCCO_00000116>Heating, Air Conditioning, &amp; Refrigeration Mechanics &amp; Installers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49905100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49905100">
+        <obo:OCCO_00000116>Electrical Power-Line Installers &amp; Repairers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49905200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49905200">
+        <obo:OCCO_00000116>Telecommunications Line Installers &amp; Repairers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Arts, A/V Technology &amp; Communications</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49906200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49906200">
+        <obo:OCCO_00000116>Medical Equipment Repairers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49907100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49907100">
+        <obo:OCCO_00000116>Maintenance &amp; Repair Workers, General</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_49909800 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_49909800">
+        <obo:OCCO_00000116>Helpers--Installation, Maintenance, &amp; Repair Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Architecture &amp; Construction</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51101100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51101100">
+        <obo:OCCO_00000116>First-Line Supervisors of Production &amp; Operating Workers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51301000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51301000">
+        <obo:OCCO_00000116>Miscellaneous Assemblers &amp; Fabricators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51302100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51302100">
+        <obo:OCCO_00000116>Butchers &amp; Meat Cutters</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51309200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51309200">
+        <obo:OCCO_00000116>Food Batchmakers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51402100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51402100">
+        <obo:OCCO_00000116>Extruding &amp; Drawing Machine Setters, Operators, &amp; Tenders, Metal &amp; Plastic</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51403100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51403100">
+        <obo:OCCO_00000116>Cutting, Punching, &amp; Press Machine Setters, Operators, &amp; Tenders, Metal &amp; Plastic</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51404100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51404100">
+        <obo:OCCO_00000116>Machinists</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51407200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51407200">
+        <obo:OCCO_00000116>Molding, Coremaking, &amp; Casting Machine Setters, Operators, &amp; Tenders, Metal &amp; Plastic</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51408100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51408100">
+        <obo:OCCO_00000116>Multiple Machine Tool Setters, Operators, &amp; Tenders, Metal &amp; Plastic</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51411100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51411100">
+        <obo:OCCO_00000116>Tool &amp; Die Makers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51412200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51412200">
+        <obo:OCCO_00000116>Welding, Soldering, &amp; Brazing Machine Setters, Operators, &amp; Tenders</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51419900 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51419900">
+        <obo:OCCO_00000116>Welders, Cutters, Solderers, &amp; Brazers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51701100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51701100">
+        <obo:OCCO_00000116>Cabinetmakers &amp; Bench Carpenters</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51704100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51704100">
+        <obo:OCCO_00000116>Sawing Machine Setters, Operators, &amp; Tenders, Wood</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51704200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51704200">
+        <obo:OCCO_00000116>Woodworking Machine Setters, Operators, &amp; Tenders, Except Sawing</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51902300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51902300">
+        <obo:OCCO_00000116>Mixing &amp; Blending Machine Setters, Operators, &amp; Tenders</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51903200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51903200">
+        <obo:OCCO_00000116>Cutting &amp; Slicing Machine Setters, Operators, &amp; Tenders</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51906100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51906100">
+        <obo:OCCO_00000116>Inspectors, Testers, Sorters, Samplers, &amp; Weighers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51911100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51911100">
+        <obo:OCCO_00000116>Packaging &amp; Filling Machine Operators &amp; Tenders</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51912400 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51912400">
+        <obo:OCCO_00000116>Coating, Painting, &amp; Spraying Machine Setters, Operators, &amp; Tenders</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51919500 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51919500">
+        <obo:OCCO_00000116>Computer Numerically Controlled Tool Operators</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_51919503 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_51919503">
+        <obo:OCCO_00000116>Molders, Shapers, &amp; Casters, Except Metal &amp; Plastic</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_53201200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_53201200">
+        <obo:OCCO_00000116>Commercial Pilots</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_53303200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_53303200">
+        <obo:OCCO_00000116>Heavy &amp; Tractor-Trailer Truck Drivers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_53305200 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_53305200">
+        <obo:OCCO_00000116>Bus Drivers, Transit &amp; Intercity</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_53305300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_53305300">
+        <obo:OCCO_00000116>Light Truck Drivers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_53309900 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_53309900">
+        <obo:OCCO_00000116>Shuttle Drivers &amp; Chauffeurs</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_53603100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_53603100">
+        <obo:OCCO_00000116>Automotive &amp; Watercraft Service Attendants</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Transportation, Distribution &amp; Logistics</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_53706300 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_53706300">
+        <obo:OCCO_00000116>Machine Feeders &amp; Offbearers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Manufacturing</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_53708100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_53708100">
+        <obo:OCCO_00000116>Refuse &amp; Recyclable Material Collectors</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Agriculture, Food &amp; Natural Resources</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_53712000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_53712000">
+        <obo:OCCO_00000116>Stockers &amp; Order Fillers</obo:OCCO_00000116>
+        <obo:OCCO_00000117>Business Management &amp; Administration</obo:OCCO_00000117>
+        <oboInOwl:inSubset>Alabama</oboInOwl:inSubset>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.26) https://github.com/owlcs/owlapi -->
+

@@ -81,6 +81,24 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000116 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OCCO_00000116">
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <rdfs:label>Alabama preferred label</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000117 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OCCO_00000117">
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <rdfs:label>Alabama Cluster</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
