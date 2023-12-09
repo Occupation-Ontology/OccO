@@ -1,0 +1,228 @@
+# Alabama occupations
+http://purl.obolibrary.org/obo/OCCO_13202300 #Accountants & Auditors
+http://purl.obolibrary.org/obo/OCCO_45209100 #Agricultural Equipment Operators
+http://purl.obolibrary.org/obo/OCCO_49301100 #Aircraft Mechanics & Service Technicians
+http://purl.obolibrary.org/obo/OCCO_17302000 #Architectural & Civil Drafters
+http://purl.obolibrary.org/obo/OCCO_11904100 #Architectural & Engineering Managers
+http://purl.obolibrary.org/obo/OCCO_27403000 #Audio & Video Technicians
+http://purl.obolibrary.org/obo/OCCO_53603100 #Automotive & Watercraft Service Attendants
+http://purl.obolibrary.org/obo/OCCO_49302100 #Automotive Body & Related Repairers
+http://purl.obolibrary.org/obo/OCCO_49305000 #Automotive Service Technicians & Mechanics
+http://purl.obolibrary.org/obo/OCCO_43304100 #Billing & Posting Clerks
+http://purl.obolibrary.org/obo/OCCO_49303100 #Bus & Truck Mechanics & Diesel Engine Specialists
+http://purl.obolibrary.org/obo/OCCO_53305200 #Bus Drivers, Transit & Intercity
+http://purl.obolibrary.org/obo/OCCO_51302100 #Butchers & Meat Cutters
+http://purl.obolibrary.org/obo/OCCO_51701100 #Cabinetmakers & Bench Carpenters
+http://purl.obolibrary.org/obo/OCCO_29203100 #Cardiovascular Technologists & Technicians
+http://purl.obolibrary.org/obo/OCCO_47205000 #Carpenters
+http://purl.obolibrary.org/obo/OCCO_47205100 #Cement Masons & Concrete Finishers
+http://purl.obolibrary.org/obo/OCCO_35101100 #Chefs & Head Cooks
+http://purl.obolibrary.org/obo/OCCO_19403100 #Chemical Technicians
+http://purl.obolibrary.org/obo/OCCO_21102100 #Child, Family, & School Social Workers
+http://purl.obolibrary.org/obo/OCCO_17302500 #Civil Engineering Technologists & Technicians
+http://purl.obolibrary.org/obo/OCCO_17205100 #Civil Engineers
+http://purl.obolibrary.org/obo/OCCO_29203000 #Clinical Laboratory Technologists & Technicians
+http://purl.obolibrary.org/obo/OCCO_27202200 #Coaches & Scouts
+http://purl.obolibrary.org/obo/OCCO_51912400 #Coating, Painting, & Spraying Machine Setters, Operators, & Tenders
+http://purl.obolibrary.org/obo/OCCO_53201200 #Commercial Pilots
+http://purl.obolibrary.org/obo/OCCO_13104101 #Compliance Officers
+http://purl.obolibrary.org/obo/OCCO_11302100 #Computer & Information Systems Managers
+http://purl.obolibrary.org/obo/OCCO_51919500 #Computer Numerically Controlled Tool Operators
+http://purl.obolibrary.org/obo/OCCO_15121100 #Computer Systems Analysts
+http://purl.obolibrary.org/obo/OCCO_15123200 #Computer User Support Specialists
+http://purl.obolibrary.org/obo/OCCO_47206100 #Construction Laborers
+http://purl.obolibrary.org/obo/OCCO_11902100 #Construction Managers
+http://purl.obolibrary.org/obo/OCCO_35201400 #Cooks, Restaurant
+http://purl.obolibrary.org/obo/OCCO_13105100 #Cost Estimators
+http://purl.obolibrary.org/obo/OCCO_41202100 #Counter & Rental Clerks
+http://purl.obolibrary.org/obo/OCCO_43405000 #Court, Municipal, & License Clerks
+http://purl.obolibrary.org/obo/OCCO_51903200 #Cutting & Slicing Machine Setters, Operators, & Tenders
+http://purl.obolibrary.org/obo/OCCO_51403100 #Cutting, Punching, & Press Machine Setters, Operators, & Tenders, Metal & Plastic
+http://purl.obolibrary.org/obo/OCCO_15124200 #Database Administrators
+http://purl.obolibrary.org/obo/OCCO_31909100 #Dental Assistants
+http://purl.obolibrary.org/obo/OCCO_29129200 #Dental Hygienists
+http://purl.obolibrary.org/obo/OCCO_33302102 #Detectives & Criminal Investigators
+http://purl.obolibrary.org/obo/OCCO_29203200 #Diagnostic Medical Sonographers
+http://purl.obolibrary.org/obo/OCCO_11905000 #Education Administrators, Kindergarten through Secondary
+http://purl.obolibrary.org/obo/OCCO_11903300 #Education Administrators, Postsecondary
+http://purl.obolibrary.org/obo/OCCO_21102900 #Educational, Guidance, & Career Counselors & Advisors
+http://purl.obolibrary.org/obo/OCCO_17302600 #Electrical & Electronics Engineering Technologists & Technicians
+http://purl.obolibrary.org/obo/OCCO_49209400 #Electrical & Electronics Repairers, Commercial & Industrial Equipment
+http://purl.obolibrary.org/obo/OCCO_17207100 #Electrical Engineers
+http://purl.obolibrary.org/obo/OCCO_49905100 #Electrical Power-Line Installers & Repairers
+http://purl.obolibrary.org/obo/OCCO_47211100 #Electricians
+http://purl.obolibrary.org/obo/OCCO_25202100 #Elementary School Teachers, Except Special Education
+http://purl.obolibrary.org/obo/OCCO_43406100 #Eligibility Interviewers, Government Programs
+http://purl.obolibrary.org/obo/OCCO_29206000 #Emergency Medical Technicians
+http://purl.obolibrary.org/obo/OCCO_17208100 #Environmental Engineers
+http://purl.obolibrary.org/obo/OCCO_19204100 #Environmental Scientists & Specialists, Including Health
+http://purl.obolibrary.org/obo/OCCO_39909900 #Exercise Trainers & Group Fitness Instructors
+http://purl.obolibrary.org/obo/OCCO_51402100 #Extruding & Drawing Machine Setters, Operators, & Tenders, Metal & Plastic
+http://purl.obolibrary.org/obo/OCCO_49304100 #Farm Equipment Mechanics & Service Technicians
+http://purl.obolibrary.org/obo/OCCO_13207000 #Financial & Investment Analysts
+http://purl.obolibrary.org/obo/OCCO_11303101 #Financial Managers
+http://purl.obolibrary.org/obo/OCCO_33300000 #Firefighters
+http://purl.obolibrary.org/obo/OCCO_47101100 #First-Line Supervisors of Construction Trades & Extraction Workers
+http://purl.obolibrary.org/obo/OCCO_39201000 #First-line Supervisors of Entertainment & Recreation Workers, Except Gambling Services
+http://purl.obolibrary.org/obo/OCCO_35101200 #First-Line Supervisors of Food Preparation & Serving Workers
+http://purl.obolibrary.org/obo/OCCO_37101100 #First-Line Supervisors of Housekeeping & Janitorial Workers
+http://purl.obolibrary.org/obo/OCCO_37101200 #First-Line Supervisors of Landscaping, Lawn Service, & Groundskeeping Workers
+http://purl.obolibrary.org/obo/OCCO_49101100 #First-Line Supervisors of Mechanics, Installers, & Repairers
+http://purl.obolibrary.org/obo/OCCO_33101200 #First-Line Supervisors of Police & Detectives
+http://purl.obolibrary.org/obo/OCCO_51101100 #First-Line Supervisors of Production & Operating Workers
+http://purl.obolibrary.org/obo/OCCO_51309200 #Food Batchmakers
+http://purl.obolibrary.org/obo/OCCO_11905100 #Food Service Managers
+http://purl.obolibrary.org/obo/OCCO_13113100 #Fundraisers
+http://purl.obolibrary.org/obo/OCCO_11102100 #General & Operations Managers
+http://purl.obolibrary.org/obo/OCCO_21102200 #Healthcare Social Workers
+http://purl.obolibrary.org/obo/OCCO_49905000 #Heating, Air Conditioning, & Refrigeration Mechanics & Installers
+http://purl.obolibrary.org/obo/OCCO_53303200 #Heavy & Tractor-Trailer Truck Drivers
+http://purl.obolibrary.org/obo/OCCO_49909800 #Helpers--Installation, Maintenance, & Repair Workers
+http://purl.obolibrary.org/obo/OCCO_47301500 #Helpers--Pipelayers, Plumbers, Pipefitters, & Steamfitters
+http://purl.obolibrary.org/obo/OCCO_47405100 #Highway Maintenance Workers
+http://purl.obolibrary.org/obo/OCCO_11312100 #Human Resources Managers
+http://purl.obolibrary.org/obo/OCCO_13107100 #Human Resources Specialists
+http://purl.obolibrary.org/obo/OCCO_17211200 #Industrial Engineers
+http://purl.obolibrary.org/obo/OCCO_49904100 #Industrial Machinery Mechanics
+http://purl.obolibrary.org/obo/OCCO_11305100 #Industrial Production Managers
+http://purl.obolibrary.org/obo/OCCO_15121200 #Information Security Analysts
+http://purl.obolibrary.org/obo/OCCO_51906100 #Inspectors, Testers, Sorters, Samplers, & Weighers
+http://purl.obolibrary.org/obo/OCCO_47213100 #Insulation Workers, Floor, Ceiling, & Wall
+http://purl.obolibrary.org/obo/OCCO_41302100 #Insurance Sales Agents
+http://purl.obolibrary.org/obo/OCCO_37301100 #Landscaping & Groundskeeping Workers
+http://purl.obolibrary.org/obo/OCCO_23101100 #Lawyers
+http://purl.obolibrary.org/obo/OCCO_25902000 #Librarians & Media Collections Specialists
+http://purl.obolibrary.org/obo/OCCO_29206100 #Licensed Practical & Licensed Vocational Nurses
+http://purl.obolibrary.org/obo/OCCO_53305300 #Light Truck Drivers
+http://purl.obolibrary.org/obo/OCCO_43413100 #Loan Interviewers & Clerks
+http://purl.obolibrary.org/obo/OCCO_13207200 #Loan Officers
+http://purl.obolibrary.org/obo/OCCO_11908100 #Lodging Managers
+http://purl.obolibrary.org/obo/OCCO_45402200 #Logging Equipment Operators
+http://purl.obolibrary.org/obo/OCCO_13108100 #Logisticians
+http://purl.obolibrary.org/obo/OCCO_53706300 #Machine Feeders & Offbearers
+http://purl.obolibrary.org/obo/OCCO_51404100 #Machinists
+http://purl.obolibrary.org/obo/OCCO_49907100 #Maintenance & Repair Workers, General
+http://purl.obolibrary.org/obo/OCCO_13111100 #Management Analysts
+http://purl.obolibrary.org/obo/OCCO_39509200 #Manicurists & Pedicurists
+http://purl.obolibrary.org/obo/OCCO_13116100 #Market Research Analysts & Marketing Specialists
+http://purl.obolibrary.org/obo/OCCO_11202100 #Marketing Managers
+http://purl.obolibrary.org/obo/OCCO_31901100 #Massage Therapists
+http://purl.obolibrary.org/obo/OCCO_17214100 #Mechanical Engineers
+http://purl.obolibrary.org/obo/OCCO_11911100 #Medical & Health Services Managers
+http://purl.obolibrary.org/obo/OCCO_31909200 #Medical Assistants
+http://purl.obolibrary.org/obo/OCCO_31909300 #Medical Equipment Preparers
+http://purl.obolibrary.org/obo/OCCO_49906200 #Medical Equipment Repairers
+http://purl.obolibrary.org/obo/OCCO_29209900 #Medical Records Specialists
+http://purl.obolibrary.org/obo/OCCO_43903000 #Medical Secretaries & Administrative Assistants
+http://purl.obolibrary.org/obo/OCCO_13112100 #Meeting, Convention, & Event Planners
+http://purl.obolibrary.org/obo/OCCO_21102300 #Mental Health & Substance Abuse Social Workers
+http://purl.obolibrary.org/obo/OCCO_27102600 #Merchandise Displayers & Window Trimmers
+http://purl.obolibrary.org/obo/OCCO_25202200 #Middle School Teachers, Except Special & Career/Technical Education
+http://purl.obolibrary.org/obo/OCCO_49904400 #Millwrights
+http://purl.obolibrary.org/obo/OCCO_51301000 #Miscellaneous Assemblers & Fabricators
+http://purl.obolibrary.org/obo/OCCO_51902300 #Mixing & Blending Machine Setters, Operators, & Tenders
+http://purl.obolibrary.org/obo/OCCO_49304200 #Mobile Heavy Equipment Mechanics, Except Engines
+http://purl.obolibrary.org/obo/OCCO_51919503 #Molders, Shapers, & Casters, Except Metal & Plastic
+http://purl.obolibrary.org/obo/OCCO_51407200 #Molding, Coremaking, & Casting Machine Setters, Operators, & Tenders, Metal & Plastic
+http://purl.obolibrary.org/obo/OCCO_51408100 #Multiple Machine Tool Setters, Operators, & Tenders, Metal & Plastic
+http://purl.obolibrary.org/obo/OCCO_15124400 #Network & Computer Systems Administrators
+http://purl.obolibrary.org/obo/OCCO_29117100 #Nurse Practitioners
+http://purl.obolibrary.org/obo/OCCO_19501100 #Occupational Health & Safety Specialists
+http://purl.obolibrary.org/obo/OCCO_29112200 #Occupational Therapists
+http://purl.obolibrary.org/obo/OCCO_31201100 #Occupational Therapy Assistants
+http://purl.obolibrary.org/obo/OCCO_47207300 #Operating Engineers & Other Construction Equipment Operators
+http://purl.obolibrary.org/obo/OCCO_29205700 #Ophthalmic Medical Technicians
+http://purl.obolibrary.org/obo/OCCO_51911100 #Packaging & Filling Machine Operators & Tenders
+http://purl.obolibrary.org/obo/OCCO_47214100 #Painters, Construction & Maintenance
+http://purl.obolibrary.org/obo/OCCO_23201100 #Paralegals & Legal Assistants
+http://purl.obolibrary.org/obo/OCCO_29207000 #Paramedics
+http://purl.obolibrary.org/obo/OCCO_41202200 #Parts Salespersons
+http://purl.obolibrary.org/obo/OCCO_47207100 #Paving, Surfacing, & Tamping Equipment Operators
+http://purl.obolibrary.org/obo/OCCO_13205200 #Personal Financial Advisors
+http://purl.obolibrary.org/obo/OCCO_37202100 #Pest Control Workers
+http://purl.obolibrary.org/obo/OCCO_29105100 #Pharmacists
+http://purl.obolibrary.org/obo/OCCO_29205200 #Pharmacy Technicians
+http://purl.obolibrary.org/obo/OCCO_31909700 #Phlebotomists
+http://purl.obolibrary.org/obo/OCCO_27402100 #Photographers
+http://purl.obolibrary.org/obo/OCCO_31202100 #Physical Therapist Assistants
+http://purl.obolibrary.org/obo/OCCO_29112300 #Physical Therapists
+http://purl.obolibrary.org/obo/OCCO_47215200 #Plumbers, Pipefitters, & Steamfitters
+http://purl.obolibrary.org/obo/OCCO_33901000 #Police & Sheriff's Patrol Officers
+http://purl.obolibrary.org/obo/OCCO_25103000 #Postsecondary Teachers
+http://purl.obolibrary.org/obo/OCCO_21109200 #Probation Officers & Correctional Treatment Specialists
+http://purl.obolibrary.org/obo/OCCO_27201204 #Producers & Directors
+http://purl.obolibrary.org/obo/OCCO_43506100 #Production, Planning, & Expediting Clerks
+http://purl.obolibrary.org/obo/OCCO_13203000 #Property Appraisers & Assessors
+http://purl.obolibrary.org/obo/OCCO_11914100 #Property, Real Estate, & Community Association Managers
+http://purl.obolibrary.org/obo/OCCO_29205300 #Psychiatric Technicians
+http://purl.obolibrary.org/obo/OCCO_27303100 #Public Relations Specialists
+http://purl.obolibrary.org/obo/OCCO_43506000 #Public Safety Telecommunicators
+http://purl.obolibrary.org/obo/OCCO_11306100 #Purchasing Managers
+http://purl.obolibrary.org/obo/OCCO_29204200 #Radiologic Technologists & Technicians
+http://purl.obolibrary.org/obo/OCCO_41902200 #Real Estate Sales Agents
+http://purl.obolibrary.org/obo/OCCO_53708100 #Refuse & Recyclable Material Collectors
+http://purl.obolibrary.org/obo/OCCO_29114100 #Registered Nurses
+http://purl.obolibrary.org/obo/OCCO_29112600 #Respiratory Therapists
+http://purl.obolibrary.org/obo/OCCO_47218100 #Roofers
+http://purl.obolibrary.org/obo/OCCO_11202200 #Sales Managers
+http://purl.obolibrary.org/obo/OCCO_41900000 #Sales Representatives of Services, Except Advertising, Insurance, Financial Services, & Travel
+http://purl.obolibrary.org/obo/OCCO_41401200 #Sales Representatives, Wholesale & Manufacturing, Except Technical & Scientific Products
+http://purl.obolibrary.org/obo/OCCO_41401100 #Sales Representatives, Wholesale & Manufacturing, Technical & Scientific Products
+http://purl.obolibrary.org/obo/OCCO_51704100 #Sawing Machine Setters, Operators, & Tenders, Wood
+http://purl.obolibrary.org/obo/OCCO_25203100 #Secondary School Teachers, Except Special & Career/Technical Education
+http://purl.obolibrary.org/obo/OCCO_41309100 #Securities, Commodities, & Financial Services Sales Agents
+http://purl.obolibrary.org/obo/OCCO_49209800 #Security & Fire Alarm Systems Installers
+http://purl.obolibrary.org/obo/OCCO_47221100 #Sheet Metal Workers
+http://purl.obolibrary.org/obo/OCCO_53309900 #Shuttle Drivers & Chauffeurs
+http://purl.obolibrary.org/obo/OCCO_39509400 #Skincare Specialists
+http://purl.obolibrary.org/obo/OCCO_11915100 #Social & Community Service Managers
+http://purl.obolibrary.org/obo/OCCO_21109300 #Social & Human Service Assistants
+http://purl.obolibrary.org/obo/OCCO_15129000 #Software Developers
+http://purl.obolibrary.org/obo/OCCO_15129900 #Software Quality Assurance Analysts & Testers
+http://purl.obolibrary.org/obo/OCCO_29112700 #Speech-Language Pathologists
+http://purl.obolibrary.org/obo/OCCO_53712000 #Stockers & Order Fillers
+http://purl.obolibrary.org/obo/OCCO_47222100 #Structural Iron & Steel Workers
+http://purl.obolibrary.org/obo/OCCO_29205500 #Surgical Technologists
+http://purl.obolibrary.org/obo/OCCO_19101000 #Surveying & Mapping Technicians
+http://purl.obolibrary.org/obo/OCCO_13208100 #Tax Examiners & Collectors, & Revenue Agents
+http://purl.obolibrary.org/obo/OCCO_13208200 #Tax Preparers
+http://purl.obolibrary.org/obo/OCCO_49202200 #Telecommunications Equipment Installers & Repairers, Except Line Installers
+http://purl.obolibrary.org/obo/OCCO_49905200 #Telecommunications Line Installers & Repairers
+http://purl.obolibrary.org/obo/OCCO_47207000 #Tile & Stone Setters
+http://purl.obolibrary.org/obo/OCCO_51411100 #Tool & Die Makers
+http://purl.obolibrary.org/obo/OCCO_13115100 #Training & Development Specialists
+http://purl.obolibrary.org/obo/OCCO_37301300 #Tree Trimmers & Pruners
+http://purl.obolibrary.org/obo/OCCO_31909600 #Veterinary Assistants & Laboratory Animal Caretakers
+http://purl.obolibrary.org/obo/OCCO_29205600 #Veterinary Technologists & Technicians
+http://purl.obolibrary.org/obo/OCCO_15125400 #Web Developers
+http://purl.obolibrary.org/obo/OCCO_51419900 #Welders, Cutters, Solderers, & Brazers
+http://purl.obolibrary.org/obo/OCCO_51412200 #Welding, Soldering, & Brazing Machine Setters, Operators, & Tenders
+http://purl.obolibrary.org/obo/OCCO_51704200 #Woodworking Machine Setters, Operators, & Tenders, Except Sawing
+
+# Annotation Properties
+http://purl.obolibrary.org/obo/BFO_0000179 # BFO OWL specification label
+http://purl.obolibrary.org/obo/BFO_0000180 # BFO CLIF specification label
+http://purl.obolibrary.org/obo/IAO_0000111 # editor preferred term
+http://purl.obolibrary.org/obo/IAO_0000112 # example of usage
+http://purl.obolibrary.org/obo/IAO_0000114 # has curation status
+http://purl.obolibrary.org/obo/IAO_0000115 # definition
+http://purl.obolibrary.org/obo/IAO_0000116 # editor note
+http://purl.obolibrary.org/obo/IAO_0000117 # term editor
+http://purl.obolibrary.org/obo/IAO_0000118 # alternative label
+http://purl.obolibrary.org/obo/IAO_0000119 # definition source
+http://purl.obolibrary.org/obo/IAO_0000232 # curator note
+http://purl.obolibrary.org/obo/IAO_0000233 # term tracker item
+http://purl.obolibrary.org/obo/IAO_0000234 # ontology term requester
+http://purl.obolibrary.org/obo/IAO_0000412 # imported from
+http://purl.obolibrary.org/obo/IAO_0000600 # elucidation
+http://purl.obolibrary.org/obo/IAO_0000601 # has associated axiom(nl)
+http://purl.obolibrary.org/obo/IAO_0000602 # has associated axiom(fol)
+http://purl.obolibrary.org/obo/IAO_0010000 # has axiom label
+http://purl.obolibrary.org/obo/RO_0001900  # temporal interpretation
+http://purl.obolibrary.org/obo/OCCO_00000008 #US SOC ID
+http://purl.obolibrary.org/obo/OCCO_00000002 #top occupation abilities
+http://purl.obolibrary.org/obo/OCCO_00000005 #top occupation skills
+http://purl.obolibrary.org/obo/OCCO_00000117 #Alabama Cluster
+http://purl.obolibrary.org/obo/OCCO_00000116 #Alabama preferred label
+
+

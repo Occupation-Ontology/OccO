@@ -1,0 +1,201 @@
+Ontology ID	InSubset	Occupation Title	Cluster
+ID	A http://www.geneontology.org/formats/oboInOwl#inSubset	A 'Alabama preferred label'	A 'Alabama Cluster'
+OCCO:13202300	Alabama	Accountants & Auditors	Finance
+OCCO:45209100	Alabama	Agricultural Equipment Operators	"Agriculture, Food & Natural Resources"
+OCCO:49301100	Alabama	Aircraft Mechanics & Service Technicians	"Transportation, Distribution & Logistics"
+OCCO:17302000	Alabama	Architectural & Civil Drafters	Architecture & Construction
+OCCO:11904100	Alabama	Architectural & Engineering Managers	"Science, Technology, Engineering & Mathematics"
+OCCO:27403000	Alabama	Audio & Video Technicians	"Arts, A/V Technology & Communications"
+OCCO:53603100	Alabama	Automotive & Watercraft Service Attendants	"Transportation, Distribution & Logistics"
+OCCO:49302100	Alabama	Automotive Body & Related Repairers	"Transportation, Distribution & Logistics"
+OCCO:49305000	Alabama	Automotive Service Technicians & Mechanics	"Transportation, Distribution & Logistics"
+OCCO:43304100	Alabama	Billing & Posting Clerks	"Transportation, Distribution & Logistics"
+OCCO:49303100	Alabama	Bus & Truck Mechanics & Diesel Engine Specialists	"Transportation, Distribution & Logistics"
+OCCO:53305200	Alabama	"Bus Drivers, Transit & Intercity"	"Transportation, Distribution & Logistics"
+OCCO:51302100	Alabama	Butchers & Meat Cutters	Manufacturing
+OCCO:51701100	Alabama	Cabinetmakers & Bench Carpenters	Manufacturing
+OCCO:29203100	Alabama	Cardiovascular Technologists & Technicians	Health Science
+OCCO:47205000	Alabama	Carpenters	Architecture & Construction
+OCCO:47205100	Alabama	Cement Masons & Concrete Finishers	Architecture & Construction
+OCCO:35101100	Alabama	Chefs & Head Cooks	Hospitality & Tourism
+OCCO:19403100	Alabama	Chemical Technicians	Manufacturing
+OCCO:21102100	Alabama	"Child, Family, & School Social Workers"	Human Services
+OCCO:17302500	Alabama	Civil Engineering Technologists & Technicians	Architecture & Construction
+OCCO:17205100	Alabama	Civil Engineers	Architecture & Construction
+OCCO:29203000	Alabama	Clinical Laboratory Technologists & Technicians	Health Science
+OCCO:27202200	Alabama	Coaches & Scouts	Education & Training
+OCCO:51912400	Alabama	"Coating, Painting, & Spraying Machine Setters, Operators, & Tenders"	Manufacturing
+OCCO:53201200	Alabama	Commercial Pilots	"Transportation, Distribution & Logistics"
+OCCO:13104101	Alabama	Compliance Officers	Government & Public Administration
+OCCO:11302100	Alabama	Computer & Information Systems Managers	Business Management & Administration
+OCCO:51919500	Alabama	Computer Numerically Controlled Tool Operators	Manufacturing
+OCCO:15121100	Alabama	Computer Systems Analysts	Information Technology
+OCCO:15123200	Alabama	Computer User Support Specialists	Information Technology
+OCCO:47206100	Alabama	Construction Laborers	Architecture & Construction
+OCCO:11902100	Alabama	Construction Managers	Architecture & Construction
+OCCO:35201400	Alabama	"Cooks, Restaurant"	Hospitality & Tourism
+OCCO:13105100	Alabama	Cost Estimators	Architecture & Construction
+OCCO:41202100	Alabama	Counter & Rental Clerks	Marketing
+OCCO:43405000	Alabama	"Court, Municipal, & License Clerks"	Government & Public Administration
+OCCO:51903200	Alabama	"Cutting & Slicing Machine Setters, Operators, & Tenders"	Manufacturing
+OCCO:51403100	Alabama	"Cutting, Punching, & Press Machine Setters, Operators, & Tenders, Metal & Plastic"	Manufacturing
+OCCO:15124200	Alabama	Database Administrators	Information Technology
+OCCO:31909100	Alabama	Dental Assistants	Health Science
+OCCO:29129200	Alabama	Dental Hygienists	Health Science
+OCCO:33302102	Alabama	Detectives & Criminal Investigators	"Law, Public Safety, Corrections & Security"
+OCCO:29203200	Alabama	Diagnostic Medical Sonographers	Health Science
+OCCO:11905000	Alabama	"Education Administrators, Kindergarten through Secondary"	Education & Training
+OCCO:11903300	Alabama	"Education Administrators, Postsecondary"	Education & Training
+OCCO:21102900	Alabama	"Educational, Guidance, & Career Counselors & Advisors"	Education & Training
+OCCO:17302600	Alabama	Electrical & Electronics Engineering Technologists & Technicians	Manufacturing
+OCCO:49209400	Alabama	"Electrical & Electronics Repairers, Commercial & Industrial Equipment"	Manufacturing
+OCCO:17207100	Alabama	Electrical Engineers	"Science, Technology, Engineering & Mathematics"
+OCCO:49905100	Alabama	Electrical Power-Line Installers & Repairers	Architecture & Construction
+OCCO:47211100	Alabama	Electricians	Architecture & Construction
+OCCO:25202100	Alabama	"Elementary School Teachers, Except Special Education"	Education & Training
+OCCO:43406100	Alabama	"Eligibility Interviewers, Government Programs"	Government & Public Administration
+OCCO:29206000	Alabama	Emergency Medical Technicians	"Law, Public Safety, Corrections & Security"
+OCCO:17208100	Alabama	Environmental Engineers	"Agriculture, Food & Natural Resources"
+OCCO:19204100	Alabama	"Environmental Scientists & Specialists, Including Health"	"Science, Technology, Engineering & Mathematics"
+OCCO:39909900	Alabama	Exercise Trainers & Group Fitness Instructors	Human Services
+OCCO:51402100	Alabama	"Extruding & Drawing Machine Setters, Operators, & Tenders, Metal & Plastic"	Manufacturing
+OCCO:49304100	Alabama	Farm Equipment Mechanics & Service Technicians	"Agriculture, Food & Natural Resources"
+OCCO:13207000	Alabama	Financial & Investment Analysts	Finance
+OCCO:11303101	Alabama	Financial Managers	Finance
+OCCO:33300000	Alabama	Firefighters	"Law, Public Safety, Corrections & Security"
+OCCO:47101100	Alabama	First-Line Supervisors of Construction Trades & Extraction Workers	Architecture & Construction
+OCCO:39201000	Alabama	"First-line Supervisors of Entertainment & Recreation Workers, Except Gambling Services"	Human Services
+OCCO:35101200	Alabama	First-Line Supervisors of Food Preparation & Serving Workers	Hospitality & Tourism
+OCCO:37101100	Alabama	First-Line Supervisors of Housekeeping & Janitorial Workers	Hospitality & Tourism
+OCCO:37101200	Alabama	"First-Line Supervisors of Landscaping, Lawn Service, & Groundskeeping Workers"	Architecture & Construction
+OCCO:49101100	Alabama	"First-Line Supervisors of Mechanics, Installers, & Repairers"	Manufacturing
+OCCO:33101200	Alabama	First-Line Supervisors of Police & Detectives	"Law, Public Safety, Corrections & Security"
+OCCO:51101100	Alabama	First-Line Supervisors of Production & Operating Workers	Manufacturing
+OCCO:51309200	Alabama	Food Batchmakers	Manufacturing
+OCCO:11905100	Alabama	Food Service Managers	Hospitality & Tourism
+OCCO:13113100	Alabama	Fundraisers	Business Management & Administration
+OCCO:11102100	Alabama	General & Operations Managers	Business Management & Administration
+OCCO:21102200	Alabama	Healthcare Social Workers	Human Services
+OCCO:49905000	Alabama	"Heating, Air Conditioning, & Refrigeration Mechanics & Installers"	Architecture & Construction
+OCCO:53303200	Alabama	Heavy & Tractor-Trailer Truck Drivers	"Transportation, Distribution & Logistics"
+OCCO:49909800	Alabama	"Helpers--Installation, Maintenance, & Repair Workers"	Architecture & Construction
+OCCO:47301500	Alabama	"Helpers--Pipelayers, Plumbers, Pipefitters, & Steamfitters"	Architecture & Construction
+OCCO:47405100	Alabama	Highway Maintenance Workers	Architecture & Construction
+OCCO:11312100	Alabama	Human Resources Managers	Business Management & Administration
+OCCO:13107100	Alabama	Human Resources Specialists	Business Management & Administration
+OCCO:17211200	Alabama	Industrial Engineers	"Science, Technology, Engineering & Mathematics"
+OCCO:49904100	Alabama	Industrial Machinery Mechanics	Manufacturing
+OCCO:11305100	Alabama	Industrial Production Managers	Business Management & Administration
+OCCO:15121200	Alabama	Information Security Analysts	Information Technology
+OCCO:51906100	Alabama	"Inspectors, Testers, Sorters, Samplers, & Weighers"	Manufacturing
+OCCO:47213100	Alabama	"Insulation Workers, Floor, Ceiling, & Wall"	Architecture & Construction
+OCCO:41302100	Alabama	Insurance Sales Agents	Finance
+OCCO:37301100	Alabama	Landscaping & Groundskeeping Workers	Architecture & Construction
+OCCO:23101100	Alabama	Lawyers	"Law, Public Safety, Corrections & Security"
+OCCO:25902000	Alabama	Librarians & Media Collections Specialists	Education & Training
+OCCO:29206100	Alabama	Licensed Practical & Licensed Vocational Nurses	Health Science
+OCCO:53305300	Alabama	Light Truck Drivers	"Transportation, Distribution & Logistics"
+OCCO:43413100	Alabama	Loan Interviewers & Clerks	Finance
+OCCO:13207200	Alabama	Loan Officers	Finance
+OCCO:11908100	Alabama	Lodging Managers	Hospitality & Tourism
+OCCO:45402200	Alabama	Logging Equipment Operators	"Agriculture, Food & Natural Resources"
+OCCO:13108100	Alabama	Logisticians	"Transportation, Distribution & Logistics"
+OCCO:53706300	Alabama	Machine Feeders & Offbearers	Manufacturing
+OCCO:51404100	Alabama	Machinists	Manufacturing
+OCCO:49907100	Alabama	"Maintenance & Repair Workers, General"	Manufacturing
+OCCO:13111100	Alabama	Management Analysts	Business Management & Administration
+OCCO:39509200	Alabama	Manicurists & Pedicurists	Human Services
+OCCO:13116100	Alabama	Market Research Analysts & Marketing Specialists	Marketing
+OCCO:11202100	Alabama	Marketing Managers	Marketing
+OCCO:31901100	Alabama	Massage Therapists	Human Services
+OCCO:17214100	Alabama	Mechanical Engineers	"Science, Technology, Engineering & Mathematics"
+OCCO:11911100	Alabama	Medical & Health Services Managers	Health Science
+OCCO:31909200	Alabama	Medical Assistants	Health Science
+OCCO:31909300	Alabama	Medical Equipment Preparers	Health Science
+OCCO:49906200	Alabama	Medical Equipment Repairers	Manufacturing
+OCCO:29209900	Alabama	Medical Records Specialists	Health Science
+OCCO:43903000	Alabama	Medical Secretaries & Administrative Assistants	Health Science
+OCCO:13112100	Alabama	"Meeting, Convention, & Event Planners"	Business Management & Administration
+OCCO:21102300	Alabama	Mental Health & Substance Abuse Social Workers	Human Services
+OCCO:27102600	Alabama	Merchandise Displayers & Window Trimmers	Marketing
+OCCO:25202200	Alabama	"Middle School Teachers, Except Special & Career/Technical Education"	Education & Training
+OCCO:49904400	Alabama	Millwrights	Architecture & Construction
+OCCO:51301000	Alabama	Miscellaneous Assemblers & Fabricators	Manufacturing
+OCCO:51902300	Alabama	"Mixing & Blending Machine Setters, Operators, & Tenders"	Manufacturing
+OCCO:49304200	Alabama	"Mobile Heavy Equipment Mechanics, Except Engines"	"Transportation, Distribution & Logistics"
+OCCO:51919503	Alabama	"Molders, Shapers, & Casters, Except Metal & Plastic"	Manufacturing
+OCCO:51407200	Alabama	"Molding, Coremaking, & Casting Machine Setters, Operators, & Tenders, Metal & Plastic"	Manufacturing
+OCCO:51408100	Alabama	"Multiple Machine Tool Setters, Operators, & Tenders, Metal & Plastic"	Manufacturing
+OCCO:15124400	Alabama	Network & Computer Systems Administrators	Information Technology
+OCCO:29117100	Alabama	Nurse Practitioners	Health Science
+OCCO:19501100	Alabama	Occupational Health & Safety Specialists	Government & Public Administration
+OCCO:29112200	Alabama	Occupational Therapists	Health Science
+OCCO:31201100	Alabama	Occupational Therapy Assistants	Health Science
+OCCO:47207300	Alabama	Operating Engineers & Other Construction Equipment Operators	Architecture & Construction
+OCCO:29205700	Alabama	Ophthalmic Medical Technicians	Health Science
+OCCO:51911100	Alabama	Packaging & Filling Machine Operators & Tenders	Manufacturing
+OCCO:47214100	Alabama	"Painters, Construction & Maintenance"	Architecture & Construction
+OCCO:23201100	Alabama	Paralegals & Legal Assistants	"Law, Public Safety, Corrections & Security"
+OCCO:29207000	Alabama	Paramedics	"Law, Public Safety, Corrections & Security"
+OCCO:41202200	Alabama	Parts Salespersons	Marketing
+OCCO:47207100	Alabama	"Paving, Surfacing, & Tamping Equipment Operators"	Architecture & Construction
+OCCO:13205200	Alabama	Personal Financial Advisors	Finance
+OCCO:37202100	Alabama	Pest Control Workers	"Agriculture, Food & Natural Resources"
+OCCO:29105100	Alabama	Pharmacists	Health Science
+OCCO:29205200	Alabama	Pharmacy Technicians	Health Science
+OCCO:31909700	Alabama	Phlebotomists	Health Science
+OCCO:27402100	Alabama	Photographers	"Arts, A/V Technology & Communications"
+OCCO:31202100	Alabama	Physical Therapist Assistants	Health Science
+OCCO:29112300	Alabama	Physical Therapists	Health Science
+OCCO:47215200	Alabama	"Plumbers, Pipefitters, & Steamfitters"	Architecture & Construction
+OCCO:33901000	Alabama	Police & Sheriff's Patrol Officers	"Law, Public Safety, Corrections & Security"
+OCCO:25103000	Alabama	Postsecondary Teachers	Education & Training
+OCCO:21109200	Alabama	Probation Officers & Correctional Treatment Specialists	"Law, Public Safety, Corrections & Security"
+OCCO:27201204	Alabama	Producers & Directors	"Arts, A/V Technology & Communications"
+OCCO:43506100	Alabama	"Production, Planning, & Expediting Clerks"	Manufacturing
+OCCO:13203000	Alabama	Property Appraisers & Assessors	Government & Public Administration
+OCCO:11914100	Alabama	"Property, Real Estate, & Community Association Managers"	Marketing
+OCCO:29205300	Alabama	Psychiatric Technicians	Health Science
+OCCO:27303100	Alabama	Public Relations Specialists	Marketing
+OCCO:43506000	Alabama	Public Safety Telecommunicators	"Law, Public Safety, Corrections & Security"
+OCCO:11306100	Alabama	Purchasing Managers	Business Management & Administration
+OCCO:29204200	Alabama	Radiologic Technologists & Technicians	Health Science
+OCCO:41902200	Alabama	Real Estate Sales Agents	Marketing
+OCCO:53708100	Alabama	Refuse & Recyclable Material Collectors	"Agriculture, Food & Natural Resources"
+OCCO:29114100	Alabama	Registered Nurses	Health Science
+OCCO:29112600	Alabama	Respiratory Therapists	Health Science
+OCCO:47218100	Alabama	Roofers	Architecture & Construction
+OCCO:11202200	Alabama	Sales Managers	Marketing
+OCCO:41900000	Alabama	"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, & Travel"	Marketing
+OCCO:41401200	Alabama	"Sales Representatives, Wholesale & Manufacturing, Except Technical & Scientific Products"	Marketing
+OCCO:41401100	Alabama	"Sales Representatives, Wholesale & Manufacturing, Technical & Scientific Products"	Marketing
+OCCO:51704100	Alabama	"Sawing Machine Setters, Operators, & Tenders, Wood"	Manufacturing
+OCCO:25203100	Alabama	"Secondary School Teachers, Except Special & Career/Technical Education"	Education & Training
+OCCO:41309100	Alabama	"Securities, Commodities, & Financial Services Sales Agents"	Finance
+OCCO:49209800	Alabama	Security & Fire Alarm Systems Installers	Manufacturing
+OCCO:47221100	Alabama	Sheet Metal Workers	Architecture & Construction
+OCCO:53309900	Alabama	Shuttle Drivers & Chauffeurs	"Transportation, Distribution & Logistics"
+OCCO:39509400	Alabama	Skincare Specialists	Human Services
+OCCO:11915100	Alabama	Social & Community Service Managers	Human Services
+OCCO:21109300	Alabama	Social & Human Service Assistants	Human Services
+OCCO:15129000	Alabama	Software Developers	Information Technology
+OCCO:15129900	Alabama	Software Quality Assurance Analysts & Testers	Information Technology
+OCCO:29112700	Alabama	Speech-Language Pathologists	Health Science
+OCCO:53712000	Alabama	Stockers & Order Fillers	Business Management & Administration
+OCCO:47222100	Alabama	Structural Iron & Steel Workers	Architecture & Construction
+OCCO:29205500	Alabama	Surgical Technologists	Health Science
+OCCO:19101000	Alabama	Surveying & Mapping Technicians	Architecture & Construction
+OCCO:13208100	Alabama	"Tax Examiners & Collectors, & Revenue Agents"	Government & Public Administration
+OCCO:13208200	Alabama	Tax Preparers	Finance
+OCCO:49202200	Alabama	"Telecommunications Equipment Installers & Repairers, Except Line Installers"	"Arts, A/V Technology & Communications"
+OCCO:49905200	Alabama	Telecommunications Line Installers & Repairers	"Arts, A/V Technology & Communications"
+OCCO:47207000	Alabama	Tile & Stone Setters	Architecture & Construction
+OCCO:51411100	Alabama	Tool & Die Makers	Manufacturing
+OCCO:13115100	Alabama	Training & Development Specialists	Business Management & Administration
+OCCO:37301300	Alabama	Tree Trimmers & Pruners	"Agriculture, Food & Natural Resources"
+OCCO:31909600	Alabama	Veterinary Assistants & Laboratory Animal Caretakers	Health Science
+OCCO:29205600	Alabama	Veterinary Technologists & Technicians	Health Science
+OCCO:15125400	Alabama	Web Developers	Information Technology
+OCCO:51419900	Alabama	"Welders, Cutters, Solderers, & Brazers"	Manufacturing
+OCCO:51412200	Alabama	"Welding, Soldering, & Brazing Machine Setters, Operators, & Tenders"	Manufacturing
+OCCO:51704200	Alabama	"Woodworking Machine Setters, Operators, & Tenders, Except Sawing"	Manufacturing

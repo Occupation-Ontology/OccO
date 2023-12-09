@@ -7,6 +7,7 @@
         <uri name="http://purl.obolibrary.org/obo/occo/dev/job_zones_equivalent.owl" uri="Modules/job_zones_equivalent.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/occo-edit.owl" uri="occo-edit.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/occo_terms.owl" uri="Modules/occo_terms.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/dev/Alabama_subset.owl" uri="Modules/Alabama_subset.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/US_SOC_ID.owl" uri="Modules/US_SOC_ID.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/occo_obsolete.owl" uri="Modules/occo_obsolete.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/skill_types.owl" uri="Modules/skill_types.owl"/>
