@@ -1,0 +1,1598 @@
+Ontology ID	LABEL	US SOC ID
+ID		A US SOC ID
+OCCO:11101100	chief executive	11-1011.00
+OCCO:11101103	chief sustainability officer	11-1011.03
+OCCO:11102100	general or operations manager	11-1021.00
+OCCO:11201100	advertising or promotions manager	11-2011.00
+OCCO:11202100	marketing manager	11-2021.00
+OCCO:11202200	sales manager	11-2022.00
+OCCO:11301200	administrative services manager	11-3012.00
+OCCO:11301301	security manager	11-3013.01
+OCCO:11302100	computer or information systems manager	11-3021.00
+OCCO:11303101	treasurers or controller	11-3031.01
+OCCO:11303103	investment fund manager	11-3031.03
+OCCO:11305100	industrial production manager	11-3051.00
+OCCO:11305101	quality control systems manager	11-3051.01
+OCCO:11305102	geothermal production manager	11-3051.02
+OCCO:11305103	biofuels production manager	11-3051.03
+OCCO:11305104	biomass power plant manager	11-3051.04
+OCCO:11305106	hydroelectric production manager	11-3051.06
+OCCO:11306100	purchasing manager	11-3061.00
+OCCO:11307104	supply chain manager	11-3071.04
+OCCO:11311100	compensation or benefits manager	11-3111.00
+OCCO:11312100	human resources manager	11-3121.00
+OCCO:11313100	training or development manager	11-3131.00
+OCCO:11902100	construction manager	11-9021.00
+OCCO:11903300	"education administrator, postsecondary"	11-9033.00
+OCCO:11904100	architectural or engineering manager	11-9041.00
+OCCO:11904101	biofuels/biodiesel technology or product development manager	11-9041.01
+OCCO:11905100	food service manager	11-9051.00
+OCCO:11908100	lodging manager	11-9081.00
+OCCO:11911100	medical or health services manager	11-9111.00
+OCCO:11912100	natural sciences manager	11-9121.00
+OCCO:11912101	clinical research coordinator	11-9121.01
+OCCO:11912102	water resource specialist	11-9121.02
+OCCO:11913100	postmasters or mail superintendent	11-9131.00
+OCCO:11914100	"property, real estate, or community association manager"	11-9141.00
+OCCO:11915100	social or community service manager	11-9151.00
+OCCO:11916100	emergency management director	11-9161.00
+OCCO:11917901	fitness or wellness coordinator	11-9179.01
+OCCO:11917902	spa manager	11-9179.02
+OCCO:11919901	regulatory affairs manager	11-9199.01
+OCCO:11919902	compliance manager	11-9199.02
+OCCO:11919908	loss prevention manager	11-9199.08
+OCCO:11919909	wind energy operations manager	11-9199.09
+OCCO:11919911	brownfield redevelopment specialist or site manager	11-9199.11
+OCCO:13101100	"agent or business manager of artist, performer, or athletes"	13-1011.00
+OCCO:13102100	"buyer or purchasing agent, farm product"	13-1021.00
+OCCO:13102200	"wholesale or retail buyer, except farm product"	13-1022.00
+OCCO:13102300	"purchasing agent, except wholesale, retail, or farm product"	13-1023.00
+OCCO:13103200	"insurance appraiser, auto damage"	13-1032.00
+OCCO:13104101	environmental compliance inspector	13-1041.01
+OCCO:13104103	equal opportunity representative or officer	13-1041.03
+OCCO:13104104	government property inspector or investigator	13-1041.04
+OCCO:13104106	coroner	13-1041.06
+OCCO:13104107	regulatory affairs specialist	13-1041.07
+OCCO:13104108	customs broker	13-1041.08
+OCCO:13105100	cost estimator	13-1051.00
+OCCO:13107100	human resources specialist	13-1071.00
+OCCO:13107400	farm labor contractor	13-1074.00
+OCCO:13107500	labor relations specialist	13-1075.00
+OCCO:13108100	logistician	13-1081.00
+OCCO:13108101	logistics engineer	13-1081.01
+OCCO:13108102	logistics analyst	13-1081.02
+OCCO:13111100	management analyst	13-1111.00
+OCCO:13112100	"meeting, convention, or event planner"	13-1121.00
+OCCO:13113100	fundraiser	13-1131.00
+OCCO:13114100	"compensation, benefit, or job analysis specialist"	13-1141.00
+OCCO:13115100	training or development specialist	13-1151.00
+OCCO:13116100	market research analyst or marketing specialist	13-1161.00
+OCCO:13116101	search marketing strategist	13-1161.01
+OCCO:13119904	business continuity planner	13-1199.04
+OCCO:13119905	sustainability specialist	13-1199.05
+OCCO:13119906	online merchant	13-1199.06
+OCCO:13119907	security management specialist	13-1199.07
+OCCO:13203100	budget analyst	13-2031.00
+OCCO:13204100	credit analyst	13-2041.00
+OCCO:13205200	personal financial advisor	13-2052.00
+OCCO:13205300	insurance underwriter	13-2053.00
+OCCO:13206100	financial examiner	13-2061.00
+OCCO:13207100	credit counselor	13-2071.00
+OCCO:13207200	loan officer	13-2072.00
+OCCO:13208100	"tax examiner or collector, or revenue agent"	13-2081.00
+OCCO:13208200	tax preparer	13-2082.00
+OCCO:13209901	financial quantitative analyst	13-2099.01
+OCCO:13209904	"fraud examiner, investigator or analyst"	13-2099.04
+OCCO:15121100	computer systems analyst	15-1211.00
+OCCO:15121200	information security analyst	15-1212.00
+OCCO:15122100	computer or information research scientist	15-1221.00
+OCCO:15123100	computer network support specialist	15-1231.00
+OCCO:15123200	computer user support specialist	15-1232.00
+OCCO:15124100	computer network architect	15-1241.00
+OCCO:15124101	telecommunications engineering specialist	15-1241.01
+OCCO:15124200	database administrator	15-1242.00
+OCCO:15124300	database architect	15-1243.00
+OCCO:15124301	data warehousing specialist	15-1243.01
+OCCO:15124400	network or computer systems administrator	15-1244.00
+OCCO:15125100	computer programmer	15-1251.00
+OCCO:15125400	web developer	15-1254.00
+OCCO:15125501	video game designer	15-1255.01
+OCCO:15129901	web administrator	15-1299.01
+OCCO:15129903	document management specialist	15-1299.03
+OCCO:15129908	computer systems engineer/architect	15-1299.08
+OCCO:15129909	information technology project manager	15-1299.09
+OCCO:15201100	actuary	15-2011.00
+OCCO:15202100	mathematician	15-2021.00
+OCCO:15203100	operations research analyst	15-2031.00
+OCCO:15204100	statistician	15-2041.00
+OCCO:15204101	biostatistician	15-2041.01
+OCCO:15205101	business intelligence analyst	15-2051.01
+OCCO:15205102	clinical data manager	15-2051.02
+OCCO:15209901	bioinformatics technician	15-2099.01
+OCCO:17101100	"architect, except landscape or naval"	17-1011.00
+OCCO:17101200	landscape architect	17-1012.00
+OCCO:17102100	cartographer or photogrammetrist	17-1021.00
+OCCO:17102200	surveyor	17-1022.00
+OCCO:17102201	geodetic surveyor	17-1022.01
+OCCO:17201100	aerospace engineer	17-2011.00
+OCCO:17202100	agricultural engineer	17-2021.00
+OCCO:17204100	chemical engineer	17-2041.00
+OCCO:17205100	civil engineer	17-2051.00
+OCCO:17205101	transportation engineer	17-2051.01
+OCCO:17205102	water/wastewater engineer	17-2051.02
+OCCO:17206100	computer hardware engineer	17-2061.00
+OCCO:17207100	electrical engineer	17-2071.00
+OCCO:17207200	"electronics engineer, except computer"	17-2072.00
+OCCO:17207201	radio frequency identification device specialist	17-2072.01
+OCCO:17208100	environmental engineer	17-2081.00
+OCCO:17211102	fire-prevention or protection engineer	17-2111.02
+OCCO:17211200	industrial engineer	17-2112.00
+OCCO:17211201	human factors engineer or ergonomist	17-2112.01
+OCCO:17211202	validation engineer	17-2112.02
+OCCO:17211203	manufacturing engineer	17-2112.03
+OCCO:17213100	materials engineer	17-2131.00
+OCCO:17214100	mechanical engineer	17-2141.00
+OCCO:17214101	fuel cell engineer	17-2141.01
+OCCO:17214102	automotive engineer	17-2141.02
+OCCO:17215100	"mining or geological engineer, including mining safety engineer"	17-2151.00
+OCCO:17216100	nuclear engineer	17-2161.00
+OCCO:17217100	petroleum engineer	17-2171.00
+OCCO:17219905	mechatronics engineer	17-2199.05
+OCCO:17219906	microsystems engineer	17-2199.06
+OCCO:17219907	photonics engineer	17-2199.07
+OCCO:17219908	robotics engineer	17-2199.08
+OCCO:17219909	nanosystems engineer	17-2199.09
+OCCO:17219910	wind energy engineer	17-2199.10
+OCCO:17219911	solar energy systems engineer	17-2199.11
+OCCO:17301300	mechanical drafter	17-3013.00
+OCCO:17302401	robotics technician	17-3024.01
+OCCO:17302701	automotive engineering technician	17-3027.01
+OCCO:17302901	non-destructive testing specialist	17-3029.01
+OCCO:17302908	photonics technician	17-3029.08
+OCCO:19101100	animal scientist	19-1011.00
+OCCO:19101200	food scientist or technologist	19-1012.00
+OCCO:19101300	soil or plant scientist	19-1013.00
+OCCO:19102100	biochemist or biophysicist	19-1021.00
+OCCO:19102200	microbiologist	19-1022.00
+OCCO:19102300	zoologist or wildlife biologist	19-1023.00
+OCCO:19102901	bioinformatics scientist	19-1029.01
+OCCO:19102902	molecular or cellular biologist	19-1029.02
+OCCO:19102903	geneticist	19-1029.03
+OCCO:19102904	biologist	19-1029.04
+OCCO:19103102	range manager	19-1031.02
+OCCO:19103103	park naturalist	19-1031.03
+OCCO:19103200	forester	19-1032.00
+OCCO:19104100	epidemiologist	19-1041.00
+OCCO:19104200	"medical scientist, except epidemiologist"	19-1042.00
+OCCO:19201100	astronomer	19-2011.00
+OCCO:19201200	physicist	19-2012.00
+OCCO:19202100	atmospheric or space scientist	19-2021.00
+OCCO:19203100	chemist	19-2031.00
+OCCO:19203200	materials scientist	19-2032.00
+OCCO:19204100	"environmental scientist or specialist, including health"	19-2041.00
+OCCO:19204102	environmental restoration planner	19-2041.02
+OCCO:19204103	industrial ecologist	19-2041.03
+OCCO:19204200	"geoscientist, except hydrologist or geographer"	19-2042.00
+OCCO:19204300	hydrologist	19-2043.00
+OCCO:19209901	remote sensing scientists or technologist	19-2099.01
+OCCO:19301100	economist	19-3011.00
+OCCO:19301101	environmental economist	19-3011.01
+OCCO:19302200	survey researcher	19-3022.00
+OCCO:19303200	industrial-organizational psychologist	19-3032.00
+OCCO:19303400	school psychologist	19-3034.00
+OCCO:19304100	sociologist	19-3041.00
+OCCO:19305100	urban or regional planner	19-3051.00
+OCCO:19309200	geographer	19-3092.00
+OCCO:19309300	historian	19-3093.00
+OCCO:19309400	political scientist	19-3094.00
+OCCO:19309901	transportation planner	19-3099.01
+OCCO:19401200	agricultural technician	19-4012.00
+OCCO:19401201	precision agriculture technician	19-4012.01
+OCCO:19401300	food science technician	19-4013.00
+OCCO:19402100	biological technician	19-4021.00
+OCCO:19403100	chemical technician	19-4031.00
+OCCO:19404200	"environmental science or protection technician, including health"	19-4042.00
+OCCO:19405102	nuclear monitoring technician	19-4051.02
+OCCO:19406100	social science research assistant	19-4061.00
+OCCO:19407100	forest or conservation technician	19-4071.00
+OCCO:19409200	forensic science technician	19-4092.00
+OCCO:19409901	quality control analyst	19-4099.01
+OCCO:19409903	remote sensing technician	19-4099.03
+OCCO:19501100	occupational health or safety specialist	19-5011.00
+OCCO:19501200	occupational health or safety technician	19-5012.00
+OCCO:21101100	substance abuse or behavioral disorder counselor	21-1011.00
+OCCO:21101300	marriage or family therapist	21-1013.00
+OCCO:21101400	mental health counselor	21-1014.00
+OCCO:21101500	rehabilitation counselor	21-1015.00
+OCCO:21102100	"child, family, or school social worker"	21-1021.00
+OCCO:21102200	healthcare social worker	21-1022.00
+OCCO:21102300	mental health or substance abuse social worker	21-1023.00
+OCCO:21109200	probation officers or correctional treatment specialist	21-1092.00
+OCCO:21109300	social or human service assistant	21-1093.00
+OCCO:21109400	community health worker	21-1094.00
+OCCO:21201100	clergy	21-2011.00
+OCCO:21202100	"director, religious activities or education"	21-2021.00
+OCCO:23101100	lawyer	23-1011.00
+OCCO:23101200	judicial law clerk	23-1012.00
+OCCO:23102100	"administrative law judge, adjudicator, or hearing officer"	23-1021.00
+OCCO:23102200	"arbitrator, mediator, or conciliator"	23-1022.00
+OCCO:23102300	"judge, magistrate judge, or magistrate"	23-1023.00
+OCCO:23201100	paralegal or legal assistant	23-2011.00
+OCCO:23209300	"title examiner, abstractor, or searcher"	23-2093.00
+OCCO:25101100	"business teacher, postsecondary"	25-1011.00
+OCCO:25102100	"computer science teacher, postsecondary"	25-1021.00
+OCCO:25102200	"mathematical science teacher, postsecondary"	25-1022.00
+OCCO:25103100	"architecture teacher, postsecondary"	25-1031.00
+OCCO:25103200	"engineering teacher, postsecondary"	25-1032.00
+OCCO:25104100	"agricultural sciences teacher, postsecondary"	25-1041.00
+OCCO:25104200	"biological science teacher, postsecondary"	25-1042.00
+OCCO:25104300	"forestry or conservation science teacher, postsecondary"	25-1043.00
+OCCO:25105100	"atmospheric, earth, marine, or space sciences teacher, postsecondary"	25-1051.00
+OCCO:25105200	"chemistry teacher, postsecondary"	25-1052.00
+OCCO:25105300	"environmental science teacher, postsecondary"	25-1053.00
+OCCO:25105400	"physics teacher, postsecondary"	25-1054.00
+OCCO:25106100	"anthropology or archeology teacher, postsecondary"	25-1061.00
+OCCO:25106200	"area, ethnic, or cultural studies teacher, postsecondary"	25-1062.00
+OCCO:25106300	"economics teacher, postsecondary"	25-1063.00
+OCCO:25106400	"geography teacher, postsecondary"	25-1064.00
+OCCO:25106500	"political science teacher, postsecondary"	25-1065.00
+OCCO:25106600	"psychology teacher, postsecondary"	25-1066.00
+OCCO:25106700	"sociology teacher, postsecondary"	25-1067.00
+OCCO:25107100	"health specialties teacher, postsecondary"	25-1071.00
+OCCO:25107200	"nursing instructor or teacher, postsecondary"	25-1072.00
+OCCO:25108100	"education teacher, postsecondary"	25-1081.00
+OCCO:25108200	"library science teacher, postsecondary"	25-1082.00
+OCCO:25111100	"criminal justice or law enforcement teacher, postsecondary"	25-1111.00
+OCCO:25111200	"law teacher, postsecondary"	25-1112.00
+OCCO:25111300	"social work teacher, postsecondary"	25-1113.00
+OCCO:25112100	"art, drama, or music teacher, postsecondary"	25-1121.00
+OCCO:25112200	"communications teacher, postsecondary"	25-1122.00
+OCCO:25112300	"english language or literature teacher, postsecondary"	25-1123.00
+OCCO:25112400	"foreign language or literature teacher, postsecondary"	25-1124.00
+OCCO:25112500	"history teacher, postsecondary"	25-1125.00
+OCCO:25112600	"philosophy or religion teacher, postsecondary"	25-1126.00
+OCCO:25119300	"recreation or fitness studies teacher, postsecondary"	25-1193.00
+OCCO:25201100	"preschool teacher, except special education"	25-2011.00
+OCCO:25201200	"kindergarten teacher, except special education"	25-2012.00
+OCCO:25202100	"elementary school teacher, except special education"	25-2021.00
+OCCO:25202200	"middle school teacher, except special or career/technical education"	25-2022.00
+OCCO:25202300	"career/technical education teacher, middle school"	25-2023.00
+OCCO:25203100	"secondary school teacher, except special or career/technical education"	25-2031.00
+OCCO:25203200	"career/technical education teacher, secondary school"	25-2032.00
+OCCO:25205700	"special education teacher, middle school"	25-2057.00
+OCCO:25205800	"special education teacher, secondary school"	25-2058.00
+OCCO:25205901	adapted physical education specialist	25-2059.01
+OCCO:25304100	tutor	25-3041.00
+OCCO:25401100	archivist	25-4011.00
+OCCO:25401200	curator	25-4012.00
+OCCO:25401300	museum technician or conservator	25-4013.00
+OCCO:25403100	library technician	25-4031.00
+OCCO:25903100	instructional coordinator	25-9031.00
+OCCO:27101100	art director	27-1011.00
+OCCO:27101200	craft artist	27-1012.00
+OCCO:27101300	"fine artist, including painter, sculptor, or illustrator"	27-1013.00
+OCCO:27102100	commercial or industrial designer	27-1021.00
+OCCO:27102200	fashion designer	27-1022.00
+OCCO:27102300	floral designer	27-1023.00
+OCCO:27102400	graphic designer	27-1024.00
+OCCO:27102500	interior designer	27-1025.00
+OCCO:27102600	merchandise displayer or window trimmer	27-1026.00
+OCCO:27102700	set or exhibit designer	27-1027.00
+OCCO:27201100	actor	27-2011.00
+OCCO:27201204	talent director	27-2012.04
+OCCO:27202100	athlete or sports competitor	27-2021.00
+OCCO:27202200	coach or scout	27-2022.00
+OCCO:27202300	"umpire, referee, or other sports official"	27-2023.00
+OCCO:27203100	dancer	27-2031.00
+OCCO:27203200	choreographer	27-2032.00
+OCCO:27303100	public relations specialist	27-3031.00
+OCCO:27304100	editor	27-3041.00
+OCCO:27304200	technical writer	27-3042.00
+OCCO:27304305	"poet, lyricist or creative writer"	27-3043.05
+OCCO:27309100	interpreter or translator	27-3091.00
+OCCO:27401200	broadcast technician	27-4012.00
+OCCO:27401400	sound engineering technician	27-4014.00
+OCCO:27402100	photographer	27-4021.00
+OCCO:27403200	film or video editor	27-4032.00
+OCCO:29101100	chiropractor	29-1011.00
+OCCO:29102100	"dentist, general"	29-1021.00
+OCCO:29102200	oral or maxillofacial surgeon	29-1022.00
+OCCO:29102300	orthodontist	29-1023.00
+OCCO:29102400	prosthodontist	29-1024.00
+OCCO:29103100	dietitian or nutritionist	29-1031.00
+OCCO:29104100	optometrist	29-1041.00
+OCCO:29105100	pharmacist	29-1051.00
+OCCO:29107100	physician assistant	29-1071.00
+OCCO:29107101	anesthesiologist assistant	29-1071.01
+OCCO:29108100	podiatrist	29-1081.00
+OCCO:29112200	occupational therapist	29-1122.00
+OCCO:29112201	"low vision therapist, orientation or mobility specialist, or vision rehabilitation therapist"	29-1122.01
+OCCO:29112300	physical therapist	29-1123.00
+OCCO:29112400	radiation therapist	29-1124.00
+OCCO:29112500	recreational therapist	29-1125.00
+OCCO:29112600	respiratory therapist	29-1126.00
+OCCO:29112700	speech-language pathologist	29-1127.00
+OCCO:29112800	exercise physiologist	29-1128.00
+OCCO:29112901	art therapist	29-1129.01
+OCCO:29112902	music therapist	29-1129.02
+OCCO:29113100	veterinarian	29-1131.00
+OCCO:29114100	general-purpose registered nurse	29-1141.00
+OCCO:29114101	acute care nurse	29-1141.01
+OCCO:29114102	advanced practice psychiatric nurse	29-1141.02
+OCCO:29114103	critical care nurse	29-1141.03
+OCCO:29114104	clinical nurse specialist	29-1141.04
+OCCO:29115100	nurse anesthetist	29-1151.00
+OCCO:29116100	nurse midwive	29-1161.00
+OCCO:29117100	nurse practitioner	29-1171.00
+OCCO:29118100	audiologist	29-1181.00
+OCCO:29121100	anesthesiologist	29-1211.00
+OCCO:29121300	dermatologist	29-1213.00
+OCCO:29121700	neurologist	29-1217.00
+OCCO:29121800	obstetrician or gynecologist	29-1218.00
+OCCO:29122100	"pediatrician, general"	29-1221.00
+OCCO:29122300	psychiatrist	29-1223.00
+OCCO:29122400	radiologist	29-1224.00
+OCCO:29122901	allergist or immunologist	29-1229.01
+OCCO:29122902	hospitalist	29-1229.02
+OCCO:29122903	urologist	29-1229.03
+OCCO:29122904	physical medicine or rehabilitation physician	29-1229.04
+OCCO:29122905	preventive medicine physician	29-1229.05
+OCCO:29122906	sports medicine physician	29-1229.06
+OCCO:29129100	acupuncturist	29-1291.00
+OCCO:29129200	dental hygienist	29-1292.00
+OCCO:29129901	naturopathic physician	29-1299.01
+OCCO:29129902	orthoptist	29-1299.02
+OCCO:29201100	medical or clinical laboratory technologist	29-2011.00
+OCCO:29201101	cytogenetic technologist	29-2011.01
+OCCO:29201102	cytotechnologist	29-2011.02
+OCCO:29201200	medical or clinical laboratory technician	29-2012.00
+OCCO:29203100	cardiovascular technologist or technician	29-2031.00
+OCCO:29203200	diagnostic medical sonographer	29-2032.00
+OCCO:29203300	nuclear medicine technologist	29-2033.00
+OCCO:29203500	magnetic resonance imaging technologist	29-2035.00
+OCCO:29205100	dietetic technician	29-2051.00
+OCCO:29205200	pharmacy technician	29-2052.00
+OCCO:29205300	psychiatric technician	29-2053.00
+OCCO:29205500	surgical technologist	29-2055.00
+OCCO:29205600	veterinary technologist or technician	29-2056.00
+OCCO:29205700	ophthalmic medical technician	29-2057.00
+OCCO:29206100	licensed practical or licensed vocational nurse	29-2061.00
+OCCO:29208100	"optician, dispensing"	29-2081.00
+OCCO:29209100	orthotist or prosthetist	29-2091.00
+OCCO:29209200	hearing aid specialist	29-2092.00
+OCCO:29209901	neurodiagnostic technologist	29-2099.01
+OCCO:29209905	ophthalmic medical technologist	29-2099.05
+OCCO:29209908	patient representative	29-2099.08
+OCCO:29909100	athletic trainer	29-9091.00
+OCCO:29909200	genetic counselor	29-9092.00
+OCCO:29909300	surgical assistant	29-9093.00
+OCCO:29909901	midwive	29-9099.01
+OCCO:31112100	home health aide	31-1121.00
+OCCO:31112200	personal care aide	31-1122.00
+OCCO:31113100	nursing assistant	31-1131.00
+OCCO:31113200	orderly	31-1132.00
+OCCO:31113300	psychiatric aide	31-1133.00
+OCCO:31201100	occupational therapy assistant	31-2011.00
+OCCO:31201200	occupational therapy aide	31-2012.00
+OCCO:31202100	physical therapist assistant	31-2021.00
+OCCO:31202200	physical therapist aide	31-2022.00
+OCCO:31901100	massage therapist	31-9011.00
+OCCO:31909100	dental assistant	31-9091.00
+OCCO:31909200	medical assistant	31-9092.00
+OCCO:31909300	medical equipment preparer	31-9093.00
+OCCO:31909400	medical transcriptionist	31-9094.00
+OCCO:31909500	pharmacy aide	31-9095.00
+OCCO:31909600	veterinary assistant or laboratory animal caretaker	31-9096.00
+OCCO:31909700	phlebotomist	31-9097.00
+OCCO:31909901	speech-language pathology assistant	31-9099.01
+OCCO:31909902	endoscopy technician	31-9099.02
+OCCO:33101100	first-line supervisor of correctional officer	33-1011.00
+OCCO:33101200	first-line supervisor of police or detective	33-1012.00
+OCCO:33202200	forest fire inspector or prevention specialist	33-2022.00
+OCCO:33301100	bailiff	33-3011.00
+OCCO:33301200	correctional officer or jailer	33-3012.00
+OCCO:33302102	police identification or records officer	33-3021.02
+OCCO:33302106	intelligence analyst	33-3021.06
+OCCO:33303100	fish or game warden	33-3031.00
+OCCO:33304100	parking enforcement worker	33-3041.00
+OCCO:33305200	transit or railroad police	33-3052.00
+OCCO:33901100	animal control worker	33-9011.00
+OCCO:33902100	private detective or investigator	33-9021.00
+OCCO:33903200	security guard	33-9032.00
+OCCO:33909200	"lifeguard, ski patrol, or other recreational protective service worker"	33-9092.00
+OCCO:33909300	transportation security screener	33-9093.00
+OCCO:33909902	retail loss prevention specialist	33-9099.02
+OCCO:35101100	chef or head cook	35-1011.00
+OCCO:35101200	first-line supervisor of food preparation or serving worker	35-1012.00
+OCCO:35201100	"cook, fast food"	35-2011.00
+OCCO:35201200	"cook, institution or cafeteria"	35-2012.00
+OCCO:35201300	"cook, private household"	35-2013.00
+OCCO:35201400	"cook, restaurant"	35-2014.00
+OCCO:35201500	"cook, short order"	35-2015.00
+OCCO:35202100	food preparation worker	35-2021.00
+OCCO:35301100	bartender	35-3011.00
+OCCO:35302301	barista	35-3023.01
+OCCO:35303100	waiter or waitress	35-3031.00
+OCCO:35304100	"food server, nonrestaurant"	35-3041.00
+OCCO:35901100	dining room or cafeteria attendant or bartender helper	35-9011.00
+OCCO:35902100	dishwasher	35-9021.00
+OCCO:35903100	"host or hostess, restaurant, lounge, or coffee shop"	35-9031.00
+OCCO:37101100	first-line supervisor of housekeeping or janitorial worker	37-1011.00
+OCCO:37101200	"first-line supervisor of landscaping, lawn service, or groundskeeping worker"	37-1012.00
+OCCO:37201100	"janitor or cleaner, except maids or housekeeping cleaner"	37-2011.00
+OCCO:37201200	maid or housekeeping cleaner	37-2012.00
+OCCO:37202100	pest control worker	37-2021.00
+OCCO:37301100	landscaping or groundskeeping worker	37-3011.00
+OCCO:37301200	"pesticide handler, sprayer, or applicator, vegetation"	37-3012.00
+OCCO:37301300	tree trimmer or pruner	37-3013.00
+OCCO:39102200	first-line supervisor of personal service worker	39-1022.00
+OCCO:39201100	animal trainer	39-2011.00
+OCCO:39302100	motion picture projectionist	39-3021.00
+OCCO:39303100	"usher, lobby attendant, or ticket taker"	39-3031.00
+OCCO:39309100	amusement or recreation attendant	39-3091.00
+OCCO:39309200	costume attendant	39-3092.00
+OCCO:39309300	"locker room, coatroom, or dressing room attendant"	39-3093.00
+OCCO:39401100	embalmer	39-4011.00
+OCCO:39402100	funeral attendant	39-4021.00
+OCCO:39501100	barber	39-5011.00
+OCCO:39501200	"hairdresser, hairstylist, or cosmetologist"	39-5012.00
+OCCO:39509100	"makeup artist, theatrical or performance"	39-5091.00
+OCCO:39509200	manicurist or pedicurist	39-5092.00
+OCCO:39509300	shampooer	39-5093.00
+OCCO:39509400	skincare specialist	39-5094.00
+OCCO:39601100	baggage porter or bellhop	39-6011.00
+OCCO:39601200	concierge	39-6012.00
+OCCO:39701100	tour guide or escort	39-7011.00
+OCCO:39701200	travel guide	39-7012.00
+OCCO:39901100	childcare worker	39-9011.00
+OCCO:39901101	nanny	39-9011.01
+OCCO:39903200	recreation worker	39-9032.00
+OCCO:39904100	residential advisor	39-9041.00
+OCCO:41101100	first-line supervisor of retail sales worker	41-1011.00
+OCCO:41101200	first-line supervisor of non-retail sales worker	41-1012.00
+OCCO:41201100	cashier	41-2011.00
+OCCO:41202100	counter or rental clerk	41-2021.00
+OCCO:41202200	parts salesperson	41-2022.00
+OCCO:41203100	retail salesperson	41-2031.00
+OCCO:41301100	advertising sales agent	41-3011.00
+OCCO:41302100	insurance sales agent	41-3021.00
+OCCO:41304100	travel agent	41-3041.00
+OCCO:41401100	"sales representative, wholesale or manufacturing, technical or scientific product"	41-4011.00
+OCCO:41401107	solar sales representative or assessor	41-4011.07
+OCCO:41401200	"sales representative, wholesale or manufacturing, except technical or scientific product"	41-4012.00
+OCCO:41901100	demonstrator or product promoter	41-9011.00
+OCCO:41901200	model	41-9012.00
+OCCO:41902100	real estate broker	41-9021.00
+OCCO:41902200	real estate sales agent	41-9022.00
+OCCO:41903100	sales engineer	41-9031.00
+OCCO:41904100	telemarketer	41-9041.00
+OCCO:43101100	first-line supervisor of office or administrative support worker	43-1011.00
+OCCO:43201100	"switchboard operator, including answering service"	43-2011.00
+OCCO:43202100	telephone operator	43-2021.00
+OCCO:43301100	bill or account collector	43-3011.00
+OCCO:43303100	"bookkeeping, accounting, or auditing clerk"	43-3031.00
+OCCO:43305100	payroll or timekeeping clerk	43-3051.00
+OCCO:43306100	procurement clerk	43-3061.00
+OCCO:43307100	teller	43-3071.00
+OCCO:43401100	brokerage clerk	43-4011.00
+OCCO:43402100	correspondence clerk	43-4021.00
+OCCO:43405100	customer service representative	43-4051.00
+OCCO:43406100	"eligibility interviewer, government program"	43-4061.00
+OCCO:43407100	file clerk	43-4071.00
+OCCO:43408100	"hotel, motel, or resort desk clerk"	43-4081.00
+OCCO:43411100	"interviewer, except eligibility or loan"	43-4111.00
+OCCO:43412100	"library assistant, clerical"	43-4121.00
+OCCO:43413100	loan interviewer or clerk	43-4131.00
+OCCO:43414100	new accounts clerk	43-4141.00
+OCCO:43415100	order clerk	43-4151.00
+OCCO:43416100	"human resources assistant, except payroll or timekeeping"	43-4161.00
+OCCO:43417100	receptionist or information clerk	43-4171.00
+OCCO:43418100	reservation or transportation ticket agent or travel clerk	43-4181.00
+OCCO:43501100	cargo or freight agent	43-5011.00
+OCCO:43501101	freight forwarder	43-5011.01
+OCCO:43502100	courier or messenger	43-5021.00
+OCCO:43503200	"dispatcher, except police, fire, or ambulance"	43-5032.00
+OCCO:43504100	"meter reader, utilities"	43-5041.00
+OCCO:43505100	postal service clerk	43-5051.00
+OCCO:43505200	postal service mail carrier	43-5052.00
+OCCO:43505300	"postal service mail sorter, processor, or processing machine operator"	43-5053.00
+OCCO:43506100	"production, planning, or expediting clerk"	43-5061.00
+OCCO:43511100	"weigher, measurer, checker, or sampler, recordkeeping"	43-5111.00
+OCCO:43601100	executive secretary or executive administrative assistant	43-6011.00
+OCCO:43601400	"secretary or administrative assistant, except legal, medical, or executive"	43-6014.00
+OCCO:43902100	data entry keyer	43-9021.00
+OCCO:43902200	word processor or typist	43-9022.00
+OCCO:43903100	desktop publisher	43-9031.00
+OCCO:43905100	"mail clerk or mail machine operator, except postal service"	43-9051.00
+OCCO:43906100	"office clerk, general"	43-9061.00
+OCCO:43907100	"office machine operator, except computer"	43-9071.00
+OCCO:43908100	proofreader or copy marker	43-9081.00
+OCCO:43911100	statistical assistant	43-9111.00
+OCCO:45201100	agricultural inspector	45-2011.00
+OCCO:45202100	animal breeder	45-2021.00
+OCCO:45204100	"grader or sorter, agricultural products"	45-2041.00
+OCCO:45209100	agricultural equipment operator	45-2091.00
+OCCO:45209300	"farmworker, farm, ranch, or aquacultural animal"	45-2093.00
+OCCO:45401100	forest or conservation worker	45-4011.00
+OCCO:45402100	faller	45-4021.00
+OCCO:45402200	logging equipment operator	45-4022.00
+OCCO:45402300	log grader or scaler	45-4023.00
+OCCO:47101100	first-line supervisor of construction trades or extraction worker	47-1011.00
+OCCO:47101103	solar energy installation manager	47-1011.03
+OCCO:47201100	boilermaker	47-2011.00
+OCCO:47202100	brickmason or blockmason	47-2021.00
+OCCO:47202200	stonemason	47-2022.00
+OCCO:47204100	carpet installer	47-2041.00
+OCCO:47204200	"floor layer, except carpet, wood, or hard tile"	47-2042.00
+OCCO:47204300	floor sander or finisher	47-2043.00
+OCCO:47205100	cement mason or concrete finisher	47-2051.00
+OCCO:47205300	terrazzo worker or finisher	47-2053.00
+OCCO:47206100	construction laborer	47-2061.00
+OCCO:47207100	"paving, surfacing, or tamping equipment operator"	47-2071.00
+OCCO:47207300	operating engineer or other construction equipment operator	47-2073.00
+OCCO:47208100	drywall or ceiling tile installer	47-2081.00
+OCCO:47208200	taper	47-2082.00
+OCCO:47211100	electrician	47-2111.00
+OCCO:47212100	glazier	47-2121.00
+OCCO:47213100	"insulation worker, floor, ceiling, or wall"	47-2131.00
+OCCO:47213200	"insulation worker, mechanical"	47-2132.00
+OCCO:47214100	"painter, construction or maintenance"	47-2141.00
+OCCO:47214200	paperhanger	47-2142.00
+OCCO:47215100	pipelayer	47-2151.00
+OCCO:47215200	"plumber, pipefitter, or steamfitter"	47-2152.00
+OCCO:47215204	solar thermal installer or technician	47-2152.04
+OCCO:47216100	plasterer or stucco mason	47-2161.00
+OCCO:47217100	reinforcing iron or rebar worker	47-2171.00
+OCCO:47218100	roofer	47-2181.00
+OCCO:47221100	sheet metal worker	47-2211.00
+OCCO:47222100	structural iron or steel worker	47-2221.00
+OCCO:47223100	solar photovoltaic installer	47-2231.00
+OCCO:47301100	"helper-brickmason, blockmason, stonemason, or tile or marble setter"	47-3011.00
+OCCO:47301200	helpers--carpenter	47-3012.00
+OCCO:47301300	helpers--electrician	47-3013.00
+OCCO:47301400	"helpers--painter, paperhanger, plasterer, or stucco mason"	47-3014.00
+OCCO:47301500	"helpers--pipelayer, plumber, pipefitter, or steamfitter"	47-3015.00
+OCCO:47301600	helpers--roofer	47-3016.00
+OCCO:47401100	construction or building inspector	47-4011.00
+OCCO:47401101	energy auditor	47-4011.01
+OCCO:47403100	fence erector	47-4031.00
+OCCO:47404100	hazardous materials removal worker	47-4041.00
+OCCO:47405100	highway maintenance worker	47-4051.00
+OCCO:47406100	rail-track laying or maintenance equipment operator	47-4061.00
+OCCO:47407100	septic tank servicer or sewer pipe cleaner	47-4071.00
+OCCO:47409100	segmental paver	47-4091.00
+OCCO:47409903	weatherization installer or technician	47-4099.03
+OCCO:47501100	"derrick operator, oil or ga"	47-5011.00
+OCCO:47501200	"rotary drill operator, oil or ga"	47-5012.00
+OCCO:47502300	"earth driller, except oil or ga"	47-5023.00
+OCCO:47503200	"explosives worker, ordnance handling expert, or blaster"	47-5032.00
+OCCO:47504100	continuous mining machine operator	47-5041.00
+OCCO:47504300	"roof bolter, mining"	47-5043.00
+OCCO:47505100	"rock splitter, quarry"	47-5051.00
+OCCO:47507100	"roustabout, oil or ga"	47-5071.00
+OCCO:47508100	helpers--extraction worker	47-5081.00
+OCCO:49101100	"first-line supervisor of mechanics, installer, or repairer"	49-1011.00
+OCCO:49201100	"computer, automated teller, or office machine repairer"	49-2011.00
+OCCO:49202100	"radio, cellular, or tower equipment installer or repairer"	49-2021.00
+OCCO:49202200	"telecommunications equipment installer or repairer, except line installer"	49-2022.00
+OCCO:49209100	avionics technician	49-2091.00
+OCCO:49209200	"electric motor, power tool, or related repairer"	49-2092.00
+OCCO:49209300	"electrical or electronics installer or repairer, transportation equipment"	49-2093.00
+OCCO:49209400	"electrical or electronics repairer, commercial or industrial equipment"	49-2094.00
+OCCO:49209500	"electrical or electronics repairer, powerhouse, substation, or relay"	49-2095.00
+OCCO:49209600	"electronic equipment installer or repairer, motor vehicle"	49-2096.00
+OCCO:49209800	security or fire alarm systems installer	49-2098.00
+OCCO:49301100	aircraft mechanics or service technician	49-3011.00
+OCCO:49302100	automotive body or related repairer	49-3021.00
+OCCO:49302200	automotive glass installer or repairer	49-3022.00
+OCCO:49303100	bus or truck mechanic or diesel engine specialist	49-3031.00
+OCCO:49304100	farm equipment mechanic or service technician	49-3041.00
+OCCO:49304200	"mobile heavy equipment mechanic, except engine"	49-3042.00
+OCCO:49304300	rail car repairer	49-3043.00
+OCCO:49305100	motorboat mechanic or service technician	49-3051.00
+OCCO:49305200	motorcycle mechanic	49-3052.00
+OCCO:49305300	outdoor power equipment or other small engine mechanic	49-3053.00
+OCCO:49309100	bicycle repairer	49-3091.00
+OCCO:49309200	recreational vehicle service technician	49-3092.00
+OCCO:49309300	tire repairer or changer	49-3093.00
+OCCO:49901100	mechanical door repairer	49-9011.00
+OCCO:49901200	"control or valve installer or repairer, except mechanical door"	49-9012.00
+OCCO:49903100	home appliance repairer	49-9031.00
+OCCO:49904100	industrial machinery mechanic	49-9041.00
+OCCO:49904300	"maintenance worker, machinery"	49-9043.00
+OCCO:49904400	millwright	49-9044.00
+OCCO:49904500	"refractory materials repairer, except brickmason"	49-9045.00
+OCCO:49905100	electrical power-line installer or repairer	49-9051.00
+OCCO:49905200	telecommunications line installer or repairer	49-9052.00
+OCCO:49906100	camera or photographic equipment repairer	49-9061.00
+OCCO:49906200	medical equipment repairer	49-9062.00
+OCCO:49906300	musical instrument repairer or tuner	49-9063.00
+OCCO:49907100	"maintenance or repair worker, general"	49-9071.00
+OCCO:49908100	wind turbine service technician	49-9081.00
+OCCO:49909100	"coin, vending, or amusement machine servicer or repairer"	49-9091.00
+OCCO:49909200	commercial diver	49-9092.00
+OCCO:49909400	locksmith or safe repairer	49-9094.00
+OCCO:49909500	manufactured building or mobile home installer	49-9095.00
+OCCO:49909600	rigger	49-9096.00
+OCCO:49909700	signal or track switch repairer	49-9097.00
+OCCO:49909800	"helpers--installation, maintenance, or repair worker"	49-9098.00
+OCCO:49909901	geothermal technician	49-9099.01
+OCCO:51101100	first-line supervisor of production or operating worker	51-1011.00
+OCCO:51201100	"aircraft structure, surfaces, rigging, or systems assembler"	51-2011.00
+OCCO:51202100	"coil winder, taper, or finisher"	51-2021.00
+OCCO:51202200	electrical or electronic equipment assembler	51-2022.00
+OCCO:51202300	electromechanical equipment assembler	51-2023.00
+OCCO:51203100	engine or other machine assembler	51-2031.00
+OCCO:51204100	structural metal fabricator or fitter	51-2041.00
+OCCO:51205100	fiberglass laminator or fabricator	51-2051.00
+OCCO:51206100	timing device assembler or adjuster	51-2061.00
+OCCO:51209200	team assembler	51-2092.00
+OCCO:51301100	baker	51-3011.00
+OCCO:51302100	butcher or meat cutter	51-3021.00
+OCCO:51302200	"meat, poultry, or fish cutter or trimmer"	51-3022.00
+OCCO:51302300	slaughterer or meat packer	51-3023.00
+OCCO:51309100	"food or tobacco roasting, baking, or drying machine operator or tender"	51-3091.00
+OCCO:51309200	food batchmaker	51-3092.00
+OCCO:51309300	food cooking machine operator or tender	51-3093.00
+OCCO:51402100	"extruding or drawing machine setter, operator, or tender, metal or plastic"	51-4021.00
+OCCO:51402200	"forging machine setter, operator, or tender, metal or plastic"	51-4022.00
+OCCO:51402300	"rolling machine setter, operator, or tender, metal or plastic"	51-4023.00
+OCCO:51403100	"cutting, punching, or press machine setter, operator, or tender, metal or plastic"	51-4031.00
+OCCO:51403200	"drilling or boring machine tool setter, operator, or tender, metal or plastic"	51-4032.00
+OCCO:51403300	"grinding, lapping, polishing, or buffing machine tool setter, operator, or tender, metal or plastic"	51-4033.00
+OCCO:51403400	"lathe or turning machine tool setter, operator, or tender, metal or plastic"	51-4034.00
+OCCO:51403500	"milling or planing machine setter, operator, or tender, metal or plastic"	51-4035.00
+OCCO:51404100	machinist	51-4041.00
+OCCO:51405100	metal-refining furnace operator or tender	51-4051.00
+OCCO:51405200	"pourer or caster, metal"	51-4052.00
+OCCO:51406100	"model maker, metal or plastic"	51-4061.00
+OCCO:51406200	"patternmaker, metal or plastic"	51-4062.00
+OCCO:51407100	foundry mold or coremaker	51-4071.00
+OCCO:51407200	"molding, coremaking, or casting machine setter, operator, or tender, metal or plastic"	51-4072.00
+OCCO:51408100	"multiple machine tool setter, operator, or tender, metal or plastic"	51-4081.00
+OCCO:51411100	tool or die maker	51-4111.00
+OCCO:51412200	"welding, soldering, or brazing machine setter, operator, or tender"	51-4122.00
+OCCO:51419100	"heat treating equipment setter, operator, or tender, metal or plastic"	51-4191.00
+OCCO:51419200	"layout worker, metal or plastic"	51-4192.00
+OCCO:51419400	"tool grinder, filer, or sharpener"	51-4194.00
+OCCO:51511100	prepress technician or worker	51-5111.00
+OCCO:51511200	printing press operator	51-5112.00
+OCCO:51511300	print binding or finishing worker	51-5113.00
+OCCO:51601100	laundry or dry-cleaning worker	51-6011.00
+OCCO:51602100	"presser, textile, garment, or related materials"	51-6021.00
+OCCO:51603100	sewing machine operator	51-6031.00
+OCCO:51604100	shoe or leather worker or repairer	51-6041.00
+OCCO:51604200	shoe machine operator or tender	51-6042.00
+OCCO:51605100	"sewer, hand"	51-6051.00
+OCCO:51605200	"tailor, dressmaker, or custom sewer"	51-6052.00
+OCCO:51606100	textile bleaching or dyeing machine operator or tender	51-6061.00
+OCCO:51606200	"textile cutting machine setter, operator, or ten"	51-6062.00
+OCCO:51606300	"textile knitting or weaving machine setter, operator, or tender"	51-6063.00
+OCCO:51606400	"textile winding, twisting, or drawing out machine setter, operator, or tender"	51-6064.00
+OCCO:51609100	"extruding or forming machine setter, operator, or tender, synthetic or glass fiber"	51-6091.00
+OCCO:51609200	fabric or apparel patternmaker	51-6092.00
+OCCO:51609300	upholsterer	51-6093.00
+OCCO:51701100	cabinetmaker or bench carpenter	51-7011.00
+OCCO:51702100	furniture finisher	51-7021.00
+OCCO:51703100	"model maker, wood"	51-7031.00
+OCCO:51703200	"patternmaker, wood"	51-7032.00
+OCCO:51704100	"sawing machine setter, operator, or tender, wood"	51-7041.00
+OCCO:51704200	"woodworking machine setter, operator, or tender, except sawing"	51-7042.00
+OCCO:51801100	nuclear power reactor operator	51-8011.00
+OCCO:51801200	power distributor or dispatcher	51-8012.00
+OCCO:51801300	power plant operator	51-8013.00
+OCCO:51801303	biomass plant technician	51-8013.03
+OCCO:51801304	hydroelectric plant technician	51-8013.04
+OCCO:51802100	stationary engineer or boiler operator	51-8021.00
+OCCO:51803100	water or wastewater treatment plant or system operator	51-8031.00
+OCCO:51809100	chemical plant or system operator	51-8091.00
+OCCO:51809200	gas plant operator	51-8092.00
+OCCO:51809300	"petroleum pump system operator, refinery operator, or gauger"	51-8093.00
+OCCO:51809901	biofuels processing technician	51-8099.01
+OCCO:51901100	chemical equipment operator or tender	51-9011.00
+OCCO:51901200	"separating, filtering, clarifying, precipitating, or still machine setter, operator, or tender"	51-9012.00
+OCCO:51902100	"crushing, grinding, or polishing machine setter, operator, or tender"	51-9021.00
+OCCO:51902200	"grinding or polishing worker, hand"	51-9022.00
+OCCO:51902300	"mixing or blending machine setter, operator, or tender"	51-9023.00
+OCCO:51903100	"cutter or trimmer, hand"	51-9031.00
+OCCO:51903200	"cutting or slicing machine setter, operator, or tender"	51-9032.00
+OCCO:51904100	"extruding, forming, pressing, or compacting machine setter, operator, or tender"	51-9041.00
+OCCO:51905100	"furnace, kiln, oven, drier, or kettle operator or tender"	51-9051.00
+OCCO:51906100	"inspector, tester, sorter, sampler, or weigher"	51-9061.00
+OCCO:51907106	gem or diamond worker	51-9071.06
+OCCO:51908100	dental laboratory technician	51-9081.00
+OCCO:51908200	medical appliance technician	51-9082.00
+OCCO:51908300	ophthalmic laboratory technician	51-9083.00
+OCCO:51911100	packaging or filling machine operator or tender	51-9111.00
+OCCO:51912300	"painting, coating, or decorating worker"	51-9123.00
+OCCO:51912400	"coating, painting, or spraying machine setter, operator, or tender"	51-9124.00
+OCCO:51915100	photographic process worker or processing machine operator	51-9151.00
+OCCO:51919100	adhesive bonding machine operator or tender	51-9191.00
+OCCO:51919200	"cleaning, washing, or metal pickling equipment operator or tender"	51-9192.00
+OCCO:51919300	cooling or freezing equipment operator or tender	51-9193.00
+OCCO:51919400	etcher or engraver	51-9194.00
+OCCO:51919503	"stone cutter or carver, manufacturing"	51-9195.03
+OCCO:51919504	"glass blower, molder, bender, or finisher"	51-9195.04
+OCCO:51919505	"potter, manufacturing"	51-9195.05
+OCCO:51919600	"paper goods machine setter, operator, or tender"	51-9196.00
+OCCO:51919700	tire builder	51-9197.00
+OCCO:51919800	helpers--production worker	51-9198.00
+OCCO:53104100	aircraft cargo handling supervisor	53-1041.00
+OCCO:53104200	"first-line supervisor of helpers, laborer, or material mover, hand"	53-1042.00
+OCCO:53104201	recycling coordinator	53-1042.01
+OCCO:53201100	"airline pilot, copilot, or flight engineer"	53-2011.00
+OCCO:53201200	commercial pilot	53-2012.00
+OCCO:53202100	air traffic controller	53-2021.00
+OCCO:53202200	airfield operations specialist	53-2022.00
+OCCO:53203100	flight attendant	53-2031.00
+OCCO:53301100	"ambulance driver or attendant, except emergency medical technician"	53-3011.00
+OCCO:53303100	driver/sales worker	53-3031.00
+OCCO:53303200	heavy or tractor-trailer truck driver	53-3032.00
+OCCO:53305200	"bus driver, transit or intercity"	53-3052.00
+OCCO:53401100	locomotive engineer	53-4011.00
+OCCO:53401300	"rail yard engineer, dinkey operator, or hostler"	53-4013.00
+OCCO:53403100	railroad conductor or yardmaster	53-4031.00
+OCCO:53404100	subway or streetcar operator	53-4041.00
+OCCO:53501100	sailor or marine oiler	53-5011.00
+OCCO:53502200	motorboat operator	53-5022.00
+OCCO:53503100	ship engineer	53-5031.00
+OCCO:53601100	bridge or lock tender	53-6011.00
+OCCO:53603100	automotive or watercraft service attendant	53-6031.00
+OCCO:53604100	traffic technician	53-6041.00
+OCCO:53605101	aviation inspector	53-6051.01
+OCCO:53605107	"transportation vehicle, equipment or systems inspector, except aviation"	53-6051.07
+OCCO:53701100	conveyor operator or tender	53-7011.00
+OCCO:53702100	crane or tower operator	53-7021.00
+OCCO:53703100	dredge operator	53-7031.00
+OCCO:53704100	hoist or winch operator	53-7041.00
+OCCO:53705100	industrial truck or tractor operator	53-7051.00
+OCCO:53706100	cleaner of vehicles or equipment	53-7061.00
+OCCO:53706200	"laborer or freight, stock, or material movers, hand"	53-7062.00
+OCCO:53706204	recycling or reclamation worker	53-7062.04
+OCCO:53706300	machine feeder or offbearer	53-7063.00
+OCCO:53706400	"packer or packager, hand"	53-7064.00
+OCCO:53707100	gas compressor or gas pumping station operator	53-7071.00
+OCCO:53707200	"pump operator, except wellhead pumper"	53-7072.00
+OCCO:53707300	wellhead pumper	53-7073.00
+OCCO:53708100	refuse or recyclable material collector	53-7081.00
+OCCO:53712100	"tank car, truck, or ship loader"	53-7121.00
+OCCO:11000000	management occupation	11-0000
+OCCO:11100000	top executive	11-1000
+OCCO:11101000	chief executive (broad)	11-1010
+OCCO:11102000	general or operations manager (broad)	11-1020
+OCCO:11103000	legislator (broad)	11-1030
+OCCO:11103100	legislator	11-1031.00
+OCCO:11200000	"advertising, marketing, promotions, public relations, or sales manager"	11-2000
+OCCO:11201000	advertising or promotions manager (broad)	11-2010
+OCCO:11202000	marketing or sales manager	11-2020
+OCCO:11203000	public relations or fundraising manager	11-2030
+OCCO:11203200	public relations manager	11-2032.00
+OCCO:11203300	fundraising manager	11-2033.00
+OCCO:11300000	operations specialties manager	11-3000
+OCCO:11301000	administrative services or facilities manager	11-3010
+OCCO:11301300	facilities manager	11-3013.00
+OCCO:11302000	computer or information systems manager (broad)	11-3020
+OCCO:11303000	financial manager (broad)	11-3030
+OCCO:11303100	financial manager	11-3031
+OCCO:11305000	industrial production manager (broad)	11-3050
+OCCO:11306000	purchasing manager (broad)	11-3060
+OCCO:11307000	"transportation, storage, or distribution manager (broad)"	11-3070
+OCCO:11307100	"transportation, storage, or distribution manager"	11-3071.00
+OCCO:11311000	compensation or benefits manager (broad)	11-3110
+OCCO:11312000	human resources manager (broad)	11-3120
+OCCO:11313000	training or development manager (broad)	11-3130
+OCCO:11900000	other management occupation	11-9000
+OCCO:11901000	"farmer, rancher, or other agricultural manager"	11-9010
+OCCO:11901300	"farmer, rancher or other agricultural manager"	11-9013.00
+OCCO:11902000	construction manager (broad)	11-9020
+OCCO:11903000	education or childcare administrator	11-9030
+OCCO:11903100	"education or childcare administrator, preschool or daycare"	11-9031.00
+OCCO:11903200	"education administrator, kindergarten through secondary"	11-9032.00
+OCCO:11903900	"education administrator, all other"	11-9039.00
+OCCO:11904000	architectural or engineering manager (broad)	11-9040
+OCCO:11905000	food service manager (broad)	11-9050
+OCCO:11907000	entertainment or recreation manager	11-9070
+OCCO:11907100	gambling manager	11-9071.00
+OCCO:11907200	"entertainment or recreation manager, except gambling"	11-9072.00
+OCCO:11908000	lodging manager (broad)	11-9080
+OCCO:11911000	medical or health services manager (broad)	11-9110
+OCCO:11912000	natural sciences manager (broad)	11-9120
+OCCO:11913000	postmaster or mail superintendent	11-9130
+OCCO:11914000	"property, real estate, or community association manager (broad)"	11-9140
+OCCO:11915000	social or community service manager (broad)	11-9150
+OCCO:11916000	emergency management director (broad)	11-9160
+OCCO:11917000	personal service manager	11-9170
+OCCO:11917100	funeral home manager	11-9171.00
+OCCO:11917900	"personal service manager, all other"	11-9179.00
+OCCO:11919000	miscellaneous manager	11-9190
+OCCO:11919900	"manager, all other"	11-9199.00
+OCCO:11919910	wind energy development manager	11-9199.10
+OCCO:13000000	business or financial operations occupation holder	13-0000
+OCCO:13100000	business operations specialist	13-1000
+OCCO:13101000	"agent or business manager of artist, performer, or athlete"	13-1010
+OCCO:13102000	buyer or purchasing agent	13-1020
+OCCO:13103000	"claims adjuster, appraiser, examiner, or investigator"	13-1030
+OCCO:13103100	"claims adjuster, examiner, or investigator"	13-1031.00
+OCCO:13104000	compliance officer (broad)	13-1040
+OCCO:13104100	compliance officer	13-1041.00
+OCCO:13105000	cost estimator (broad)	13-1050
+OCCO:13107000	human resources worker	13-1070
+OCCO:13108000	logistician or project management specialist	13-1080
+OCCO:13108200	project management specialist	13-1082.00
+OCCO:13111000	management analyst (broad)	13-1110
+OCCO:13112000	"meeting, convention, or event planner (broad)"	13-1120
+OCCO:13113000	fundraiser (broad)	13-1130
+OCCO:13114000	"compensation, benefits, or job analysis specialist"	13-1140
+OCCO:13115000	training or development specialist (broad)	13-1150
+OCCO:13116000	market research analyst or marketing specialist (broad)	13-1160
+OCCO:13119000	miscellaneous business operations specialist	13-1190
+OCCO:13119900	"business operations specialist, all other"	13-1199.00
+OCCO:13200000	financial specialist	13-2000
+OCCO:13201000	accountant or auditor (broad)	13-2010
+OCCO:13201100	accountant or auditor	13-2011.00
+OCCO:13202000	property appraiser or assessor	13-2020
+OCCO:13202200	appraiser of personal or business property	13-2022.00
+OCCO:13202300	appraiser or assessos of real estate	13-2023.00
+OCCO:13203000	budget analyst (broad)	13-2030
+OCCO:13204000	credit analyst (broad)	13-2040
+OCCO:13205000	financial analyst or advisor	13-2050
+OCCO:13205100	financial or investment analyst	13-2051.00
+OCCO:13205400	financial risk specialist	13-2054.00
+OCCO:13206000	financial examiner (broad)	13-2060
+OCCO:13207000	credit counselor or loan officer	13-2070
+OCCO:13208000	"tax examiner, collector or preparer, or revenue agent"	13-2080
+OCCO:13209000	miscellaneous financial specialist	13-2090
+OCCO:13209900	"financial specialist, all other"	13-2099.00
+OCCO:15000000	computer or mathematical occupation holder	15-0000
+OCCO:15120000	computer occupation	15-1200
+OCCO:15121000	computer or information analyst	15-1210
+OCCO:15121101	health informatics specialist	15-1211.01
+OCCO:15122000	computer or information research scientist (broad)	15-1220
+OCCO:15123000	computer support specialist	15-1230
+OCCO:15124000	database or network administrator or architect	15-1240
+OCCO:15125000	"software or web developer, programmer, or tester"	15-1250
+OCCO:15125200	software developer	15-1252.00
+OCCO:15125300	software quality assurance analyst or tester	15-1253.00
+OCCO:15125500	web or digital interface designer	15-1255.00
+OCCO:15129000	miscellaneous computer occupation	15-1290
+OCCO:15129900	"computer occupation, all other"	15-1299.00
+OCCO:15129902	geographic information systems technologist or technician	15-1299.02
+OCCO:15129904	penetration tester	15-1299.04
+OCCO:15129905	information security engineer	15-1299.05
+OCCO:15129906	digital forensics analyst	15-1299.06
+OCCO:15129907	blockchain engineer	15-1299.07
+OCCO:15200000	mathematical science occupation	15-2000
+OCCO:15201000	actuary (broad)	15-2010
+OCCO:15202000	mathematician (broad)	15-2020
+OCCO:15203000	operations research analyst (broad)	15-2030
+OCCO:15204000	statistician (broad)	15-2040
+OCCO:15205000	data scientist (broad)	15-2050
+OCCO:15205100	data scientist	15-2051.00
+OCCO:15209000	miscellaneous mathematical science occupation	15-2090
+OCCO:15209900	"mathematical science occupation, all other"	15-2099.00
+OCCO:17000000	architecture or engineering occupation holder	17-0000
+OCCO:17100000	"architect, surveyor, or cartographer"	17-1000
+OCCO:17101000	"architect, except naval"	17-1010
+OCCO:17102000	"surveyor, cartographer, or photogrammetrist"	17-1020
+OCCO:17200000	engineer	17-2000
+OCCO:17201000	aerospace engineer (broad)	17-2010
+OCCO:17202000	agricultural engineer (broad)	17-2020
+OCCO:17203000	bioengineer or biomedical engineer (broad)	17-2030
+OCCO:17203100	bioengineer or biomedical engineer	17-2031.00
+OCCO:17204000	chemical engineer (broad)	17-2040
+OCCO:17205000	civil engineer (broad)	17-2050
+OCCO:17206000	computer hardware engineer (broad)	17-2060
+OCCO:17207000	electrical or electronics engineer	17-2070
+OCCO:17208000	environmental engineer (broad)	17-2080
+OCCO:17211000	"industrial engineer, including health or safety"	17-2110
+OCCO:17211100	"health or safety engineer, except mining safety engineer or inspector"	17-2111.00
+OCCO:17212000	marine engineer or naval architect (broad)	17-2120
+OCCO:17212100	marine engineer or naval architect	17-2121.00
+OCCO:17213000	materials engineer (broad)	17-2130
+OCCO:17214000	mechanical engineer (broad)	17-2140
+OCCO:17215000	"mining or geological engineer, including mining safety engineer (broad)"	17-2150
+OCCO:17216000	nuclear engineer (broad)	17-2160
+OCCO:17217000	petroleum engineer (broad)	17-2170
+OCCO:17219000	miscellaneous engineer	17-2190
+OCCO:17219900	"engineer, all other"	17-2199.00
+OCCO:17219903	"energy engineer, except wind or solar"	17-2199.03
+OCCO:17300000	"drafter, engineering technician, or mapping technician"	17-3000
+OCCO:17301000	drafter	17-3010
+OCCO:17301100	architectural or civil drafter	17-3011.00
+OCCO:17301200	electrical or electronics drafter	17-3012.00
+OCCO:17301900	"drafter, all other"	17-3019.00
+OCCO:17302000	"engineering technologist or technician, except drafter"	17-3020
+OCCO:17302100	aerospace engineering or operations technologist or technician	17-3021.00
+OCCO:17302200	civil engineering technologist or technician	17-3022.00
+OCCO:17302300	electrical or electronic engineering technologist or technician	17-3023.00
+OCCO:17302400	electro-mechanical or mechatronics technologist or technician	17-3024.00
+OCCO:17302500	environmental engineering technologist or technician	17-3025.00
+OCCO:17302600	industrial engineering technologist or technician	17-3026.00
+OCCO:17302601	nanotechnology engineering technologist or technician	17-3026.01
+OCCO:17302700	mechanical engineering technologist or technician	17-3027.00
+OCCO:17302800	calibration technologist or technician	17-3028.00
+OCCO:17302900	"engineering technologist or technician, except drafter, all other"	17-3029.00
+OCCO:17303000	surveying or mapping technician (broad)	17-3030
+OCCO:17303100	surveying or mapping technician	17-3031.00
+OCCO:19000000	"life, physical, or social science occupation"	19-0000
+OCCO:19100000	life scientist	19-1000
+OCCO:19101000	agricultural or food scientist	19-1010
+OCCO:19102000	biological scientist	19-1020
+OCCO:19102900	"biological scientist, all other"	19-1029.00
+OCCO:19103000	conservation scientist or forester	19-1030
+OCCO:19103100	conservation scientist	19-1031.00
+OCCO:19104000	medical scientist	19-1040
+OCCO:19109000	miscellaneous life scientist	19-1090
+OCCO:19109900	"life scientist, all other"	19-1099.00
+OCCO:19200000	physical scientist	19-2000
+OCCO:19201000	astronomer or physicist	19-2010
+OCCO:19202000	atmospheric or space scientist (broad)	19-2020
+OCCO:19203000	chemist or materials scientist	19-2030
+OCCO:19204000	environmental scientist or geoscientist	19-2040
+OCCO:19204101	climate change policy analyst	19-2041.01
+OCCO:19209000	miscellaneous physical scientist	19-2090
+OCCO:19209900	"physical scientist, all other"	19-2099.00
+OCCO:19300000	social scientist or related worker	19-3000
+OCCO:19301000	economist (broad)	19-3010
+OCCO:19302000	survey researcher (broad)	19-3020
+OCCO:19303000	psychologist	19-3030
+OCCO:19303300	clinical or counseling psychologist	19-3033.00
+OCCO:19303900	"psychologist, all other"	19-3039.00
+OCCO:19303902	neuropsychologist	19-3039.02
+OCCO:19303903	clinical neuropsychologist	19-3039.03
+OCCO:19304000	sociologist (broad)	19-3040
+OCCO:19305000	urban or regional planner (broad)	19-3050
+OCCO:19309000	miscellaneous social scientist or related worker	19-3090
+OCCO:19309100	anthropologist or archeologist	19-3091.00
+OCCO:19309900	"social scientist or related worker, all other"	19-3099.00
+OCCO:19400000	"life, physical, or social science technician"	19-4000
+OCCO:19401000	agricultural or food science technician	19-4010
+OCCO:19402000	biological technician (broad)	19-4020
+OCCO:19403000	chemical technician (broad)	19-4030
+OCCO:19404000	environmental science or geoscience technician	19-4040
+OCCO:19404300	"geological technician, except hydrologic technician"	19-4043.00
+OCCO:19404400	hydrologic technician	19-4044.00
+OCCO:19405000	nuclear technician (broad)	19-4050
+OCCO:19405100	nuclear technician	19-4051.00
+OCCO:19406000	social science research assistant (broad)	19-4060
+OCCO:19407000	forest or conservation technician (broad)	19-4070
+OCCO:19409000	"miscellaneous life, physical, or social science technician"	19-4090
+OCCO:19409900	"life, physical, or social science technician, all other"	19-4099.00
+OCCO:19500000	occupational health or safety specialist or technician (minor)	19-5000
+OCCO:19501000	occupational health or safety specialist or technician	19-5010
+OCCO:21000000	community or social service occupation holder	21-0000
+OCCO:21100000	"counselor, social worker, or other community or social service specialist"	21-1000
+OCCO:21101000	counselor	21-1010
+OCCO:21101200	"educational, guidance, or career counselor or advisor"	21-1012.00
+OCCO:21101900	"counselor, all other"	21-1019.00
+OCCO:21102000	social worker	21-1020
+OCCO:21102900	"social worker, all other"	21-1029.00
+OCCO:21109000	miscellaneous community or social service specialist	21-1090
+OCCO:21109100	health education specialist	21-1091.00
+OCCO:21109900	"community or social service specialist, all other"	21-1099.00
+OCCO:21200000	religious worker	21-2000
+OCCO:21201000	clergy (broad)	21-2010
+OCCO:21202000	"director, religious activities or education (broad)"	21-2020
+OCCO:21209000	miscellaneous religious worker	21-2090
+OCCO:21209900	"religious worker, all other"	21-2099.00
+OCCO:23000000	legal occupation	23-0000
+OCCO:23100000	"lawyer, judge, or related worker"	23-1000
+OCCO:23101000	lawyer or judicial law clerk	23-1010
+OCCO:23102000	"judge, magistrate, or other judicial worker"	23-1020
+OCCO:23200000	legal support worker	23-2000
+OCCO:23201000	paralegal or legal assistant (broad)	23-2010
+OCCO:23209000	miscellaneous legal support worker	23-2090
+OCCO:23209900	"legal support worker, all other"	23-2099.00
+OCCO:25000000	educational instruction or library occupation holder	25-0000
+OCCO:25100000	postsecondary teacher	25-1000
+OCCO:25101000	"business teacher, postsecondary (broad)"	25-1010
+OCCO:25102000	"math or computer science teacher, postsecondary"	25-1020
+OCCO:25103000	"engineering or architecture teacher, postsecondary"	25-1030
+OCCO:25104000	"life sciences teacher, postsecondary"	25-1040
+OCCO:25105000	"physical sciences teacher, postsecondary"	25-1050
+OCCO:25106000	"social sciences teacher, postsecondary"	25-1060
+OCCO:25106900	"social sciences teacher, postsecondary, all other"	25-1069.00
+OCCO:25107000	"health teacher, postsecondary"	25-1070
+OCCO:25108000	"education or library science teacher, postsecondary"	25-1080
+OCCO:25111000	"law, criminal justice, or social work teacher, postsecondary"	25-1110
+OCCO:25112000	"arts, communications, history, or humanities teacher, postsecondary"	25-1120
+OCCO:25119000	miscellaneous postsecondary teacher	25-1190
+OCCO:25119200	"family or consumer sciences teacher, postsecondary"	25-1192.00
+OCCO:25119400	"career/technical education teacher, postsecondary"	25-1194.00
+OCCO:25119900	"postsecondary teacher, all other"	25-1199.00
+OCCO:25200000	"preschool, elementary, middle, secondary, or special education teacher"	25-2000
+OCCO:25201000	preschool or Kindergarten teacher	25-2010
+OCCO:25202000	elementary or middle school teacher	25-2020
+OCCO:25203000	secondary school teacher	25-2030
+OCCO:25205000	special education teacher	25-2050
+OCCO:25205100	"special education teacher, preschool"	25-2051.00
+OCCO:25205500	"special education teacher, kindergarten"	25-2055.00
+OCCO:25205600	"special education teacher, elementary school"	25-2056.00
+OCCO:25205900	"special education teacher, all other"	25-2059.00
+OCCO:25300000	other teacher or instructor	25-3000
+OCCO:25301000	"adult basic education, adult secondary education, or english as a second language instructor (broad)"	25-3010
+OCCO:25301100	"adult basic education, adult secondary education, or english as a second language instructor"	25-3011.00
+OCCO:25302000	self-enrichment teacher (broad)	25-3020
+OCCO:25302100	self-enrichment teacher	25-3021.00
+OCCO:25303000	"substitute teacher, short-term (broad)"	25-3030
+OCCO:25303100	"substitute teacher, short-term"	25-3031.00
+OCCO:25304000	tutor (broad)	25-3040
+OCCO:25309000	miscellaneous teacher or instructor	25-3090
+OCCO:25309900	"teacher or instructor, all other"	25-3099.00
+OCCO:25400000	"librarian, curator, or archivist"	25-4000
+OCCO:25401000	"archivist, curator, or museum technician"	25-4010
+OCCO:25402000	librarian or media collections specialist	25-4020
+OCCO:25402200	librarians or media collections specialist	25-4022.00
+OCCO:25403000	library technician (broad)	25-4030
+OCCO:25900000	other educational instruction or library occupation	25-9000
+OCCO:25902000	farm or home management educator (broad)	25-9020
+OCCO:25902100	farm or home management educator	25-9021.00
+OCCO:25903000	instructional coordinator (broad)	25-9030
+OCCO:25904000	teaching assistant	25-9040
+OCCO:25904200	"teaching assistant, preschool, elementary, middle, or secondary school, except special education"	25-9042.00
+OCCO:25904300	"teaching assistant, special education"	25-9043.00
+OCCO:25904400	"teaching assistant, postsecondary"	25-9044.00
+OCCO:25904900	"teaching assistant, all other"	25-9049.00
+OCCO:25909000	miscellaneous educational instruction or library worker	25-9090
+OCCO:25909900	"educational instruction or library worker, all other"	25-9099.00
+OCCO:27000000	"arts, design, entertainment, sports, and media occupation holder"	27-0000
+OCCO:27100000	art or design worker	27-1000
+OCCO:27101000	artist or related worker	27-1010
+OCCO:27101400	special effects artist or animator	27-1014.00
+OCCO:27101900	"artist or related worker, all other"	27-1019.00
+OCCO:27102000	designer	27-1020
+OCCO:27102900	"designer, all other"	27-1029.00
+OCCO:27200000	"entertainer or performer, sports or related worker"	27-2000
+OCCO:27201000	"actor, producer, or director"	27-2010
+OCCO:27201200	producer or director	27-2012.00
+OCCO:27201203	media programming director	27-2012.03
+OCCO:27201205	media technical directors/manager	27-2012.05
+OCCO:27202000	"athlete, coache, umpire, or related worker"	27-2020
+OCCO:27203000	dancer or choreographer	27-2030
+OCCO:27204000	"musician, singer, or related worker"	27-2040
+OCCO:27204100	music director or composer	27-2041.00
+OCCO:27204200	musician or singer	27-2042.00
+OCCO:27209000	"miscellaneous entertainer or performer, sports or related worker"	27-2090
+OCCO:27209100	"disc jockey, except radio"	27-2091.00
+OCCO:27209900	"entertainer or performer, sports or related worker, all other"	27-2099.00
+OCCO:27300000	media or communication worker	27-3000
+OCCO:27301000	broadcast announcer or radio disc jockey (broad)	27-3010
+OCCO:27301100	broadcast announcer or radio disc jockey	27-3011.00
+OCCO:27302000	"news analyst, reporter or journalist"	27-3020
+OCCO:27302300	"news analyst, reporter, or journalist"	27-3023.00
+OCCO:27303000	public relations specialist (broad)	27-3030
+OCCO:27304000	writer or editor	27-3040
+OCCO:27304300	writer or author	27-3043.00
+OCCO:27309000	miscellaneous media or communication worker	27-3090
+OCCO:27309200	court reporter or simultaneous captioner	27-3092.00
+OCCO:27309900	"media or communication worker, all other"	27-3099.00
+OCCO:27400000	media or communication equipment worker	27-4000
+OCCO:27401000	"broadcast, sound, or lighting technician"	27-4010
+OCCO:27401100	audio or video technician	27-4011.00
+OCCO:27401500	lighting technician	27-4015.00
+OCCO:27402000	photographer (broad)	27-4020
+OCCO:27403000	"television, video, or film camera operator or editor"	27-4030
+OCCO:27403100	"camera operator, television, video, or film"	27-4031.00
+OCCO:27409000	miscellaneous media or communication equipment worker	27-4090
+OCCO:27409900	"media or communication equipment worker, all other"	27-4099.00
+OCCO:29000000	healthcare practitioner or technical occupation holder	29-0000
+OCCO:29100000	healthcare diagnosing or treating practitioner	29-1000
+OCCO:29101000	chiropractor (broad)	29-1010
+OCCO:29102000	dentist	29-1020
+OCCO:29102900	"dentist, all other specialist"	29-1029.00
+OCCO:29103000	dietitian or nutritionist (broad)	29-1030
+OCCO:29104000	optometrist (broad)	29-1040
+OCCO:29105000	pharmacist (broad)	29-1050
+OCCO:29107000	physician assistant (broad)	29-1070
+OCCO:29108000	podiatrist (broad)	29-1080
+OCCO:29112000	therapist	29-1120
+OCCO:29112900	"therapist, all other"	29-1129.00
+OCCO:29113000	veterinarian (broad)	29-1130
+OCCO:29114000	registered nurse	29-1140
+OCCO:29115000	nurse anesthetist (broad)	29-1150
+OCCO:29116000	nurse midwife	29-1160
+OCCO:29117000	nurse practitioner (broad)	29-1170
+OCCO:29118000	audiologist (broad)	29-1180
+OCCO:29121000	physician	29-1210
+OCCO:29121200	cardiologist	29-1212.00
+OCCO:29121400	emergency medicine physician	29-1214.00
+OCCO:29121500	family medicine physician	29-1215.00
+OCCO:29121600	general internal medicine physician	29-1216.00
+OCCO:29122200	"physician, pathologist"	29-1222.00
+OCCO:29122900	"physician, all other"	29-1229.00
+OCCO:29124000	surgeon	29-1240
+OCCO:29124100	"ophthalmologist, except pediatric"	29-1241.00
+OCCO:29124200	"orthopedic surgeon, except pediatric"	29-1242.00
+OCCO:29124300	pediatric surgeon	29-1243.00
+OCCO:29124900	"surgeon, all other"	29-1249.00
+OCCO:29129000	miscellaneous healthcare diagnosing or treating practitioner	29-1290
+OCCO:29129900	"healthcare diagnosing or treating practitioner, all other"	29-1299.00
+OCCO:29200000	health technologist or technician	29-2000
+OCCO:29201000	clinical laboratory technologist or technician	29-2010
+OCCO:29201104	histotechnologist	29-2011.04
+OCCO:29201201	histology technician	29-2012.01
+OCCO:29203000	diagnostic related technologist or technician	29-2030
+OCCO:29203400	radiologic technologist or technician	29-2034.00
+OCCO:29203600	medical dosimetrist	29-2036.00
+OCCO:29204000	emergency medical technician or paramedics	29-2040
+OCCO:29204200	emergency medical technician	29-2042.00
+OCCO:29204300	paramedic	29-2043.00
+OCCO:29205000	health practitioner support technologist or technician	29-2050
+OCCO:29206000	licensed practical or licensed vocational nurses	29-2060
+OCCO:29207000	medical records specialist (broad)	29-2070
+OCCO:29207200	medical records specialist	29-2072.00
+OCCO:29208000	"optician, dispensing (broad)"	29-2080
+OCCO:29209000	miscellaneous health technologist or technician	29-2090
+OCCO:29209900	"health technologist or technician, all other"	29-2099.00
+OCCO:29900000	other healthcare practitioner or technical occupation	29-9000
+OCCO:29902000	health information technologist or medical registrar (broad)	29-9020
+OCCO:29902100	health information technologist or medical registrar	29-9021.00
+OCCO:29909000	miscellaneous health practitioner or technical worker	29-9090
+OCCO:29909900	"healthcare practitioner or technical worker, all other"	29-9099.00
+OCCO:31000000	healthcare support occupation	31-0000
+OCCO:31110000	"home health or personal care aide; or nursing assistant, orderly, or psychiatric aide"	31-1100
+OCCO:31112000	home health or personal care aide	31-1120
+OCCO:31113000	"nursing assistant, orderly, or psychiatric aide"	31-1130
+OCCO:31200000	occupational therapy or physical therapist assistant or aide	31-2000
+OCCO:31201000	occupational therapy assistant or aide	31-2010
+OCCO:31202000	physical therapist assistant or aide	31-2020
+OCCO:31900000	other healthcare support occupation	31-9000
+OCCO:31901000	massage therapist (broad)	31-9010
+OCCO:31909000	miscellaneous healthcare support occupation	31-9090
+OCCO:31909900	"healthcare support worker, all other"	31-9099.00
+OCCO:33000000	protective service occupation	33-0000
+OCCO:33100000	supervisor of protective service worker	33-1000
+OCCO:33101000	first-line supervisor of law enforcement worker	33-1010
+OCCO:33102000	first-line supervisor of firefighting or prevention worker (broad)	33-1020
+OCCO:33102100	first-line supervisor of firefighting or prevention worker	33-1021.00
+OCCO:33109000	"miscellaneous first-line supervisor, protective service worker"	33-1090
+OCCO:33109100	first-line supervisor of security worker	33-1091.00
+OCCO:33109900	"first-line supervisor of protective service worker, all other"	33-1099.00
+OCCO:33200000	firefighting or prevention worker	33-2000
+OCCO:33201000	firefighter (broad)	33-2010
+OCCO:33201100	firefighter	33-2011.00
+OCCO:33202000	fire inspector	33-2020
+OCCO:33202100	fire inspector or investigator	33-2021.00
+OCCO:33300000	law enforcement worker	33-3000
+OCCO:33301000	"bailiff, correctional officer, or jailer"	33-3010
+OCCO:33302000	detective or criminal investigator (broad)	33-3020
+OCCO:33302100	detective or criminal investigator	33-3021.00
+OCCO:33303000	fish or game warden (broad)	33-3030
+OCCO:33304000	parking enforcement worker (broad)	33-3040
+OCCO:33305000	police officer	33-3050
+OCCO:33305100	police or sheriff's patrol officer	33-3051.00
+OCCO:33305104	customs or border protection officer	33-3051.04
+OCCO:33900000	other protective service worker	33-9000
+OCCO:33901000	animal control worker (broad)	33-9010
+OCCO:33902000	private detective or investigator (broad)	33-9020
+OCCO:33903000	security guard or gambling surveillance officer	33-9030
+OCCO:33903100	gambling surveillance officer or gambling investigator	33-9031.00
+OCCO:33909000	miscellaneous protective service worker	33-9090
+OCCO:33909100	crossing guard or flagger	33-9091.00
+OCCO:33909400	school bus monitor	33-9094.00
+OCCO:33909900	"protective service worker, all other"	33-9099.00
+OCCO:35000000	food preparation or serving related occupation holder	35-0000
+OCCO:35100000	supervisor of food preparation or serving worker (minor)	35-1000
+OCCO:35101000	supervisor of food preparation or serving worker	35-1010
+OCCO:35200000	cook or food preparation worker	35-2000
+OCCO:35201000	cook	35-2010
+OCCO:35201900	"cook, all other"	35-2019.00
+OCCO:35202000	food preparation worker (broad)	35-2020
+OCCO:35300000	food or beverage serving worker	35-3000
+OCCO:35301000	bartender (broad)	35-3010
+OCCO:35302000	fast food or counter worker (broad)	35-3020
+OCCO:35302300	fast food or counter worker	35-3023.00
+OCCO:35303000	waiter or waitress (broad)	35-3030
+OCCO:35304000	"food server, nonrestaurant (broad)"	35-3040
+OCCO:35900000	other food preparation or serving related worker	35-9000
+OCCO:35901000	dining room or cafeteria attendant or bartender helper (broad)	35-9010
+OCCO:35902000	dishwasher (broad)	35-9020
+OCCO:35903000	"host or hostess, restaurant, lounge, or coffee shop (broad)"	35-9030
+OCCO:35909000	miscellaneous food preparation or serving related worker	35-9090
+OCCO:35909900	"food preparation or serving related worker, all other"	35-9099.00
+OCCO:37000000	building and grounds cleaning or maintenance occupation holder	37-0000
+OCCO:37100000	supervisor of building or grounds cleaning or maintenance worker	37-1000
+OCCO:37101000	first-line supervisor of building or grounds cleaning or maintenance worker	37-1010
+OCCO:37200000	building cleaning or pest control worker	37-2000
+OCCO:37201000	building cleaning worker	37-2010
+OCCO:37201900	"building cleaning worker, all other"	37-2019.00
+OCCO:37202000	pest control worker (broad)	37-2020
+OCCO:37300000	grounds maintenance worker (minor)	37-3000
+OCCO:37301000	grounds maintenance worker	37-3010
+OCCO:37301900	"grounds maintenance worker, all other"	37-3019.00
+OCCO:39000000	personal care or service occupation	39-0000
+OCCO:39100000	supervisor of personal care or service worker	39-1000
+OCCO:39101000	first-line supervisor of entertainment or recreation worker	39-1010
+OCCO:39101300	first-line supervisor of gambling services worker	39-1013.00
+OCCO:39101400	"first-line supervisor of entertainment or recreation worker, except gambling service"	39-1014.00
+OCCO:39102000	first-line supervisor of personal service worker (broad)	39-1020
+OCCO:39200000	animal care or service worker	39-2000
+OCCO:39201000	animal trainer (broad)	39-2010
+OCCO:39202000	animal caretaker (broad)	39-2020
+OCCO:39202100	animal caretaker	39-2021.00
+OCCO:39300000	entertainment attendant or related worker	39-3000
+OCCO:39301000	gambling services worker	39-3010
+OCCO:39301100	gambling dealer	39-3011.00
+OCCO:39301200	gambling or sports book writer or runner	39-3012.00
+OCCO:39301900	"gambling service worker, all other"	39-3019.00
+OCCO:39302000	motion picture projectionist (broad)	39-3020
+OCCO:39303000	"usher, lobby attendant, or ticket taker (broad)"	39-3030
+OCCO:39309000	miscellaneous entertainment attendant or related worker	39-3090
+OCCO:39309900	"entertainment attendant or related worker, all other"	39-3099.00
+OCCO:39400000	funeral service worker	39-4000
+OCCO:39401000	embalmer or crematory operator	39-4010
+OCCO:39401200	crematory operator	39-4012.00
+OCCO:39402000	funeral attendant (broad)	39-4020
+OCCO:39403000	"mortician, undertaker, or funeral arranger (broad)"	39-4030
+OCCO:39403100	"mortician, undertaker, or funeral arranger"	39-4031.00
+OCCO:39500000	personal appearance worker	39-5000
+OCCO:39501000	"barber, hairdresser, hairstylist or cosmetologist"	39-5010
+OCCO:39509000	miscellaneous personal appearance worker	39-5090
+OCCO:39600000	"baggage porter, bellhop, or concierge (minor)"	39-6000
+OCCO:39601000	"baggage porter, bellhop, or concierge"	39-6010
+OCCO:39700000	tour or travel guide (minor)	39-7000
+OCCO:39701000	tour or travel guides	39-7010
+OCCO:39900000	other personal care or service worker	39-9000
+OCCO:39901000	childcare worker (broad)	39-9010
+OCCO:39903000	recreation or fitness worker	39-9030
+OCCO:39903100	exercise trainer or group fitness instructor	39-9031.00
+OCCO:39904000	residential advisor (broad)	39-9040
+OCCO:39909000	miscellaneous personal care or service worker	39-9090
+OCCO:39909900	"personal care or service worker, all other"	39-9099.00
+OCCO:41000000	sales or related occupation	41-0000
+OCCO:41100000	supervisor of sales worker	41-1000
+OCCO:41101000	first-line supervisor of sales worker	41-1010
+OCCO:41200000	retail sales worker	41-2000
+OCCO:41201000	cashier (broad)	41-2010
+OCCO:41201200	gambling change person or booth cashier	41-2012.00
+OCCO:41202000	counter or rental clerk or parts salesperson	41-2020
+OCCO:41203000	retail salesperson (broad)	41-2030
+OCCO:41300000	sales representative of services	41-3000
+OCCO:41301000	advertising sales agent (broad)	41-3010
+OCCO:41302000	insurance sales agent (broad)	41-3020
+OCCO:41303000	"securities, commodities, or financial services sales agent (broad)"	41-3030
+OCCO:41303100	"securities, commodities, or financial services sales agent"	41-3031.00
+OCCO:41304000	travel agent (broad)	41-3040
+OCCO:41309000	"miscellaneous sales representative, services"	41-3090
+OCCO:41309100	"sales representative of services, except advertising, insurance, financial services, or travel"	41-3091.00
+OCCO:41400000	sales representative in wholesale or manufacturing (minor)	41-4000
+OCCO:41401000	"sales representative, wholesale or manufacturing"	41-4010
+OCCO:41900000	other sales or related worker	41-9000
+OCCO:41901000	"model, demonstrator, or product promoter"	41-9010
+OCCO:41902000	real estate broker or sales agent	41-9020
+OCCO:41903000	sales engineer (broad)	41-9030
+OCCO:41904000	telemarketer (broad)	41-9040
+OCCO:41909000	miscellaneous sales or related worker	41-9090
+OCCO:41909100	"door-to-door sales worker, news or street vendors,"	41-9091.00
+OCCO:41909900	"sales or related worker, all other"	41-9099.00
+OCCO:43000000	office or administrative support occupation	43-0000
+OCCO:43100000	supervisor of office or administrative support worker	43-1000
+OCCO:43101000	first-line supervisor of office or administrative support worker (broad)	43-1010
+OCCO:43200000	communications equipment operator	43-2000
+OCCO:43201000	"switchboard operator, including answering service (broad)"	43-2010
+OCCO:43202000	telephone operator (broad)	43-2020
+OCCO:43209000	miscellaneous communications equipment operator	43-2090
+OCCO:43209900	"communications equipment operator, all other"	43-2099.00
+OCCO:43300000	financial clerk	43-3000
+OCCO:43301000	bill or account collector (broad)	43-3010
+OCCO:43302000	billing or posting clerk (broad)	43-3020
+OCCO:43302100	billing or posting clerk	43-3021.00
+OCCO:43303000	"bookkeeping, accounting, or auditing clerk (broad)"	43-3030
+OCCO:43304000	gambling cage worker (broad)	43-3040
+OCCO:43304100	gambling cage worker	43-3041.00
+OCCO:43305000	payroll or timekeeping clerk (broad)	43-3050
+OCCO:43306000	procurement clerk (broad)	43-3060
+OCCO:43307000	teller (broad)	43-3070
+OCCO:43309000	miscellaneous financial clerk	43-3090
+OCCO:43309900	"financial clerk, all other"	43-3099.00
+OCCO:43400000	information or record clerk	43-4000
+OCCO:43401000	brokerage clerk (broad)	43-4010
+OCCO:43402000	correspondence clerk (broad)	43-4020
+OCCO:43403000	"court, municipal, or license clerk (broad)"	43-4030
+OCCO:43403100	"court, municipal, or license clerk"	43-4031.00
+OCCO:43404000	"credit authorizer, checker, or clerk (broad)"	43-4040
+OCCO:43404100	"credit authorizer, checker, or clerk"	43-4041.00
+OCCO:43405000	customer service representative (broad)	43-4050
+OCCO:43406000	"eligibility interviewer, government programs"	43-4060
+OCCO:43407000	file clerk (broad)	43-4070
+OCCO:43408000	"hotel, motel, or resort desk clerk (broad)"	43-4080
+OCCO:43411000	"interviewer, except eligibility or loan (broad)"	43-4110
+OCCO:43412000	"library assistant, clerical (broad)"	43-4120
+OCCO:43413000	loan interviewer or clerk (broad)	43-4130
+OCCO:43414000	new accounts clerk (broad)	43-4140
+OCCO:43415000	order clerk (broad)	43-4150
+OCCO:43416000	"human resources assistant, except payroll or timekeeping (broad)"	43-4160
+OCCO:43417000	receptionist or information clerk (broad)	43-4170
+OCCO:43418000	reservation or transportation ticket agent or travel clerk (broad)	43-4180
+OCCO:43419000	miscellaneous information or record clerk	43-4190
+OCCO:43419900	"information or record clerk, all other"	43-4199.00
+OCCO:43500000	"material recording, scheduling, dispatching, or distributing worker"	43-5000
+OCCO:43501000	cargo or freight agent (broad)	43-5010
+OCCO:43502000	courier or messenger (broad)	43-5020
+OCCO:43503000	dispatcher	43-5030
+OCCO:43503100	public safety telecommunicator	43-5031.00
+OCCO:43504000	"meter reader, utilities (broad)"	43-5040
+OCCO:43505000	postal service worker	43-5050
+OCCO:43506000	"production, planning, or expediting clerk (broad)"	43-5060
+OCCO:43507000	"shipping, receiving, or inventory clerk (broad)"	43-5070
+OCCO:43507100	"shipping, receiving, or inventory clerk"	43-5071.00
+OCCO:43511000	"weigher, measurer, checker, or sampler, recordkeeping (broad)"	43-5110
+OCCO:43600000	secretary or administrative assistant (minor)	43-6000
+OCCO:43601000	secretary or administrative assistant	43-6010
+OCCO:43601200	legal secretary or administrative assistant	43-6012.00
+OCCO:43601300	medical secretary or administrative assistant	43-6013.00
+OCCO:43900000	other office or administrative support worker	43-9000
+OCCO:43902000	data entry or information processing worker	43-9020
+OCCO:43903000	desktop publisher (broad)	43-9030
+OCCO:43904000	insurance claims or policy processing clerk (broad)	43-9040
+OCCO:43904100	insurance claims or policy processing clerk	43-9041.00
+OCCO:43905000	"mail clerk or mail machine operator, except postal service (broad)"	43-9050
+OCCO:43906000	"office clerk, general (broad)"	43-9060
+OCCO:43907000	"office machine operator, except computer (broad)"	43-9070
+OCCO:43908000	proofreader or copy marker (broad)	43-9080
+OCCO:43911000	statistical assistant (broad)	43-9110
+OCCO:43919000	miscellaneous office or administrative support worker	43-9190
+OCCO:43919900	"office or administrative support worker, all other"	43-9199.00
+OCCO:45000000	"farming, fishing, or forestry occupation holder"	45-0000
+OCCO:45100000	"supervisor of farming, fishing, or forestry worker"	45-1000
+OCCO:45101000	"first-line supervisor of farming, fishing, or forestry worker (broad)"	45-1010
+OCCO:45101100	"first-line supervisor of farming, fishing, or forestry worker"	45-1011.00
+OCCO:45200000	agricultural worker	45-2000
+OCCO:45201000	agricultural inspector (broad)	45-2010
+OCCO:45202000	animal breeder (broad)	45-2020
+OCCO:45204000	"grader or sorter, agricultural products (broad)"	45-2040
+OCCO:45209000	miscellaneous agricultural worker	45-2090
+OCCO:45209200	"farmworker or laborer, crop, nursery, or greenhouse"	45-2092.00
+OCCO:45209900	"agricultural worker, all other"	45-2099.00
+OCCO:45300000	fishing or hunting worker (minor)	45-3000
+OCCO:45303000	fishing or hunting worker (broad)	45-3030
+OCCO:45303100	fishing or hunting worker	45-3031.00
+OCCO:45400000	"forest, conservation, or logging worker"	45-4000
+OCCO:45401000	forest or conservation worker (broad)	45-4010
+OCCO:45402000	logging worker	45-4020
+OCCO:45402900	"logging worker, all other"	45-4029.00
+OCCO:47000000	construction or extraction occupation holder	47-0000
+OCCO:47100000	supervisor of construction or extraction worker	47-1000
+OCCO:47101000	first-line supervisor of construction trades or extraction worker (broad)	47-1010
+OCCO:47200000	construction trades worker	47-2000
+OCCO:47201000	boilermaker (broad)	47-2010
+OCCO:47202000	"brickmason, blockmason, or stonemason"	47-2020
+OCCO:47203000	carpenter (broad)	47-2030
+OCCO:47203100	carpenter	47-2031.00
+OCCO:47204000	"carpet, floor, or tile installer or finisher"	47-2040
+OCCO:47204400	tile or stone setter	47-2044.00
+OCCO:47205000	"cement mason, concrete finisher, or terrazzo worker"	47-2050
+OCCO:47206000	construction laborer (broad)	47-2060
+OCCO:47207000	construction equipment operator	47-2070
+OCCO:47207200	pile driver operator	47-2072.00
+OCCO:47208000	"drywall installer, ceiling tile installer, or taper"	47-2080
+OCCO:47211000	electrician (broad)	47-2110
+OCCO:47212000	glazier (broad)	47-2120
+OCCO:47213000	insulation worker	47-2130
+OCCO:47214000	painter or paperhanger	47-2140
+OCCO:47215000	"pipelayer, plumber, pipefitter, or steamfitter"	47-2150
+OCCO:47216000	plasterer or stucco mason (broad)	47-2160
+OCCO:47217000	reinforcing iron or rebar worker (broad)	47-2170
+OCCO:47218000	roofer (broad)	47-2180
+OCCO:47221000	sheet metal worker (broad)	47-2210
+OCCO:47222000	structural iron or steel worker (broad)	47-2220
+OCCO:47223000	solar photovoltaic installer (broad)	47-2230
+OCCO:47300000	"helper, construction trades (minor)"	47-3000
+OCCO:47301000	"helper, construction trades"	47-3010
+OCCO:47301900	"helper, construction trades, all other"	47-3019.00
+OCCO:47400000	other construction or related worker	47-4000
+OCCO:47401000	construction or building inspector (broad)	47-4010
+OCCO:47402000	elevator or escalator installer or repairer (broad)	47-4020
+OCCO:47402100	elevator or escalator installer or repairer	47-4021.00
+OCCO:47403000	fence erector (broad)	47-4030
+OCCO:47404000	hazardous materials removal worker (broad)	47-4040
+OCCO:47405000	highway maintenance worker (broad)	47-4050
+OCCO:47406000	rail-track laying or maintenance equipment operator (broad)	47-4060
+OCCO:47407000	septic tank servicer or sewer pipe cleaner (broad)	47-4070
+OCCO:47409000	miscellaneous construction or related worker	47-4090
+OCCO:47409900	"construction or related worker, all other"	47-4099.00
+OCCO:47500000	extraction worker	47-5000
+OCCO:47501000	"derrick, rotary drill, or service unit operator, oil or gas"	47-5010
+OCCO:47501300	"service unit operator, oil or ga"	47-5013.00
+OCCO:47502000	surface mining machine operator or earth driller	47-5020
+OCCO:47502200	"excavating or loading machine or dragline operator, surface mining"	47-5022.00
+OCCO:47503000	"explosives worker, ordnance handling expert, or blaster (broad)"	47-5030
+OCCO:47504000	underground mining machine operator	47-5040
+OCCO:47504400	"loading or moving machine operator, underground mining"	47-5044.00
+OCCO:47504900	"underground mining machine operator, all other"	47-5049.00
+OCCO:47505000	"rock splitter, quarry (broad)"	47-5050
+OCCO:47507000	"roustabout, oil or gas"	47-5070
+OCCO:47508000	helper--extraction worker	47-5080
+OCCO:47509000	miscellaneous extraction worker	47-5090
+OCCO:47509900	"extraction worker, all other"	47-5099.00
+OCCO:49000000	"installation, maintenance, or repair occupation"	49-0000
+OCCO:49100000	"supervisor of installation, maintenance, or repair worker"	49-1000
+OCCO:49101000	"first-line supervisor of mechanic, installer, or repairer"	49-1010
+OCCO:49200000	"electrical or electronic equipment mechanic, installer, or repairer"	49-2000
+OCCO:49201000	"computer, automated teller, or office machine repairer (broad)"	49-2010
+OCCO:49202000	radio or telecommunications equipment installer or repairer	49-2020
+OCCO:49209000	"miscellaneous electrical or electronic equipment mechanic, installer, or repairer"	49-2090
+OCCO:49209700	audiovisual equipment installer or repairer	49-2097.00
+OCCO:49300000	"vehicle or mobile equipment mechanic, installer, or repairer"	49-3000
+OCCO:49301000	aircraft mechanic or service technician	49-3010
+OCCO:49302000	automotive technician or repairer	49-3020
+OCCO:49302300	automotive service technician or mechanic	49-3023.00
+OCCO:49303000	bus or truck mechanic or diesel engine specialist (broad)	49-3030
+OCCO:49304000	heavy vehicle or mobile equipment service technician or mechanic	49-3040
+OCCO:49305000	small engine mechanic	49-3050
+OCCO:49309000	"miscellaneous vehicle or mobile equipment mechanic, installer, or repairer"	49-3090
+OCCO:49900000	"other installation, maintenance, or repair occupation"	49-9000
+OCCO:49901000	control or valve installer or repairer	49-9010
+OCCO:49902000	"heating, air conditioning, or refrigeration mechanic or installer"	49-9020
+OCCO:49902100	"heating, air conditioning, or refrigeration mechanics or installer"	49-9021.00
+OCCO:49903000	home appliance repairer (broad)	49-9030
+OCCO:49904000	"industrial machinery installation, repair, or maintenance worker"	49-9040
+OCCO:49905000	line installer or repairer	49-9050
+OCCO:49906000	precision instrument or equipment repairer	49-9060
+OCCO:49906400	watch or clock repairer	49-9064.00
+OCCO:49906900	"precision instrument or equipment repairer, all other"	49-9069.00
+OCCO:49907000	"maintenance or repair worker, general (broad)"	49-9070
+OCCO:49908000	wind turbine service technician (broad)	49-9080
+OCCO:49909000	"miscellaneous installation, maintenance, or repair worker"	49-9090
+OCCO:49909900	"installation, maintenance, or repair worker, all other"	49-9099.00
+OCCO:51000000	production occupation	51-0000
+OCCO:51100000	supervisor of production worker	51-1000
+OCCO:51101000	first-line supervisor of production or operating worker (broad)	51-1010
+OCCO:51200000	assembler or fabricator	51-2000
+OCCO:51201000	"aircraft structure, surfaces, rigging, or systems assembler (broad)"	51-2010
+OCCO:51202000	"electrical, electronics, or electromechanical assembler"	51-2020
+OCCO:51203000	engine or other machine assembler (broad)	51-2030
+OCCO:51204000	structural metal fabricator or fitter (broad)	51-2040
+OCCO:51205000	fiberglass laminator or fabricator (broad)	51-2050
+OCCO:51206000	timing device assembler or adjuster (broad)	51-2060
+OCCO:51209000	miscellaneous assembler or fabricator	51-2090
+OCCO:51209900	"assembler or fabricator, all other"	51-2099.00
+OCCO:51300000	food processing worker	51-3000
+OCCO:51301000	baker (broad)	51-3010
+OCCO:51302000	"butcher or other meat, poultry, or fish processing worker"	51-3020
+OCCO:51309000	miscellaneous food processing worker	51-3090
+OCCO:51309900	"food processing worker, all other"	51-3099.00
+OCCO:51400000	metal worker or plastic worker	51-4000
+OCCO:51402000	"forming machine setter, operator, or tender, metal or plastic"	51-4020
+OCCO:51403000	"machine tool cutting setter, operator, or tender, metal or plastic"	51-4030
+OCCO:51404000	machinist (broad)	51-4040
+OCCO:51405000	"metal furnace operator, tender, pourer, or caster"	51-4050
+OCCO:51406000	"model maker or patternmaker, metal or plastic"	51-4060
+OCCO:51407000	"molder or molding machine setter, operator, or tender, metal or plastic"	51-4070
+OCCO:51408000	"multiple machine tool setter, operator, or tender, metal or plastic (broad)"	51-4080
+OCCO:51411000	tool or die maker (broad)	51-4110
+OCCO:51412000	"welding, soldering, or brazing worker"	51-4120
+OCCO:51412100	"welder, cutter, solderer, or brazer"	51-4121.00
+OCCO:51419000	miscellaneous metal worker or plastic worker	51-4190
+OCCO:51419300	"plating machine setter, operator, or tender, metal or plastic"	51-4193.00
+OCCO:51419900	"metal worker or plastic worker, all other"	51-4199.00
+OCCO:51510000	printing worker (minor)	51-5100
+OCCO:51511000	printing worker	51-5110
+OCCO:51600000	"textile, apparel, or furnishings worker"	51-6000
+OCCO:51601000	laundry or dry-cleaning worker (broad)	51-6010
+OCCO:51602000	"presser, textile, garment, or related materials (broad)"	51-6020
+OCCO:51603000	sewing machine operator (broad)	51-6030
+OCCO:51604000	shoe or leather worker	51-6040
+OCCO:51605000	"tailor, dressmaker, or sewer"	51-6050
+OCCO:51606000	"textile machine setter, operator, or tender"	51-6060
+OCCO:51609000	"miscellaneous textile, apparel, or furnishings worker"	51-6090
+OCCO:51609900	"textile, apparel, or furnishings worker, all other"	51-6099.00
+OCCO:51700000	woodworker	51-7000
+OCCO:51701000	cabinetmaker or bench carpenter (broad)	51-7010
+OCCO:51702000	furniture finisher (broad)	51-7020
+OCCO:51703000	"model maker or patternmaker, wood"	51-7030
+OCCO:51704000	"woodworking machine setter, operator, or tender"	51-7040
+OCCO:51709000	miscellaneous woodworker	51-7090
+OCCO:51709900	"woodworker, all other"	51-7099.00
+OCCO:51800000	plant or system operator	51-8000
+OCCO:51801000	"power plant operator, distributor, or dispatcher"	51-8010
+OCCO:51802000	stationary engineer or boiler operator (broad)	51-8020
+OCCO:51803000	water or wastewater treatment plant or system operator (broad)	51-8030
+OCCO:51809000	miscellaneous plant or system operator	51-8090
+OCCO:51809900	"plant or system operator, all other"	51-8099.00
+OCCO:51900000	other production occupation	51-9000
+OCCO:51901000	"chemical processing machine setter, operator, or tender"	51-9010
+OCCO:51902000	"crushing, grinding, polishing, mixing, or blending worker"	51-9020
+OCCO:51903000	cutting worker	51-9030
+OCCO:51904000	"extruding, forming, pressing, or compacting machine setter, operator, or tender (broad)"	51-9040
+OCCO:51905000	"furnace, Kiln, oven, drier, or Kettle operator or tender (broad)"	51-9050
+OCCO:51906000	"inspector, tester, sorter, sampler, or weigher (broad)"	51-9060
+OCCO:51907000	jeweler or precious stone or metal worker (broad)	51-9070
+OCCO:51907100	jeweler or precious stone or metal worker	51-9071.00
+OCCO:51908000	dental or ophthalmic laboratory technician or medical appliance technician	51-9080
+OCCO:51911000	packaging or filling machine operator or tender (broad)	51-9110
+OCCO:51912000	painting worker	51-9120
+OCCO:51914000	semiconductor processing technician (broad)	51-9140
+OCCO:51914100	semiconductor processing technician	51-9141.00
+OCCO:51915000	photographic process worker or processing machine operator (broad)	51-9150
+OCCO:51916000	computer numerically controlled tool operator or programmer	51-9160
+OCCO:51916100	computer numerically controlled tool operator	51-9161.00
+OCCO:51916200	computer numerically controlled tool programmer	51-9162.00
+OCCO:51919000	miscellaneous production worker	51-9190
+OCCO:51919500	"molder, shaper, or caster, except metal or plastic"	51-9195.00
+OCCO:51919900	"production worker, all other"	51-9199.00
+OCCO:53000000	transportation or material moving occupation	53-0000
+OCCO:53100000	supervisor of transportation or material moving worker	53-1000
+OCCO:53104000	first-line supervisor of transportation or material moving worker	53-1040
+OCCO:53104300	first-line supervisor of material-moving machine or vehicle operator	53-1043.00
+OCCO:53104400	first-line supervisor of passenger attendant	53-1044.00
+OCCO:53104900	"first-line supervisor of transportation worker, all other"	53-1049.00
+OCCO:53200000	air transportation worker	53-2000
+OCCO:53201000	aircraft pilot or flight engineer	53-2010
+OCCO:53202000	air traffic controller or airfield operations specialist	53-2020
+OCCO:53203000	flight attendant (broad)	53-2030
+OCCO:53300000	motor vehicle operator	53-3000
+OCCO:53301000	"ambulance driver or attendant, except emergency medical technician (broad)"	53-3010
+OCCO:53303000	driver/sales worker or truck driver	53-3030
+OCCO:53303300	light truck driver	53-3033.00
+OCCO:53305000	passenger vehicle driver	53-3050
+OCCO:53305100	"bus driver, school"	53-3051.00
+OCCO:53305300	shuttle driver or chauffeur	53-3053.00
+OCCO:53305400	taxi driver	53-3054.00
+OCCO:53309000	miscellaneous motor vehicle operator	53-3090
+OCCO:53309900	"motor vehicle operator, all other"	53-3099.00
+OCCO:53400000	rail transportation worker	53-4000
+OCCO:53401000	locomotive engineer or operator	53-4010
+OCCO:53402000	"railroad brake, signal, or switch operator or locomotive firer (broad)"	53-4020
+OCCO:53402200	"railroad brake, signal, or switch operator or locomotive firer"	53-4022.00
+OCCO:53403000	railroad conductor or yardmaster (broad)	53-4030
+OCCO:53404000	subway or streetcar operator (broad)	53-4040
+OCCO:53409000	miscellaneous rail transportation worker	53-4090
+OCCO:53409900	"rail transportation worker, all other"	53-4099.00
+OCCO:53500000	water transportation worker	53-5000
+OCCO:53501000	sailor or marine oiler (broad)	53-5010
+OCCO:53502000	ship or boat captain or operator	53-5020
+OCCO:53502100	"captain, mate, or pilot of water vessel"	53-5021.00
+OCCO:53503000	ship engineer (broad)	53-5030
+OCCO:53600000	other transportation worker	53-6000
+OCCO:53601000	bridge or lock tender (broad)	53-6010
+OCCO:53602000	parking attendant (broad)	53-6020
+OCCO:53602100	parking attendant	53-6021.00
+OCCO:53603000	transportation service attendant	53-6030
+OCCO:53603200	aircraft service attendant	53-6032.00
+OCCO:53604000	traffic technician (broad)	53-6040
+OCCO:53605000	transportation inspector (broad)	53-6050
+OCCO:53605100	transportation inspector	53-6051.00
+OCCO:53606000	passenger attendant (broad)	53-6060
+OCCO:53606100	passenger attendant	53-6061.00
+OCCO:53609000	miscellaneous transportation worker	53-6090
+OCCO:53609900	"transportation worker, all other"	53-6099.00
+OCCO:53700000	material moving worker	53-7000
+OCCO:53701000	conveyor operator or tender (broad)	53-7010
+OCCO:53702000	crane or tower operator (broad)	53-7020
+OCCO:53703000	dredge operator (broad)	53-7030
+OCCO:53704000	hoist or winch operator (broad)	53-7040
+OCCO:53705000	industrial truck or tractor operator (broad)	53-7050
+OCCO:53706000	laborer or material mover	53-7060
+OCCO:53706500	stocker or order filler	53-7065.00
+OCCO:53707000	pumping station operator	53-7070
+OCCO:53708000	refuse or recyclable material collector (broad)	53-7080
+OCCO:53712000	"tank car, truck, or ship loader (broad)"	53-7120
+OCCO:53719000	miscellaneous material moving worker	53-7190
+OCCO:53719900	"material moving worker, all other"	53-7199.00
+OCCO:55000000	military specific occupation	55-0000
+OCCO:55100000	military officer special or tactical operations leader (minor)	55-1000
+OCCO:55101000	military officer special or tactical operations leader	55-1010
+OCCO:55101100	air crew officer	55-1011.00
+OCCO:55101200	aircraft launch or recovery officer	55-1012.00
+OCCO:55101300	armored assault vehicle officer	55-1013.00
+OCCO:55101400	artillery or missile officer	55-1014.00
+OCCO:55101500	command or control center officer	55-1015.00
+OCCO:55101600	infantry officer	55-1016.00
+OCCO:55101700	special forces officer	55-1017.00
+OCCO:55101900	"military officer special or tactical operations leader, all other"	55-1019.00
+OCCO:55200000	first-line enlisted military supervisor (minor)	55-2000
+OCCO:55201000	first-line enlisted military supervisor	55-2010
+OCCO:55201100	first-line supervisor of air crew member	55-2011.00
+OCCO:55201200	first-line supervisor of weapons specialist/crew member	55-2012.00
+OCCO:55201300	first-line supervisor of all other tactical operations specialist	55-2013.00
+OCCO:55300000	military enlisted tactical operations or air/weapons specialist or crew member (minor)	55-3000
+OCCO:55301000	military enlisted tactical operations or air/weapons specialist or crew member	55-3010
+OCCO:55301100	air crew member	55-3011.00
+OCCO:55301200	aircraft launch or recovery specialist	55-3012.00
+OCCO:55301300	armored assault vehicle crew member	55-3013.00
+OCCO:55301400	artillery or missile crew member	55-3014.00
+OCCO:55301500	command or control center specialist	55-3015.00
+OCCO:55301600	infantry	55-3016.00
+OCCO:55301800	special forces	55-3018.00
+OCCO:55301900	"military enlisted tactical operations or air/weapons specialist or crew member, all other"	55-3019.00

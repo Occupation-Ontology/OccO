@@ -74,6 +74,7 @@ src/ontology/Modules/%.owl: src/ontology/Templates/%.tsv | build/robot.jar
 
 # Update all modules
 MODULE_NAMES := occo_terms\
+ US_SOC_ID\
  ability_types\
  skill_types\
  job_zones_equivalent\

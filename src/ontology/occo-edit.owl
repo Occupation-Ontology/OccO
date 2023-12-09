@@ -23,6 +23,7 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/job_zones.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/job_zones_equivalent.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/occo_terms.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/US_SOC_ID.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/occo_obsolete.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/skill_types.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/top_abilities_annotations.owl"/>
