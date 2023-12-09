@@ -91,6 +91,22 @@ MODULE_FILES := $(foreach x,$(MODULE_NAMES),src/ontology/Modules/$(x).owl)
 .PHONY: modules
 modules: $(MODULE_FILES)
 
+### Views
+# Build Alabama occupation view
+views/occo_alabama.owl: occo.owl src/ontology/views/Alabama.txt | build/robot.jar
+	$(ROBOT) extract \
+	--input $< \
+	--method STAR \
+	--term-file $(word 2,$^) \
+	--individuals definitions \
+	--copy-ontology-annotations true \
+	annotate \
+	--ontology-iri "$(OBO)/occo/occo_alabama.owl" \
+	--version-iri "$(OBO)/occo/$(TODAY)/occo_alabama.owl" \
+	--output $@
+.PHONY: views
+views: views/occo_alabama.owl
+
 
 ### Build
 #
