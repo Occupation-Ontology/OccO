@@ -57,6 +57,12 @@ OccO was initially developed as part of the Role Ontology (RoleO) as seen here i
 - Damion Dooley
 - John Judkins
 
+## News:
+
+- **12/15/2023**: OccO was officially available in OBO Foundry website: https://obofoundry.org/ontology/occo.html.
+- **12/12/2023**: OccO was officially accepted into the OBO ontology library by the OBO Operation Committee. See more: https://github.com/OBOFoundry/OBOFoundry.github.io/issues/2428.
+
+
 ## OccO Publications:
 
 John Beverley, Sam Smith, Matthew A Diller, William D. Duncan, Jie Zheng, John W. Judkins, William R. Hogan, Robin McGill, Damion Dooley, Yongqun He. The Occupation Ontology (OccO): Building a Bridge between Global Occupational Standards. Proceedings of The International Workshop on Ontologies for Social Services (OSS2023), July 17-20, 2023, in Sherbrooke, Quebec, Canada in conjunction with FOIS 2023. Pages 1-12. [Slides](https://github.com/johnbeve/OccO/files/12165828/Occupation.Ontology.pptx)
