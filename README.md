@@ -59,7 +59,8 @@ OccO was initially developed as part of the Role Ontology (RoleO) as seen here i
 
 ## News:
 
-- **12/14/2023**: OccO was officially accepted into the OBO ontology library by the OBO Operation Committee. See more: https://github.com/OBOFoundry/OBOFoundry.github.io/issues/2428.
+- **12/15/2023**: OccO was officially available in OBO Foundry website: https://obofoundry.org/ontology/occo.html.
+- **12/12/2023**: OccO was officially accepted into the OBO ontology library by the OBO Operation Committee. See more: https://github.com/OBOFoundry/OBOFoundry.github.io/issues/2428.
 
 
 ## OccO Publications:
