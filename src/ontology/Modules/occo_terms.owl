@@ -46,6 +46,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/IAO_0000233 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000233"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/OCCO_00000002 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OCCO_00000002">
@@ -127,6 +133,25 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000130 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OCCO_00000130">
+        <obo:IAO_0000115>A relation that holds between a credential granting agency and a quality assurance group when the credential granting agency satisfies accreditation standards set by, and confirmed to have been satisfied by, the quality assurance group.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>accredited by</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/RO_0000087 -->
 
     <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000087"/>
@@ -173,9 +198,21 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/BFO_0000015 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000015"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/BFO_0000016 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000016"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000023 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000023"/>
     
 
 
@@ -185,9 +222,21 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/IAO_0000310 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000310"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCBITaxon_9606 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000245 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0000245"/>
     
 
 
@@ -460,6 +509,249 @@
         <obo:IAO_0000118>holder of socially-sanctioned occupation</obo:IAO_0000118>
         <obo:IAO_0000118>holder of socially-sanctioned occupation acitivity</obo:IAO_0000118>
         <rdfs:label>holder of illicit occupation activity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000118 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000118">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000310"/>
+        <obo:IAO_0000115>A document issued by a third party bearing relevant authority, that is designed to be about an agent&apos;s competence, qualifications, or suitability with respect to specific skills, abilities, knowledge, or character. </obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://storage.googleapis.com/wzukusers/user-12947767/documents/2c18c4f456ce4f6eab176c0983f75791/FOIS_2023_paper_920.pdf</obo:IAO_0000119>
+        <obo:IAO_0000119>https://www.degruyter.com/document/doi/10.1515/jso-2019-0034/html</obo:IAO_0000119>
+        <obo:IAO_0000233>https://github.com/Occupation-Ontology/OccO/issues/31</obo:IAO_0000233>
+        <rdfs:label>credential</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000119 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000119">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000118"/>
+        <obo:IAO_0000115>A crediential that is associated with an occupation.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000119>https://storage.googleapis.com/wzukusers/user-12947767/documents/2c18c4f456ce4f6eab176c0983f75791/FOIS_2023_paper_920.pdf</obo:IAO_0000119>
+        <obo:IAO_0000119>https://www.degruyter.com/document/doi/10.1515/jso-2019-0034/html</obo:IAO_0000119>
+        <rdfs:label>occupation credential</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000120 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000120">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
+        <obo:IAO_0000115>An organization that bears a credential grantor role. </obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>credential granting agency</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000121 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000121">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
+        <obo:IAO_0000115>A disposition borne by an agent in virtue of training such that, if realized, is realized in the successful performance of a skilled task for which that training was pursued.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <obo:IAO_0000233>https://github.com/Occupation-Ontology/OccO/issues/29</obo:IAO_0000233>
+        <rdfs:label>competence</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000122 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000122">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
+        <obo:IAO_0000115>An agent that a credential is about.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>credential holder</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000123 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000123">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000118"/>
+        <obo:IAO_0000115>A credential awarded by a credential granting agency designed to signify participation in or completion of a training program requiring the demonstration of some specified knowledge or skill.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>certificate</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000124 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000124">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000118"/>
+        <obo:IAO_0000115>A credential awarded by a professional organization designed to signify the holder&apos;s competence as measured against a specified professional benchmark.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>certification</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000125 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000125">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000118"/>
+        <obo:IAO_0000115>A credential awarded by an educational institution designed to signify the completion of a course of study established by and under the monitoring of that institution.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>academic degree</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000126 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000126">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000118"/>
+        <obo:IAO_0000115>A credential awarded by a government or government-authorized agency designed to signify legal authority to engage in specified actions without being liable to sanctions or penalties that would otherwise be associated with those actions.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>license</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000127 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000127">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <obo:IAO_0000115>A role borne by an organization that has been accredited by a quality assurance group through a deontic declaration having action regulation output which authorizes the organization to bestow credentials according to quality control standards established or enforced by the accrediting group.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>credential grantor role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000128 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000128">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+        <obo:IAO_0000115>A process in which a credential granting agency confirms that an agent has satisfied the requirements for being awarded a credential, having output a credential that is about the agent.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>credential issuing process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000129 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000129">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
+        <obo:IAO_0000115>An organization established to set standards of activity by other organizations, evaluate the extent to which organizations satisfy or fail to satisfy those standards, and bestow or revoke the permissions afforded to organizations based on such evaluations.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>quality assurance group</rdfs:label>
     </owl:Class>
     
 
