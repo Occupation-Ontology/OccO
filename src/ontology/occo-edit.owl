@@ -20,6 +20,7 @@
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/NCBITaxon_imports.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/OBI_imports.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/OMRSE_imports.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/externalByHand.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/Alabama_subset.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/US_SOC_ID.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/occo/dev/ability_types.owl"/>

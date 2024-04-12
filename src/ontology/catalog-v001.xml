@@ -4,6 +4,7 @@
         <uri name="http://purl.obolibrary.org/obo/occo/IAO_imports.owl" uri="imports/IAO_imports.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/OBI_imports.owl" uri="imports/OBI_imports.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/OMRSE_imports.owl" uri="imports/OMRSE_imports.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/externalByHand.owl" uri="imports/externalByHand.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/ability_types.owl" uri="Modules/ability_types.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/job_zones.owl" uri="Modules/job_zones.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/job_zones_equivalent.owl" uri="Modules/job_zones_equivalent.owl"/>
