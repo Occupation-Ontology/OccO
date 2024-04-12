@@ -198,12 +198,6 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/BFO_0000015 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000015"/>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/BFO_0000016 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000016"/>
@@ -225,6 +219,12 @@
     <!-- http://purl.obolibrary.org/obo/IAO_0000310 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000310"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0021003 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0021003"/>
     
 
 
@@ -517,7 +517,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000118">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000310"/>
-        <obo:IAO_0000115>A document issued by a third party bearing relevant authority, that is designed to be about an agent&apos;s competence, qualifications, or suitability with respect to specific skills, abilities, knowledge, or character. </obo:IAO_0000115>
+        <obo:IAO_0000115>A document issued by a third party bearing relevant authority, that is designed to be about an entity&apos;s competence, qualifications, or suitability with respect to specific dispositions or qualities.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -550,7 +550,7 @@
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://storage.googleapis.com/wzukusers/user-12947767/documents/2c18c4f456ce4f6eab176c0983f75791/FOIS_2023_paper_920.pdf</obo:IAO_0000119>
         <obo:IAO_0000119>https://www.degruyter.com/document/doi/10.1515/jso-2019-0034/html</obo:IAO_0000119>
-        <rdfs:label>occupation credential</rdfs:label>
+        <rdfs:label>occupational credential</rdfs:label>
     </owl:Class>
     
 
@@ -559,7 +559,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000120">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000245"/>
-        <obo:IAO_0000115>An organization that bears a credential grantor role. </obo:IAO_0000115>
+        <obo:IAO_0000115>An organization that bears a credential grantor role.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -600,7 +600,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000122">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
-        <obo:IAO_0000115>An agent that a credential is about.</obo:IAO_0000115>
+        <obo:IAO_0000115>A person who holds an occupational credential.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -611,7 +611,7 @@
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
-        <rdfs:label>credential holder</rdfs:label>
+        <rdfs:label>occupational credential holder</rdfs:label>
     </owl:Class>
     
 
@@ -660,7 +660,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000125">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000118"/>
-        <obo:IAO_0000115>A credential awarded by an educational institution designed to signify the completion of a course of study established by and under the monitoring of that institution.</obo:IAO_0000115>
+        <obo:IAO_0000115>A credential awarded by an educational institution designed to signify the satisfaction of requirements established by and under the monitoring of that institution.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -700,7 +700,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000127">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
-        <obo:IAO_0000115>A role borne by an organization that has been accredited by a quality assurance group through a deontic declaration having action regulation output which authorizes the organization to bestow credentials according to quality control standards established or enforced by the accrediting group.</obo:IAO_0000115>
+        <obo:IAO_0000115>A role borne by an organization that has been accredited by a quality assurance group through a deontic declaration having action regulation output, which authorizes the organization to bestow credentials according to quality control standards established or enforced by the accrediting group.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -719,8 +719,8 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000128 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000128">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
-        <obo:IAO_0000115>A process in which a credential granting agency confirms that an agent has satisfied the requirements for being awarded a credential, having output a credential that is about the agent.</obo:IAO_0000115>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0021003"/>
+        <obo:IAO_0000115>A social act  in which a credential granting agency confirms that an agent has satisfied the requirements for being awarded a credential, having as output a credential that is about the agent.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
