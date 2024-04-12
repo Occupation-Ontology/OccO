@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
         <uri name="http://purl.obolibrary.org/obo/occo/NCBITaxon_imports.owl" uri="imports/NCBITaxon_imports.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/IAO_imports.owl" uri="imports/IAO_imports.owl"/>
+        <uri name="http://purl.obolibrary.org/obo/occo/OBI_imports.owl" uri="imports/OBI_imports.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/OMRSE_imports.owl" uri="imports/OMRSE_imports.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/ability_types.owl" uri="Modules/ability_types.owl"/>
         <uri name="http://purl.obolibrary.org/obo/occo/dev/job_zones.owl" uri="Modules/job_zones.owl"/>
