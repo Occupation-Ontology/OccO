@@ -67,7 +67,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000020">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Understanding the implications of new information for both current and future problem-solving and decision-making.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in understanding the implications of new information for both current and future problem-solving and decision-making.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
@@ -81,7 +81,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000021">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
@@ -95,7 +95,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000022">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
@@ -109,7 +109,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000023">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Adjusting actions in relation to others&apos; actions.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in adjusting actions in relation to others&apos; actions.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -123,7 +123,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000024">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
@@ -137,7 +137,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000025">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in performing routine maintenance on equipment and determining when and what kind of maintenance is needed.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -151,7 +151,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000026">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Determining the kind of tools and equipment needed to do a job.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in determining the kind of tools and equipment needed to do a job.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -165,7 +165,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000027">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Installing equipment, machines, wiring, or programs to meet specifications.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in installing equipment, machines, wiring, or programs to meet specifications.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -179,7 +179,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000028">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Teaching others how to do something.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in teaching others how to do something.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
@@ -193,7 +193,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000029">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Considering the relative costs and benefits of potential actions to choose the most appropriate one.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in considering the relative costs and benefits of potential actions to choose the most appropriate one.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -207,7 +207,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000030">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
@@ -221,7 +221,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000031">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Determining how money will be spent to get the work done, and accounting for these expenditures.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in determining how money will be spent to get the work done, and accounting for these expenditures.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -235,7 +235,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000032">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -249,7 +249,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000033">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Motivating, developing, and directing people as they work, identifying the best people for the job.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in motivating, developing, and directing people as they work, identifying the best people for the job.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -263,7 +263,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000034">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Using mathematics to solve problems.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in using mathematics to solve problems.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
@@ -277,7 +277,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000035">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
@@ -291,7 +291,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000036">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Bringing others together and trying to reconcile differences.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in bringing others together and trying to reconcile differences.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
@@ -305,7 +305,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000037">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Controlling operations of equipment or systems.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in controlling operations of equipment or systems.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -319,7 +319,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000038">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Watching gauges, dials, or other indicators to make sure a machine is working properly.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in matching gauges, dials, or other indicators to make sure a machine is working properly.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -333,7 +333,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000039">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Analyzing needs and product requirements to create a design.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in analyzing needs and product requirements to create a design.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -347,7 +347,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000040">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Persuading others to change their minds or behavior.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in persuading others to change their minds or behavior.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -361,7 +361,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000041">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Writing computer programs for various purposes.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in writing computer programs for various purposes.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -375,7 +375,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000042">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Conducting tests and inspections of products, services, or processes to evaluate quality or performance.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in conducting tests and inspections of products, services, or processes to evaluate quality or performance.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -389,7 +389,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000043">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Understanding written sentences and paragraphs in work related documents.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in understanding written sentences and paragraphs in work related documents.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
@@ -403,7 +403,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000044">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Repairing machines or systems using the needed tools.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in repairing machines or systems using the needed tools.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -417,7 +417,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000045">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Using scientific rules and methods to solve problems.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in using scientific rules and methods to solve problems.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
@@ -431,7 +431,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000046">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Actively looking for ways to help people.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in actively looking for ways to help people.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/skills/soft/</obo:IAO_0000119>
@@ -445,7 +445,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000047">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Being aware of others&apos; reactions and understanding why they react as they do.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in being aware of others&apos; reactions and understanding why they react as they do.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -459,7 +459,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000048">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Talking to others to convey information effectively.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in talking to others to convey information effectively.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
@@ -473,7 +473,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000049">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -487,7 +487,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000050">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -501,7 +501,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000051">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Generating or adapting equipment and technology to serve user needs.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in generating or adapting equipment and technology to serve user needs.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -515,7 +515,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000052">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Managing one&apos;s own time and the time of others.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in managing one&apos;s own time and the time of others.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -529,7 +529,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000053">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Determining causes of operating errors and deciding what to do about it.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in determining causes of operating errors and deciding what to do about it.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.B/2.B.2/2.B.5/2.B.1/2.B.4/2.B.3</obo:IAO_0000119>
@@ -543,7 +543,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000054">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000003"/>
-        <obo:IAO_0000115>Communicating effectively in writing as appropriate for the needs of the audience.</obo:IAO_0000115>
+        <obo:IAO_0000115>A skill realized in communicating effectively in writing as appropriate for the needs of the audience.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://www.onetonline.org/find/descriptor/browse/2.A/2.A.1/2.A.2</obo:IAO_0000119>
@@ -554,5 +554,5 @@
 
 
 
-<!-- Generated by the OWL API (version 4.5.25) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.26) https://github.com/owlcs/owlapi -->
 
