@@ -105,6 +105,17 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/OMRSE_00000087 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000087">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00002072"/>
+        <obo:IAO_0000115 xml:lang="en">a role in human social processes that is realized when the bearer provides a wage or salary in exchange for some labour or services as specified by some declaration</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/omrse.owl"/>
+        <rdfs:label xml:lang="en">employer role</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/OMRSE_00000284 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000284">
@@ -154,6 +165,7 @@
         <obo:IAO_0000115 xml:lang="en">A role that inheres in some entity that is realized in a social act.</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">Matthew Diller</obo:IAO_0000117>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/omrse.owl"/>
+        <obo:IAO_0000412>http://purl.obolibrary.org/obo/omrse/releases/2023-10-08/omrse.owl</obo:IAO_0000412>
         <dc:contributor xml:lang="en">Mathias Brochhausen</dc:contributor>
         <rdfs:comment xml:lang="en">Previous definition: A role played by an entity in human social processes.</rdfs:comment>
         <rdfs:label xml:lang="en">role in human social processes</rdfs:label>
