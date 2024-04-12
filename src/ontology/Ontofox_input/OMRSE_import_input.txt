@@ -10,7 +10,7 @@ http://purl.obolibrary.org/obo/OMRSE_00000285 #occupation activity
 http://purl.obolibrary.org/obo/OMRSE_00000077 #job role
 http://purl.obolibrary.org/obo/OMRSE_00002072 #role in human social processes
 http://purl.obolibrary.org/obo/OMRSE_00000048 #material entity role
-
+http://purl.obolibrary.org/obo/OMRSE_00000087 #employer role
 
 [Top level source term URIs and target direct superclass URIs]
 http://purl.obolibrary.org/obo/OMRSE_00000284 #occupation disposition
@@ -23,6 +23,8 @@ http://purl.obolibrary.org/obo/OMRSE_00002072 #role in human social processes
 subClassOf http://purl.obolibrary.org/obo/OMRSE_00000048 #material entity role
 http://purl.obolibrary.org/obo/OMRSE_00000048 #material entity role
 subClassOf http://purl.obolibrary.org/obo/BFO_0000023
+http://purl.obolibrary.org/obo/OMRSE_00000087 #employer role
+subClassOf http://purl.obolibrary.org/obo/OMRSE_00002072 #role in human social processes
 
 [Source term retrieval setting]
 includeNoIntermediates
