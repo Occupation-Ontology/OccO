@@ -519,7 +519,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000118">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IAO_0000310"/>
-        <obo:IAO_0000115>A document issued by a third party recognized as bearing the relevant authority to do so, that is designed to be about an entity�s competence, qualifications, or authority.</obo:IAO_0000115>
+        <obo:IAO_0000115>A document issued by a third party recognized as bearing the relevant authority to do so, that is designed to be about an entity&apos;s competence, qualifications, or authority.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -542,7 +542,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000119">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000118"/>
-        <obo:IAO_0000115>A credential that is designed to be about an organism&apos;s2 competence or qualifications with respect to an occupation.</obo:IAO_0000115>
+        <obo:IAO_0000115>A credential that is designed to be about an organism&apos;s competence or qualifications with respect to an occupation.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
         <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
@@ -642,7 +642,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000124">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000118"/>
-        <obo:IAO_0000115>A credential awarded by a professional organization designed to signify the holder�s competence as measured against a specified professional benchmark.</obo:IAO_0000115>
+        <obo:IAO_0000115>A credential awarded by a professional organization designed to signify the holder&apos;s competence as measured against a specified professional benchmark.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -662,7 +662,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000125">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000118"/>
-        <obo:IAO_0000115>A credential awarded by an educational institution designed to signify the satisfaction of requirements established by and under the monitoring of that institution.4</obo:IAO_0000115>
+        <obo:IAO_0000115>A credential awarded by an educational institution designed to signify the satisfaction of requirements established by and under the monitoring of that institution.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
