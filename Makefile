@@ -102,7 +102,7 @@ views/occo_alabama.owl: occo.owl src/ontology/views/Alabama.txt | build/robot.ja
 	--copy-ontology-annotations true \
 	annotate \
 	--ontology-iri "$(OBO)/occo/occo_alabama.owl" \
-	--version-iri "$(OBO)/occo/$(TODAY)/occo_alabama.owl" \
+	--version-iri "$(OBO)/occo/releases/$(TODAY)/occo_alabama.owl" \
 	--output $@
 .PHONY: views
 views: views/occo_alabama.owl
@@ -119,7 +119,7 @@ build/occo-merged.owl: src/ontology/occo-edit.owl | build/robot.jar build
 	--input $< \
 	annotate \
 	--ontology-iri "$(OBO)/occo/occo-merged.owl" \
-	--version-iri "$(OBO)/occo/$(TODAY)/occo-merged.owl" \
+	--version-iri "$(OBO)/occo/releases/$(TODAY)/occo-merged.owl" \
 	--annotation owl:versionInfo "$(TODAY)" \
 	--output build/occo-merged.tmp.owl
 	sed '/<owl:imports/d' build/occo-merged.tmp.owl > $@
@@ -131,7 +131,7 @@ occo.owl: build/occo-merged.owl
 	--reasoner HermiT \
 	annotate \
 	--ontology-iri "$(OBO)/occo.owl" \
-	--version-iri "$(OBO)/occo/$(TODAY)/occo.owl" \
+	--version-iri "$(OBO)/occo/releases/$(TODAY)/occo.owl" \
 	--annotation owl:versionInfo "$(TODAY)" \
 	--output $@
 
