@@ -230,6 +230,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MF_0000041 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/MF_0000041"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCBITaxon_9606 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
@@ -274,12 +280,19 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000003 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000003">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
-        <obo:IAO_0000115>A learned capability to perform an action with determined results with good execution often within a given amount of time, energy, or both.</obo:IAO_0000115>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill that must be realized to successfully perform some occupation activity or fulfill some occupation role.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://en.wikipedia.org/wiki/Skill</obo:IAO_0000119>
-        <rdfs:label>skill</rdfs:label>
+        <rdfs:label>occupational skill</rdfs:label>
     </owl:Class>
     
 
@@ -287,12 +300,19 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000004 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000004">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
-        <obo:IAO_0000115>A capability that an agent has to power the performance of various actions.</obo:IAO_0000115>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000135"/>
+        <obo:IAO_0000115>Ability that must be realized to successfully perform some occupation activity or perform some occupation role.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://en.wikipedia.org/wiki/Ability</obo:IAO_0000119>
-        <rdfs:label>ability</rdfs:label>
+        <rdfs:label>occupational ability</rdfs:label>
     </owl:Class>
     
 
@@ -313,11 +333,20 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000011">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
-        <obo:IAO_0000115>A disposition that can be evaluated on the basis of how well they are realized. They differ from functions in that their realizations are not the rationale – not the primary reason – for the existence of their bearers.</obo:IAO_0000115>
+        <obo:IAO_0000115>Disposition in whose realization some organism or group of organisms has or had an interest.</obo:IAO_0000115>
         <obo:IAO_0000117>Barry Smith</obo:IAO_0000117>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
         <obo:IAO_0000117>David Limbaugh</obo:IAO_0000117>
         <obo:IAO_0000117>Eric Merrell</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Peter Koch</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <obo:IAO_0000119>https://philpapers.org/rec/MERC-14</obo:IAO_0000119>
         <rdfs:label>capability</rdfs:label>
     </owl:Class>
@@ -580,10 +609,11 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000121 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000121">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
-        <obo:IAO_0000115>A disposition borne by an organism in virtue of training such that, if realized, is realized in the successful performance of a skilled task for which that training was pursued.</obo:IAO_0000115>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
+        <obo:IAO_0000115>Capability  for employing some set of dispositions to succeed in some domain, such as in an occupation.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Bill Hogan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
         <obo:IAO_0000117>Giacomo De Colle</obo:IAO_0000117>
         <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
@@ -754,6 +784,158 @@
         <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <rdfs:label>quality assurance group</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000131 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000131">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
+        <obo:IAO_0000115>Capability that must be realized to successfully perform some occupation activity or fulfill some occupation role.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>occupational capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000132 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000132">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
+        <obo:IAO_0000115>Capability that is the result of some specialized experience or training.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000133 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000133">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
+        <obo:IAO_0000115>Capability that is either innate or arises over the course of an organism�s healthy biological development.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>natural capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000134 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000134">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000133"/>
+        <obo:IAO_0000115>Natural capability that must be realized to successfully perform some occupation activity or fulfill some occupation role.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>natural occupational capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000135 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000135">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
+        <obo:IAO_0000115>Capability that persists for a prolonged period of time and influences performance.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>ability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000136 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000136">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <obo:IAO_0000115>Belief  where the believed proposition is true and the believer has a strong epistemic basis for believing it.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>knowledge</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000137 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000137">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000136"/>
+        <obo:IAO_0000115>Knowledge the possession of which is necessary for the successful performance of some occupation activity or to fulfill some occupation role.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>occupational knowledge</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000138 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000138">
+        <rdfs:subClassOf rdf:resource="https://www.commoncoreontologies.org/ont00000636"/>
+        <obo:IAO_0000115>Act of Appraisal  which evaluates the presence of some competence in an individual.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>competence assessment</rdfs:label>
     </owl:Class>
     
 
@@ -22538,6 +22720,12 @@
     <!-- http://purl.obolibrary.org/obo/OMRSE_00000285 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000285"/>
+    
+
+
+    <!-- https://www.commoncoreontologies.org/ont00000636 -->
+
+    <owl:Class rdf:about="https://www.commoncoreontologies.org/ont00000636"/>
 </rdf:RDF>
 
 
