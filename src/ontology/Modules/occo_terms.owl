@@ -830,7 +830,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000133">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
-        <obo:IAO_0000115>Capability that is either innate or arises over the course of an organism�s healthy biological development.</obo:IAO_0000115>
+        <obo:IAO_0000115>Capability that is either innate or arises over the course of an organism&apos;s healthy biological development.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -944,7 +944,9 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000139">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000139"/>
         <obo:IAO_0000115>Capability  for employing some set of dispositions to succeed in some domain, such as in an occupation.</obo:IAO_0000115>
+        <obo:IAO_0000115>Competence for employing dispositions to succeed in an occupation.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -955,6 +957,26 @@
         <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
         <rdfs:label>competence</rdfs:label>
+        <rdfs:label>occupational competence</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000140 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000140">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000135"/>
+        <obo:IAO_0000115>Ability that must be realized to successfully perform some occupation activity or fulfill some occupation role.</obo:IAO_0000115>
+        <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
+        <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
+        <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
+        <obo:IAO_0000117>Jie Zheng</obo:IAO_0000117>
+        <obo:IAO_0000117>John Beverley</obo:IAO_0000117>
+        <obo:IAO_0000117>Matthew Diller</obo:IAO_0000117>
+        <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000117>Robin McGill</obo:IAO_0000117>
+        <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
+        <rdfs:label>occupational ability</rdfs:label>
     </owl:Class>
     
 
