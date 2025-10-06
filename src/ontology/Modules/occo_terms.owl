@@ -301,7 +301,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000004">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000135"/>
-        <obo:IAO_0000115>Ability that must be realized to successfully perform some occupation activity or perform some occupation role.</obo:IAO_0000115>
+        <obo:IAO_0000115>Ability that must be realized to successfully perform some occupation activity or fulfill some occupation role.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
@@ -830,7 +830,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000133">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000011"/>
-        <obo:IAO_0000115>Capability that is either innate or arises over the course of an organism�s healthy biological development.</obo:IAO_0000115>
+        <obo:IAO_0000115>Capability that is either innate or arises over the course of an organism&apos;s healthy biological development.</obo:IAO_0000115>
         <obo:IAO_0000117>Bill Duncan</obo:IAO_0000117>
         <obo:IAO_0000117>Clarissa Savluchinske Feio Vieira</obo:IAO_0000117>
         <obo:IAO_0000117>Finn Wilson</obo:IAO_0000117>
