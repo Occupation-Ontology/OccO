@@ -79,6 +79,8 @@ OccO was initially developed as part of the Role Ontology (RoleO) as seen here i
 
 ## OccO Publications:
 
+Finn Wilson, Matthew A. Diller, Robin McGill, Sam Smith, Jie Zheng, Clarissa Savluchinske Feio Vieira, William D. Duncan, John Beverley, Yongqun He. Modeling of Skills, Abilities, Competences, and Related Dispositions in the Occupation Ontology. Proceedings of the Joint Ontology Workshops (JOWO), Catania, Italy, September 8-12, 2025. URL: https://ceur-ws.org/Vol-4176/oss-4.pdf. 
+
 John Beverley, Robin McGill, Sam Smith, Jie Zheng, Giacomo De Colle, Finn Wilson, Matthew A. Diller, William D. Duncan, William R. Hogan, and Yongqun He. Credentials in the Occupation Ontology. Biological and Biomedical Ontology 2024 (ICBO 2024). Enschede, The Netherlands, July 18 - July 19, 2024. URL: https://ceur-ws.org/Vol-3939/paper4.pdf
 
 John Beverley, Sam Smith, Matthew A Diller, William D. Duncan, Jie Zheng, John W. Judkins, William R. Hogan, Robin McGill, Damion Dooley, Yongqun He. The Occupation Ontology (OccO): Building a Bridge between Global Occupational Standards. Proceedings of The International Workshop on Ontologies for Social Services (OSS2023), July 17-20, 2023, in Sherbrooke, Quebec, Canada in conjunction with FOIS 2023. Pages 1-12. [Proceeding paper](https://storage.googleapis.com/wzukusers/user-12947767/documents/2c18c4f456ce4f6eab176c0983f75791/FOIS_2023_paper_920.pdf). [Slides](https://github.com/johnbeve/OccO/files/12165828/Occupation.Ontology.pptx). 
