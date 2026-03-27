@@ -91,6 +91,8 @@ Sam Smith, Damion Dooley, Yongqun He. Foundational Development of an Occupation 
 ## References:
 
 - Standard Occupational Classification (SOC) System: https://www.bls.gov/soc/ 
-- O\*Net Resource Center:  https://www.onetcenter.org 
+- O\*Net Resource Center:  https://www.onetcenter.org
+- Alabama Talent Triad: https://www.alabamatalenttriad.com/
+- University of Michigan Health and Retirement Study (HRS): https://hrs.isr.umich.edu/
 
 
