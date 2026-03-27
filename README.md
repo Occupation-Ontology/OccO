@@ -55,7 +55,7 @@ OccO was initially developed as part of the Role Ontology (RoleO) as seen here i
 - William Duncan
 - Jie Zheng
 - Robin McGill
-- Clarissa 
+- Clarissa Vieira
 
 ## Contributors:
 - Eric Merrell
