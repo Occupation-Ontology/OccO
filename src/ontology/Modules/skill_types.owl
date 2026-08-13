@@ -283,7 +283,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000035 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000035">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000154"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000146"/>
         <obo:IAO_0000115>A skill realized in monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -325,7 +325,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000038 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000038">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000154"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000035"/>
         <obo:IAO_0000115>A skill realized in matching gauges, dials, or other indicators to make sure a machine is working properly.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -570,6 +570,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000140">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill realized in processes of external engagement.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:40:59Z</terms:created>
         <rdfs:label xml:lang="en">interactive skill</rdfs:label>
@@ -581,6 +582,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000141">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill realized in processes of self-regulation or control.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:41:44Z</terms:created>
         <rdfs:label xml:lang="en">self-oriented skill</rdfs:label>
@@ -592,6 +594,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000142">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill which is broadly applicable to many different occupations.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:43:06Z</terms:created>
         <rdfs:label xml:lang="en">soft skill</rdfs:label>
@@ -603,6 +606,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000143">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill which is not broadly applicable and which standardly requires specialized training.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:43:13Z</terms:created>
         <rdfs:label xml:lang="en">technical skill</rdfs:label>
@@ -614,6 +618,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000144">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000140"/>
+        <obo:IAO_0000115>Interactive skill realized in processes of social interaction with agents.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:43:32Z</terms:created>
         <rdfs:label xml:lang="en">interpersonal skill</rdfs:label>
@@ -625,6 +630,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000145">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000140"/>
+        <obo:IAO_0000115>Interactive skill realized in processes of interaction with some non-agentic object.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:43:41Z</terms:created>
         <rdfs:label xml:lang="en">object-oriented skill</rdfs:label>
@@ -636,6 +642,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000146">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000140"/>
+        <obo:IAO_0000115>Interactive skill realized in processes of learning, such as by direct experience or instruction.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:44:00Z</terms:created>
         <rdfs:label xml:lang="en">information-accrual skill</rdfs:label>
@@ -647,6 +654,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000147">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000140"/>
+        <obo:IAO_0000115>Interactive skill realized in processes of linguistic production or interpretation.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:58:39Z</terms:created>
         <rdfs:label xml:lang="en">language skill</rdfs:label>
@@ -658,6 +666,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000148">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000141"/>
+        <obo:IAO_0000115>Self-oriented skill realized in processes of bodily motion.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:00:19Z</terms:created>
         <rdfs:label xml:lang="en">motor skill</rdfs:label>
@@ -669,6 +678,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000149">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000141"/>
+        <obo:IAO_0000115>Self-oriented skill realized in processes of cognition.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:00:32Z</terms:created>
         <rdfs:label xml:lang="en">mental skill</rdfs:label>
@@ -680,6 +690,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000150">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000147"/>
+        <obo:IAO_0000115>Language skill realized in processes of comprehending information conveyed by language.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:02:47Z</terms:created>
         <rdfs:label xml:lang="en">language interpretation skill</rdfs:label>
@@ -691,6 +702,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000151">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000147"/>
+        <obo:IAO_0000115>Language skill realized in processes of linguistic expression.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:02:54Z</terms:created>
         <rdfs:label xml:lang="en">language production skill</rdfs:label>
@@ -702,6 +714,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000152">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000144"/>
+        <obo:IAO_0000115>Interpersonal skill realized in processes of communication.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:03:05Z</terms:created>
         <rdfs:label xml:lang="en">interpersonal communication skill</rdfs:label>
@@ -713,6 +726,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000153">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill realized in processes of intentional control or regulation toward a desired state or outcome.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:16:28Z</terms:created>
         <rdfs:label xml:lang="en">management skill</rdfs:label>
@@ -724,9 +738,10 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000154">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000146"/>
+        <obo:IAO_0000115>Information-accrual skill realized in processes of evaluating or analyzing gathered data.</obo:IAO_0000115>
         <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:34:51Z</terms:created>
-        <rdfs:label xml:lang="en">analysis skill</rdfs:label>
+        <rdfs:label xml:lang="en">information-processing skill</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
