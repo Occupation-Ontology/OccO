@@ -6,7 +6,8 @@
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:terms="http://purl.org/dc/terms/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/occo/dev/skill_types.owl"/>
     
 
@@ -46,6 +47,18 @@
     
 
 
+    <!-- http://purl.org/dc/terms/contributor -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/created -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/created"/>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -60,7 +73,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000020 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000020">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000146"/>
         <obo:IAO_0000115>A skill realized in understanding the implications of new information for both current and future problem-solving and decision-making.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -74,7 +87,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000021 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000021">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000146"/>
         <obo:IAO_0000115>A skill realized in giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -88,7 +101,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000022 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000022">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000149"/>
         <obo:IAO_0000115>A skill realized in identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -102,7 +115,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000023 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000023">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000144"/>
         <obo:IAO_0000115>A skill realized in adjusting actions in relation to others&apos; actions.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -116,7 +129,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000024 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000024">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000149"/>
         <obo:IAO_0000115>A skill realized in using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -130,7 +143,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000025 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000025">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000145"/>
         <obo:IAO_0000115>A skill realized in performing routine maintenance on equipment and determining when and what kind of maintenance is needed.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -144,7 +157,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000026 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000026">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000029"/>
         <obo:IAO_0000115>A skill realized in determining the kind of tools and equipment needed to do a job.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -158,7 +171,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000027 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000027">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000145"/>
         <obo:IAO_0000115>A skill realized in installing equipment, machines, wiring, or programs to meet specifications.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -172,7 +185,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000028 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000028">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000152"/>
         <obo:IAO_0000115>A skill realized in teaching others how to do something.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -186,7 +199,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000029 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000029">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000149"/>
         <obo:IAO_0000115>A skill realized in considering the relative costs and benefits of potential actions to choose the most appropriate one.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -200,7 +213,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000030 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000030">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000146"/>
         <obo:IAO_0000115>A skill realized in selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -214,7 +227,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000031 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000031">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000145"/>
         <obo:IAO_0000115>A skill realized in determining how money will be spent to get the work done, and accounting for these expenditures.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -228,7 +241,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000032 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000032">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000145"/>
         <obo:IAO_0000115>A skill realized in obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -242,7 +255,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000033 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000033">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000144"/>
         <obo:IAO_0000115>A skill realized in motivating, developing, and directing people as they work, identifying the best people for the job.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -256,7 +269,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000034 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000034">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000149"/>
         <obo:IAO_0000115>A skill realized in using mathematics to solve problems.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -270,7 +283,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000035 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000035">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000146"/>
         <obo:IAO_0000115>A skill realized in monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -284,7 +297,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000036 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000036">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000152"/>
         <obo:IAO_0000115>A skill realized in bringing others together and trying to reconcile differences.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -298,7 +311,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000037 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000037">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000145"/>
         <obo:IAO_0000115>A skill realized in controlling operations of equipment or systems.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -312,7 +325,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000038 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000038">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000035"/>
         <obo:IAO_0000115>A skill realized in matching gauges, dials, or other indicators to make sure a machine is working properly.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -326,7 +339,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000039 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000039">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000154"/>
         <obo:IAO_0000115>A skill realized in analyzing needs and product requirements to create a design.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -340,7 +353,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000040 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000040">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000152"/>
         <obo:IAO_0000115>A skill realized in persuading others to change their minds or behavior.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -354,7 +367,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000041 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000041">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000054"/>
         <obo:IAO_0000115>A skill realized in writing computer programs for various purposes.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -368,7 +381,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000042 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000042">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000154"/>
         <obo:IAO_0000115>A skill realized in conducting tests and inspections of products, services, or processes to evaluate quality or performance.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -382,7 +395,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000043 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000043">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000150"/>
         <obo:IAO_0000115>A skill realized in understanding written sentences and paragraphs in work related documents.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -396,7 +409,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000044 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000044">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000145"/>
         <obo:IAO_0000115>A skill realized in repairing machines or systems using the needed tools.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -410,7 +423,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000045 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000045">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000146"/>
         <obo:IAO_0000115>A skill realized in using scientific rules and methods to solve problems.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -424,7 +437,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000046 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000046">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000144"/>
         <obo:IAO_0000115>A skill realized in actively looking for ways to help people.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -438,7 +451,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000047 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000047">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000144"/>
         <obo:IAO_0000115>A skill realized in being aware of others&apos; reactions and understanding why they react as they do.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -452,7 +465,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000048 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000048">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000151"/>
         <obo:IAO_0000115>A skill realized in talking to others to convey information effectively.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -466,7 +479,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000049 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000049">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000154"/>
         <obo:IAO_0000115>A skill realized in determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -480,7 +493,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000050 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000050">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000154"/>
         <obo:IAO_0000115>A skill realized in identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -494,7 +507,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000051 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000051">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000149"/>
         <obo:IAO_0000115>A skill realized in generating or adapting equipment and technology to serve user needs.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -508,7 +521,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000052 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000052">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000153"/>
         <obo:IAO_0000115>A skill realized in managing one&apos;s own time and the time of others.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -522,7 +535,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000053 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000053">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000149"/>
         <obo:IAO_0000115>A skill realized in determining causes of operating errors and deciding what to do about it.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -536,7 +549,7 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000054 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000054">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000151"/>
         <obo:IAO_0000115>A skill realized in communicating effectively in writing as appropriate for the needs of the audience.</obo:IAO_0000115>
         <obo:IAO_0000117>Oliver He</obo:IAO_0000117>
         <obo:IAO_0000117>Sam Smith</obo:IAO_0000117>
@@ -550,9 +563,189 @@
     <!-- http://purl.obolibrary.org/obo/OCCO_00000132 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000140 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000140">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill realized in processes of external engagement.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:40:59Z</terms:created>
+        <rdfs:label xml:lang="en">interactive skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000141 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000141">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill realized in processes of self-regulation or control.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:41:44Z</terms:created>
+        <rdfs:label xml:lang="en">self-oriented skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000142 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000142">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill which is broadly applicable to many different occupations.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:43:06Z</terms:created>
+        <rdfs:label xml:lang="en">soft skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000143 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000143">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill which is not broadly applicable and which standardly requires specialized training.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:43:13Z</terms:created>
+        <rdfs:label xml:lang="en">technical skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000144 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000144">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000140"/>
+        <obo:IAO_0000115>Interactive skill realized in processes of social interaction with agents.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:43:32Z</terms:created>
+        <rdfs:label xml:lang="en">interpersonal skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000145 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000145">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000140"/>
+        <obo:IAO_0000115>Interactive skill realized in processes of interaction with some non-agentic object.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:43:41Z</terms:created>
+        <rdfs:label xml:lang="en">object-oriented skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000146 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000146">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000140"/>
+        <obo:IAO_0000115>Interactive skill realized in processes of learning, such as by direct experience or instruction.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:44:00Z</terms:created>
+        <rdfs:label xml:lang="en">information-accrual skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000147 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000147">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000140"/>
+        <obo:IAO_0000115>Interactive skill realized in processes of linguistic production or interpretation.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T20:58:39Z</terms:created>
+        <rdfs:label xml:lang="en">language skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000148 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000148">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000141"/>
+        <obo:IAO_0000115>Self-oriented skill realized in processes of bodily motion.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:00:19Z</terms:created>
+        <rdfs:label xml:lang="en">motor skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000149 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000149">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000141"/>
+        <obo:IAO_0000115>Self-oriented skill realized in processes of cognition.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:00:32Z</terms:created>
+        <rdfs:label xml:lang="en">mental skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000150 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000150">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000147"/>
+        <obo:IAO_0000115>Language skill realized in processes of comprehending information conveyed by language.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:02:47Z</terms:created>
+        <rdfs:label xml:lang="en">language interpretation skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000151 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000151">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000147"/>
+        <obo:IAO_0000115>Language skill realized in processes of linguistic expression.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:02:54Z</terms:created>
+        <rdfs:label xml:lang="en">language production skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000152 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000152">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000144"/>
+        <obo:IAO_0000115>Interpersonal skill realized in processes of communication.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:03:05Z</terms:created>
+        <rdfs:label xml:lang="en">interpersonal communication skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000153 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000153">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000132"/>
+        <obo:IAO_0000115>Skill realized in processes of intentional control or regulation toward a desired state or outcome.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:16:28Z</terms:created>
+        <rdfs:label xml:lang="en">management skill</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCCO_00000154 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OCCO_00000154">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OCCO_00000146"/>
+        <obo:IAO_0000115>Information-accrual skill realized in processes of evaluating or analyzing gathered data.</obo:IAO_0000115>
+        <terms:contributor rdf:resource="https://orcid.org/0009-0002-7282-0836"/>
+        <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-08-02T21:34:51Z</terms:created>
+        <rdfs:label xml:lang="en">information-processing skill</rdfs:label>
+    </owl:Class>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 4.5.26) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.26.2023-07-17T20:34:13Z) https://github.com/owlcs/owlapi -->
 
